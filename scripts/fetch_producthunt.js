@@ -49,7 +49,7 @@ async function fetchPosts() {
   if (!res.ok) throw new Error(`HTTP ${res.status}: ${await res.text()}`);
   const json = await res.json();
   
-  // Debug response
+  // Log response for debugging but don't include in saved data
   console.error('API Response:', JSON.stringify(json, null, 2));
   
   if (!json.data) {
@@ -114,20 +114,42 @@ function updateSummary() {
   const allData = [];
   for (const file of files) {
     try {
-      const content = fs.readFileSync(path.join(outputDir, file), 'utf-8');
+      const filePath = path.join(outputDir, file);
+      const content = fs.readFileSync(filePath, 'utf-8');
+      
+      // Check if the file contains valid JSON before parsing
+      if (!content.trim().startsWith('{')) {
+        console.error(`File ${file} does not contain valid JSON. Content starts with: ${content.substring(0, 20)}`);
+        continue;
+      }
+      
       const data = JSON.parse(content);
+      
+      // Validate the data structure
+      if (!data.posts || !Array.isArray(data.posts)) {
+        console.error(`File ${file} has invalid data structure`);
+        continue;
+      }
+      
       allData.push({
         timestamp: data.fetchedAt,
         postCount: data.posts.length,
-        totalVotes: data.posts.reduce((sum, post) => sum + post.votesCount, 0),
+        totalVotes: data.posts.reduce((sum, post) => sum + (post.votesCount || 0), 0),
         topPosts: data.posts.slice(0, 5).map(p => ({
-          name: p.name,
-          votes: p.votesCount,
-          url: p.url
+          name: p.name || 'Unknown',
+          votes: p.votesCount || 0,
+          url: p.url || '#'
         }))
       });
     } catch (err) {
       console.error(`Error processing file ${file}:`, err);
+      // Try to read the file content for debugging
+      try {
+        const rawContent = fs.readFileSync(path.join(outputDir, file), 'utf-8');
+        console.error(`First 100 chars of file ${file}:`, rawContent.substring(0, 100));
+      } catch (readErr) {
+        console.error(`Cannot read file ${file} for debugging:`, readErr);
+      }
     }
   }
   
