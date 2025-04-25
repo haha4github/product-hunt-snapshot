@@ -17,7 +17,7 @@ async function fetchPosts() {
     body: JSON.stringify({
       query: `
       {
-        posts(order: RANK, first: 20, after: null) {
+        posts(order: RANK, first: 20) {
           edges {
             node {
               id
@@ -34,8 +34,20 @@ async function fetchPosts() {
     })
   });
 
-  if (!res.ok) throw new Error(`HTTP ${res.status}`);
+  if (!res.ok) throw new Error(`HTTP ${res.status}: ${await res.text()}`);
   const json = await res.json();
+  
+  // 调试响应
+  console.error('API Response:', JSON.stringify(json, null, 2));
+  
+  if (!json.data) {
+    throw new Error(`API返回了无效数据: ${JSON.stringify(json)}`);
+  }
+  
+  if (!json.data.posts) {
+    throw new Error(`API返回了无效的posts数据: ${JSON.stringify(json.data)}`);
+  }
+  
   return json.data.posts.edges.map(e => e.node);
 }
 
@@ -47,7 +59,7 @@ async function fetchPosts() {
       posts
     }, null, 2));
   } catch (err) {
-    console.error(err);
+    console.error('错误详情:', err);
     process.exit(1);
   }
 })();
