@@ -1,5 +1,7 @@
 // scripts/fetch_producthunt.js
 const fetch = require('node-fetch');
+const fs = require('fs');
+const path = require('path');
 
 const TOKEN = process.env.PH_TOKEN;
 if (!TOKEN) {
