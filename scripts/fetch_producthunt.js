@@ -46,6 +46,22 @@ async function fetchPosts(page = 1) {
       fetchedAt: new Date().toISOString(),
       posts
     }, null, 2));
+    const files = fs.readdirSync('./output')
+      .filter(f => f.endsWith('.json'))
+      .sort()
+      .reverse();
+    
+    const links = files.map(f => `<li><a href="./${f}">${f}</a></li>`).join('\n');
+    const html = `
+    <!DOCTYPE html>
+    <html lang="en">
+    <head><meta charset="UTF-8"><title>Product Hunt Snapshots</title></head>
+    <body>
+      <h1>Hourly Product Hunt Snapshots</h1>
+      <ul>${links}</ul>
+    </body>
+    </html>`;
+    fs.writeFileSync(path.join('output', 'index.html'), html);
   } catch (err) {
     console.error(err);
     process.exit(1);
