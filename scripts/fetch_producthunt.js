@@ -17,7 +17,7 @@ async function fetchPosts() {
     body: JSON.stringify({
       query: `
       {
-        posts(order: RANK, first: 20) {
+        posts(first: 20) {
           edges {
             node {
               id
