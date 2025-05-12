@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2025-05-12T08:52:26.433Z",
+  "fetchedAt": "2025-05-12T09:19:46.676Z",
   "posts": [
     {
       "id": "962508",
       "name": "FirstQuadrant",
       "tagline": "Maximize B2B sales with human-centered AI",
       "url": "https://www.producthunt.com/posts/firstquadrant?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 155,
-      "commentsCount": 21,
+      "votesCount": 170,
+      "commentsCount": 29,
       "createdAt": "2025-05-12T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/1c37e03c-a13c-4959-b0ff-1d5266c0c20c.png?auto=format"
@@ -37,8 +37,8 @@
       "name": "Test Management by Testsigma",
       "tagline": "Cursor for testers. Agentic testing for product and QA teams",
       "url": "https://www.producthunt.com/posts/test-management-by-testsigma?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 112,
-      "commentsCount": 23,
+      "votesCount": 130,
+      "commentsCount": 25,
       "createdAt": "2025-05-12T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/e5cf7318-cfa7-4f82-9eed-c096a9837769.png?auto=format"
@@ -64,11 +64,42 @@
       }
     },
     {
+      "id": "945815",
+      "name": "Migma AI",
+      "tagline": "Create on-brand emails in seconds",
+      "url": "https://www.producthunt.com/posts/migma-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 122,
+      "commentsCount": 18,
+      "createdAt": "2025-05-12T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/245c9267-953b-4676-b5ba-129e509e8391.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Newsletters"
+            }
+          },
+          {
+            "node": {
+              "name": "Email Marketing"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "962001",
       "name": "Bugster",
       "tagline": "Software testing agent ",
       "url": "https://www.producthunt.com/posts/bugster?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 110,
+      "votesCount": 113,
       "commentsCount": 13,
       "createdAt": "2025-05-12T07:01:00Z",
       "thumbnail": {
@@ -95,26 +126,57 @@
       }
     },
     {
-      "id": "945815",
-      "name": "Migma AI",
-      "tagline": "Create on-brand emails in seconds",
-      "url": "https://www.producthunt.com/posts/migma-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 99,
-      "commentsCount": 17,
+      "id": "706396",
+      "name": "Gleo AI",
+      "tagline": "Your AI coach for confident communication",
+      "url": "https://www.producthunt.com/posts/gleo-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 100,
+      "commentsCount": 15,
       "createdAt": "2025-05-12T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/245c9267-953b-4676-b5ba-129e509e8391.png?auto=format"
+        "url": "https://ph-files.imgix.net/e127bf9e-be5d-4b3d-8b07-c7dcb69fea48.png?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "Newsletters"
+              "name": "Android"
             }
           },
           {
             "node": {
-              "name": "Email Marketing"
+              "name": "Education"
+            }
+          },
+          {
+            "node": {
+              "name": "Online Learning"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "962320",
+      "name": "GoBuildMy.App",
+      "tagline": "Build native mobile apps by chatting.",
+      "url": "https://www.producthunt.com/posts/gobuildmy-app?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 99,
+      "commentsCount": 8,
+      "createdAt": "2025-05-12T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/1c13c9c8-6e82-4de0-a660-4e045191670f.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "SaaS"
+            }
+          },
+          {
+            "node": {
+              "name": "Developer Tools"
             }
           },
           {
@@ -130,7 +192,7 @@
       "name": "VoltAgent",
       "tagline": "Build TS AI agents with n8n-style observability",
       "url": "https://www.producthunt.com/posts/voltagent?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 94,
+      "votesCount": 99,
       "commentsCount": 13,
       "createdAt": "2025-05-12T07:01:00Z",
       "thumbnail": {
@@ -162,125 +224,11 @@
       }
     },
     {
-      "id": "962320",
-      "name": "GoBuildMy.App",
-      "tagline": "Build native mobile apps by chatting.",
-      "url": "https://www.producthunt.com/posts/gobuildmy-app?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 92,
-      "commentsCount": 8,
-      "createdAt": "2025-05-12T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/1c13c9c8-6e82-4de0-a660-4e045191670f.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "SaaS"
-            }
-          },
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "706396",
-      "name": "Gleo AI",
-      "tagline": "Your AI coach for confident communication",
-      "url": "https://www.producthunt.com/posts/gleo-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 92,
-      "commentsCount": 14,
-      "createdAt": "2025-05-12T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/e127bf9e-be5d-4b3d-8b07-c7dcb69fea48.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Android"
-            }
-          },
-          {
-            "node": {
-              "name": "Education"
-            }
-          },
-          {
-            "node": {
-              "name": "Online Learning"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "964197",
-      "name": "Art Design Pro",
-      "tagline": "Beautiful & ux-focused admin dashboard",
-      "url": "https://www.producthunt.com/posts/art-design-pro?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 80,
-      "commentsCount": 1,
-      "createdAt": "2025-05-12T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/5a5a50d6-2f6d-4638-8e5c-bd66bc393b6a.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "GitHub"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "962332",
-      "name": "BuildShip Tools",
-      "tagline": "Vibe-code MCP-ready tools for any AI Agent",
-      "url": "https://www.producthunt.com/posts/buildship-tools?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 80,
-      "commentsCount": 4,
-      "createdAt": "2025-05-12T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/994ff801-b7ce-4a36-ad3d-2b8133d06820.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "920701",
       "name": "Matter AI",
       "tagline": "AI Code reviewer to fix bugs, security & performance issues",
       "url": "https://www.producthunt.com/posts/matter-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 79,
+      "votesCount": 89,
       "commentsCount": 3,
       "createdAt": "2025-05-12T07:01:00Z",
       "thumbnail": {
@@ -312,43 +260,12 @@
       }
     },
     {
-      "id": "963429",
-      "name": "Mini stopwatch",
-      "tagline": "A mini stopwatch for your menu bar",
-      "url": "https://www.producthunt.com/posts/mini-stopwatch?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 79,
-      "commentsCount": 3,
-      "createdAt": "2025-05-12T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/0d98fe5c-08bf-4bd1-b455-2179d84d05a8.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Time Tracking"
-            }
-          },
-          {
-            "node": {
-              "name": "Menu Bar Apps"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "962507",
       "name": "Granola for iOS",
       "tagline": "The AI notepad for people in back-to-back meetings",
       "url": "https://www.producthunt.com/posts/granola-for-ios?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 79,
-      "commentsCount": 1,
+      "votesCount": 89,
+      "commentsCount": 4,
       "createdAt": "2025-05-12T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/7187cc45-63c3-4172-a39a-f2afce6e82c0.png?auto=format"
@@ -374,11 +291,42 @@
       }
     },
     {
+      "id": "962332",
+      "name": "BuildShip Tools",
+      "tagline": "Vibe-code MCP-ready tools for any AI Agent",
+      "url": "https://www.producthunt.com/posts/buildship-tools?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 87,
+      "commentsCount": 5,
+      "createdAt": "2025-05-12T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/994ff801-b7ce-4a36-ad3d-2b8133d06820.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "963221",
       "name": "CheatGPT",
       "tagline": "Your all-in-one AI cheat code for exams, studying & more",
       "url": "https://www.producthunt.com/posts/cheatgpt-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 78,
+      "votesCount": 84,
       "commentsCount": 4,
       "createdAt": "2025-05-12T07:01:00Z",
       "thumbnail": {
@@ -405,11 +353,63 @@
       }
     },
     {
+      "id": "963429",
+      "name": "Mini stopwatch",
+      "tagline": "A mini stopwatch for your menu bar",
+      "url": "https://www.producthunt.com/posts/mini-stopwatch?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 83,
+      "commentsCount": 3,
+      "createdAt": "2025-05-12T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/0d98fe5c-08bf-4bd1-b455-2179d84d05a8.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Time Tracking"
+            }
+          },
+          {
+            "node": {
+              "name": "Menu Bar Apps"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "964197",
+      "name": "Art Design Pro",
+      "tagline": "Beautiful & ux-focused admin dashboard",
+      "url": "https://www.producthunt.com/posts/art-design-pro?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 82,
+      "commentsCount": 1,
+      "createdAt": "2025-05-12T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/5a5a50d6-2f6d-4638-8e5c-bd66bc393b6a.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "GitHub"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "964039",
       "name": "Mapondo",
       "tagline": "AI-powered audio guides made for modern travelers",
       "url": "https://www.producthunt.com/posts/mapondo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 76,
+      "votesCount": 79,
       "commentsCount": 6,
       "createdAt": "2025-05-12T07:01:00Z",
       "thumbnail": {
@@ -426,69 +426,12 @@
       }
     },
     {
-      "id": "964193",
-      "name": "Gesture Go",
-      "tagline": " Turn gestures into shortcuts",
-      "url": "https://www.producthunt.com/posts/gesture-go?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 72,
-      "commentsCount": 1,
-      "createdAt": "2025-05-12T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/92710c07-9a2f-43ad-9fcd-0ea271e54afe.webp?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Android"
-            }
-          },
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "964007",
-      "name": "ResumeMaker.Online  6.0",
-      "tagline": "The Easiest Way to Build the Perfect Resume",
-      "url": "https://www.producthunt.com/posts/resumemaker-online-6-0?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 71,
-      "commentsCount": 5,
-      "createdAt": "2025-05-12T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/9ad701b6-c3f0-4e57-8368-aa2997239e1d.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Hiring"
-            }
-          },
-          {
-            "node": {
-              "name": "Design Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Career"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "963276",
       "name": "Substage",
       "tagline": "A natural language command bar for your Mac's Finder window",
       "url": "https://www.producthunt.com/posts/substage?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 71,
-      "commentsCount": 5,
+      "votesCount": 76,
+      "commentsCount": 6,
       "createdAt": "2025-05-12T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/1e309524-b8b5-422b-8e33-9fa8b9e2f1b2.png?auto=format"
@@ -514,11 +457,68 @@
       }
     },
     {
+      "id": "964007",
+      "name": "ResumeMaker.Online  6.0",
+      "tagline": "The Easiest Way to Build the Perfect Resume",
+      "url": "https://www.producthunt.com/posts/resumemaker-online-6-0?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 74,
+      "commentsCount": 6,
+      "createdAt": "2025-05-12T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/9ad701b6-c3f0-4e57-8368-aa2997239e1d.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Hiring"
+            }
+          },
+          {
+            "node": {
+              "name": "Design Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Career"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "964193",
+      "name": "Gesture Go",
+      "tagline": " Turn gestures into shortcuts",
+      "url": "https://www.producthunt.com/posts/gesture-go?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 73,
+      "commentsCount": 1,
+      "createdAt": "2025-05-12T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/92710c07-9a2f-43ad-9fcd-0ea271e54afe.webp?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Android"
+            }
+          },
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "959044",
       "name": "Sked",
       "tagline": "Schedule meetings inside Slack. Fast.",
       "url": "https://www.producthunt.com/posts/sked?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 61,
+      "votesCount": 73,
       "commentsCount": 2,
       "createdAt": "2025-05-12T07:01:00Z",
       "thumbnail": {
@@ -547,10 +547,10 @@
     {
       "id": "960443",
       "name": "Making Today",
-      "tagline": "Organize anything, Work Easier.",
+      "tagline": "Stay Organized and Get more done!",
       "url": "https://www.producthunt.com/posts/making-today-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 50,
-      "commentsCount": 15,
+      "votesCount": 53,
+      "commentsCount": 16,
       "createdAt": "2025-05-12T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/5c94dfe8-bebf-44bf-999d-d8acc65839ed.png?auto=format"
@@ -580,7 +580,7 @@
       "name": "Interviewiz",
       "tagline": "Tailored AI mock interviews with video avatars",
       "url": "https://www.producthunt.com/posts/interviewiz?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 24,
+      "votesCount": 33,
       "commentsCount": 1,
       "createdAt": "2025-05-12T07:01:00Z",
       "thumbnail": {
