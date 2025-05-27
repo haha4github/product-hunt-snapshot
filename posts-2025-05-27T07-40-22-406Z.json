@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2025-05-27T07:24:18.220Z",
+  "fetchedAt": "2025-05-27T07:40:22.406Z",
   "posts": [
     {
       "id": "967943",
       "name": "Skywork Super Agents",
       "tagline": "Your AI suite to turn simple input into multimodal content",
       "url": "https://www.producthunt.com/posts/skywork-super-agents?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 94,
-      "commentsCount": 5,
+      "votesCount": 106,
+      "commentsCount": 7,
       "createdAt": "2025-05-27T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/2a514992-2acd-41ad-8b05-45903de9daa8.png?auto=format"
@@ -37,8 +37,8 @@
       "name": "Zero",
       "tagline": "AI Native Email Client",
       "url": "https://www.producthunt.com/posts/zero-8?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 74,
-      "commentsCount": 3,
+      "votesCount": 102,
+      "commentsCount": 9,
       "createdAt": "2025-05-27T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/f98e699e-a293-43cf-83fb-96eb65f675e5.png?auto=format"
@@ -69,26 +69,31 @@
       }
     },
     {
-      "id": "969804",
-      "name": "SchedX",
-      "tagline": "Turn your website into a live, talking agent",
-      "url": "https://www.producthunt.com/posts/schedx?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 68,
-      "commentsCount": 1,
+      "id": "970439",
+      "name": "Airweave",
+      "tagline": "Let Agents Search Any App",
+      "url": "https://www.producthunt.com/posts/airweave?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 75,
+      "commentsCount": 6,
       "createdAt": "2025-05-27T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/cc00d66a-74bf-46f0-9b77-7500d8f3e618.png?auto=format"
+        "url": "https://ph-files.imgix.net/44092572-276a-4fc1-8f6f-dd9aa9f11855.png?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "Sales"
+              "name": "Open Source"
             }
           },
           {
             "node": {
-              "name": "Calendar"
+              "name": "Developer Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
             }
           }
         ]
@@ -99,8 +104,8 @@
       "name": "Paste 5",
       "tagline": "The First Collaborative Clipboard Manager",
       "url": "https://www.producthunt.com/posts/paste-5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 67,
-      "commentsCount": 3,
+      "votesCount": 74,
+      "commentsCount": 4,
       "createdAt": "2025-05-27T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/cadbfb0e-5fff-4b65-9f3f-b69dc8824e22.png?auto=format"
@@ -120,6 +125,161 @@
           {
             "node": {
               "name": "Productivity"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "970246",
+      "name": "Kawaak",
+      "tagline": "Turn your expertise into viral LinkedIn posts",
+      "url": "https://www.producthunt.com/posts/kawaak?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 71,
+      "commentsCount": 5,
+      "createdAt": "2025-05-27T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/a641b667-68fa-427e-8125-a8c017b82ad1.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Marketing"
+            }
+          },
+          {
+            "node": {
+              "name": "LinkedIn"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "970363",
+      "name": "Kamili",
+      "tagline": "Level up your website with friendly, AI-powered guidance",
+      "url": "https://www.producthunt.com/posts/kamili-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 70,
+      "commentsCount": 4,
+      "createdAt": "2025-05-27T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/b4b189fe-af2b-4652-8789-f2fcb45bd43e.jpeg?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Design Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "User Experience"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "966050",
+      "name": "graph8",
+      "tagline": "graph8 spins up an AI GTM stack + CDP in 3 min (zero revops)",
+      "url": "https://www.producthunt.com/posts/graph8?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 67,
+      "commentsCount": 6,
+      "createdAt": "2025-05-27T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/7daba041-ec2d-40f3-ae06-f0dc25f946a7.jpeg?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Sales"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "Marketing automation"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "970345",
+      "name": "Dialog",
+      "tagline": "AI voice agents that can talk to your users",
+      "url": "https://www.producthunt.com/posts/dialog-5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 66,
+      "commentsCount": 3,
+      "createdAt": "2025-05-27T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/a505ed0e-9b7f-4f92-bfff-8c10c1cde29c.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "User Experience"
+            }
+          },
+          {
+            "node": {
+              "name": "Customer Communication"
+            }
+          },
+          {
+            "node": {
+              "name": "Marketing"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "969307",
+      "name": "Jotform AI Agents for Shopify",
+      "tagline": "AI chatbot for Shopify for higher sales via fast support",
+      "url": "https://www.producthunt.com/posts/jotform-ai-agents-for-shopify?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 66,
+      "commentsCount": 4,
+      "createdAt": "2025-05-27T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/fa003d7e-9b0f-424b-97d4-38796e48684b.gif?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "E-Commerce"
+            }
+          },
+          {
+            "node": {
+              "name": "Marketing automation"
             }
           }
         ]
@@ -157,52 +317,21 @@
       }
     },
     {
-      "id": "970363",
-      "name": "Kamili",
-      "tagline": "Level up your website with friendly, AI-powered guidance",
-      "url": "https://www.producthunt.com/posts/kamili-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 65,
-      "commentsCount": 3,
+      "id": "970163",
+      "name": "Piny",
+      "tagline": "Visual editor for Astro, React, Next.js & Tailwind",
+      "url": "https://www.producthunt.com/posts/piny?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 64,
+      "commentsCount": 2,
       "createdAt": "2025-05-27T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/b4b189fe-af2b-4652-8789-f2fcb45bd43e.jpeg?auto=format"
+        "url": "https://ph-files.imgix.net/5fe895a0-382c-4cff-a64e-4bbf606ccbd5.png?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
               "name": "Design Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "User Experience"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "970439",
-      "name": "Airweave",
-      "tagline": "Let agents search any App",
-      "url": "https://www.producthunt.com/posts/airweave?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 65,
-      "commentsCount": 6,
-      "createdAt": "2025-05-27T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/44092572-276a-4fc1-8f6f-dd9aa9f11855.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Open Source"
             }
           },
           {
@@ -219,62 +348,31 @@
       }
     },
     {
-      "id": "970246",
-      "name": "Kawaak",
-      "tagline": "Turn your expertise into viral LinkedIn posts",
-      "url": "https://www.producthunt.com/posts/kawaak?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 63,
-      "commentsCount": 3,
+      "id": "970380",
+      "name": "TL;DR",
+      "tagline": "Your best livestream moments shared automatically with AI",
+      "url": "https://www.producthunt.com/posts/tl-dr-1946?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 64,
+      "commentsCount": 2,
       "createdAt": "2025-05-27T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/a641b667-68fa-427e-8125-a8c017b82ad1.png?auto=format"
+        "url": "https://ph-files.imgix.net/ed0d8255-a481-40aa-a4cb-1186c809abbb.png?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "Productivity"
+              "name": "Video Streaming"
             }
           },
           {
             "node": {
-              "name": "Marketing"
+              "name": "Social Media"
             }
           },
           {
             "node": {
-              "name": "LinkedIn"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "970345",
-      "name": "Dialog",
-      "tagline": "AI voice agents that can talk to your users",
-      "url": "https://www.producthunt.com/posts/dialog-5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 61,
-      "commentsCount": 3,
-      "createdAt": "2025-05-27T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/a505ed0e-9b7f-4f92-bfff-8c10c1cde29c.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "User Experience"
-            }
-          },
-          {
-            "node": {
-              "name": "Customer Communication"
-            }
-          },
-          {
-            "node": {
-              "name": "Marketing"
+              "name": "Video"
             }
           }
         ]
@@ -285,7 +383,7 @@
       "name": "Cloudglue",
       "tagline": "Turn videos into structured data, ready for LLMs",
       "url": "https://www.producthunt.com/posts/cloudglue?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 61,
+      "votesCount": 63,
       "commentsCount": 3,
       "createdAt": "2025-05-27T07:01:00Z",
       "thumbnail": {
@@ -306,6 +404,68 @@
           {
             "node": {
               "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "969978",
+      "name": "Detectly",
+      "tagline": "Sniff out AI slop",
+      "url": "https://www.producthunt.com/posts/detectly?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 63,
+      "commentsCount": 2,
+      "createdAt": "2025-05-27T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/d5074075-20b1-463f-a840-6dce327eeb4e.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "User Experience"
+            }
+          },
+          {
+            "node": {
+              "name": "Social Media"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "963397",
+      "name": "Sociable AI",
+      "tagline": "Generate top comments on viral posts",
+      "url": "https://www.producthunt.com/posts/sociable-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 61,
+      "commentsCount": 2,
+      "createdAt": "2025-05-27T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/a9a69698-9d25-4b3d-b1c6-3280363dc7be.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Social Media"
+            }
+          },
+          {
+            "node": {
+              "name": "Marketing"
+            }
+          },
+          {
+            "node": {
+              "name": "SaaS"
             }
           }
         ]
@@ -348,229 +508,12 @@
       }
     },
     {
-      "id": "970380",
-      "name": "TL;DR",
-      "tagline": "Your best livestream moments shared automatically with AI",
-      "url": "https://www.producthunt.com/posts/tl-dr-1946?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 60,
-      "commentsCount": 2,
-      "createdAt": "2025-05-27T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/ed0d8255-a481-40aa-a4cb-1186c809abbb.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Video Streaming"
-            }
-          },
-          {
-            "node": {
-              "name": "Social Media"
-            }
-          },
-          {
-            "node": {
-              "name": "Video"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "970163",
-      "name": "Piny",
-      "tagline": "Visual editor for Astro, React, Next.js & Tailwind",
-      "url": "https://www.producthunt.com/posts/piny?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 59,
-      "commentsCount": 1,
-      "createdAt": "2025-05-27T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/5fe895a0-382c-4cff-a64e-4bbf606ccbd5.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Design Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "963397",
-      "name": "Sociable AI",
-      "tagline": "Generate top comments on viral posts",
-      "url": "https://www.producthunt.com/posts/sociable-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 59,
-      "commentsCount": 2,
-      "createdAt": "2025-05-27T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/a9a69698-9d25-4b3d-b1c6-3280363dc7be.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Social Media"
-            }
-          },
-          {
-            "node": {
-              "name": "Marketing"
-            }
-          },
-          {
-            "node": {
-              "name": "SaaS"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "969307",
-      "name": "Jotform AI Agents for Shopify",
-      "tagline": "AI chatbot for Shopify for higher sales via fast support",
-      "url": "https://www.producthunt.com/posts/jotform-ai-agents-for-shopify?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 59,
-      "commentsCount": 2,
-      "createdAt": "2025-05-27T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/fa003d7e-9b0f-424b-97d4-38796e48684b.gif?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          },
-          {
-            "node": {
-              "name": "E-Commerce"
-            }
-          },
-          {
-            "node": {
-              "name": "Marketing automation"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "966050",
-      "name": "graph8",
-      "tagline": "graph8 spins up an AI GTM stack + CDP in 3 min (zero revops)",
-      "url": "https://www.producthunt.com/posts/graph8?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 58,
-      "commentsCount": 4,
-      "createdAt": "2025-05-27T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/7daba041-ec2d-40f3-ae06-f0dc25f946a7.jpeg?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Sales"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          },
-          {
-            "node": {
-              "name": "Marketing automation"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "969978",
-      "name": "Detectly",
-      "tagline": "Sniff out AI slop",
-      "url": "https://www.producthunt.com/posts/detectly?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 58,
-      "commentsCount": 2,
-      "createdAt": "2025-05-27T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/d5074075-20b1-463f-a840-6dce327eeb4e.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "User Experience"
-            }
-          },
-          {
-            "node": {
-              "name": "Social Media"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "969810",
-      "name": "Virtuans AI",
-      "tagline": "AI agents that capture & engage every lead 24/7",
-      "url": "https://www.producthunt.com/posts/virtuans-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 57,
-      "commentsCount": 2,
-      "createdAt": "2025-05-27T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/f417d788-d890-41ce-94e1-c83ce3878722.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Sales"
-            }
-          },
-          {
-            "node": {
-              "name": "Marketing"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "970160",
       "name": "E2B",
       "tagline": "Open-source runtime for AI agents needing full OS access",
       "url": "https://www.producthunt.com/posts/e2b?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 55,
-      "commentsCount": 1,
+      "votesCount": 60,
+      "commentsCount": 2,
       "createdAt": "2025-05-27T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/9819db6d-8a89-4490-936b-afc8155114ce.png?auto=format"
@@ -596,11 +539,42 @@
       }
     },
     {
+      "id": "969873",
+      "name": "Muse",
+      "tagline": "Clear thinking now in Dark mode, calm your mind & your eyes",
+      "url": "https://www.producthunt.com/posts/muse-12?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 60,
+      "commentsCount": 3,
+      "createdAt": "2025-05-27T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/b4dfbbb3-3c01-4908-8d78-d9080ff1e83f.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Writing"
+            }
+          },
+          {
+            "node": {
+              "name": "Notes"
+            }
+          },
+          {
+            "node": {
+              "name": "Wireframing"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "969632",
       "name": "Synikaa",
       "tagline": "AI with a face. That listens. Reacts. Cares. Grows.",
       "url": "https://www.producthunt.com/posts/synikaa?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 56,
+      "votesCount": 59,
       "commentsCount": 2,
       "createdAt": "2025-05-27T07:01:00Z",
       "thumbnail": {
@@ -621,6 +595,37 @@
           {
             "node": {
               "name": "Animation"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "969810",
+      "name": "Virtuans AI",
+      "tagline": "AI agents that capture & engage every lead 24/7",
+      "url": "https://www.producthunt.com/posts/virtuans-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 59,
+      "commentsCount": 2,
+      "createdAt": "2025-05-27T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/f417d788-d890-41ce-94e1-c83ce3878722.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Sales"
+            }
+          },
+          {
+            "node": {
+              "name": "Marketing"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
             }
           }
         ]
