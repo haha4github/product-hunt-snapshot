@@ -1,12 +1,12 @@
 {
-  "fetchedAt": "2025-05-31T17:23:36.143Z",
+  "fetchedAt": "2025-05-31T17:39:06.870Z",
   "posts": [
     {
       "id": "959718",
       "name": "Pretty Prompt",
       "tagline": "Grammarly for prompting",
       "url": "https://www.producthunt.com/posts/pretty-prompt?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 295,
+      "votesCount": 300,
       "commentsCount": 11,
       "createdAt": "2025-05-31T07:01:00Z",
       "thumbnail": {
@@ -37,7 +37,7 @@
       "name": "Zown",
       "tagline": "The AI-powered homebuying platform",
       "url": "https://www.producthunt.com/posts/zown-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 262,
+      "votesCount": 271,
       "commentsCount": 28,
       "createdAt": "2025-05-31T07:01:00Z",
       "thumbnail": {
@@ -68,7 +68,7 @@
       "name": "Open Paper",
       "tagline": "AI-native workbench for understanding papers",
       "url": "https://www.producthunt.com/posts/open-paper-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 210,
+      "votesCount": 213,
       "commentsCount": 10,
       "createdAt": "2025-05-31T07:01:00Z",
       "thumbnail": {
@@ -94,7 +94,7 @@
       "name": "BlockSurvey",
       "tagline": "AI agents to create, analyze, and automate surveys",
       "url": "https://www.producthunt.com/posts/blocksurvey-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 180,
+      "votesCount": 184,
       "commentsCount": 17,
       "createdAt": "2025-05-31T07:01:00Z",
       "thumbnail": {
@@ -125,7 +125,7 @@
       "name": "RankDevs",
       "tagline": "Track, analyse and increase your programming activity",
       "url": "https://www.producthunt.com/posts/rankdevs?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 177,
+      "votesCount": 179,
       "commentsCount": 8,
       "createdAt": "2025-05-31T07:01:00Z",
       "thumbnail": {
@@ -161,7 +161,7 @@
       "name": "Pocket to Notion",
       "tagline": "Seamlessly migrate and backup your Pocket articles to Notion",
       "url": "https://www.producthunt.com/posts/pocket-to-notion?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 134,
+      "votesCount": 135,
       "commentsCount": 8,
       "createdAt": "2025-05-31T07:01:00Z",
       "thumbnail": {
@@ -197,7 +197,7 @@
       "name": "MakeUGC",
       "tagline": "AI-powered UGC video creation for E-commerce",
       "url": "https://www.producthunt.com/posts/makeugc-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 124,
+      "votesCount": 126,
       "commentsCount": 12,
       "createdAt": "2025-05-31T07:01:00Z",
       "thumbnail": {
@@ -228,7 +228,7 @@
       "name": "DUIX.COM",
       "tagline": "The Open Source AI Avatar Cloud",
       "url": "https://www.producthunt.com/posts/duix-com?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 91,
+      "votesCount": 95,
       "commentsCount": 3,
       "createdAt": "2025-05-31T07:01:00Z",
       "thumbnail": {
@@ -260,7 +260,7 @@
       "tagline": "Quick decisions in your pocket",
       "url": "https://www.producthunt.com/posts/randigo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 30,
-      "commentsCount": 5,
+      "commentsCount": 6,
       "createdAt": "2025-05-31T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/84ab29c0-f7e0-4ae2-bccd-8add63470f1a.webp?auto=format"
@@ -529,6 +529,37 @@
       }
     },
     {
+      "id": "972151",
+      "name": "Temp mails",
+      "tagline": "Temporary emails address generator",
+      "url": "https://www.producthunt.com/posts/temp-mails?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 6,
+      "commentsCount": 1,
+      "createdAt": "2025-05-31T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/295a7fbf-ed30-4ae9-8d97-3742235b2ea5.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Email"
+            }
+          },
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "972007",
       "name": "Wisebite",
       "tagline": "AI food coach",
@@ -575,37 +606,6 @@
           {
             "node": {
               "name": "Social Impact"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "971424",
-      "name": "Ashes",
-      "tagline": "New Tab Reimagined",
-      "url": "https://www.producthunt.com/posts/ashes?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 4,
-      "commentsCount": 1,
-      "createdAt": "2025-05-31T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/6bcdc99b-d49f-492d-8dd2-4aa9d81eacbf.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Browser Extensions"
-            }
-          },
-          {
-            "node": {
-              "name": "Chrome Extensions"
-            }
-          },
-          {
-            "node": {
-              "name": "Productivity"
             }
           }
         ]
