@@ -1,75 +1,13 @@
 {
-  "fetchedAt": "2025-05-31T07:09:08.147Z",
+  "fetchedAt": "2025-05-31T07:27:57.694Z",
   "posts": [
-    {
-      "id": "959718",
-      "name": "Pretty Prompt",
-      "tagline": "Grammarly for prompting",
-      "url": "https://www.producthunt.com/posts/pretty-prompt?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 55,
-      "commentsCount": 1,
-      "createdAt": "2025-05-31T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/e0f3793a-0130-460c-8944-b78fd6cebce8.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Chrome Extensions"
-            }
-          },
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "970023",
-      "name": "BlockSurvey",
-      "tagline": "AI agents to create, analyze, and automate surveys",
-      "url": "https://www.producthunt.com/posts/blocksurvey-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 55,
-      "commentsCount": 2,
-      "createdAt": "2025-05-31T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/d6093c69-1868-4f3a-a959-5b2c1ae53468.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "SaaS"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
     {
       "id": "971298",
       "name": "Open Paper",
       "tagline": "AI-native workbench for understanding papers",
       "url": "https://www.producthunt.com/posts/open-paper-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 56,
-      "commentsCount": 1,
+      "votesCount": 61,
+      "commentsCount": 3,
       "createdAt": "2025-05-31T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/6d67a85e-79f8-4b44-ae08-cdf3b5125006.png?auto=format"
@@ -90,47 +28,11 @@
       }
     },
     {
-      "id": "972003",
-      "name": "RankDevs",
-      "tagline": "Track, analyse and increase your programming activity",
-      "url": "https://www.producthunt.com/posts/rankdevs?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 54,
-      "commentsCount": 1,
-      "createdAt": "2025-05-31T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/da5b7434-734b-4aef-9132-70949d60d9c9.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Open Source"
-            }
-          },
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "GitHub"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "971683",
       "name": "Pocket to Notion",
       "tagline": "Seamlessly migrate and backup your Pocket articles to Notion",
       "url": "https://www.producthunt.com/posts/pocket-to-notion?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 55,
+      "votesCount": 60,
       "commentsCount": 1,
       "createdAt": "2025-05-31T07:01:00Z",
       "thumbnail": {
@@ -162,11 +64,109 @@
       }
     },
     {
+      "id": "970023",
+      "name": "BlockSurvey",
+      "tagline": "AI agents to create, analyze, and automate surveys",
+      "url": "https://www.producthunt.com/posts/blocksurvey-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 60,
+      "commentsCount": 5,
+      "createdAt": "2025-05-31T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/d6093c69-1868-4f3a-a959-5b2c1ae53468.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "SaaS"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "959718",
+      "name": "Pretty Prompt",
+      "tagline": "Grammarly for prompting",
+      "url": "https://www.producthunt.com/posts/pretty-prompt?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 58,
+      "commentsCount": 1,
+      "createdAt": "2025-05-31T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/e0f3793a-0130-460c-8944-b78fd6cebce8.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Chrome Extensions"
+            }
+          },
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "972003",
+      "name": "RankDevs",
+      "tagline": "Track, analyse and increase your programming activity",
+      "url": "https://www.producthunt.com/posts/rankdevs?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 57,
+      "commentsCount": 1,
+      "createdAt": "2025-05-31T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/da5b7434-734b-4aef-9132-70949d60d9c9.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Open Source"
+            }
+          },
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "GitHub"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "971954",
       "name": "MakeUGC",
       "tagline": "AI-powered UGC video creation for E-commerce",
       "url": "https://www.producthunt.com/posts/makeugc-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 51,
+      "votesCount": 55,
       "commentsCount": 1,
       "createdAt": "2025-05-31T07:01:00Z",
       "thumbnail": {
@@ -225,10 +225,10 @@
     },
     {
       "id": "971312",
-      "name": "Zettel",
+      "name": "Zettel | Join Waitlist",
       "tagline": "Turn your learning goals into personalized curricula with AI",
-      "url": "https://www.producthunt.com/posts/zettel?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 2,
+      "url": "https://www.producthunt.com/posts/zettel-join-waitlist?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 3,
       "commentsCount": 1,
       "createdAt": "2025-05-31T07:01:00Z",
       "thumbnail": {
@@ -249,6 +249,99 @@
           {
             "node": {
               "name": "Online Learning"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "963322",
+      "name": "Feedbask",
+      "tagline": "Collect user feedback: bug report, feature requests, NSP...",
+      "url": "https://www.producthunt.com/posts/feedbask?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 3,
+      "commentsCount": 2,
+      "createdAt": "2025-05-31T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/6ae95d2e-c5b2-4f01-b6a8-7a27394211d8.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Customer Success"
+            }
+          },
+          {
+            "node": {
+              "name": "SaaS"
+            }
+          },
+          {
+            "node": {
+              "name": "Tech"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "967376",
+      "name": "Z3D Genesis",
+      "tagline": "From text to 3D: Your ideas, visualized in seconds",
+      "url": "https://www.producthunt.com/posts/z3d-genesis?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 2,
+      "commentsCount": 1,
+      "createdAt": "2025-05-31T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/5c3e02bb-b13c-462e-83c2-8559845938c1.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Design Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "3D Modeling"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "972118",
+      "name": "GLYDE",
+      "tagline": "Build cool landing pages in one shot. No boring templates.",
+      "url": "https://www.producthunt.com/posts/glyde-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 2,
+      "commentsCount": 1,
+      "createdAt": "2025-05-31T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/29e9827e-905f-4554-944e-388cba137a81.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Design Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
             }
           }
         ]
@@ -281,57 +374,93 @@
       }
     },
     {
-      "id": "972118",
-      "name": "GLYDE",
-      "tagline": "Build cool landing pages in one shot. No boring templates.",
-      "url": "https://www.producthunt.com/posts/glyde-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "id": "972190",
+      "name": "Lets",
+      "tagline": "Create & Join Events Nearby",
+      "url": "https://www.producthunt.com/posts/lets?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 2,
       "commentsCount": 1,
       "createdAt": "2025-05-31T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/29e9827e-905f-4554-944e-388cba137a81.png?auto=format"
+        "url": "https://ph-files.imgix.net/ca9ef8a0-8826-4ab4-b7fd-75e850863e56.png?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "Developer Tools"
+              "name": "Android"
             }
           },
           {
             "node": {
-              "name": "Artificial Intelligence"
+              "name": "Messaging"
+            }
+          },
+          {
+            "node": {
+              "name": "Events"
+            }
+          },
+          {
+            "node": {
+              "name": "Social Networking"
             }
           }
         ]
       }
     },
     {
-      "id": "967376",
-      "name": "Z3D Genesis",
-      "tagline": "From text to 3D: Your ideas, visualized in seconds",
-      "url": "https://www.producthunt.com/posts/z3d-genesis?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "id": "971294",
+      "name": "Auto i18n",
+      "tagline": "i18n, l10n, AI translate, indie developer tool",
+      "url": "https://www.producthunt.com/posts/auto-i18n?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 2,
       "commentsCount": 1,
       "createdAt": "2025-05-31T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/5c3e02bb-b13c-462e-83c2-8559845938c1.png?auto=format"
+        "url": "https://ph-files.imgix.net/1001691b-492e-4095-93e2-3c0466663763.png?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "Design Tools"
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "970098",
+      "name": "Duix.com",
+      "tagline": " real-time interactive AI Avatar Cloud",
+      "url": "https://www.producthunt.com/posts/duix-com?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 2,
+      "commentsCount": 1,
+      "createdAt": "2025-05-31T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/c3572ab8-3aac-4be8-abc7-44f74eb335ad.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "API"
+            }
+          },
+          {
+            "node": {
+              "name": "Marketing"
             }
           },
           {
             "node": {
               "name": "Artificial Intelligence"
-            }
-          },
-          {
-            "node": {
-              "name": "3D Modeling"
             }
           }
         ]
@@ -410,58 +539,6 @@
       }
     },
     {
-      "id": "972007",
-      "name": "Wisebite",
-      "tagline": "AI food coach",
-      "url": "https://www.producthunt.com/posts/wisebite-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 1,
-      "commentsCount": 1,
-      "createdAt": "2025-05-31T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/c34a11ab-d5ee-4ed7-b5a2-bf69351e0132.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Health & Fitness"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "971709",
-      "name": "Fluent",
-      "tagline": "Learn Language with AI Tutor",
-      "url": "https://www.producthunt.com/posts/fluent-5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 1,
-      "commentsCount": 1,
-      "createdAt": "2025-05-31T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/cd663954-0794-4016-8f49-86d0ee0a545f.jpeg?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Education"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          },
-          {
-            "node": {
-              "name": "Tech"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "971766",
       "name": "Notato 2.0",
       "tagline": "Study Smarter, Not Harder.",
@@ -493,119 +570,52 @@
       }
     },
     {
-      "id": "972049",
-      "name": "OP.GG Agent",
-      "tagline": "Cursor-level AI assistance, now for your League matches.",
-      "url": "https://www.producthunt.com/posts/op-gg-agent?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "id": "970842",
+      "name": "FitFor.app",
+      "tagline": "Workouts you can follow",
+      "url": "https://www.producthunt.com/posts/fitfor-app?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 1,
       "commentsCount": 1,
       "createdAt": "2025-05-31T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/449c8d40-8a02-4ed8-8023-ce7d59cd9403.x-icon?auto=format"
+        "url": "https://ph-files.imgix.net/1c7c9c3e-16b2-4ed8-ab25-3b3bf83e836f.png?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "Artificial Intelligence"
+              "name": "Health & Fitness"
             }
           },
           {
             "node": {
-              "name": "Bots"
-            }
-          },
-          {
-            "node": {
-              "name": "Games"
+              "name": "Nutrition"
             }
           }
         ]
       }
     },
     {
-      "id": "971873",
-      "name": "A Silent Pwn",
-      "tagline": "A vulnerable web playground: hack my 72-hour fever dream",
-      "url": "https://www.producthunt.com/posts/a-silent-pwn?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "id": "971961",
+      "name": "BEBER",
+      "tagline": "Votre assistant vocal intelligent sur WhatsApp",
+      "url": "https://www.producthunt.com/posts/beber?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 1,
-      "commentsCount": 1,
+      "commentsCount": 0,
       "createdAt": "2025-05-31T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/75251bfa-ffd6-418d-b0d6-b113f2d91613.png?auto=format"
+        "url": "https://ph-files.imgix.net/fcb64c3e-07c6-4968-9a75-03a880f3cc7f.png?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "Education"
+              "name": "Social Media"
             }
           },
-          {
-            "node": {
-              "name": "Security"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "972006",
-      "name": "Navy",
-      "tagline": "A SaaS template that looks funded, even if you’re not.",
-      "url": "https://www.producthunt.com/posts/navy?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 1,
-      "commentsCount": 1,
-      "createdAt": "2025-05-31T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/919ce0f7-7882-4a1d-bd9c-b0cadaf0d75e.png?auto=format"
-      },
-      "topics": {
-        "edges": [
           {
             "node": {
               "name": "Marketing"
-            }
-          },
-          {
-            "node": {
-              "name": "SaaS"
-            }
-          },
-          {
-            "node": {
-              "name": "Development"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "971995",
-      "name": "ReadyPackGo - Your Packing Buddy",
-      "tagline": "Your ultimate packing buddy for every journey",
-      "url": "https://www.producthunt.com/posts/readypackgo-your-packing-buddy?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 1,
-      "commentsCount": 1,
-      "createdAt": "2025-05-31T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/bd1ade7d-73c6-4da4-91d9-0105cbf1653b.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Backpacks"
-            }
-          },
-          {
-            "node": {
-              "name": "Travel"
             }
           }
         ]
