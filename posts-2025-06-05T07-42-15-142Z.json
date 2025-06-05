@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2025-06-05T07:26:27.685Z",
+  "fetchedAt": "2025-06-05T07:42:15.142Z",
   "posts": [
     {
       "id": "974266",
       "name": "skillsync",
       "tagline": "Discover hidden talent in your codebase",
       "url": "https://www.producthunt.com/posts/skillsync-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 73,
-      "commentsCount": 1,
+      "votesCount": 80,
+      "commentsCount": 3,
       "createdAt": "2025-06-05T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/ff49a899-77c6-41d3-a311-febd5aa55aec.png?auto=format"
@@ -27,7 +27,7 @@
       "name": "Fieldy",
       "tagline": "Wearable AI note taker for in-person meetings",
       "url": "https://www.producthunt.com/posts/fieldy-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 72,
+      "votesCount": 79,
       "commentsCount": 1,
       "createdAt": "2025-06-05T07:01:00Z",
       "thumbnail": {
@@ -35,11 +35,6 @@
       },
       "topics": {
         "edges": [
-          {
-            "node": {
-              "name": "Android"
-            }
-          },
           {
             "node": {
               "name": "Notes"
@@ -63,8 +58,8 @@
       "name": "Long",
       "tagline": "Invest in startups before VCs get in",
       "url": "https://www.producthunt.com/posts/long?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 66,
-      "commentsCount": 4,
+      "votesCount": 75,
+      "commentsCount": 5,
       "createdAt": "2025-06-05T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/5dfb80a9-119c-4a09-b194-8a744e37cf7e.png?auto=format"
@@ -94,7 +89,7 @@
       "name": "Mistral Code",
       "tagline": "Enterprise AI coding with full control & security",
       "url": "https://www.producthunt.com/posts/mistral-code?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 63,
+      "votesCount": 69,
       "commentsCount": 2,
       "createdAt": "2025-06-05T07:01:00Z",
       "thumbnail": {
@@ -125,7 +120,7 @@
       "name": "3way.Social",
       "tagline": "AI-powered backlink discovery",
       "url": "https://www.producthunt.com/posts/3way-social?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 61,
+      "votesCount": 66,
       "commentsCount": 5,
       "createdAt": "2025-06-05T07:01:00Z",
       "thumbnail": {
@@ -152,11 +147,42 @@
       }
     },
     {
+      "id": "973949",
+      "name": "ReachLLM",
+      "tagline": "Dominate the Ai search era",
+      "url": "https://www.producthunt.com/posts/reachllm?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 65,
+      "commentsCount": 1,
+      "createdAt": "2025-06-05T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/dc2cd6fe-e49d-4a69-8b62-6d6e27be320a.webp?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "SEO"
+            }
+          },
+          {
+            "node": {
+              "name": "SaaS"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "971211",
       "name": "Jammy Chat",
       "tagline": "Playlists based on your facial expressions",
       "url": "https://www.producthunt.com/posts/jammy-chat-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 61,
+      "votesCount": 64,
       "commentsCount": 2,
       "createdAt": "2025-06-05T07:01:00Z",
       "thumbnail": {
@@ -183,11 +209,42 @@
       }
     },
     {
+      "id": "974193",
+      "name": "Bugdrop",
+      "tagline": "Users won’t report bugs… unless it’s stupid simple",
+      "url": "https://www.producthunt.com/posts/bugdrop?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 64,
+      "commentsCount": 2,
+      "createdAt": "2025-06-05T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/70e86f6a-e8a1-41ee-9338-7bd8237efbd0.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "User Experience"
+            }
+          },
+          {
+            "node": {
+              "name": "SaaS"
+            }
+          },
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "966930",
       "name": "Balance",
       "tagline": "Personal finance on autopilot",
       "url": "https://www.producthunt.com/posts/balance-a79febc0-c56a-4778-9fd3-cb3d694e7ccb?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 60,
+      "votesCount": 61,
       "commentsCount": 2,
       "createdAt": "2025-06-05T07:01:00Z",
       "thumbnail": {
@@ -208,6 +265,63 @@
           {
             "node": {
               "name": "Personal Finance"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "974134",
+      "name": "Alchemist Editor",
+      "tagline": "The Loom alternative that actually lets you edit your videos",
+      "url": "https://www.producthunt.com/posts/alchemist-editor?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 61,
+      "commentsCount": 1,
+      "createdAt": "2025-06-05T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/730b048f-7e46-44d8-8e08-f00e97ec72cb.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Web App"
+            }
+          },
+          {
+            "node": {
+              "name": "SaaS"
+            }
+          },
+          {
+            "node": {
+              "name": "Video"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "973924",
+      "name": "Dule for Google Calendar",
+      "tagline": "Email based AI scheduling assistant ",
+      "url": "https://www.producthunt.com/posts/dule-for-google-calendar?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 60,
+      "commentsCount": 3,
+      "createdAt": "2025-06-05T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/a8494c16-a190-4c43-89ee-915076de4f4b.vnd.microsoft.icon?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Meetings"
+            }
+          },
+          {
+            "node": {
+              "name": "Virtual Assistants"
             }
           }
         ]
@@ -235,31 +349,31 @@
       }
     },
     {
-      "id": "964443",
-      "name": "Javu",
-      "tagline": "Learn words your way.",
-      "url": "https://www.producthunt.com/posts/javu?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 58,
-      "commentsCount": 1,
+      "id": "974205",
+      "name": "Keyword We Use",
+      "tagline": "Find the questions that people ask",
+      "url": "https://www.producthunt.com/posts/keyword-we-use?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 60,
+      "commentsCount": 2,
       "createdAt": "2025-06-05T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/1428b6e9-dc9e-4eb1-a89a-07659eee7e63.png?auto=format"
+        "url": "https://ph-files.imgix.net/440e2aa7-c625-4ec4-b5a2-bb58a1c0d111.png?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "Productivity"
+              "name": "Writing"
             }
           },
           {
             "node": {
-              "name": "Education"
+              "name": "Marketing"
             }
           },
           {
             "node": {
-              "name": "Languages"
+              "name": "SEO"
             }
           }
         ]
@@ -270,7 +384,7 @@
       "name": "Shisa.AI",
       "tagline": "Open-source foundation for superior Japanese LLMs",
       "url": "https://www.producthunt.com/posts/shisa-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 58,
+      "votesCount": 59,
       "commentsCount": 2,
       "createdAt": "2025-06-05T07:01:00Z",
       "thumbnail": {
@@ -297,31 +411,31 @@
       }
     },
     {
-      "id": "974134",
-      "name": "Alchemist Editor",
-      "tagline": "The Loom alternative that actually lets you edit your videos",
-      "url": "https://www.producthunt.com/posts/alchemist-editor?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 58,
-      "commentsCount": 1,
+      "id": "964443",
+      "name": "Javu",
+      "tagline": "Learn words your way.",
+      "url": "https://www.producthunt.com/posts/javu?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 59,
+      "commentsCount": 2,
       "createdAt": "2025-06-05T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/730b048f-7e46-44d8-8e08-f00e97ec72cb.png?auto=format"
+        "url": "https://ph-files.imgix.net/1428b6e9-dc9e-4eb1-a89a-07659eee7e63.png?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "Web App"
+              "name": "Productivity"
             }
           },
           {
             "node": {
-              "name": "SaaS"
+              "name": "Education"
             }
           },
           {
             "node": {
-              "name": "Video"
+              "name": "Languages"
             }
           }
         ]
@@ -359,161 +473,11 @@
       }
     },
     {
-      "id": "974205",
-      "name": "Keyword We Use",
-      "tagline": "Find the questions that people ask",
-      "url": "https://www.producthunt.com/posts/keyword-we-use?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 57,
-      "commentsCount": 2,
-      "createdAt": "2025-06-05T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/440e2aa7-c625-4ec4-b5a2-bb58a1c0d111.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Writing"
-            }
-          },
-          {
-            "node": {
-              "name": "Marketing"
-            }
-          },
-          {
-            "node": {
-              "name": "SEO"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "973949",
-      "name": "ReachLLM",
-      "tagline": "Dominate the Ai search era",
-      "url": "https://www.producthunt.com/posts/reachllm?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 59,
-      "commentsCount": 1,
-      "createdAt": "2025-06-05T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/dc2cd6fe-e49d-4a69-8b62-6d6e27be320a.webp?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "SEO"
-            }
-          },
-          {
-            "node": {
-              "name": "SaaS"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "973924",
-      "name": "Dule for Google Calendar",
-      "tagline": "Email based AI scheduling assistant ",
-      "url": "https://www.producthunt.com/posts/dule-for-google-calendar?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 56,
-      "commentsCount": 3,
-      "createdAt": "2025-06-05T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/a8494c16-a190-4c43-89ee-915076de4f4b.vnd.microsoft.icon?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Meetings"
-            }
-          },
-          {
-            "node": {
-              "name": "Virtual Assistants"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "974193",
-      "name": "Bugdrop",
-      "tagline": "Users won’t report bugs… unless it’s stupid simple",
-      "url": "https://www.producthunt.com/posts/bugdrop?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 54,
-      "commentsCount": 1,
-      "createdAt": "2025-06-05T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/70e86f6a-e8a1-41ee-9338-7bd8237efbd0.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "User Experience"
-            }
-          },
-          {
-            "node": {
-              "name": "SaaS"
-            }
-          },
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "972198",
-      "name": "Saner.AI 1.0",
-      "tagline": "First ADHD-friendly AI assistant for notes, email, calendar",
-      "url": "https://www.producthunt.com/posts/saner-ai-1-0?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 54,
-      "commentsCount": 1,
-      "createdAt": "2025-06-05T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/196a09a4-7129-41aa-9c2b-7e7292e1630d.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Email"
-            }
-          },
-          {
-            "node": {
-              "name": "Task Management"
-            }
-          },
-          {
-            "node": {
-              "name": "Calendar"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "970123",
       "name": "AI Auto-Labeling by T-Rex Label",
       "tagline": "Auto-Identify and Label ANYTHING You Need",
       "url": "https://www.producthunt.com/posts/ai-auto-labeling-by-t-rex-label?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 53,
+      "votesCount": 57,
       "commentsCount": 2,
       "createdAt": "2025-06-05T07:01:00Z",
       "thumbnail": {
@@ -540,36 +504,31 @@
       }
     },
     {
-      "id": "974206",
-      "name": "Quick Tea",
-      "tagline": "Ask questions, get answers, and chat with multiple tabs",
-      "url": "https://www.producthunt.com/posts/quick-tea?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 52,
+      "id": "972198",
+      "name": "Saner.AI 1.0",
+      "tagline": "First ADHD-friendly AI assistant for notes, email, calendar",
+      "url": "https://www.producthunt.com/posts/saner-ai-1-0?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 58,
       "commentsCount": 1,
       "createdAt": "2025-06-05T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/5da66665-00b1-4b8e-a3f6-2ef84e6fc349.png?auto=format"
+        "url": "https://ph-files.imgix.net/196a09a4-7129-41aa-9c2b-7e7292e1630d.png?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "Browser Extensions"
+              "name": "Email"
             }
           },
           {
             "node": {
-              "name": "Chrome Extensions"
+              "name": "Task Management"
             }
           },
           {
             "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
+              "name": "Calendar"
             }
           }
         ]
@@ -580,7 +539,7 @@
       "name": "IRLpad",
       "tagline": "A digital notebook that works like a real one",
       "url": "https://www.producthunt.com/posts/irlpad?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 52,
+      "votesCount": 57,
       "commentsCount": 1,
       "createdAt": "2025-06-05T07:01:00Z",
       "thumbnail": {
@@ -601,6 +560,37 @@
           {
             "node": {
               "name": "Notes"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "964588",
+      "name": "TripTok",
+      "tagline": "Turn influencer videos into your travel map",
+      "url": "https://www.producthunt.com/posts/triptok?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 56,
+      "commentsCount": 1,
+      "createdAt": "2025-06-05T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/3d3df034-957d-447f-960d-c57c8712439c.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Social Media"
+            }
+          },
+          {
+            "node": {
+              "name": "Marketing"
+            }
+          },
+          {
+            "node": {
+              "name": "Travel"
             }
           }
         ]
