@@ -1,12 +1,12 @@
 {
-  "fetchedAt": "2025-06-06T04:44:21.945Z",
+  "fetchedAt": "2025-06-06T04:57:26.310Z",
   "posts": [
     {
       "id": "973025",
       "name": "Long",
       "tagline": "Invest in startups before VCs get in",
       "url": "https://www.producthunt.com/posts/long?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 471,
+      "votesCount": 472,
       "commentsCount": 41,
       "createdAt": "2025-06-05T07:01:00Z",
       "thumbnail": {
@@ -37,7 +37,7 @@
       "name": "Fieldy",
       "tagline": "Wearable AI note taker for in-person meetings",
       "url": "https://www.producthunt.com/posts/fieldy-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 350,
+      "votesCount": 352,
       "commentsCount": 31,
       "createdAt": "2025-06-05T07:01:00Z",
       "thumbnail": {
@@ -68,7 +68,7 @@
       "name": "skillsync",
       "tagline": "Discover hidden talent in your codebase",
       "url": "https://www.producthunt.com/posts/skillsync-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 309,
+      "votesCount": 315,
       "commentsCount": 26,
       "createdAt": "2025-06-05T07:01:00Z",
       "thumbnail": {
@@ -161,8 +161,8 @@
       "name": "Saner.AI 1.0",
       "tagline": "First ADHD-friendly AI assistant for notes, email, calendar",
       "url": "https://www.producthunt.com/posts/saner-ai-1-0?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 183,
-      "commentsCount": 35,
+      "votesCount": 188,
+      "commentsCount": 36,
       "createdAt": "2025-06-05T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/196a09a4-7129-41aa-9c2b-7e7292e1630d.png?auto=format"
@@ -342,7 +342,7 @@
       "name": "Balance",
       "tagline": "Personal finance on autopilot",
       "url": "https://www.producthunt.com/posts/balance-a79febc0-c56a-4778-9fd3-cb3d694e7ccb?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 126,
+      "votesCount": 127,
       "commentsCount": 3,
       "createdAt": "2025-06-05T07:01:00Z",
       "thumbnail": {
@@ -363,6 +363,32 @@
           {
             "node": {
               "name": "Personal Finance"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "973924",
+      "name": "Dule for Google Calendar",
+      "tagline": "Email based AI scheduling assistant ",
+      "url": "https://www.producthunt.com/posts/dule-for-google-calendar?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 124,
+      "commentsCount": 9,
+      "createdAt": "2025-06-05T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/a8494c16-a190-4c43-89ee-915076de4f4b.vnd.microsoft.icon?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Meetings"
+            }
+          },
+          {
+            "node": {
+              "name": "Virtual Assistants"
             }
           }
         ]
@@ -400,53 +426,6 @@
       }
     },
     {
-      "id": "973924",
-      "name": "Dule for Google Calendar",
-      "tagline": "Email based AI scheduling assistant ",
-      "url": "https://www.producthunt.com/posts/dule-for-google-calendar?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 124,
-      "commentsCount": 9,
-      "createdAt": "2025-06-05T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/a8494c16-a190-4c43-89ee-915076de4f4b.vnd.microsoft.icon?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Meetings"
-            }
-          },
-          {
-            "node": {
-              "name": "Virtual Assistants"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "973882",
-      "name": "Kive Multi-Product Shots",
-      "tagline": "Create multi-product shots effortlessly with AI",
-      "url": "https://www.producthunt.com/posts/kive-multi-product-shots?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 122,
-      "commentsCount": 3,
-      "createdAt": "2025-06-05T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/a11ab63d-adde-4dae-b18b-04422f617804.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Marketing"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "964588",
       "name": "TripTok",
       "tagline": "Turn influencer videos into your travel map",
@@ -472,6 +451,27 @@
           {
             "node": {
               "name": "Travel"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "973882",
+      "name": "Kive Multi-Product Shots",
+      "tagline": "Create multi-product shots effortlessly with AI",
+      "url": "https://www.producthunt.com/posts/kive-multi-product-shots?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 122,
+      "commentsCount": 3,
+      "createdAt": "2025-06-05T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/a11ab63d-adde-4dae-b18b-04422f617804.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Marketing"
             }
           }
         ]
