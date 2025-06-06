@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2025-06-06T07:42:10.849Z",
+  "fetchedAt": "2025-06-06T07:54:53.695Z",
   "posts": [
     {
       "id": "973570",
       "name": "Chat4Data",
       "tagline": "ChatGPT for web scraping",
       "url": "https://www.producthunt.com/posts/chat4data?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 89,
-      "commentsCount": 5,
+      "votesCount": 102,
+      "commentsCount": 7,
       "createdAt": "2025-06-06T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/9dfefe1b-7280-4434-ae38-3e0f979011b9.svg?auto=format"
@@ -37,7 +37,7 @@
       "name": "Cursor 1.0",
       "tagline": "Cursor is the best way to code with AI",
       "url": "https://www.producthunt.com/posts/cursor-1-0?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 80,
+      "votesCount": 84,
       "commentsCount": 3,
       "createdAt": "2025-06-06T07:01:00Z",
       "thumbnail": {
@@ -64,73 +64,11 @@
       }
     },
     {
-      "id": "974590",
-      "name": "MarketAlerts.ai",
-      "tagline": "AI analyst monitoring your stocks and pitching trade ideas",
-      "url": "https://www.producthunt.com/posts/marketalerts-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 66,
-      "commentsCount": 1,
-      "createdAt": "2025-06-06T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/7d2fccd8-ce65-4ac4-8ba3-5e1fbd8bd244.jpeg?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Fintech"
-            }
-          },
-          {
-            "node": {
-              "name": "Investing"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "974780",
-      "name": "Portraits",
-      "tagline": "AI coaching from trusted experts, by Google Labs",
-      "url": "https://www.producthunt.com/posts/portraits?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 65,
-      "commentsCount": 2,
-      "createdAt": "2025-06-06T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/08d3b836-30e1-4c21-9ec1-ef9d8a2ede4a.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          },
-          {
-            "node": {
-              "name": "Books"
-            }
-          },
-          {
-            "node": {
-              "name": "Business"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "965487",
       "name": "next-forge by Vercel",
       "tagline": "Production-grade template for modern Next.js apps",
       "url": "https://www.producthunt.com/posts/next-forge-by-vercel?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 64,
+      "votesCount": 69,
       "commentsCount": 2,
       "createdAt": "2025-06-06T07:01:00Z",
       "thumbnail": {
@@ -157,11 +95,104 @@
       }
     },
     {
+      "id": "974780",
+      "name": "Portraits",
+      "tagline": "AI coaching from trusted experts, by Google Labs",
+      "url": "https://www.producthunt.com/posts/portraits?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 67,
+      "commentsCount": 2,
+      "createdAt": "2025-06-06T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/08d3b836-30e1-4c21-9ec1-ef9d8a2ede4a.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "Books"
+            }
+          },
+          {
+            "node": {
+              "name": "Business"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "974590",
+      "name": "MarketAlerts.ai",
+      "tagline": "AI analyst monitoring your stocks and pitching trade ideas",
+      "url": "https://www.producthunt.com/posts/marketalerts-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 68,
+      "commentsCount": 1,
+      "createdAt": "2025-06-06T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/7d2fccd8-ce65-4ac4-8ba3-5e1fbd8bd244.jpeg?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Fintech"
+            }
+          },
+          {
+            "node": {
+              "name": "Investing"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "974659",
+      "name": "Xavier AI",
+      "tagline": "The First AI Consultant that creates McKinsey-grade decks",
+      "url": "https://www.producthunt.com/posts/xavier-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 66,
+      "commentsCount": 1,
+      "createdAt": "2025-06-06T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/274e0793-ee86-4122-8f6b-875012c3c1e0.jpeg?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "SaaS"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "Consulting"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "974638",
       "name": "Eleven v3 (alpha)",
       "tagline": "The most expressive Text to Speech model ever",
       "url": "https://www.producthunt.com/posts/eleven-v3-alpha?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 62,
+      "votesCount": 66,
       "commentsCount": 1,
       "createdAt": "2025-06-06T07:01:00Z",
       "thumbnail": {
@@ -172,6 +203,73 @@
           {
             "node": {
               "name": "Audio"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "974060",
+      "name": "Web Bench",
+      "tagline": "A 10x better benchmark for AI browser agents",
+      "url": "https://www.producthunt.com/posts/web-bench?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 64,
+      "commentsCount": 2,
+      "createdAt": "2025-06-06T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/7ac8128b-e1e2-463e-aae3-c80588975575.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Analytics"
+            }
+          },
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "GitHub"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "972898",
+      "name": "Harker",
+      "tagline": "Turn thoughts into text at the speed of speech",
+      "url": "https://www.producthunt.com/posts/harker?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 64,
+      "commentsCount": 2,
+      "createdAt": "2025-06-06T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/2c2df559-7d6e-4924-85a1-9c8c8c20cf66.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Mac"
+            }
+          },
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Developer Tools"
             }
           }
         ]
@@ -209,109 +307,11 @@
       }
     },
     {
-      "id": "974659",
-      "name": "Xavier AI",
-      "tagline": "The First AI Consultant that creates McKinsey-grade decks",
-      "url": "https://www.producthunt.com/posts/xavier-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 62,
-      "commentsCount": 1,
-      "createdAt": "2025-06-06T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/274e0793-ee86-4122-8f6b-875012c3c1e0.jpeg?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "SaaS"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          },
-          {
-            "node": {
-              "name": "Consulting"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "974060",
-      "name": "Web Bench",
-      "tagline": "A 10x better benchmark for AI browser agents",
-      "url": "https://www.producthunt.com/posts/web-bench?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 62,
-      "commentsCount": 1,
-      "createdAt": "2025-06-06T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/7ac8128b-e1e2-463e-aae3-c80588975575.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Analytics"
-            }
-          },
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          },
-          {
-            "node": {
-              "name": "GitHub"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "972898",
-      "name": "Harker",
-      "tagline": "Turn thoughts into text at the speed of speech",
-      "url": "https://www.producthunt.com/posts/harker?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 61,
-      "commentsCount": 1,
-      "createdAt": "2025-06-06T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/2c2df559-7d6e-4924-85a1-9c8c8c20cf66.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Mac"
-            }
-          },
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "974703",
       "name": "SmolVLA",
       "tagline": "Powerful robotics VLA that runs on consumer hardware",
       "url": "https://www.producthunt.com/posts/smolvla?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 61,
+      "votesCount": 63,
       "commentsCount": 1,
       "createdAt": "2025-06-06T07:01:00Z",
       "thumbnail": {
@@ -342,7 +342,7 @@
       "name": "Web Inspector",
       "tagline": "Inspect, debug, and extract — all in one web tool",
       "url": "https://www.producthunt.com/posts/web-inspector?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 60,
+      "votesCount": 63,
       "commentsCount": 1,
       "createdAt": "2025-06-06T07:01:00Z",
       "thumbnail": {
@@ -368,6 +368,58 @@
           {
             "node": {
               "name": "Web Design"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "974642",
+      "name": "Higgsfield Speak",
+      "tagline": "The fastest way to make motion-driven talking videos",
+      "url": "https://www.producthunt.com/posts/higgsfield-speak?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 61,
+      "commentsCount": 1,
+      "createdAt": "2025-06-06T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/bc2f3698-fbfd-4763-bd59-992b9b529f44.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Design Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Video"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "974382",
+      "name": "Code View (Beta)",
+      "tagline": "Track, visualize, and restore your code changes ",
+      "url": "https://www.producthunt.com/posts/code-view-beta?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 60,
+      "commentsCount": 1,
+      "createdAt": "2025-06-06T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/104fa8b1-b418-4598-bd70-ccc6194a60e2.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Software Engineering"
+            }
+          },
+          {
+            "node": {
+              "name": "Development"
             }
           }
         ]
@@ -405,63 +457,11 @@
       }
     },
     {
-      "id": "974642",
-      "name": "Higgsfield Speak",
-      "tagline": "The fastest way to make motion-driven talking videos",
-      "url": "https://www.producthunt.com/posts/higgsfield-speak?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 59,
-      "commentsCount": 1,
-      "createdAt": "2025-06-06T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/bc2f3698-fbfd-4763-bd59-992b9b529f44.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Design Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Video"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "974382",
-      "name": "Code View (Beta)",
-      "tagline": "Track, visualize, and restore your code changes ",
-      "url": "https://www.producthunt.com/posts/code-view-beta?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 58,
-      "commentsCount": 1,
-      "createdAt": "2025-06-06T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/104fa8b1-b418-4598-bd70-ccc6194a60e2.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Software Engineering"
-            }
-          },
-          {
-            "node": {
-              "name": "Development"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "474603",
       "name": "Onsen",
       "tagline": "AI companion for mental health",
       "url": "https://www.producthunt.com/posts/onsen?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 57,
+      "votesCount": 58,
       "commentsCount": 1,
       "createdAt": "2025-06-06T07:01:00Z",
       "thumbnail": {
@@ -488,78 +488,31 @@
       }
     },
     {
-      "id": "974594",
-      "name": "Key Snap",
-      "tagline": "One key. One snap. Done.",
-      "url": "https://www.producthunt.com/posts/key-snap?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 57,
+      "id": "953799",
+      "name": "FocusNotch",
+      "tagline": "Transform your productivity ",
+      "url": "https://www.producthunt.com/posts/focusnotch?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 58,
       "commentsCount": 1,
       "createdAt": "2025-06-06T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/95e63092-f9be-48b8-ae9b-13b649545b58.webp?auto=format"
+        "url": "https://ph-files.imgix.net/3ab1f48b-8e7f-4763-bd34-53dee5a96842.png?auto=format"
       },
       "topics": {
         "edges": [
+          {
+            "node": {
+              "name": "Mac"
+            }
+          },
           {
             "node": {
               "name": "Productivity"
             }
-          }
-        ]
-      }
-    },
-    {
-      "id": "974601",
-      "name": "ImmigroNews",
-      "tagline": "One Source For The Latest US Immigration News & Policy ",
-      "url": "https://www.producthunt.com/posts/immigronews?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 56,
-      "commentsCount": 1,
-      "createdAt": "2025-06-06T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/fb36051b-250c-49c3-8ed1-617fcc5fb4b9.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "News"
-            }
           },
           {
             "node": {
-              "name": "Education"
-            }
-          },
-          {
-            "node": {
-              "name": "Legal"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "974368",
-      "name": "StreamWorlds",
-      "tagline": "Bring your Twitch to Life with 3D Worlds for Your Community",
-      "url": "https://www.producthunt.com/posts/streamworlds?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 56,
-      "commentsCount": 1,
-      "createdAt": "2025-06-06T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/b8186d7c-d990-4b5b-ae69-5520f0be0ac5.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Marketing"
-            }
-          },
-          {
-            "node": {
-              "name": "Games"
+              "name": "Developer Tools"
             }
           }
         ]
@@ -570,7 +523,7 @@
       "name": "Duelin' Agents: AI Chat Face-Off",
       "tagline": "Watch your AI agents debate and create in real-time",
       "url": "https://www.producthunt.com/posts/duelin-agents-ai-chat-face-off?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 56,
+      "votesCount": 58,
       "commentsCount": 1,
       "createdAt": "2025-06-06T07:01:00Z",
       "thumbnail": {
@@ -596,6 +549,63 @@
           {
             "node": {
               "name": "Bots"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "974368",
+      "name": "StreamWorlds",
+      "tagline": "Bring your Twitch to Life with 3D Worlds for Your Community",
+      "url": "https://www.producthunt.com/posts/streamworlds?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 57,
+      "commentsCount": 1,
+      "createdAt": "2025-06-06T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/b8186d7c-d990-4b5b-ae69-5520f0be0ac5.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Marketing"
+            }
+          },
+          {
+            "node": {
+              "name": "Games"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "974314",
+      "name": "Instagram Profile Search",
+      "tagline": "Find any Instagram profile with keywords",
+      "url": "https://www.producthunt.com/posts/instagram-profile-search?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 57,
+      "commentsCount": 1,
+      "createdAt": "2025-06-06T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/31e290bd-88ac-417b-b479-6c08333ab89a.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Social Media"
+            }
+          },
+          {
+            "node": {
+              "name": "Marketing"
+            }
+          },
+          {
+            "node": {
+              "name": "YouTube"
             }
           }
         ]
