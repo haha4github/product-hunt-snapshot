@@ -1,12 +1,12 @@
 {
-  "fetchedAt": "2025-06-10T11:29:29.750Z",
+  "fetchedAt": "2025-06-10T11:43:17.660Z",
   "posts": [
     {
       "id": "967551",
       "name": "Chronicle: Cursor for Slides",
       "tagline": "Stunning presentations with AI. No design skills required.",
       "url": "https://www.producthunt.com/posts/chronicle-cursor-for-slides?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 265,
+      "votesCount": 278,
       "commentsCount": 38,
       "createdAt": "2025-06-10T07:01:00Z",
       "thumbnail": {
@@ -37,8 +37,8 @@
       "name": "Bubble for native mobile apps (beta)",
       "tagline": "Build native mobile apps for iOS and Android without code.",
       "url": "https://www.producthunt.com/posts/bubble-for-native-mobile-apps-beta?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 159,
-      "commentsCount": 19,
+      "votesCount": 169,
+      "commentsCount": 21,
       "createdAt": "2025-06-10T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/c56bed46-4bc6-4404-8d2e-ff55e4b35383.jpeg?auto=format"
@@ -68,8 +68,8 @@
       "name": "Instance",
       "tagline": "From idea to app–in an Instance",
       "url": "https://www.producthunt.com/posts/instance?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 135,
-      "commentsCount": 16,
+      "votesCount": 137,
+      "commentsCount": 17,
       "createdAt": "2025-06-10T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/437d4d06-6b30-45db-afc4-33a6cf794bc7.png?auto=format"
@@ -104,8 +104,8 @@
       "name": "Wegic",
       "tagline": "World’s First AI Website Team",
       "url": "https://www.producthunt.com/posts/wegic-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 131,
-      "commentsCount": 3,
+      "votesCount": 132,
+      "commentsCount": 4,
       "createdAt": "2025-06-10T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/a272eb81-4236-47fd-9301-8105e75c2a62.jpeg?auto=format"
@@ -135,8 +135,8 @@
       "name": "PhotoFuse",
       "tagline": "Your personal AI photographer in your pocket",
       "url": "https://www.producthunt.com/posts/photofuse?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 111,
-      "commentsCount": 9,
+      "votesCount": 114,
+      "commentsCount": 11,
       "createdAt": "2025-06-10T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/328592fe-c7b7-48f6-a1a9-b798177f4f57.svg?auto=format"
@@ -162,7 +162,7 @@
       "tagline": "Automated networking events for your Discord community",
       "url": "https://www.producthunt.com/posts/coffeechat-bot?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 104,
-      "commentsCount": 4,
+      "commentsCount": 5,
       "createdAt": "2025-06-10T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/8ffc63d1-61be-4f53-8258-739329df2897.x-icon?auto=format"
@@ -255,7 +255,7 @@
       "tagline": "Your fitness and health chatbot. All on WhatsApp.",
       "url": "https://www.producthunt.com/posts/shapemate-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 97,
-      "commentsCount": 9,
+      "commentsCount": 10,
       "createdAt": "2025-06-10T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/331695a3-6838-41e2-8819-b5b2b969ae4d.png?auto=format"
@@ -333,6 +333,37 @@
       }
     },
     {
+      "id": "974140",
+      "name": "nCompass Tech",
+      "tagline": "Reliable, scalable & fast inference of any HuggingFace model",
+      "url": "https://www.producthunt.com/posts/ncompass-tech?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 96,
+      "commentsCount": 5,
+      "createdAt": "2025-06-10T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/9ff001de-407a-4a67-a6ae-95eb551d67e4.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "API"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "Tech"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "976192",
       "name": "Covolute",
       "tagline": "AI web creation on an infinite, collaborative canvas",
@@ -358,37 +389,6 @@
           {
             "node": {
               "name": "Developer Tools"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "974140",
-      "name": "nCompass Tech",
-      "tagline": "Reliable, scalable & fast inference of any HuggingFace model",
-      "url": "https://www.producthunt.com/posts/ncompass-tech?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 93,
-      "commentsCount": 5,
-      "createdAt": "2025-06-10T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/9ff001de-407a-4a67-a6ae-95eb551d67e4.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "API"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          },
-          {
-            "node": {
-              "name": "Tech"
             }
           }
         ]
@@ -497,7 +497,7 @@
       "name": "DeveZen",
       "tagline": "VSCode Extension that helps tracking your coding sessions",
       "url": "https://www.producthunt.com/posts/devezen?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 88,
+      "votesCount": 89,
       "commentsCount": 2,
       "createdAt": "2025-06-10T07:01:00Z",
       "thumbnail": {
@@ -523,7 +523,7 @@
       "name": "WindowKeys 3.0",
       "tagline": "Your window tiling command center for macOS",
       "url": "https://www.producthunt.com/posts/windowkeys-3-0?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 88,
+      "votesCount": 89,
       "commentsCount": 5,
       "createdAt": "2025-06-10T07:01:00Z",
       "thumbnail": {
@@ -554,7 +554,7 @@
       "name": "Huntr AI Resume Review & Tailor",
       "tagline": "AI powered line-by-line review of your resume in <5 mins",
       "url": "https://www.producthunt.com/posts/huntr-ai-resume-review-tailor?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 88,
+      "votesCount": 89,
       "commentsCount": 2,
       "createdAt": "2025-06-10T07:01:00Z",
       "thumbnail": {
@@ -585,7 +585,7 @@
       "name": "Blockies Animate",
       "tagline": "Smooth, plug-and-play UI animations for any modern web app",
       "url": "https://www.producthunt.com/posts/blockies-animate?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 86,
+      "votesCount": 87,
       "commentsCount": 1,
       "createdAt": "2025-06-10T07:01:00Z",
       "thumbnail": {
