@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2025-06-12T17:41:50.317Z",
+  "fetchedAt": "2025-06-12T17:54:19.962Z",
   "posts": [
     {
       "id": "976652",
       "name": "Flowstep",
       "tagline": "Design beautiful UIs instantly with AI",
       "url": "https://www.producthunt.com/posts/flowstep?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 361,
-      "commentsCount": 51,
+      "votesCount": 364,
+      "commentsCount": 52,
       "createdAt": "2025-06-12T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/95b535b8-a534-4d0f-aa0a-6c1b759e02c7.png?auto=format"
@@ -38,7 +38,7 @@
       "tagline": "The AI browser where you can chat with your tabs",
       "url": "https://www.producthunt.com/posts/dia-browser?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 280,
-      "commentsCount": 20,
+      "commentsCount": 21,
       "createdAt": "2025-06-12T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/a592ac56-5e93-486c-a3c9-b6dd482165a0.png?auto=format"
@@ -68,7 +68,7 @@
       "name": "Commerce Copilot",
       "tagline": "Your 24/7 AI storefront concierge",
       "url": "https://www.producthunt.com/posts/commerce-copilot?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 239,
+      "votesCount": 240,
       "commentsCount": 31,
       "createdAt": "2025-06-12T07:01:00Z",
       "thumbnail": {
@@ -99,7 +99,7 @@
       "name": "PageAI",
       "tagline": "The AI that designs & codes websites better than Lovable/v0",
       "url": "https://www.producthunt.com/posts/pageai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 235,
+      "votesCount": 239,
       "commentsCount": 70,
       "createdAt": "2025-06-12T07:01:00Z",
       "thumbnail": {
@@ -130,7 +130,7 @@
       "name": "kukumber: ",
       "tagline": "Your child’s AI math companion that will make them love math",
       "url": "https://www.producthunt.com/posts/kukumber?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 180,
+      "votesCount": 181,
       "commentsCount": 37,
       "createdAt": "2025-06-12T07:01:00Z",
       "thumbnail": {
@@ -161,7 +161,7 @@
       "name": "Hugging Face AISheets",
       "tagline": "AI-powered spreadsheets for everyone",
       "url": "https://www.producthunt.com/posts/hugging-face-aisheets?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 169,
+      "votesCount": 168,
       "commentsCount": 5,
       "createdAt": "2025-06-12T07:01:00Z",
       "thumbnail": {
@@ -250,42 +250,11 @@
       }
     },
     {
-      "id": "977196",
-      "name": "AppReply MAX",
-      "tagline": "AI agent that replies to app reviews like a human",
-      "url": "https://www.producthunt.com/posts/appreply-max?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 152,
-      "commentsCount": 13,
-      "createdAt": "2025-06-12T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/93b2001f-22cd-4ac5-b017-ba907922866b.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Customer Success"
-            }
-          },
-          {
-            "node": {
-              "name": "Customer Communication"
-            }
-          },
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "976223",
       "name": "AI Template Generator",
       "tagline": "Generate dynamic images from AI Generated templates via API",
       "url": "https://www.producthunt.com/posts/ai-template-generator?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 148,
+      "votesCount": 149,
       "commentsCount": 13,
       "createdAt": "2025-06-12T07:01:00Z",
       "thumbnail": {
@@ -306,6 +275,37 @@
           {
             "node": {
               "name": "Marketing"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "977196",
+      "name": "AppReply MAX",
+      "tagline": "AI agent that replies to app reviews like a human",
+      "url": "https://www.producthunt.com/posts/appreply-max?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 148,
+      "commentsCount": 13,
+      "createdAt": "2025-06-12T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/93b2001f-22cd-4ac5-b017-ba907922866b.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Customer Success"
+            }
+          },
+          {
+            "node": {
+              "name": "Customer Communication"
+            }
+          },
+          {
+            "node": {
+              "name": "Developer Tools"
             }
           }
         ]
@@ -347,7 +347,7 @@
       "name": "Ente Photos",
       "tagline": "End-to-end encrypted alternative to Google Photos",
       "url": "https://www.producthunt.com/posts/ente-photos?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 131,
+      "votesCount": 130,
       "commentsCount": 17,
       "createdAt": "2025-06-12T07:01:00Z",
       "thumbnail": {
@@ -378,7 +378,7 @@
       "name": "UntitledPen",
       "tagline": "Human-like voice overs for your content in seconds.",
       "url": "https://www.producthunt.com/posts/untitledpen?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 124,
+      "votesCount": 123,
       "commentsCount": 9,
       "createdAt": "2025-06-12T07:01:00Z",
       "thumbnail": {
@@ -409,7 +409,7 @@
       "name": "Origin AI + templates",
       "tagline": "Build full-stack applications from non-technical prompts",
       "url": "https://www.producthunt.com/posts/origin-ai-templates?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 120,
+      "votesCount": 121,
       "commentsCount": 13,
       "createdAt": "2025-06-12T07:01:00Z",
       "thumbnail": {
@@ -440,7 +440,7 @@
       "name": "Lasso Alarm Clock",
       "tagline": "The device you have to tap to turn off your phone's alarm",
       "url": "https://www.producthunt.com/posts/lasso-alarm-clock?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 115,
+      "votesCount": 112,
       "commentsCount": 11,
       "createdAt": "2025-06-12T07:01:00Z",
       "thumbnail": {
@@ -502,7 +502,7 @@
       "name": "Ad compliance checker by Hawky.ai",
       "tagline": "EAA 2025 free compliance checker tool",
       "url": "https://www.producthunt.com/posts/ad-compliance-checker-by-hawky-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 97,
+      "votesCount": 96,
       "commentsCount": 13,
       "createdAt": "2025-06-12T07:01:00Z",
       "thumbnail": {
@@ -533,7 +533,7 @@
       "name": "CigLit",
       "tagline": "Track, analyze, and transform your smoking habits",
       "url": "https://www.producthunt.com/posts/ciglit?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 76,
+      "votesCount": 75,
       "commentsCount": 2,
       "createdAt": "2025-06-12T07:01:00Z",
       "thumbnail": {
