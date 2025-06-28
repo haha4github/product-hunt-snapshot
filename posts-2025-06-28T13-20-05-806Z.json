@@ -1,12 +1,12 @@
 {
-  "fetchedAt": "2025-06-28T12:48:55.469Z",
+  "fetchedAt": "2025-06-28T13:20:05.806Z",
   "posts": [
     {
       "id": "981511",
       "name": "DeskMinder²",
       "tagline": "Create quick desktop reminders with just one click",
       "url": "https://www.producthunt.com/posts/deskminder-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 217,
+      "votesCount": 231,
       "commentsCount": 17,
       "createdAt": "2025-06-28T07:01:00Z",
       "thumbnail": {
@@ -33,11 +33,37 @@
       }
     },
     {
+      "id": "984135",
+      "name": "Fullpack",
+      "tagline": "On-Device Item Extraction & Inventory Management",
+      "url": "https://www.producthunt.com/posts/fullpack?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 169,
+      "commentsCount": 9,
+      "createdAt": "2025-06-28T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/5152cf8d-4bbf-43f2-8999-e6bcd7ba24c6.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Travel"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "983408",
       "name": "Mintly 1.0",
       "tagline": "Clone ads from the biggest companies in the world",
       "url": "https://www.producthunt.com/posts/mintly-1-0?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 159,
+      "votesCount": 164,
       "commentsCount": 4,
       "createdAt": "2025-06-28T07:01:00Z",
       "thumbnail": {
@@ -64,69 +90,12 @@
       }
     },
     {
-      "id": "974389",
-      "name": "Herodot AI",
-      "tagline": "App to unlock tales of any landmark around. From photo & map",
-      "url": "https://www.producthunt.com/posts/herodot-ai-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 149,
-      "commentsCount": 9,
-      "createdAt": "2025-06-28T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/8edd81ce-4b29-4198-beb2-e6ae02f29995.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Travel"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          },
-          {
-            "node": {
-              "name": "Maps"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "984135",
-      "name": "Fullpack",
-      "tagline": "On-Device Item Extraction & Inventory Management",
-      "url": "https://www.producthunt.com/posts/fullpack?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 148,
-      "commentsCount": 9,
-      "createdAt": "2025-06-28T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/5152cf8d-4bbf-43f2-8999-e6bcd7ba24c6.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Travel"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "984735",
       "name": "Content Gap Report for LLM SEO",
       "tagline": "Turn content gaps into traffic that converts",
       "url": "https://www.producthunt.com/posts/content-gap-report-for-llm-seo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 145,
-      "commentsCount": 22,
+      "votesCount": 160,
+      "commentsCount": 28,
       "createdAt": "2025-06-28T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/3dea929f-16ad-4768-a850-0e5142457ccb.png?auto=format"
@@ -152,11 +121,42 @@
       }
     },
     {
+      "id": "974389",
+      "name": "Herodot AI",
+      "tagline": "App to unlock tales of any landmark around. From photo & map",
+      "url": "https://www.producthunt.com/posts/herodot-ai-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 152,
+      "commentsCount": 11,
+      "createdAt": "2025-06-28T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/8edd81ce-4b29-4198-beb2-e6ae02f29995.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Travel"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "Maps"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "984598",
       "name": "FitAndView+",
       "tagline": "Fitness app with the World",
       "url": "https://www.producthunt.com/posts/fitandview?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 123,
+      "votesCount": 124,
       "commentsCount": 10,
       "createdAt": "2025-06-28T07:01:00Z",
       "thumbnail": {
@@ -187,7 +187,7 @@
       "name": "TimeDay",
       "tagline": "your all-in-one focus timer.",
       "url": "https://www.producthunt.com/posts/timeday?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 111,
+      "votesCount": 112,
       "commentsCount": 2,
       "createdAt": "2025-06-28T07:01:00Z",
       "thumbnail": {
@@ -218,7 +218,7 @@
       "name": "Scira AI 2.0",
       "tagline": "A minimalistic open source AI-powered search engine.",
       "url": "https://www.producthunt.com/posts/scira-ai-2-0?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 23,
+      "votesCount": 25,
       "commentsCount": 10,
       "createdAt": "2025-06-28T07:01:00Z",
       "thumbnail": {
@@ -250,7 +250,7 @@
       "tagline": "Learn Coding and AI, Simply.",
       "url": "https://www.producthunt.com/posts/codefriends-learning-platform?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 16,
-      "commentsCount": 4,
+      "commentsCount": 9,
       "createdAt": "2025-06-28T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/282062f0-b38b-4ae1-bc5d-ad4bb10150fe.vnd.microsoft.icon?auto=format"
@@ -280,7 +280,7 @@
       "name": "SugarLess",
       "tagline": "AI tracks sugar. You build better habits.",
       "url": "https://www.producthunt.com/posts/sugarless-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 14,
+      "votesCount": 15,
       "commentsCount": 14,
       "createdAt": "2025-06-28T07:01:00Z",
       "thumbnail": {
@@ -312,7 +312,7 @@
       "tagline": "popups people actually like",
       "url": "https://www.producthunt.com/posts/heycustomer?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 12,
-      "commentsCount": 1,
+      "commentsCount": 3,
       "createdAt": "2025-06-28T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/a2304413-8776-4528-8525-40cdd15e6abc.png?auto=format"
@@ -333,11 +333,47 @@
       }
     },
     {
+      "id": "984945",
+      "name": "HealthyAI - Nutrition Scanner",
+      "tagline": "Know What You’re Eating. Scan Smarter. Choose Healthier.",
+      "url": "https://www.producthunt.com/posts/healthyai-nutrition-scanner?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 7,
+      "commentsCount": 1,
+      "createdAt": "2025-06-28T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/e4e1c5b5-ab12-4c51-a8e4-085050a69710.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Android"
+            }
+          },
+          {
+            "node": {
+              "name": "Health & Fitness"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "Nutrition"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "984879",
       "name": "LLMs In 100 Images",
       "tagline": "100 Concepts You Need To Really Understand LLMs",
       "url": "https://www.producthunt.com/posts/llms-in-100-images?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 5,
+      "votesCount": 6,
       "commentsCount": 1,
       "createdAt": "2025-06-28T07:01:00Z",
       "thumbnail": {
@@ -358,37 +394,6 @@
           {
             "node": {
               "name": "Data Science"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "984783",
-      "name": "SaaSRocket",
-      "tagline": "Launch your saas in hours, not months",
-      "url": "https://www.producthunt.com/posts/saasrocket?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 5,
-      "commentsCount": 1,
-      "createdAt": "2025-06-28T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/5fe6d26c-6d8a-4dcc-b654-fc6dedd9a0c2.x-icon?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Marketing"
-            }
-          },
-          {
-            "node": {
-              "name": "SEO"
-            }
-          },
-          {
-            "node": {
-              "name": "SaaS"
             }
           }
         ]
@@ -426,6 +431,37 @@
       }
     },
     {
+      "id": "984783",
+      "name": "SaaSRocket",
+      "tagline": "Launch your saas in hours, not months",
+      "url": "https://www.producthunt.com/posts/saasrocket?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 5,
+      "commentsCount": 1,
+      "createdAt": "2025-06-28T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/5fe6d26c-6d8a-4dcc-b654-fc6dedd9a0c2.x-icon?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Marketing"
+            }
+          },
+          {
+            "node": {
+              "name": "SEO"
+            }
+          },
+          {
+            "node": {
+              "name": "SaaS"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "984628",
       "name": "HabitStock - Habit Tracker",
       "tagline": "Track your life like the stock market",
@@ -456,7 +492,7 @@
       "name": "DevHub",
       "tagline": "Developer integration tools",
       "url": "https://www.producthunt.com/posts/devhub-7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 4,
+      "votesCount": 5,
       "commentsCount": 0,
       "createdAt": "2025-06-28T07:01:00Z",
       "thumbnail": {
@@ -477,7 +513,7 @@
       "name": "Made For Teams",
       "tagline": "No logins. No friction. Just teamwork",
       "url": "https://www.producthunt.com/posts/made-for-teams?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 4,
+      "votesCount": 5,
       "commentsCount": 2,
       "createdAt": "2025-06-28T07:01:00Z",
       "thumbnail": {
@@ -498,6 +534,37 @@
           {
             "node": {
               "name": "Chat rooms"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "984891",
+      "name": "Momentarily",
+      "tagline": "30 Seconds of uninterrupted attention. All of it, on you.",
+      "url": "https://www.producthunt.com/posts/momentarily?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 5,
+      "commentsCount": 2,
+      "createdAt": "2025-06-28T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/eb872e7f-11d3-482a-af93-647eb028a0c3.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Email"
+            }
+          },
+          {
+            "node": {
+              "name": "Marketing"
+            }
+          },
+          {
+            "node": {
+              "name": "Community"
             }
           }
         ]
@@ -529,68 +596,6 @@
           {
             "node": {
               "name": "Health"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "984891",
-      "name": "Momentarily",
-      "tagline": "30 Seconds of uninterrupted attention. All of it, on you.",
-      "url": "https://www.producthunt.com/posts/momentarily?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 4,
-      "commentsCount": 2,
-      "createdAt": "2025-06-28T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/eb872e7f-11d3-482a-af93-647eb028a0c3.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Email"
-            }
-          },
-          {
-            "node": {
-              "name": "Marketing"
-            }
-          },
-          {
-            "node": {
-              "name": "Community"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "984991",
-      "name": "Clickwar.games",
-      "tagline": "Launch missiles to conquer countries and expand your empire",
-      "url": "https://www.producthunt.com/posts/clickwar-games?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 4,
-      "commentsCount": 1,
-      "createdAt": "2025-06-28T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/d346a22f-0440-4207-9fbd-b3214f72eb18.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Indie Games"
-            }
-          },
-          {
-            "node": {
-              "name": "Free Games"
-            }
-          },
-          {
-            "node": {
-              "name": "Games"
             }
           }
         ]
