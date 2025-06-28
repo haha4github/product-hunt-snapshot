@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2025-06-28T11:28:44.008Z",
+  "fetchedAt": "2025-06-28T11:43:04.623Z",
   "posts": [
     {
       "id": "981511",
       "name": "DeskMinder²",
       "tagline": "Create quick desktop reminders with just one click",
       "url": "https://www.producthunt.com/posts/deskminder-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 198,
-      "commentsCount": 13,
+      "votesCount": 201,
+      "commentsCount": 14,
       "createdAt": "2025-06-28T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/0c0027e1-e334-4eba-a3ea-4ecdf9232447.png?auto=format"
@@ -37,7 +37,7 @@
       "name": "Mintly 1.0",
       "tagline": "Clone ads from the biggest companies in the world",
       "url": "https://www.producthunt.com/posts/mintly-1-0?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 145,
+      "votesCount": 147,
       "commentsCount": 2,
       "createdAt": "2025-06-28T07:01:00Z",
       "thumbnail": {
@@ -100,7 +100,7 @@
       "tagline": "Turn content gaps into traffic that converts",
       "url": "https://www.producthunt.com/posts/content-gap-report-for-llm-seo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 140,
-      "commentsCount": 14,
+      "commentsCount": 16,
       "createdAt": "2025-06-28T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/3dea929f-16ad-4768-a850-0e5142457ccb.png?auto=format"
@@ -157,7 +157,7 @@
       "tagline": "Fitness app with the World",
       "url": "https://www.producthunt.com/posts/fitandview?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 121,
-      "commentsCount": 9,
+      "commentsCount": 10,
       "createdAt": "2025-06-28T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/b1f46031-26e3-46ee-8c98-57e95519a128.png?auto=format"
@@ -280,7 +280,7 @@
       "name": "SugarLess",
       "tagline": "AI tracks sugar. You build better habits.",
       "url": "https://www.producthunt.com/posts/sugarless-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 11,
+      "votesCount": 12,
       "commentsCount": 2,
       "createdAt": "2025-06-28T07:01:00Z",
       "thumbnail": {
@@ -359,23 +359,18 @@
       }
     },
     {
-      "id": "985001",
-      "name": "PRAI.TODAY - Get Recognized by AI",
-      "tagline": "PR AI agent does research, optimization, and publishing",
-      "url": "https://www.producthunt.com/posts/prai-today-get-recognized-by-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "id": "984783",
+      "name": "SaaSRocket",
+      "tagline": "Launch your saas in hours, not months",
+      "url": "https://www.producthunt.com/posts/saasrocket?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 4,
       "commentsCount": 1,
       "createdAt": "2025-06-28T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/31b7a3f4-067d-49e1-ab00-434bba1c8f0e.png?auto=format"
+        "url": "https://ph-files.imgix.net/5fe6d26c-6d8a-4dcc-b654-fc6dedd9a0c2.x-icon?auto=format"
       },
       "topics": {
         "edges": [
-          {
-            "node": {
-              "name": "Public Relations"
-            }
-          },
           {
             "node": {
               "name": "Marketing"
@@ -383,12 +378,12 @@
           },
           {
             "node": {
-              "name": "SaaS"
+              "name": "SEO"
             }
           },
           {
             "node": {
-              "name": "GitHub"
+              "name": "SaaS"
             }
           }
         ]
@@ -426,6 +421,42 @@
       }
     },
     {
+      "id": "985001",
+      "name": "PRAI.TODAY - Get Recognized by AI",
+      "tagline": "PR AI agent does research, optimization, and publishing",
+      "url": "https://www.producthunt.com/posts/prai-today-get-recognized-by-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 4,
+      "commentsCount": 1,
+      "createdAt": "2025-06-28T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/31b7a3f4-067d-49e1-ab00-434bba1c8f0e.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Public Relations"
+            }
+          },
+          {
+            "node": {
+              "name": "Marketing"
+            }
+          },
+          {
+            "node": {
+              "name": "SaaS"
+            }
+          },
+          {
+            "node": {
+              "name": "GitHub"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "984382",
       "name": "DevHub",
       "tagline": "Developer integration tools",
@@ -441,6 +472,37 @@
           {
             "node": {
               "name": "Developer Tools"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "984729",
+      "name": "TalkNote",
+      "tagline": "AI-powered voice notes",
+      "url": "https://www.producthunt.com/posts/talknote?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 4,
+      "commentsCount": 1,
+      "createdAt": "2025-06-28T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/00dcf962-1dab-493c-875b-fe48a1cc1e63.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Notes"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
             }
           }
         ]
@@ -478,94 +540,6 @@
       }
     },
     {
-      "id": "984783",
-      "name": "SaaSRocket",
-      "tagline": "Launch your saas in hours, not months",
-      "url": "https://www.producthunt.com/posts/saasrocket?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 4,
-      "commentsCount": 1,
-      "createdAt": "2025-06-28T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/5fe6d26c-6d8a-4dcc-b654-fc6dedd9a0c2.x-icon?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Marketing"
-            }
-          },
-          {
-            "node": {
-              "name": "SEO"
-            }
-          },
-          {
-            "node": {
-              "name": "SaaS"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "984917",
-      "name": "Video Decks",
-      "tagline": "AI-generated video slides with summaries and key moments",
-      "url": "https://www.producthunt.com/posts/video-decks?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 4,
-      "commentsCount": 1,
-      "createdAt": "2025-06-28T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/1fd2a808-c7ca-4141-936d-c8c407ce7d1f.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Video"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "984979",
-      "name": "LLM Logs",
-      "tagline": "An open source guide on how to grow your AI Search",
-      "url": "https://www.producthunt.com/posts/llm-logs?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 4,
-      "commentsCount": 1,
-      "createdAt": "2025-06-28T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/207cbf4d-f0f5-4749-8a3b-cbb971ab46b5.jpeg?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Open Source"
-            }
-          },
-          {
-            "node": {
-              "name": "SEO"
-            }
-          },
-          {
-            "node": {
-              "name": "GitHub"
-            }
-          },
-          {
-            "node": {
-              "name": "Tech"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "984964",
       "name": "Vogue Veo 3 Generator",
       "tagline": "Cheapest Veo 3 Generator to Power Your Content Creation.",
@@ -591,6 +565,27 @@
           {
             "node": {
               "name": "Beauty"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "984917",
+      "name": "Video Decks",
+      "tagline": "AI-generated video slides with summaries and key moments",
+      "url": "https://www.producthunt.com/posts/video-decks?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 4,
+      "commentsCount": 1,
+      "createdAt": "2025-06-28T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/1fd2a808-c7ca-4141-936d-c8c407ce7d1f.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Video"
             }
           }
         ]
