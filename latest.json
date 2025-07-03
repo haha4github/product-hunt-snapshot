@@ -1,12 +1,12 @@
 {
-  "fetchedAt": "2025-07-03T14:17:16.452Z",
+  "fetchedAt": "2025-07-03T14:41:09.850Z",
   "posts": [
     {
       "id": "980877",
       "name": "Skala",
       "tagline": "Legal platform for startups",
       "url": "https://www.producthunt.com/products/skala?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 425,
+      "votesCount": 437,
       "commentsCount": 49,
       "createdAt": "2025-07-03T07:01:00Z",
       "thumbnail": {
@@ -37,8 +37,8 @@
       "name": "AppStruct",
       "tagline": "No-code app builder",
       "url": "https://www.producthunt.com/products/appstruct?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 320,
-      "commentsCount": 35,
+      "votesCount": 338,
+      "commentsCount": 36,
       "createdAt": "2025-07-03T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/6995d9a6-eb85-42e9-8093-45521c2841f0.svg?auto=format"
@@ -68,7 +68,7 @@
       "name": "Autocoder.cc",
       "tagline": "The 1st full stack vibe coding tool",
       "url": "https://www.producthunt.com/products/autocoder-cc?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 261,
+      "votesCount": 276,
       "commentsCount": 41,
       "createdAt": "2025-07-03T07:01:00Z",
       "thumbnail": {
@@ -99,11 +99,11 @@
       "name": "LLM Gateway",
       "tagline": "Use any AI model with just one API",
       "url": "https://www.producthunt.com/products/llm-gateway?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 180,
+      "votesCount": 187,
       "commentsCount": 10,
       "createdAt": "2025-07-03T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/2ead2d19-721f-430a-8be9-f4ea01314eca.png?auto=format"
+        "url": "https://ph-files.imgix.net/c2dfedf5-ce71-4f9f-97c4-b06c4940b6a8.png?auto=format"
       },
       "topics": {
         "edges": [
@@ -131,11 +131,42 @@
       }
     },
     {
+      "id": "974308",
+      "name": "Livecaller",
+      "tagline": "Caller ID that works. Now for iOS.",
+      "url": "https://www.producthunt.com/products/livecaller-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 162,
+      "commentsCount": 10,
+      "createdAt": "2025-07-03T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/46b8e181-959a-4fca-918d-180c17010f80.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "iOS"
+            }
+          },
+          {
+            "node": {
+              "name": "Privacy"
+            }
+          },
+          {
+            "node": {
+              "name": "Apple"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "984669",
       "name": "OpenMemory Chrome Extension",
       "tagline": "Sync memory across AI's so they pick up where you left off.",
       "url": "https://www.producthunt.com/products/openmemory-chrome-extension?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 157,
+      "votesCount": 160,
       "commentsCount": 3,
       "createdAt": "2025-07-03T07:01:00Z",
       "thumbnail": {
@@ -156,37 +187,6 @@
           {
             "node": {
               "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "974308",
-      "name": "Livecaller",
-      "tagline": "Caller ID that works. Now for iOS.",
-      "url": "https://www.producthunt.com/products/livecaller-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 148,
-      "commentsCount": 8,
-      "createdAt": "2025-07-03T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/46b8e181-959a-4fca-918d-180c17010f80.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "iOS"
-            }
-          },
-          {
-            "node": {
-              "name": "Privacy"
-            }
-          },
-          {
-            "node": {
-              "name": "Apple"
             }
           }
         ]
@@ -262,7 +262,7 @@
     {
       "id": "986414",
       "name": "Memolect",
-      "tagline": "AI meeting notetaker that updates your Jira",
+      "tagline": "AI meeting notetaker for devs",
       "url": "https://www.producthunt.com/products/memolect?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 126,
       "commentsCount": 3,
@@ -295,7 +295,7 @@
       "name": "Product Hunt – Feed-mode",
       "tagline": "Consume Product Hunt as if it were a feed",
       "url": "https://www.producthunt.com/products/product-hunt-feed-mode?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 122,
+      "votesCount": 123,
       "commentsCount": 10,
       "createdAt": "2025-07-03T07:01:00Z",
       "thumbnail": {
@@ -347,8 +347,8 @@
       "name": "Dumbnote",
       "tagline": "Offline-first Markdown note app. No lock-in. Just write.",
       "url": "https://www.producthunt.com/products/dumbnote?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 114,
-      "commentsCount": 5,
+      "votesCount": 115,
+      "commentsCount": 7,
       "createdAt": "2025-07-03T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/dde61014-8429-4a96-820d-a6c7124bbaa1.png?auto=format"
@@ -384,7 +384,7 @@
       "tagline": "Your Internet traffic, under your control",
       "url": "https://www.producthunt.com/products/sniffnet?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 111,
-      "commentsCount": 1,
+      "commentsCount": 2,
       "createdAt": "2025-07-03T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/a7a5c068-8b49-4260-afeb-f1732463ffef.png?auto=format"
@@ -435,8 +435,8 @@
       "name": "Wagoo",
       "tagline": "Private desktop assistant-reduce friction & run local",
       "url": "https://www.producthunt.com/products/wagoo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 108,
-      "commentsCount": 5,
+      "votesCount": 110,
+      "commentsCount": 9,
       "createdAt": "2025-07-03T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/fbb81bfd-96fc-4315-950c-ed1bcfac5a7a.png?auto=format"
@@ -445,17 +445,17 @@
         "edges": [
           {
             "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
               "name": "Privacy"
             }
           },
           {
             "node": {
               "name": "Artificial Intelligence"
-            }
-          },
-          {
-            "node": {
-              "name": "Virtual Assistants"
             }
           }
         ]
@@ -559,8 +559,8 @@
       "name": "Pulse ",
       "tagline": "Wearable that helps you test what actually works.",
       "url": "https://www.producthunt.com/products/pulse-20?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 73,
-      "commentsCount": 21,
+      "votesCount": 74,
+      "commentsCount": 25,
       "createdAt": "2025-07-03T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/327cee7e-f5d1-45e7-aca0-d9429eea95b4.png?auto=format"
