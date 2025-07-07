@@ -1,12 +1,12 @@
 {
-  "fetchedAt": "2025-07-07T07:43:48.546Z",
+  "fetchedAt": "2025-07-07T07:56:17.565Z",
   "posts": [
     {
       "id": "984714",
       "name": "Stepfun Diligence Check",
       "tagline": "AI-powered search with agent-verified citations",
       "url": "https://www.producthunt.com/products/stepfun?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 102,
+      "votesCount": 121,
       "commentsCount": 10,
       "createdAt": "2025-07-07T07:01:00Z",
       "thumbnail": {
@@ -37,7 +37,7 @@
       "name": "TensorBlock Forge",
       "tagline": "One API for All AI Models",
       "url": "https://www.producthunt.com/products/tensorblock-forge?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 77,
+      "votesCount": 83,
       "commentsCount": 1,
       "createdAt": "2025-07-07T07:01:00Z",
       "thumbnail": {
@@ -68,7 +68,7 @@
       "name": "OneNode",
       "tagline": "Simplest Backend for AI Coding - Open Source",
       "url": "https://www.producthunt.com/products/onenode?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 68,
+      "votesCount": 81,
       "commentsCount": 1,
       "createdAt": "2025-07-07T07:01:00Z",
       "thumbnail": {
@@ -99,7 +99,7 @@
       "name": "Context",
       "tagline": "The AI Office Suite",
       "url": "https://www.producthunt.com/products/context-8?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 67,
+      "votesCount": 73,
       "commentsCount": 2,
       "createdAt": "2025-07-07T07:01:00Z",
       "thumbnail": {
@@ -126,11 +126,42 @@
       }
     },
     {
+      "id": "985670",
+      "name": "Sara, the AI Interviewer",
+      "tagline": "Hire 10X faster. Unbiased structured interviews, 24/7.",
+      "url": "https://www.producthunt.com/products/sara-the-ai-interviewer?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 72,
+      "commentsCount": 3,
+      "createdAt": "2025-07-07T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/68c2b93a-429d-4b51-8c1c-6c61934339f3.jpeg?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Hiring"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "Business"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "988801",
       "name": "Blogwald",
       "tagline": "Structure content for llms and search engines",
       "url": "https://www.producthunt.com/products/blogwald?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 66,
+      "votesCount": 71,
       "commentsCount": 2,
       "createdAt": "2025-07-07T07:01:00Z",
       "thumbnail": {
@@ -161,7 +192,7 @@
       "name": "Voicebun",
       "tagline": "Build voice agents in seconds",
       "url": "https://www.producthunt.com/products/voicebun?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 65,
+      "votesCount": 69,
       "commentsCount": 1,
       "createdAt": "2025-07-07T07:01:00Z",
       "thumbnail": {
@@ -188,73 +219,11 @@
       }
     },
     {
-      "id": "985670",
-      "name": "Sara, the AI Interviewer",
-      "tagline": "Hire 10X faster. Unbiased structured interviews, 24/7.",
-      "url": "https://www.producthunt.com/products/sara-the-ai-interviewer?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 64,
-      "commentsCount": 2,
-      "createdAt": "2025-07-07T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/68c2b93a-429d-4b51-8c1c-6c61934339f3.jpeg?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Hiring"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          },
-          {
-            "node": {
-              "name": "Business"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "988877",
-      "name": "DockFix",
-      "tagline": "Customize Your macOS Dock Like Never Before",
-      "url": "https://www.producthunt.com/products/dockfix?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 59,
-      "commentsCount": 1,
-      "createdAt": "2025-07-07T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/e9734c8f-05d1-4c0f-8d75-8abd04d207ad.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Menu Bar Apps"
-            }
-          },
-          {
-            "node": {
-              "name": "Apple"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "988252",
       "name": "Viseal",
       "tagline": "Immersive Language Learning from Your Daily Scenes",
       "url": "https://www.producthunt.com/products/viseal?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 59,
+      "votesCount": 67,
       "commentsCount": 1,
       "createdAt": "2025-07-07T07:01:00Z",
       "thumbnail": {
@@ -285,7 +254,7 @@
       "name": "Iconize Folder",
       "tagline": " Customize folder color & icon & text",
       "url": "https://www.producthunt.com/products/iconize-folder?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 57,
+      "votesCount": 64,
       "commentsCount": 1,
       "createdAt": "2025-07-07T07:01:00Z",
       "thumbnail": {
@@ -312,12 +281,43 @@
       }
     },
     {
+      "id": "988877",
+      "name": "DockFix",
+      "tagline": "Customize Your macOS Dock Like Never Before",
+      "url": "https://www.producthunt.com/products/dockfix?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 62,
+      "commentsCount": 1,
+      "createdAt": "2025-07-07T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/e9734c8f-05d1-4c0f-8d75-8abd04d207ad.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Menu Bar Apps"
+            }
+          },
+          {
+            "node": {
+              "name": "Apple"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "989280",
       "name": "Tracking Languages",
       "tagline": "Track your language progress, one video at a time",
       "url": "https://www.producthunt.com/products/tracking-languages?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 56,
-      "commentsCount": 0,
+      "votesCount": 58,
+      "commentsCount": 1,
       "createdAt": "2025-07-07T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/8c0793c6-e26f-45cc-9406-24f803a3d592.png?auto=format"
@@ -352,7 +352,7 @@
       "name": "Jukebox",
       "tagline": "Free alternative to Spotify Collaborative Playlists",
       "url": "https://www.producthunt.com/products/jukebox-6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 51,
+      "votesCount": 56,
       "commentsCount": 1,
       "createdAt": "2025-07-07T07:01:00Z",
       "thumbnail": {
@@ -388,8 +388,8 @@
       "name": "Muapi",
       "tagline": "The Ultimate Platform for AI Image & Video Generation",
       "url": "https://www.producthunt.com/products/muapi?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 16,
-      "commentsCount": 2,
+      "votesCount": 23,
+      "commentsCount": 3,
       "createdAt": "2025-07-07T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/455917bb-f852-4a3e-bbae-c6e8b5b8e4d0.png?auto=format"
@@ -419,7 +419,7 @@
       "name": "Saski AI",
       "tagline": "Multichannel AI Support Built for SMB's",
       "url": "https://www.producthunt.com/products/saski-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 7,
+      "votesCount": 13,
       "commentsCount": 7,
       "createdAt": "2025-07-07T07:01:00Z",
       "thumbnail": {
@@ -481,7 +481,7 @@
       "name": "SpeedTrackr",
       "tagline": "Train smarter. Sprint faster. Powered by AI",
       "url": "https://www.producthunt.com/products/speedtrackr?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 6,
+      "votesCount": 7,
       "commentsCount": 1,
       "createdAt": "2025-07-07T07:01:00Z",
       "thumbnail": {
@@ -502,6 +502,37 @@
           {
             "node": {
               "name": "Sports"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "984419",
+      "name": "Qualz.ai® Insights Agent ",
+      "tagline": "Find PMF, Scale, and Raise — Confidently in Days ",
+      "url": "https://www.producthunt.com/products/insightsagent?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 5,
+      "commentsCount": 1,
+      "createdAt": "2025-07-07T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/c419f87f-e36e-4bc4-8d27-8a73e448bc28.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Marketing"
+            }
+          },
+          {
+            "node": {
+              "name": "SaaS"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
             }
           }
         ]
@@ -570,21 +601,21 @@
       }
     },
     {
-      "id": "984419",
-      "name": "Qualz.ai® Insights Agent ",
-      "tagline": "Find PMF, Scale, and Raise — Confidently in Days ",
-      "url": "https://www.producthunt.com/products/insightsagent?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "id": "989046",
+      "name": "Material UI 3 (beta)",
+      "tagline": "Style it your way",
+      "url": "https://www.producthunt.com/products/material-ui-3-beta?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 3,
-      "commentsCount": 1,
+      "commentsCount": 2,
       "createdAt": "2025-07-07T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/c419f87f-e36e-4bc4-8d27-8a73e448bc28.png?auto=format"
+        "url": "https://ph-files.imgix.net/72c05ceb-2915-42e3-a17d-0278ded87c26.png?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "Marketing"
+              "name": "Open Source"
             }
           },
           {
@@ -594,38 +625,12 @@
           },
           {
             "node": {
-              "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "984798",
-      "name": "Flash Voucher",
-      "tagline": "First AI-Powered Cheapest Coupon Finder",
-      "url": "https://www.producthunt.com/products/flash-voucher?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 3,
-      "commentsCount": 1,
-      "createdAt": "2025-07-07T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/640699be-737c-49bb-abfc-74c939c84ac7.jpeg?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Marketing"
+              "name": "Developer Tools"
             }
           },
           {
             "node": {
-              "name": "Artificial Intelligence"
-            }
-          },
-          {
-            "node": {
-              "name": "E-Commerce"
+              "name": "GitHub"
             }
           }
         ]
