@@ -1,12 +1,12 @@
 {
-  "fetchedAt": "2025-07-12T15:45:37.743Z",
+  "fetchedAt": "2025-07-12T15:58:09.619Z",
   "posts": [
     {
       "id": "991572",
       "name": "Speech in Flow",
       "tagline": "Bring your images to life with speech",
       "url": "https://www.producthunt.com/products/google-labs?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 251,
+      "votesCount": 253,
       "commentsCount": 7,
       "createdAt": "2025-07-12T07:01:00Z",
       "thumbnail": {
@@ -32,7 +32,7 @@
       "name": "Essays by Paul Graham GPT",
       "tagline": "A tool for thinking — unrestrictive and full of surprises.",
       "url": "https://www.producthunt.com/products/essays-by-paul-graham-gpt?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 223,
+      "votesCount": 228,
       "commentsCount": 15,
       "createdAt": "2025-07-12T07:01:00Z",
       "thumbnail": {
@@ -58,7 +58,7 @@
       "name": "Iconed",
       "tagline": "Create icons for apps and folders — fast and beautifully.",
       "url": "https://www.producthunt.com/products/iconed?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 203,
+      "votesCount": 206,
       "commentsCount": 8,
       "createdAt": "2025-07-12T07:01:00Z",
       "thumbnail": {
@@ -89,7 +89,7 @@
       "name": "Qwen Chat for Desktop",
       "tagline": "Qwen Chat are now available for macOS",
       "url": "https://www.producthunt.com/products/qwq-max?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 183,
+      "votesCount": 184,
       "commentsCount": 4,
       "createdAt": "2025-07-12T07:01:00Z",
       "thumbnail": {
@@ -110,7 +110,7 @@
       "name": "Quit Confirmer for Safari",
       "tagline": "Prevent accidental Safari quit",
       "url": "https://www.producthunt.com/products/quit-confirmer-for-safari?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 145,
+      "votesCount": 146,
       "commentsCount": 9,
       "createdAt": "2025-07-12T07:01:00Z",
       "thumbnail": {
@@ -193,7 +193,7 @@
       "name": "Videnly",
       "tagline": "Create and publish viral AI videos in minutes",
       "url": "https://www.producthunt.com/products/videnly?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 31,
+      "votesCount": 32,
       "commentsCount": 8,
       "createdAt": "2025-07-12T07:01:00Z",
       "thumbnail": {
@@ -271,6 +271,37 @@
           {
             "node": {
               "name": "Developer Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "991356",
+      "name": "Leadlee",
+      "tagline": "Find your next customer on Reddit—automatically.",
+      "url": "https://www.producthunt.com/products/leadlee?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 10,
+      "commentsCount": 1,
+      "createdAt": "2025-07-12T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/90f2359f-f152-4327-8310-20bce09d6578.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Sales"
+            }
+          },
+          {
+            "node": {
+              "name": "Marketing"
             }
           },
           {
@@ -369,37 +400,6 @@
           {
             "node": {
               "name": "Tech"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "991356",
-      "name": "Leadlee",
-      "tagline": "Find your next customer on Reddit—automatically.",
-      "url": "https://www.producthunt.com/products/leadlee?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 8,
-      "commentsCount": 1,
-      "createdAt": "2025-07-12T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/90f2359f-f152-4327-8310-20bce09d6578.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Sales"
-            }
-          },
-          {
-            "node": {
-              "name": "Marketing"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
             }
           }
         ]
