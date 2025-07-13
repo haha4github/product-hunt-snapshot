@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2025-07-13T18:44:11.471Z",
+  "fetchedAt": "2025-07-13T18:57:18.815Z",
   "posts": [
     {
       "id": "988054",
       "name": "Mockin",
       "tagline": "Job interview simulator for UX/UI & product designers",
       "url": "https://www.producthunt.com/products/mockin-for-product-designers?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 300,
-      "commentsCount": 42,
+      "votesCount": 301,
+      "commentsCount": 43,
       "createdAt": "2025-07-13T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/9fbe52a7-c2de-41e6-b896-e62dd0e4b393.png?auto=format"
@@ -37,7 +37,7 @@
       "name": "LLM SEO Trends",
       "tagline": "Monitor 2200+ live trends with real search volumes",
       "url": "https://www.producthunt.com/products/llm-seo-trends?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 254,
+      "votesCount": 256,
       "commentsCount": 32,
       "createdAt": "2025-07-13T07:01:00Z",
       "thumbnail": {
@@ -151,7 +151,7 @@
       "name": "Motiff AI 2.0",
       "tagline": "Chat with your UI design partner",
       "url": "https://www.producthunt.com/products/motiff?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 142,
+      "votesCount": 143,
       "commentsCount": 2,
       "createdAt": "2025-07-13T07:01:00Z",
       "thumbnail": {
@@ -265,7 +265,7 @@
       "name": "Brandthetics",
       "tagline": "Turn talking videos into viral cinematic short-form content",
       "url": "https://www.producthunt.com/products/brandthetics?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 39,
+      "votesCount": 40,
       "commentsCount": 11,
       "createdAt": "2025-07-13T07:01:00Z",
       "thumbnail": {
@@ -478,42 +478,11 @@
       }
     },
     {
-      "id": "985388",
-      "name": "SalesBot",
-      "tagline": "Sell in your sleep with AI-Powered Sales Chatbot",
-      "url": "https://www.producthunt.com/products/salesbot-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 10,
-      "commentsCount": 2,
-      "createdAt": "2025-07-13T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/611956de-afd2-4404-a1e2-c2b3e0843561.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Sales"
-            }
-          },
-          {
-            "node": {
-              "name": "Marketing"
-            }
-          },
-          {
-            "node": {
-              "name": "Bots"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "991988",
       "name": "Dutiap AI Photo Rate & Style Insights",
       "tagline": "AI photo rating across 15 factors & beauty recommendations",
       "url": "https://www.producthunt.com/products/dutiap?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 9,
+      "votesCount": 10,
       "commentsCount": 1,
       "createdAt": "2025-07-13T07:01:00Z",
       "thumbnail": {
@@ -539,6 +508,37 @@
           {
             "node": {
               "name": "Photography"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "985388",
+      "name": "SalesBot",
+      "tagline": "Sell in your sleep with AI-Powered Sales Chatbot",
+      "url": "https://www.producthunt.com/products/salesbot-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 10,
+      "commentsCount": 2,
+      "createdAt": "2025-07-13T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/611956de-afd2-4404-a1e2-c2b3e0843561.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Sales"
+            }
+          },
+          {
+            "node": {
+              "name": "Marketing"
+            }
+          },
+          {
+            "node": {
+              "name": "Bots"
             }
           }
         ]
