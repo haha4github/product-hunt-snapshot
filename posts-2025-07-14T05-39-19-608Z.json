@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2025-07-14T05:04:01.379Z",
+  "fetchedAt": "2025-07-14T05:39:19.608Z",
   "posts": [
     {
       "id": "988054",
       "name": "Mockin",
       "tagline": "Job interview simulator for UX/UI & product designers",
       "url": "https://www.producthunt.com/products/mockin-for-product-designers?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 401,
-      "commentsCount": 64,
+      "votesCount": 406,
+      "commentsCount": 65,
       "createdAt": "2025-07-13T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/9fbe52a7-c2de-41e6-b896-e62dd0e4b393.png?auto=format"
@@ -37,7 +37,7 @@
       "name": "LLM SEO Trends",
       "tagline": "Monitor 2200+ live trends with real search volumes",
       "url": "https://www.producthunt.com/products/llm-seo-trends?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 340,
+      "votesCount": 343,
       "commentsCount": 40,
       "createdAt": "2025-07-13T07:01:00Z",
       "thumbnail": {
@@ -68,8 +68,8 @@
       "name": "Kimi K2",
       "tagline": "The 1T parameter open model for agentic intelligence",
       "url": "https://www.producthunt.com/products/kimi-k2-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 307,
-      "commentsCount": 10,
+      "votesCount": 309,
+      "commentsCount": 11,
       "createdAt": "2025-07-13T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/39c378a7-6389-4542-ad70-067a6c011d3e.png?auto=format"
@@ -99,7 +99,7 @@
       "name": "Planori",
       "tagline": "a simple planner where you can create & share plans with AI",
       "url": "https://www.producthunt.com/products/planori?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 248,
+      "votesCount": 252,
       "commentsCount": 24,
       "createdAt": "2025-07-13T07:01:00Z",
       "thumbnail": {
@@ -120,7 +120,7 @@
       "name": "Auralix",
       "tagline": "Your notes, explained out loud by a live AI tutor",
       "url": "https://www.producthunt.com/products/auralix?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 196,
+      "votesCount": 199,
       "commentsCount": 18,
       "createdAt": "2025-07-13T07:01:00Z",
       "thumbnail": {
@@ -151,7 +151,7 @@
       "name": "Motiff AI 2.0",
       "tagline": "Chat with your UI design partner",
       "url": "https://www.producthunt.com/products/motiff?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 168,
+      "votesCount": 171,
       "commentsCount": 3,
       "createdAt": "2025-07-13T07:01:00Z",
       "thumbnail": {
@@ -177,7 +177,7 @@
       "name": "FocusFrame",
       "tagline": "A visual timer that turns your effort into a work of art",
       "url": "https://www.producthunt.com/products/focusframe?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 157,
+      "votesCount": 160,
       "commentsCount": 8,
       "createdAt": "2025-07-13T07:01:00Z",
       "thumbnail": {
@@ -203,7 +203,7 @@
       "name": "Quoai",
       "tagline": "The AI co-pilot for tech scoping & budgeting.",
       "url": "https://www.producthunt.com/products/quoai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 155,
+      "votesCount": 157,
       "commentsCount": 15,
       "createdAt": "2025-07-13T07:01:00Z",
       "thumbnail": {
@@ -514,6 +514,37 @@
       }
     },
     {
+      "id": "992069",
+      "name": "SnapShare",
+      "tagline": "Redefining Event Photography",
+      "url": "https://www.producthunt.com/products/snapshare-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 12,
+      "commentsCount": 7,
+      "createdAt": "2025-07-13T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/5e79d94f-2113-480c-a482-44f719e2a353.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Events"
+            }
+          },
+          {
+            "node": {
+              "name": "Photography"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "985388",
       "name": "SalesBot",
       "tagline": "Sell in your sleep with AI-Powered Sales Chatbot",
@@ -539,37 +570,6 @@
           {
             "node": {
               "name": "Bots"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "992069",
-      "name": "SnapShare",
-      "tagline": "Redefining Event Photography",
-      "url": "https://www.producthunt.com/products/snapshare-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 11,
-      "commentsCount": 7,
-      "createdAt": "2025-07-13T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/5e79d94f-2113-480c-a482-44f719e2a353.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Events"
-            }
-          },
-          {
-            "node": {
-              "name": "Photography"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
             }
           }
         ]
