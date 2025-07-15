@@ -1,12 +1,12 @@
 {
-  "fetchedAt": "2025-07-15T23:33:34.302Z",
+  "fetchedAt": "2025-07-15T23:50:09.028Z",
   "posts": [
     {
       "id": "982587",
       "name": "MCP for Google Sheets",
       "tagline": "Connect direct to Salesforce & HubSpot with native formulas",
       "url": "https://www.producthunt.com/products/coefficient?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 500,
+      "votesCount": 501,
       "commentsCount": 36,
       "createdAt": "2025-07-15T07:01:00Z",
       "thumbnail": {
@@ -37,7 +37,7 @@
       "name": "Finlens",
       "tagline": "AI accounting for founders & accountants",
       "url": "https://www.producthunt.com/products/finlens?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 490,
+      "votesCount": 491,
       "commentsCount": 58,
       "createdAt": "2025-07-15T07:01:00Z",
       "thumbnail": {
@@ -68,7 +68,7 @@
       "name": "TestSprite 2.0",
       "tagline": "Let your AI code — we’ll make it work.",
       "url": "https://www.producthunt.com/products/testsprite?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 358,
+      "votesCount": 360,
       "commentsCount": 44,
       "createdAt": "2025-07-15T07:01:00Z",
       "thumbnail": {
@@ -99,7 +99,7 @@
       "name": "PPT.AI",
       "tagline": "Imagine Cursor, but for PowerPoint presentations",
       "url": "https://www.producthunt.com/products/ppt-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 279,
+      "votesCount": 278,
       "commentsCount": 51,
       "createdAt": "2025-07-15T07:01:00Z",
       "thumbnail": {
@@ -166,7 +166,7 @@
       "name": "Anvil",
       "tagline": "Monitor and optimize brand presence across AI platforms",
       "url": "https://www.producthunt.com/products/anvil-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 252,
+      "votesCount": 253,
       "commentsCount": 31,
       "createdAt": "2025-07-15T07:01:00Z",
       "thumbnail": {
@@ -290,7 +290,7 @@
       "name": "Directory by Claude",
       "tagline": "Discover & add Claude skills easily with one-click access",
       "url": "https://www.producthunt.com/products/claude?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 178,
+      "votesCount": 179,
       "commentsCount": 6,
       "createdAt": "2025-07-15T07:01:00Z",
       "thumbnail": {
@@ -316,7 +316,7 @@
       "name": "Spark Namer",
       "tagline": "Get the perfect and available domain name for your startup",
       "url": "https://www.producthunt.com/products/spark-namer?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 156,
+      "votesCount": 157,
       "commentsCount": 13,
       "createdAt": "2025-07-15T07:01:00Z",
       "thumbnail": {
@@ -436,6 +436,37 @@
       }
     },
     {
+      "id": "990658",
+      "name": "Data Share by Explo",
+      "tagline": "The easiest way to share data with your customers",
+      "url": "https://www.producthunt.com/products/explo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 126,
+      "commentsCount": 4,
+      "createdAt": "2025-07-15T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/ab7e5f7c-382c-4cff-b204-c637497e0d71.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Data & Analytics"
+            }
+          },
+          {
+            "node": {
+              "name": "Business Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "991182",
       "name": "AuthorAI",
       "tagline": "Transform ideas into complete books",
@@ -461,37 +492,6 @@
           {
             "node": {
               "name": "Books"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "990658",
-      "name": "Data Share by Explo",
-      "tagline": "The easiest way to share data with your customers",
-      "url": "https://www.producthunt.com/products/explo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 125,
-      "commentsCount": 4,
-      "createdAt": "2025-07-15T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/ab7e5f7c-382c-4cff-b204-c637497e0d71.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Data & Analytics"
-            }
-          },
-          {
-            "node": {
-              "name": "Business Intelligence"
             }
           }
         ]
@@ -564,7 +564,7 @@
       "name": "Kiro",
       "tagline": "A new agentic IDE to take you from prototype to production",
       "url": "https://www.producthunt.com/products/kiro?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 121,
+      "votesCount": 123,
       "commentsCount": 4,
       "createdAt": "2025-07-15T07:01:00Z",
       "thumbnail": {
