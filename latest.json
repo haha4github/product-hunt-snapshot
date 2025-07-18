@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2025-07-18T19:44:33.512Z",
+  "fetchedAt": "2025-07-18T19:57:00.218Z",
   "posts": [
     {
       "id": "994292",
       "name": "ChatGPT agent",
       "tagline": "Bridging research and action",
       "url": "https://www.producthunt.com/products/chatgpt?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 308,
-      "commentsCount": 11,
+      "votesCount": 311,
+      "commentsCount": 12,
       "createdAt": "2025-07-18T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/ab9d1922-1570-42b9-8703-a6176d844a98.png?auto=format"
@@ -27,7 +27,7 @@
       "name": "Bestever",
       "tagline": "Analyze ad data; automate winning creatives",
       "url": "https://www.producthunt.com/products/bestever?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 246,
+      "votesCount": 249,
       "commentsCount": 30,
       "createdAt": "2025-07-18T07:01:00Z",
       "thumbnail": {
@@ -58,7 +58,7 @@
       "name": "NeetoCal V2",
       "tagline": "Schedule and manage meeting effortlessly",
       "url": "https://www.producthunt.com/products/neetocal?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 231,
+      "votesCount": 232,
       "commentsCount": 22,
       "createdAt": "2025-07-18T07:01:00Z",
       "thumbnail": {
@@ -89,7 +89,7 @@
       "name": "Suno v4.5+",
       "tagline": "New ways to create",
       "url": "https://www.producthunt.com/products/suno?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 218,
+      "votesCount": 220,
       "commentsCount": 8,
       "createdAt": "2025-07-18T07:01:00Z",
       "thumbnail": {
@@ -156,7 +156,7 @@
       "name": "Higgsfield UGC Builder",
       "tagline": "Total scene control in a single interface",
       "url": "https://www.producthunt.com/products/higgsfield?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 118,
+      "votesCount": 119,
       "commentsCount": 6,
       "createdAt": "2025-07-18T07:01:00Z",
       "thumbnail": {
@@ -187,7 +187,7 @@
       "name": "Growdoro",
       "tagline": "Gamified focus timer where you grow an infinite garden",
       "url": "https://www.producthunt.com/products/growdoro?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 109,
+      "votesCount": 110,
       "commentsCount": 7,
       "createdAt": "2025-07-18T07:01:00Z",
       "thumbnail": {
@@ -208,6 +208,37 @@
           {
             "node": {
               "name": "Games"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "994142",
+      "name": "mention.click",
+      "tagline": "Ideate, validate and find leads through Reddit conversations",
+      "url": "https://www.producthunt.com/products/mention-click?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 106,
+      "commentsCount": 18,
+      "createdAt": "2025-07-18T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/da507cb5-3beb-4c48-9b48-46362bae8ed9.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Marketing"
+            }
+          },
+          {
+            "node": {
+              "name": "SaaS"
+            }
+          },
+          {
+            "node": {
+              "name": "reddit"
             }
           }
         ]
@@ -239,37 +270,6 @@
           {
             "node": {
               "name": "Finance"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "994142",
-      "name": "mention.click",
-      "tagline": "Ideate, validate and find leads through Reddit conversations",
-      "url": "https://www.producthunt.com/products/mention-click?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 106,
-      "commentsCount": 17,
-      "createdAt": "2025-07-18T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/da507cb5-3beb-4c48-9b48-46362bae8ed9.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Marketing"
-            }
-          },
-          {
-            "node": {
-              "name": "SaaS"
-            }
-          },
-          {
-            "node": {
-              "name": "reddit"
             }
           }
         ]
