@@ -1,13 +1,44 @@
 {
-  "fetchedAt": "2025-08-01T07:18:41.218Z",
+  "fetchedAt": "2025-08-01T07:43:30.178Z",
   "posts": [
+    {
+      "id": "998440",
+      "name": "X-Design",
+      "tagline": "Smart AI suite for authentic lifestyle product images",
+      "url": "https://www.producthunt.com/products/x-design?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 80,
+      "commentsCount": 2,
+      "createdAt": "2025-08-01T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/403ee97f-ee55-4992-b5b3-f82a14555217.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Design Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "E-Commerce"
+            }
+          }
+        ]
+      }
+    },
     {
       "id": "1000140",
       "name": "Orca",
       "tagline": "Your AI language teacher",
       "url": "https://www.producthunt.com/products/orca-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 64,
-      "commentsCount": 1,
+      "votesCount": 79,
+      "commentsCount": 2,
       "createdAt": "2025-08-01T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/545b5dbd-1fda-43f0-9d13-5d3e78415102.png?auto=format"
@@ -37,7 +68,7 @@
       "name": "Ollama Desktop App",
       "tagline": "The easiest way to chat with local AI",
       "url": "https://www.producthunt.com/products/ollama-v0-7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 63,
+      "votesCount": 77,
       "commentsCount": 1,
       "createdAt": "2025-08-01T07:01:00Z",
       "thumbnail": {
@@ -64,11 +95,68 @@
       }
     },
     {
+      "id": "999790",
+      "name": "Browserfly",
+      "tagline": "AI agent that lives in your browser",
+      "url": "https://www.producthunt.com/products/browserfly?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 76,
+      "commentsCount": 2,
+      "createdAt": "2025-08-01T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/c611643c-b3ab-45a5-b734-5b177019c62d.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Chrome Extensions"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "999940",
+      "name": "ShotoAI",
+      "tagline": "Edit your talking head start, start building your brand",
+      "url": "https://www.producthunt.com/products/shotoai-edit-talking-head-videos?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 70,
+      "commentsCount": 2,
+      "createdAt": "2025-08-01T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/ed96629e-534a-4cfb-84e4-caf6dd0f123c.svg?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Social Media"
+            }
+          },
+          {
+            "node": {
+              "name": "Marketing"
+            }
+          },
+          {
+            "node": {
+              "name": "Social media marketing"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1000120",
       "name": "AI SDK 5",
       "tagline": "The AI Toolkit for TypeScript",
       "url": "https://www.producthunt.com/products/vercel?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 59,
+      "votesCount": 70,
       "commentsCount": 1,
       "createdAt": "2025-08-01T07:01:00Z",
       "thumbnail": {
@@ -100,26 +188,26 @@
       }
     },
     {
-      "id": "999790",
-      "name": "Browserfly",
-      "tagline": "AI agent that lives in your browser",
-      "url": "https://www.producthunt.com/products/browserfly?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 60,
+      "id": "1000000",
+      "name": "Obsidian to Notes",
+      "tagline": "Import your Obsidian Vault to Apple Notes",
+      "url": "https://www.producthunt.com/products/obsidian-to-notes?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 69,
       "commentsCount": 1,
       "createdAt": "2025-08-01T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/c611643c-b3ab-45a5-b734-5b177019c62d.png?auto=format"
+        "url": "https://ph-files.imgix.net/316ab860-c1d2-4675-b93d-23cafa74df58.png?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "Chrome Extensions"
+              "name": "Productivity"
             }
           },
           {
             "node": {
-              "name": "Artificial Intelligence"
+              "name": "Notes"
             }
           }
         ]
@@ -130,7 +218,7 @@
       "name": "MCP Chat by Pipedream",
       "tagline": "Chat with your software, across 2700+ apps with 10k+ tools",
       "url": "https://www.producthunt.com/products/pipedream-chat?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 58,
+      "votesCount": 67,
       "commentsCount": 1,
       "createdAt": "2025-08-01T07:01:00Z",
       "thumbnail": {
@@ -162,62 +250,31 @@
       }
     },
     {
-      "id": "998440",
-      "name": "X-Design",
-      "tagline": "Smart AI suite for authentic lifestyle product images",
-      "url": "https://www.producthunt.com/products/x-design?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 58,
+      "id": "1000022",
+      "name": "ScreenLink",
+      "tagline": "screenlink-ai",
+      "url": "https://www.producthunt.com/products/screenlink-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 65,
       "commentsCount": 1,
       "createdAt": "2025-08-01T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/403ee97f-ee55-4992-b5b3-f82a14555217.png?auto=format"
+        "url": "https://ph-files.imgix.net/27538ee2-f143-4f1f-9264-0b827845afc3.png?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "Design Tools"
+              "name": "Hiring"
             }
           },
           {
             "node": {
-              "name": "Artificial Intelligence"
+              "name": "Productivity"
             }
           },
           {
             "node": {
-              "name": "E-Commerce"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "999940",
-      "name": "ShotoAI",
-      "tagline": "Edit your talking head start, start building your brand",
-      "url": "https://www.producthunt.com/products/shotoai-edit-talking-head-videos?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 59,
-      "commentsCount": 2,
-      "createdAt": "2025-08-01T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/ed96629e-534a-4cfb-84e4-caf6dd0f123c.svg?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Social Media"
-            }
-          },
-          {
-            "node": {
-              "name": "Marketing"
-            }
-          },
-          {
-            "node": {
-              "name": "Social media marketing"
+              "name": "Tech"
             }
           }
         ]
@@ -228,7 +285,7 @@
       "name": "AlphaEarth Foundations",
       "tagline": "A \"virtual satellite\" to map Earth in unprecedented detail",
       "url": "https://www.producthunt.com/products/alphaearth-foundations?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 57,
+      "votesCount": 61,
       "commentsCount": 1,
       "createdAt": "2025-08-01T07:01:00Z",
       "thumbnail": {
@@ -259,7 +316,7 @@
       "name": "Hunter",
       "tagline": "Introducing you to your next job and manager",
       "url": "https://www.producthunt.com/products/hiringagents-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 57,
+      "votesCount": 61,
       "commentsCount": 1,
       "createdAt": "2025-08-01T07:01:00Z",
       "thumbnail": {
@@ -286,63 +343,11 @@
       }
     },
     {
-      "id": "1000000",
-      "name": "Obsidian to Notes",
-      "tagline": "Import your Obsidian Vault to Apple Notes",
-      "url": "https://www.producthunt.com/products/obsidian-to-notes?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 54,
-      "commentsCount": 1,
-      "createdAt": "2025-08-01T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/316ab860-c1d2-4675-b93d-23cafa74df58.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Notes"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1000086",
-      "name": "Stream While You Sleep",
-      "tagline": "The AI livestreaming platform",
-      "url": "https://www.producthunt.com/products/stream-while-you-sleep?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 53,
-      "commentsCount": 1,
-      "createdAt": "2025-08-01T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/0718ecfd-8cf7-4f74-81f5-b4b9b71be0dc.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Streaming Services"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1000142",
       "name": "Tudle 2.0",
       "tagline": "Import Conversation Histories To Your AI Therapist",
       "url": "https://www.producthunt.com/products/tudle?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 52,
+      "votesCount": 61,
       "commentsCount": 1,
       "createdAt": "2025-08-01T07:01:00Z",
       "thumbnail": {
@@ -369,11 +374,37 @@
       }
     },
     {
+      "id": "1000086",
+      "name": "Stream While You Sleep",
+      "tagline": "The AI livestreaming platform",
+      "url": "https://www.producthunt.com/products/stream-while-you-sleep?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 59,
+      "commentsCount": 1,
+      "createdAt": "2025-08-01T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/0718ecfd-8cf7-4f74-81f5-b4b9b71be0dc.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Streaming Services"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "999971",
       "name": "NTRVSTA",
       "tagline": "Transform Hiring with AI-Powered Solutions",
       "url": "https://www.producthunt.com/products/ntrvsta?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 51,
+      "votesCount": 55,
       "commentsCount": 1,
       "createdAt": "2025-08-01T07:01:00Z",
       "thumbnail": {
@@ -400,31 +431,145 @@
       }
     },
     {
-      "id": "1000022",
-      "name": "ScreenLink",
-      "tagline": "screenlink-ai",
-      "url": "https://www.producthunt.com/products/screenlink-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 51,
+      "id": "998495",
+      "name": "Spokenly",
+      "tagline": "Type 4x faster with your voice",
+      "url": "https://www.producthunt.com/products/spokenly?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 53,
       "commentsCount": 1,
       "createdAt": "2025-08-01T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/27538ee2-f143-4f1f-9264-0b827845afc3.png?auto=format"
+        "url": "https://ph-files.imgix.net/1363eab7-60ef-4660-a7a5-1c1108346f17.png?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "Hiring"
-            }
-          },
-          {
-            "node": {
               "name": "Productivity"
             }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1000195",
+      "name": "Locoround",
+      "tagline": "A location-based billboard for local life and events",
+      "url": "https://www.producthunt.com/products/locoround?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 52,
+      "commentsCount": 1,
+      "createdAt": "2025-08-01T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/0b1b20a4-d5eb-4f06-ba00-45fcad8dd610.jpeg?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Social Media"
+            }
           },
           {
             "node": {
-              "name": "Tech"
+              "name": "Neighborhood"
+            }
+          },
+          {
+            "node": {
+              "name": "Community"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "479115",
+      "name": "SalesRender",
+      "tagline": "CRM to automate sales, calls & resell leads at scale",
+      "url": "https://www.producthunt.com/products/salesrender?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 9,
+      "commentsCount": 4,
+      "createdAt": "2025-08-01T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/971b686c-495c-4a74-8dd3-2a1d93474db9.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Sales"
+            }
+          },
+          {
+            "node": {
+              "name": "Business"
+            }
+          },
+          {
+            "node": {
+              "name": "CRM"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "993261",
+      "name": "Lokilizer",
+      "tagline": "Translate apps from two source languages to any other",
+      "url": "https://www.producthunt.com/products/lokilizer?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 7,
+      "commentsCount": 1,
+      "createdAt": "2025-08-01T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/b9f15b18-1765-4e84-8b0a-6d196df96c90.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Open Source"
+            }
+          },
+          {
+            "node": {
+              "name": "Languages"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "GitHub"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1000107",
+      "name": "Dartore",
+      "tagline": "Free online darts score calculator",
+      "url": "https://www.producthunt.com/products/dartore?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 6,
+      "commentsCount": 3,
+      "createdAt": "2025-08-01T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/150b597b-b84f-4984-b29c-750e3ba455bb.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Sports"
+            }
+          },
+          {
+            "node": {
+              "name": "Games"
             }
           }
         ]
@@ -446,161 +591,6 @@
           {
             "node": {
               "name": "Dogs"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "998061",
-      "name": "Link Studio — Beta",
-      "tagline": "Mobile-Websites Builder Built for Designer — Figma+Linktree",
-      "url": "https://www.producthunt.com/products/link-studio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 2,
-      "commentsCount": 4,
-      "createdAt": "2025-08-01T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/80ce1821-7d4c-4abb-9afc-045dce6e1d49.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Design Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Website Builder"
-            }
-          },
-          {
-            "node": {
-              "name": "No-Code"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "999844",
-      "name": "widget.video",
-      "tagline": "Add interactive video widgets to your landing page 💜",
-      "url": "https://www.producthunt.com/products/widget-video?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 2,
-      "commentsCount": 2,
-      "createdAt": "2025-08-01T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/918bc224-9052-4ace-8a58-b8066fb8b945.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Marketing"
-            }
-          },
-          {
-            "node": {
-              "name": "SaaS"
-            }
-          },
-          {
-            "node": {
-              "name": "Video"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "999952",
-      "name": "Hecco AI – AI That Understands Health",
-      "tagline": "Your personal health intelligence engine",
-      "url": "https://www.producthunt.com/products/hecco-ai-ai-that-understands-health?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 2,
-      "commentsCount": 1,
-      "createdAt": "2025-08-01T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/238a9bd1-255d-4893-86d5-3234e93f220a.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Android"
-            }
-          },
-          {
-            "node": {
-              "name": "Health & Fitness"
-            }
-          },
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "983207",
-      "name": "DreamTok",
-      "tagline": "World's First Dream Sharing Platform",
-      "url": "https://www.producthunt.com/products/dreamtok?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 1,
-      "commentsCount": 1,
-      "createdAt": "2025-08-01T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/9494771a-1ad7-4a7c-ada2-5b3d5e82d180.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Tech"
-            }
-          },
-          {
-            "node": {
-              "name": "Digital Art"
-            }
-          },
-          {
-            "node": {
-              "name": "Video Art"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "969615",
-      "name": "StudyNova",
-      "tagline": "StudyNova is an intelligent quiz-generation platform.",
-      "url": "https://www.producthunt.com/products/studynova?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 1,
-      "commentsCount": 0,
-      "createdAt": "2025-08-01T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/d292d619-7d6d-4ee9-a164-fceae85ebafe.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Education"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
             }
           }
         ]
