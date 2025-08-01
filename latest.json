@@ -1,12 +1,12 @@
 {
-  "fetchedAt": "2025-08-01T19:38:14.396Z",
+  "fetchedAt": "2025-08-01T19:50:21.075Z",
   "posts": [
     {
       "id": "998440",
       "name": "X-Design",
       "tagline": "Smart AI suite for authentic lifestyle product images",
       "url": "https://www.producthunt.com/products/x-design?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 417,
+      "votesCount": 419,
       "commentsCount": 36,
       "createdAt": "2025-08-01T07:01:00Z",
       "thumbnail": {
@@ -37,7 +37,7 @@
       "name": "Ollama Desktop App",
       "tagline": "The easiest way to chat with local AI",
       "url": "https://www.producthunt.com/products/ollama-v0-7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 387,
+      "votesCount": 388,
       "commentsCount": 11,
       "createdAt": "2025-08-01T07:01:00Z",
       "thumbnail": {
@@ -69,7 +69,7 @@
       "tagline": "Your personal health intelligence engine",
       "url": "https://www.producthunt.com/products/hecco-ai-ai-that-understands-health?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 297,
-      "commentsCount": 20,
+      "commentsCount": 25,
       "createdAt": "2025-08-01T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/238a9bd1-255d-4893-86d5-3234e93f220a.png?auto=format"
@@ -156,7 +156,7 @@
       "name": "MCP Chat by Pipedream",
       "tagline": "Chat with your software, across 2700+ apps with 10k+ tools",
       "url": "https://www.producthunt.com/products/pipedream-chat?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 172,
+      "votesCount": 173,
       "commentsCount": 18,
       "createdAt": "2025-08-01T07:01:00Z",
       "thumbnail": {
@@ -223,7 +223,7 @@
       "name": "Spokenly",
       "tagline": "Type 4x faster with your voice",
       "url": "https://www.producthunt.com/products/spokenly?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 159,
+      "votesCount": 160,
       "commentsCount": 34,
       "createdAt": "2025-08-01T07:01:00Z",
       "thumbnail": {
@@ -452,42 +452,11 @@
       }
     },
     {
-      "id": "1000195",
-      "name": "Locoround",
-      "tagline": "A location-based billboard for local life and events",
-      "url": "https://www.producthunt.com/products/locoround?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 99,
-      "commentsCount": 9,
-      "createdAt": "2025-08-01T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/0b1b20a4-d5eb-4f06-ba00-45fcad8dd610.jpeg?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Social Media"
-            }
-          },
-          {
-            "node": {
-              "name": "Neighborhood"
-            }
-          },
-          {
-            "node": {
-              "name": "Community"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1000089",
       "name": "BashNota",
       "tagline": "Offline-first second brain cracked on code and AI",
       "url": "https://www.producthunt.com/products/bashnota?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 97,
+      "votesCount": 102,
       "commentsCount": 9,
       "createdAt": "2025-08-01T07:01:00Z",
       "thumbnail": {
@@ -513,6 +482,37 @@
           {
             "node": {
               "name": "Data Science"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1000195",
+      "name": "Locoround",
+      "tagline": "A location-based billboard for local life and events",
+      "url": "https://www.producthunt.com/products/locoround?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 99,
+      "commentsCount": 9,
+      "createdAt": "2025-08-01T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/0b1b20a4-d5eb-4f06-ba00-45fcad8dd610.jpeg?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Social Media"
+            }
+          },
+          {
+            "node": {
+              "name": "Neighborhood"
+            }
+          },
+          {
+            "node": {
+              "name": "Community"
             }
           }
         ]
