@@ -1,12 +1,12 @@
 {
-  "fetchedAt": "2025-08-02T11:30:48.216Z",
+  "fetchedAt": "2025-08-02T11:44:33.636Z",
   "posts": [
     {
       "id": "989157",
       "name": "ZapDigits",
       "tagline": "Your startup’s metrics, now all in one place",
       "url": "https://www.producthunt.com/products/zapdigits?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 182,
+      "votesCount": 184,
       "commentsCount": 11,
       "createdAt": "2025-08-02T07:01:00Z",
       "thumbnail": {
@@ -37,7 +37,7 @@
       "name": "Google Sans Code",
       "tagline": "The new font meticulously crafted for coders from Google",
       "url": "https://www.producthunt.com/products/google?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 159,
+      "votesCount": 161,
       "commentsCount": 3,
       "createdAt": "2025-08-02T07:01:00Z",
       "thumbnail": {
@@ -73,7 +73,7 @@
       "name": "ZINQ AI",
       "tagline": "Do more with forms",
       "url": "https://www.producthunt.com/products/zinq?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 140,
+      "votesCount": 141,
       "commentsCount": 7,
       "createdAt": "2025-08-02T07:01:00Z",
       "thumbnail": {
@@ -104,7 +104,7 @@
       "name": "AI Jingle Maker",
       "tagline": "Create radio jingles, podcast intros and audio ads in a snap",
       "url": "https://www.producthunt.com/products/ai-jingle-maker?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 136,
+      "votesCount": 137,
       "commentsCount": 4,
       "createdAt": "2025-08-02T07:01:00Z",
       "thumbnail": {
@@ -135,7 +135,7 @@
       "name": "Gemini 2.5 Deep Think",
       "tagline": "Experience gold-medal AI reasoning",
       "url": "https://www.producthunt.com/products/google?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 135,
+      "votesCount": 136,
       "commentsCount": 1,
       "createdAt": "2025-08-02T07:01:00Z",
       "thumbnail": {
@@ -233,7 +233,7 @@
       "name": "Megaton Mask",
       "tagline": "Remove or isolate backgrounds and objects, from any video",
       "url": "https://www.producthunt.com/products/megaton-mask?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 99,
+      "votesCount": 100,
       "commentsCount": 3,
       "createdAt": "2025-08-02T07:01:00Z",
       "thumbnail": {
@@ -291,6 +291,37 @@
       }
     },
     {
+      "id": "1000143",
+      "name": "TeacherOP",
+      "tagline": "You dont know what you dont know lets figure it out together",
+      "url": "https://www.producthunt.com/products/teacherop?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 41,
+      "commentsCount": 10,
+      "createdAt": "2025-08-02T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/be142908-6674-4403-af20-5549841a42b7.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Education"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "Tech"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1000113",
       "name": "Alphie",
       "tagline": "Schedule any meeting in 1 click",
@@ -321,37 +352,6 @@
           {
             "node": {
               "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1000143",
-      "name": "TeacherOP",
-      "tagline": "You dont know what you dont know lets figure it out together",
-      "url": "https://www.producthunt.com/products/teacherop?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 39,
-      "commentsCount": 9,
-      "createdAt": "2025-08-02T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/be142908-6674-4403-af20-5549841a42b7.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Education"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          },
-          {
-            "node": {
-              "name": "Tech"
             }
           }
         ]
