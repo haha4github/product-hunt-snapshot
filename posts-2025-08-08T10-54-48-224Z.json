@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2025-08-08T10:35:53.204Z",
+  "fetchedAt": "2025-08-08T10:54:48.224Z",
   "posts": [
     {
       "id": "990661",
       "name": "CourseCorrect",
       "tagline": "AI course matchmaker for real career impact",
       "url": "https://www.producthunt.com/products/coursecorrect?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 198,
-      "commentsCount": 40,
+      "votesCount": 213,
+      "commentsCount": 45,
       "createdAt": "2025-08-08T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/8036026c-e128-469d-ac54-cefe23ba31b1.gif?auto=format"
@@ -37,7 +37,7 @@
       "name": "DreamCore",
       "tagline": "Develop and share mobile games from a single prompt",
       "url": "https://www.producthunt.com/products/dreamcore?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 176,
+      "votesCount": 180,
       "commentsCount": 87,
       "createdAt": "2025-08-08T07:01:00Z",
       "thumbnail": {
@@ -68,7 +68,7 @@
       "name": "Vireel",
       "tagline": "Grow your business with viral AI videos",
       "url": "https://www.producthunt.com/products/muse-15?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 156,
+      "votesCount": 166,
       "commentsCount": 19,
       "createdAt": "2025-08-08T07:01:00Z",
       "thumbnail": {
@@ -99,7 +99,7 @@
       "name": "Wepost",
       "tagline": "AI that builds personal brands",
       "url": "https://www.producthunt.com/products/wepost?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 108,
+      "votesCount": 111,
       "commentsCount": 13,
       "createdAt": "2025-08-08T07:01:00Z",
       "thumbnail": {
@@ -130,7 +130,7 @@
       "name": "Hera",
       "tagline": "Your AI Motion Designer",
       "url": "https://www.producthunt.com/products/hera-6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 108,
+      "votesCount": 112,
       "commentsCount": 18,
       "createdAt": "2025-08-08T07:01:00Z",
       "thumbnail": {
@@ -161,7 +161,7 @@
       "name": "Dereference",
       "tagline": "IDE for Claude Code to run tabs like tmux",
       "url": "https://www.producthunt.com/products/dereference-the-100x-ide?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 103,
+      "votesCount": 108,
       "commentsCount": 17,
       "createdAt": "2025-08-08T07:01:00Z",
       "thumbnail": {
@@ -188,47 +188,11 @@
       }
     },
     {
-      "id": "1003004",
-      "name": "SelfHostLLM",
-      "tagline": "Calculate the GPU memory you need for LLM inference",
-      "url": "https://www.producthunt.com/products/selfhostllm?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 93,
-      "commentsCount": 4,
-      "createdAt": "2025-08-08T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/09ac53c4-9716-4c8a-bee5-3adb759309b8.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Open Source"
-            }
-          },
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          },
-          {
-            "node": {
-              "name": "GitHub"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1002814",
       "name": "Bublr",
       "tagline": "A raw and uncluttered space for anyone to write anything. ",
       "url": "https://www.producthunt.com/products/bublr?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 93,
+      "votesCount": 100,
       "commentsCount": 13,
       "createdAt": "2025-08-08T07:01:00Z",
       "thumbnail": {
@@ -264,7 +228,7 @@
       "name": "Click to Woof",
       "tagline": "Tired of AI agents? – Time to woof! 🐶",
       "url": "https://www.producthunt.com/products/click-to-woof?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 90,
+      "votesCount": 98,
       "commentsCount": 9,
       "createdAt": "2025-08-08T07:01:00Z",
       "thumbnail": {
@@ -291,21 +255,36 @@
       }
     },
     {
-      "id": "1002706",
-      "name": "Ninja.new",
-      "tagline": "Automate manual tasks with a fully autonomous AI agent",
-      "url": "https://www.producthunt.com/products/ninja-new-browser-using-ai-agent?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 89,
-      "commentsCount": 8,
+      "id": "1003004",
+      "name": "SelfHostLLM",
+      "tagline": "Calculate the GPU memory you need for LLM inference",
+      "url": "https://www.producthunt.com/products/selfhostllm?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 96,
+      "commentsCount": 4,
       "createdAt": "2025-08-08T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/9290790c-8f9b-43c7-abd6-7261180beed3.png?auto=format"
+        "url": "https://ph-files.imgix.net/09ac53c4-9716-4c8a-bee5-3adb759309b8.png?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
+              "name": "Open Source"
+            }
+          },
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          },
+          {
+            "node": {
               "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "GitHub"
             }
           }
         ]
@@ -316,7 +295,7 @@
       "name": "Wordin",
       "tagline": "Write long content with AI without losing context",
       "url": "https://www.producthunt.com/products/wordin?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 88,
+      "votesCount": 95,
       "commentsCount": 6,
       "createdAt": "2025-08-08T07:01:00Z",
       "thumbnail": {
@@ -352,7 +331,7 @@
       "name": "Votonic",
       "tagline": "AI-powered feedback hub for Discord communities",
       "url": "https://www.producthunt.com/products/votonic?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 87,
+      "votesCount": 93,
       "commentsCount": 3,
       "createdAt": "2025-08-08T07:01:00Z",
       "thumbnail": {
@@ -379,11 +358,32 @@
       }
     },
     {
+      "id": "1002706",
+      "name": "Ninja.new",
+      "tagline": "Automate manual tasks with a fully autonomous AI agent",
+      "url": "https://www.producthunt.com/products/ninja-new-browser-using-ai-agent?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 93,
+      "commentsCount": 9,
+      "createdAt": "2025-08-08T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/9290790c-8f9b-43c7-abd6-7261180beed3.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1002652",
       "name": "BlipCut Video Translator",
       "tagline": "Translate videos & audio to 130+ languages",
       "url": "https://www.producthunt.com/products/blipcut-ai-video-translator?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 83,
+      "votesCount": 86,
       "commentsCount": 4,
       "createdAt": "2025-08-08T07:01:00Z",
       "thumbnail": {
@@ -414,7 +414,7 @@
       "name": "ScrollMark",
       "tagline": "Never lose your place on the web again",
       "url": "https://www.producthunt.com/products/scrollmark-save-your-place-instantly?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 81,
+      "votesCount": 83,
       "commentsCount": 4,
       "createdAt": "2025-08-08T07:01:00Z",
       "thumbnail": {
@@ -441,11 +441,32 @@
       }
     },
     {
+      "id": "1002719",
+      "name": "Battery Life and Health 2.0",
+      "tagline": "A fresh new look for macOS battery indicator",
+      "url": "https://www.producthunt.com/products/battery-time-health?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 83,
+      "commentsCount": 2,
+      "createdAt": "2025-08-08T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/7b26b820-9a00-44a5-861a-09d17bd8d5c7.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Menu Bar Apps"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1002659",
       "name": "LingoBuddy",
       "tagline": "Master Languages through AI-powered conversations",
       "url": "https://www.producthunt.com/products/lingobuddy?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 81,
+      "votesCount": 83,
       "commentsCount": 11,
       "createdAt": "2025-08-08T07:01:00Z",
       "thumbnail": {
@@ -472,32 +493,11 @@
       }
     },
     {
-      "id": "1002719",
-      "name": "Battery Life and Health 2.0",
-      "tagline": "A fresh new look for macOS battery indicator",
-      "url": "https://www.producthunt.com/products/battery-time-health?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 79,
-      "commentsCount": 2,
-      "createdAt": "2025-08-08T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/7b26b820-9a00-44a5-861a-09d17bd8d5c7.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Menu Bar Apps"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1002936",
       "name": "cospec",
       "tagline": "Write workflows in an IDE and deploy MCP servers",
       "url": "https://www.producthunt.com/products/cospec?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 74,
+      "votesCount": 76,
       "commentsCount": 6,
       "createdAt": "2025-08-08T07:01:00Z",
       "thumbnail": {
@@ -528,7 +528,7 @@
       "name": "Pixera",
       "tagline": "Design mac screenshot instantly",
       "url": "https://www.producthunt.com/products/pixera?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 70,
+      "votesCount": 74,
       "commentsCount": 5,
       "createdAt": "2025-08-08T07:01:00Z",
       "thumbnail": {
@@ -559,7 +559,7 @@
       "name": "Outpost Launcher",
       "tagline": "Launch Anything. Drag & Drop Everything.",
       "url": "https://www.producthunt.com/products/outpost-launcher?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 67,
+      "votesCount": 70,
       "commentsCount": 4,
       "createdAt": "2025-08-08T07:01:00Z",
       "thumbnail": {
@@ -590,7 +590,7 @@
       "name": "CruiseBot by GetMyCruise",
       "tagline": "AI-powered end-to-end cruise booking on WhatsApp",
       "url": "https://www.producthunt.com/products/getmycruise-com?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 51,
+      "votesCount": 49,
       "commentsCount": 9,
       "createdAt": "2025-08-08T07:01:00Z",
       "thumbnail": {
