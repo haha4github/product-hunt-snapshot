@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2025-08-10T16:41:40.306Z",
+  "fetchedAt": "2025-08-10T16:56:57.325Z",
   "posts": [
     {
       "id": "1002152",
       "name": "Simular Pro",
       "tagline": "The production-grade computer use agent",
       "url": "https://www.producthunt.com/products/simular?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 204,
-      "commentsCount": 20,
+      "votesCount": 209,
+      "commentsCount": 21,
       "createdAt": "2025-08-10T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/2a995c2c-1ed8-4623-9e90-a3ddec681dca.png?auto=format"
@@ -32,7 +32,7 @@
       "name": "Shotva",
       "tagline": "Prettify your screenshots",
       "url": "https://www.producthunt.com/products/shotva?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 189,
+      "votesCount": 191,
       "commentsCount": 9,
       "createdAt": "2025-08-10T07:01:00Z",
       "thumbnail": {
@@ -63,7 +63,7 @@
       "name": "SEO Shop Audit",
       "tagline": "Turn eCommerce store owners into SEO retainer clients",
       "url": "https://www.producthunt.com/products/seo-shop-audit?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 144,
+      "votesCount": 145,
       "commentsCount": 6,
       "createdAt": "2025-08-10T07:01:00Z",
       "thumbnail": {
@@ -94,7 +94,7 @@
       "name": "Yummery",
       "tagline": "Healthy meal plans & recipes powered by AI",
       "url": "https://www.producthunt.com/products/ai-meal-planner-recipes?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 136,
+      "votesCount": 137,
       "commentsCount": 8,
       "createdAt": "2025-08-10T07:01:00Z",
       "thumbnail": {
@@ -545,6 +545,37 @@
       }
     },
     {
+      "id": "1003574",
+      "name": "autonote AI ",
+      "tagline": "Effortlessly transform your meetings into actionable insight",
+      "url": "https://www.producthunt.com/products/autonote-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 10,
+      "commentsCount": 5,
+      "createdAt": "2025-08-10T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/b2395933-cccc-4653-98db-58fe0aac3a2e.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Education"
+            }
+          },
+          {
+            "node": {
+              "name": "SaaS"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1000068",
       "name": "Steve: AI Financial Coach",
       "tagline": "Build daily habits to reach financial freedom",
@@ -570,37 +601,6 @@
           {
             "node": {
               "name": "Personal Finance"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1003581",
-      "name": "ReconnectX",
-      "tagline": "AI that can roleplay as anyone with their exact voice",
-      "url": "https://www.producthunt.com/products/reconnectx?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 9,
-      "commentsCount": 10,
-      "createdAt": "2025-08-10T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/a2e20dbc-f045-4045-906a-de7cd86b4f2f.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          },
-          {
-            "node": {
-              "name": "Extended Reality"
-            }
-          },
-          {
-            "node": {
-              "name": "Health"
             }
           }
         ]
