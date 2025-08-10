@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2025-08-10T23:16:46.912Z",
+  "fetchedAt": "2025-08-10T23:35:53.108Z",
   "posts": [
     {
       "id": "1002152",
       "name": "Simular Pro",
       "tagline": "The production-grade computer use agent",
       "url": "https://www.producthunt.com/products/simular?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 244,
-      "commentsCount": 31,
+      "votesCount": 243,
+      "commentsCount": 32,
       "createdAt": "2025-08-10T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/2a995c2c-1ed8-4623-9e90-a3ddec681dca.png?auto=format"
@@ -63,7 +63,7 @@
       "name": "SEO Shop Audit",
       "tagline": "Turn eCommerce store owners into SEO retainer clients",
       "url": "https://www.producthunt.com/products/seo-shop-audit?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 165,
+      "votesCount": 170,
       "commentsCount": 6,
       "createdAt": "2025-08-10T07:01:00Z",
       "thumbnail": {
@@ -328,37 +328,6 @@
       }
     },
     {
-      "id": "1003572",
-      "name": "Countdown",
-      "tagline": "8-bit retro game",
-      "url": "https://www.producthunt.com/products/countdown-5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 16,
-      "commentsCount": 11,
-      "createdAt": "2025-08-10T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/75dcc7c3-d46f-455b-ae76-05ae3b0f11b8.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Puzzle Games"
-            }
-          },
-          {
-            "node": {
-              "name": "Free Games"
-            }
-          },
-          {
-            "node": {
-              "name": "Games"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1000068",
       "name": "Steve: AI Financial Coach",
       "tagline": "Build daily habits to reach financial freedom",
@@ -384,6 +353,37 @@
           {
             "node": {
               "name": "Personal Finance"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1003572",
+      "name": "Countdown",
+      "tagline": "8-bit retro game",
+      "url": "https://www.producthunt.com/products/countdown-5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 16,
+      "commentsCount": 11,
+      "createdAt": "2025-08-10T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/75dcc7c3-d46f-455b-ae76-05ae3b0f11b8.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Puzzle Games"
+            }
+          },
+          {
+            "node": {
+              "name": "Free Games"
+            }
+          },
+          {
+            "node": {
+              "name": "Games"
             }
           }
         ]
