@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2025-08-10T19:53:53.321Z",
+  "fetchedAt": "2025-08-10T20:23:19.139Z",
   "posts": [
     {
       "id": "1002152",
       "name": "Simular Pro",
       "tagline": "The production-grade computer use agent",
       "url": "https://www.producthunt.com/products/simular?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 241,
-      "commentsCount": 25,
+      "votesCount": 236,
+      "commentsCount": 30,
       "createdAt": "2025-08-10T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/2a995c2c-1ed8-4623-9e90-a3ddec681dca.png?auto=format"
@@ -63,7 +63,7 @@
       "name": "SEO Shop Audit",
       "tagline": "Turn eCommerce store owners into SEO retainer clients",
       "url": "https://www.producthunt.com/products/seo-shop-audit?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 160,
+      "votesCount": 161,
       "commentsCount": 6,
       "createdAt": "2025-08-10T07:01:00Z",
       "thumbnail": {
@@ -94,7 +94,7 @@
       "name": "Yummery",
       "tagline": "Healthy meal plans & recipes powered by AI",
       "url": "https://www.producthunt.com/products/ai-meal-planner-recipes?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 144,
+      "votesCount": 145,
       "commentsCount": 8,
       "createdAt": "2025-08-10T07:01:00Z",
       "thumbnail": {
@@ -359,6 +359,37 @@
       }
     },
     {
+      "id": "1000068",
+      "name": "Steve: AI Financial Coach",
+      "tagline": "Build daily habits to reach financial freedom",
+      "url": "https://www.producthunt.com/products/steve-ai-financial-coach?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 14,
+      "commentsCount": 9,
+      "createdAt": "2025-08-10T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/2ed118ce-330f-4b07-b9b8-46db63a7d063.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "Lifestyle"
+            }
+          },
+          {
+            "node": {
+              "name": "Personal Finance"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1003620",
       "name": "Videoform AI",
       "tagline": "Interactive video questionnaires",
@@ -457,37 +488,6 @@
       }
     },
     {
-      "id": "1000068",
-      "name": "Steve: AI Financial Coach",
-      "tagline": "Build daily habits to reach financial freedom",
-      "url": "https://www.producthunt.com/products/steve-ai-financial-coach?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 12,
-      "commentsCount": 4,
-      "createdAt": "2025-08-10T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/2ed118ce-330f-4b07-b9b8-46db63a7d063.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          },
-          {
-            "node": {
-              "name": "Lifestyle"
-            }
-          },
-          {
-            "node": {
-              "name": "Personal Finance"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1003588",
       "name": "Tonzhon Rain",
       "tagline": "Listen to the beauty of rain",
@@ -571,31 +571,31 @@
       }
     },
     {
-      "id": "1003405",
-      "name": "Suby Pay",
-      "tagline": "The crypto payment layer for paid communities",
-      "url": "https://www.producthunt.com/products/suby-pay?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "id": "996701",
+      "name": "Docubot",
+      "tagline": "Chat with your all of your documents using RAG w/ Reranking",
+      "url": "https://www.producthunt.com/products/docubot-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 11,
-      "commentsCount": 2,
+      "commentsCount": 8,
       "createdAt": "2025-08-10T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/1fc03b6e-3b60-4099-a693-ced70e48f24b.svg?auto=format"
+        "url": "https://ph-files.imgix.net/3aabbcb2-cefb-49e8-9539-cb73605fda2d.png?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "Telegram"
+              "name": "Productivity"
             }
           },
           {
             "node": {
-              "name": "Payments"
+              "name": "Developer Tools"
             }
           },
           {
             "node": {
-              "name": "Crypto"
+              "name": "Artificial Intelligence"
             }
           }
         ]
