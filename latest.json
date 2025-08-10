@@ -1,12 +1,12 @@
 {
-  "fetchedAt": "2025-08-10T08:34:48.582Z",
+  "fetchedAt": "2025-08-10T08:53:33.367Z",
   "posts": [
     {
       "id": "1003568",
       "name": "Reddit Growth",
       "tagline": "Hands-off Reddit marketing to increase your monthly visits",
       "url": "https://www.producthunt.com/products/reddit-growth?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 110,
+      "votesCount": 112,
       "commentsCount": 6,
       "createdAt": "2025-08-10T07:01:00Z",
       "thumbnail": {
@@ -33,11 +33,37 @@
       }
     },
     {
+      "id": "1002152",
+      "name": "Simular Pro",
+      "tagline": "The production-grade computer use agent",
+      "url": "https://www.producthunt.com/products/simular?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 90,
+      "commentsCount": 8,
+      "createdAt": "2025-08-10T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/2a995c2c-1ed8-4623-9e90-a3ddec681dca.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1003508",
       "name": "Shotva",
       "tagline": "Prettify your screenshots",
       "url": "https://www.producthunt.com/products/shotva?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 89,
+      "votesCount": 91,
       "commentsCount": 3,
       "createdAt": "2025-08-10T07:01:00Z",
       "thumbnail": {
@@ -64,37 +90,11 @@
       }
     },
     {
-      "id": "1002152",
-      "name": "Simular Pro",
-      "tagline": "The production-grade computer use agent",
-      "url": "https://www.producthunt.com/products/simular?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 89,
-      "commentsCount": 8,
-      "createdAt": "2025-08-10T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/2a995c2c-1ed8-4623-9e90-a3ddec681dca.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1003462",
       "name": "AI Meal Planner & Recipes",
       "tagline": "Healthy meal plans & recipes powered by AI",
       "url": "https://www.producthunt.com/products/ai-meal-planner-recipes?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 80,
+      "votesCount": 87,
       "commentsCount": 5,
       "createdAt": "2025-08-10T07:01:00Z",
       "thumbnail": {
@@ -125,7 +125,7 @@
       "name": "SEO Shop Audit",
       "tagline": "Turn eCommerce store owners into SEO retainer clients",
       "url": "https://www.producthunt.com/products/seo-shop-audit?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 79,
+      "votesCount": 81,
       "commentsCount": 2,
       "createdAt": "2025-08-10T07:01:00Z",
       "thumbnail": {
@@ -156,7 +156,7 @@
       "name": "BeeSecure",
       "tagline": "The security checkup for indie hackers & vibe coders",
       "url": "https://www.producthunt.com/products/beesecure?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 14,
+      "votesCount": 15,
       "commentsCount": 5,
       "createdAt": "2025-08-10T07:01:00Z",
       "thumbnail": {
@@ -240,11 +240,42 @@
       }
     },
     {
+      "id": "1001197",
+      "name": "Prexist",
+      "tagline": "Instantly check if your startup idea already exists!",
+      "url": "https://www.producthunt.com/products/prexist?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 5,
+      "commentsCount": 1,
+      "createdAt": "2025-08-10T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/44d98fa5-bfd1-4395-a42f-595b2d7fab4c.svg?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Web App"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "Maker Tools"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1003620",
       "name": "Videoform AI",
       "tagline": "Interactive video questionnaires",
       "url": "https://www.producthunt.com/products/videoform-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 4,
+      "votesCount": 5,
       "commentsCount": 2,
       "createdAt": "2025-08-10T07:01:00Z",
       "thumbnail": {
@@ -338,37 +369,6 @@
       }
     },
     {
-      "id": "1001197",
-      "name": "Prexist",
-      "tagline": "Instantly check if your startup idea already exists!",
-      "url": "https://www.producthunt.com/products/prexist?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 4,
-      "commentsCount": 1,
-      "createdAt": "2025-08-10T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/44d98fa5-bfd1-4395-a42f-595b2d7fab4c.svg?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Web App"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          },
-          {
-            "node": {
-              "name": "Maker Tools"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1003077",
       "name": "vabro.ai",
       "tagline": "AI Powered work management | vabro",
@@ -436,27 +436,6 @@
       }
     },
     {
-      "id": "1003588",
-      "name": "Tonzhon Rain",
-      "tagline": "Listen to the beauty of rain",
-      "url": "https://www.producthunt.com/products/tonzhon-rain?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 3,
-      "commentsCount": 0,
-      "createdAt": "2025-08-10T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/8a43a3ad-613d-49af-bcdf-1eed5e37113c.x-icon?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Music"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1003581",
       "name": "ReconnectX",
       "tagline": "AI that can roleplay as anyone with their exact voice",
@@ -482,6 +461,58 @@
           {
             "node": {
               "name": "Health"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1003588",
+      "name": "Tonzhon Rain",
+      "tagline": "Listen to the beauty of rain",
+      "url": "https://www.producthunt.com/products/tonzhon-rain?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 3,
+      "commentsCount": 0,
+      "createdAt": "2025-08-10T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/8a43a3ad-613d-49af-bcdf-1eed5e37113c.x-icon?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Music"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "996701",
+      "name": "Docubot",
+      "tagline": "Chat with your all of your documents using RAG w/ Reranking",
+      "url": "https://www.producthunt.com/products/docubot-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 3,
+      "commentsCount": 1,
+      "createdAt": "2025-08-10T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/3aabbcb2-cefb-49e8-9539-cb73605fda2d.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
             }
           }
         ]
@@ -524,31 +555,26 @@
       }
     },
     {
-      "id": "1003591",
-      "name": "Flikkit",
-      "tagline": "Summarize any link, video, or text in seconds.",
-      "url": "https://www.producthunt.com/products/flikkit?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "id": "1003497",
+      "name": "SmartPractice AI",
+      "tagline": "AI-powered clinical notes in seconds, not hours",
+      "url": "https://www.producthunt.com/products/smartpractice-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 3,
       "commentsCount": 1,
       "createdAt": "2025-08-10T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/e4d41309-1cc8-4c44-81a9-0a2331c9fe84.png?auto=format"
+        "url": "https://ph-files.imgix.net/8a2a8bbc-efd3-4075-a663-2ffddc66d718.png?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "Writing"
+              "name": "Medical"
             }
           },
           {
             "node": {
-              "name": "YouTube"
-            }
-          },
-          {
-            "node": {
-              "name": "Books"
+              "name": "Health"
             }
           }
         ]
@@ -580,32 +606,6 @@
           {
             "node": {
               "name": "Maker Tools"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1003398",
-      "name": "Taskaty App",
-      "tagline": "Modern task management app",
-      "url": "https://www.producthunt.com/products/taskaty-app?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 2,
-      "commentsCount": 1,
-      "createdAt": "2025-08-10T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/e4338002-d57a-41c0-ac87-d1b3cf531cb5.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Task Management"
             }
           }
         ]
