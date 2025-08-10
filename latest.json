@@ -1,12 +1,12 @@
 {
-  "fetchedAt": "2025-08-10T13:50:48.924Z",
+  "fetchedAt": "2025-08-10T14:13:00.794Z",
   "posts": [
     {
       "id": "1002152",
       "name": "Simular Pro",
       "tagline": "The production-grade computer use agent",
       "url": "https://www.producthunt.com/products/simular?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 165,
+      "votesCount": 169,
       "commentsCount": 10,
       "createdAt": "2025-08-10T07:01:00Z",
       "thumbnail": {
@@ -32,8 +32,8 @@
       "name": "Shotva",
       "tagline": "Prettify your screenshots",
       "url": "https://www.producthunt.com/products/shotva?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 161,
-      "commentsCount": 7,
+      "votesCount": 163,
+      "commentsCount": 8,
       "createdAt": "2025-08-10T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/c58d0c0f-30d8-4474-9657-b19bd6852248.vnd.microsoft.icon?auto=format"
@@ -63,7 +63,7 @@
       "name": "SEO Shop Audit",
       "tagline": "Turn eCommerce store owners into SEO retainer clients",
       "url": "https://www.producthunt.com/products/seo-shop-audit?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 129,
+      "votesCount": 135,
       "commentsCount": 5,
       "createdAt": "2025-08-10T07:01:00Z",
       "thumbnail": {
@@ -187,7 +187,7 @@
       "name": "SmartPractice AI",
       "tagline": "AI-powered clinical notes in seconds, not hours",
       "url": "https://www.producthunt.com/products/smartpractice-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 15,
+      "votesCount": 16,
       "commentsCount": 6,
       "createdAt": "2025-08-10T07:01:00Z",
       "thumbnail": {
@@ -447,6 +447,37 @@
       }
     },
     {
+      "id": "996701",
+      "name": "Docubot",
+      "tagline": "Chat with your all of your documents using RAG w/ Reranking",
+      "url": "https://www.producthunt.com/products/docubot-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 10,
+      "commentsCount": 3,
+      "createdAt": "2025-08-10T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/3aabbcb2-cefb-49e8-9539-cb73605fda2d.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1003382",
       "name": "Stmt: Bank Statement Converter",
       "tagline": "PDF Bank Statements to Spreadsheets (High Accuracy AI)",
@@ -472,37 +503,6 @@
           {
             "node": {
               "name": "Spreadsheets"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "996701",
-      "name": "Docubot",
-      "tagline": "Chat with your all of your documents using RAG w/ Reranking",
-      "url": "https://www.producthunt.com/products/docubot-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 10,
-      "commentsCount": 3,
-      "createdAt": "2025-08-10T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/3aabbcb2-cefb-49e8-9539-cb73605fda2d.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Developer Tools"
             }
           },
           {
