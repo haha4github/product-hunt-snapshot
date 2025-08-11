@@ -1,12 +1,12 @@
 {
-  "fetchedAt": "2025-08-11T05:36:24.032Z",
+  "fetchedAt": "2025-08-11T05:55:46.468Z",
   "posts": [
     {
       "id": "1002152",
       "name": "Simular Pro",
       "tagline": "The production-grade computer use agent",
       "url": "https://www.producthunt.com/products/simular?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 287,
+      "votesCount": 297,
       "commentsCount": 39,
       "createdAt": "2025-08-10T07:01:00Z",
       "thumbnail": {
@@ -32,7 +32,7 @@
       "name": "Shotva",
       "tagline": "Prettify your screenshots",
       "url": "https://www.producthunt.com/products/shotva?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 249,
+      "votesCount": 251,
       "commentsCount": 23,
       "createdAt": "2025-08-10T07:01:00Z",
       "thumbnail": {
@@ -94,8 +94,8 @@
       "name": "Yummery",
       "tagline": "Healthy meal plans & recipes powered by AI",
       "url": "https://www.producthunt.com/products/ai-meal-planner-recipes?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 159,
-      "commentsCount": 12,
+      "votesCount": 161,
+      "commentsCount": 13,
       "createdAt": "2025-08-10T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/dd26ede5-1612-42ce-9293-f20a93e76ddc.png?auto=format"
@@ -187,7 +187,7 @@
       "name": "SmartPractice AI",
       "tagline": "AI-powered clinical notes in seconds, not hours",
       "url": "https://www.producthunt.com/products/smartpractice-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 22,
+      "votesCount": 23,
       "commentsCount": 27,
       "createdAt": "2025-08-10T07:01:00Z",
       "thumbnail": {
@@ -213,7 +213,7 @@
       "name": "autonote AI ",
       "tagline": "Effortlessly transform your meetings into actionable insight",
       "url": "https://www.producthunt.com/products/autonote-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 21,
+      "votesCount": 22,
       "commentsCount": 7,
       "createdAt": "2025-08-10T07:01:00Z",
       "thumbnail": {
@@ -333,32 +333,6 @@
       }
     },
     {
-      "id": "1003614",
-      "name": "FastLipsync",
-      "tagline": "Fast AI lip sync video generator",
-      "url": "https://www.producthunt.com/products/fastlipsync?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 18,
-      "commentsCount": 3,
-      "createdAt": "2025-08-10T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/ae7016d8-cd5f-4de1-a365-4c715984ded5.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          },
-          {
-            "node": {
-              "name": "Video"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1003526",
       "name": "Unclaws",
       "tagline": "Never sign a bad contract again",
@@ -384,6 +358,32 @@
           {
             "node": {
               "name": "Legal"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1003614",
+      "name": "FastLipsync",
+      "tagline": "Fast AI lip sync video generator",
+      "url": "https://www.producthunt.com/products/fastlipsync?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 18,
+      "commentsCount": 3,
+      "createdAt": "2025-08-10T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/ae7016d8-cd5f-4de1-a365-4c715984ded5.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "Video"
             }
           }
         ]
