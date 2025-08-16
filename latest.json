@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2025-08-16T15:11:28.400Z",
+  "fetchedAt": "2025-08-16T15:32:04.996Z",
   "posts": [
     {
       "id": "1005635",
       "name": "Flight Deals",
       "tagline": "Describe your trip, get the best flight deals.",
       "url": "https://www.producthunt.com/products/google?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 223,
-      "commentsCount": 10,
+      "votesCount": 227,
+      "commentsCount": 11,
       "createdAt": "2025-08-16T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/de10f7db-3ec0-4a86-a602-99b9042cb034.png?auto=format"
@@ -37,7 +37,7 @@
       "name": "Jaaz",
       "tagline": "Open source Canva AI alternative",
       "url": "https://www.producthunt.com/products/jaaz?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 191,
+      "votesCount": 193,
       "commentsCount": 5,
       "createdAt": "2025-08-16T07:01:00Z",
       "thumbnail": {
@@ -69,6 +69,37 @@
       }
     },
     {
+      "id": "1005655",
+      "name": "Harmony AI Voice Assistant",
+      "tagline": "Manage email and calendar with voice",
+      "url": "https://www.producthunt.com/products/harmony-ai-voice-assistant?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 165,
+      "commentsCount": 12,
+      "createdAt": "2025-08-16T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/8bd35f15-162e-4582-be96-c3e6124733d9.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Email"
+            }
+          },
+          {
+            "node": {
+              "name": "Calendar"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "994502",
       "name": "StickerX",
       "tagline": "Create personal memes and stickers",
@@ -94,37 +125,6 @@
           {
             "node": {
               "name": "Photography"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1005655",
-      "name": "Harmony AI Voice Assistant",
-      "tagline": "Manage email and calendar with voice",
-      "url": "https://www.producthunt.com/products/harmony-ai-voice-assistant?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 163,
-      "commentsCount": 12,
-      "createdAt": "2025-08-16T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/8bd35f15-162e-4582-be96-c3e6124733d9.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Email"
-            }
-          },
-          {
-            "node": {
-              "name": "Calendar"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
             }
           }
         ]
@@ -197,7 +197,7 @@
       "name": "Mosh",
       "tagline": "Music With Friends",
       "url": "https://www.producthunt.com/products/mosh-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 102,
+      "votesCount": 101,
       "commentsCount": 3,
       "createdAt": "2025-08-16T07:01:00Z",
       "thumbnail": {
@@ -228,7 +228,7 @@
       "name": "Tailscan AI for Tailwind CSS",
       "tagline": "AI-powered style & layout editor for Tailwind CSS",
       "url": "https://www.producthunt.com/products/tailscan?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 37,
+      "votesCount": 38,
       "commentsCount": 8,
       "createdAt": "2025-08-16T07:01:00Z",
       "thumbnail": {
@@ -259,8 +259,8 @@
       "name": "Stupido",
       "tagline": "Add & update your to-do list effortlessly with your voice!",
       "url": "https://www.producthunt.com/products/stupido?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 29,
-      "commentsCount": 8,
+      "votesCount": 30,
+      "commentsCount": 10,
       "createdAt": "2025-08-16T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/74e4286e-e75a-4338-b57f-d788aa05b7c7.png?auto=format"
@@ -384,7 +384,7 @@
       "tagline": "Simple app to manage your coupon book credit card benefits",
       "url": "https://www.producthunt.com/products/maxworth?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 18,
-      "commentsCount": 2,
+      "commentsCount": 3,
       "createdAt": "2025-08-16T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/1fc79002-d8e6-4b89-baae-51e307c21985.png?auto=format"
@@ -446,7 +446,7 @@
       "tagline": "Smart AI-powered tip & bill calculator",
       "url": "https://www.producthunt.com/products/ai-tip-calculator?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 14,
-      "commentsCount": 10,
+      "commentsCount": 9,
       "createdAt": "2025-08-16T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/0f191c29-88b2-403c-a678-7e0d176d9183.png?auto=format"
@@ -466,37 +466,6 @@
           {
             "node": {
               "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1005498",
-      "name": "BuildMate V1",
-      "tagline": "FIND YOUR CO-FOUNDER AND INVESTORS",
-      "url": "https://www.producthunt.com/products/buildmate-v1?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 13,
-      "commentsCount": 14,
-      "createdAt": "2025-08-16T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/c4c92a3b-5f42-4f98-a23a-054859298a52.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Investing"
-            }
-          },
-          {
-            "node": {
-              "name": "Venture Capital"
-            }
-          },
-          {
-            "node": {
-              "name": "Startup Lessons"
             }
           }
         ]
@@ -528,6 +497,37 @@
           {
             "node": {
               "name": "Menu Bar Apps"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1005498",
+      "name": "BuildMate V1",
+      "tagline": "FIND YOUR CO-FOUNDER AND INVESTORS",
+      "url": "https://www.producthunt.com/products/buildmate-v1?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 13,
+      "commentsCount": 14,
+      "createdAt": "2025-08-16T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/c4c92a3b-5f42-4f98-a23a-054859298a52.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Investing"
+            }
+          },
+          {
+            "node": {
+              "name": "Venture Capital"
+            }
+          },
+          {
+            "node": {
+              "name": "Startup Lessons"
             }
           }
         ]
