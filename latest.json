@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2025-08-17T18:37:38.545Z",
+  "fetchedAt": "2025-08-17T18:55:02.235Z",
   "posts": [
     {
       "id": "999606",
@@ -7,7 +7,7 @@
       "tagline": "The first AI competitor monitoring agent",
       "url": "https://www.producthunt.com/products/headsup-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 280,
-      "commentsCount": 59,
+      "commentsCount": 61,
       "createdAt": "2025-08-17T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/93dbfff4-4315-484a-9b6a-1905fb5bf0f9.svg?auto=format"
@@ -37,7 +37,7 @@
       "name": "Slashy",
       "tagline": "ChatGPT with Hands",
       "url": "https://www.producthunt.com/products/slashy-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 248,
+      "votesCount": 249,
       "commentsCount": 50,
       "createdAt": "2025-08-17T07:01:00Z",
       "thumbnail": {
@@ -68,7 +68,7 @@
       "name": "ChatGPT Query Gold",
       "tagline": "Find high buy intent search queries for ChatGPT",
       "url": "https://www.producthunt.com/products/chatgpt-query-gold?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 166,
+      "votesCount": 165,
       "commentsCount": 9,
       "createdAt": "2025-08-17T07:01:00Z",
       "thumbnail": {
@@ -166,7 +166,7 @@
       "name": "Channel3",
       "tagline": "API to find any product and earn commission on sales",
       "url": "https://www.producthunt.com/products/channel3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 123,
+      "votesCount": 122,
       "commentsCount": 6,
       "createdAt": "2025-08-17T07:01:00Z",
       "thumbnail": {
@@ -296,7 +296,7 @@
       "tagline": "Don’t outsource your thinking to AI",
       "url": "https://www.producthunt.com/products/unlazy-writer?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 34,
-      "commentsCount": 8,
+      "commentsCount": 9,
       "createdAt": "2025-08-17T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/bc613636-bf6f-451f-805c-f893fa3a3d7c.png?auto=format"
@@ -570,6 +570,32 @@
       }
     },
     {
+      "id": "1005485",
+      "name": "BestStock AI",
+      "tagline": "AI-Powered Stock Analysis Platform for Smarter Investments",
+      "url": "https://www.producthunt.com/products/beststock-ai-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 11,
+      "commentsCount": 2,
+      "createdAt": "2025-08-17T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/191bb484-ce1f-44f9-bdb6-53d93fa0d2e8.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Fintech"
+            }
+          },
+          {
+            "node": {
+              "name": "Analytics"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1005905",
       "name": "Valueglyph",
       "tagline": "Stocks and company fundamentals, simplified for mobile.",
@@ -595,32 +621,6 @@
           {
             "node": {
               "name": "Investing"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1005485",
-      "name": "BestStock AI",
-      "tagline": "AI-Powered Stock Analysis Platform for Smarter Investments",
-      "url": "https://www.producthunt.com/products/beststock-ai-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 11,
-      "commentsCount": 2,
-      "createdAt": "2025-08-17T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/191bb484-ce1f-44f9-bdb6-53d93fa0d2e8.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Fintech"
-            }
-          },
-          {
-            "node": {
-              "name": "Analytics"
             }
           }
         ]
