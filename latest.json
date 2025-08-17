@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2025-08-17T08:59:06.358Z",
+  "fetchedAt": "2025-08-17T09:27:17.505Z",
   "posts": [
     {
       "id": "1006081",
       "name": "Slashy",
       "tagline": "ChatGPT with Hands",
       "url": "https://www.producthunt.com/products/slashy-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 106,
-      "commentsCount": 27,
+      "votesCount": 119,
+      "commentsCount": 28,
       "createdAt": "2025-08-17T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/aa7aeac4-4153-422d-ba66-1db40bd4dd23.png?auto=format"
@@ -33,11 +33,32 @@
       }
     },
     {
+      "id": "999606",
+      "name": "HeadsUp",
+      "tagline": "The first AI competitor monitoring agent",
+      "url": "https://www.producthunt.com/products/headsup-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 113,
+      "commentsCount": 18,
+      "createdAt": "2025-08-17T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/93dbfff4-4315-484a-9b6a-1905fb5bf0f9.svg?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1005924",
       "name": "ChatGPT Query Gold",
       "tagline": "Find high buy intent search queries for ChatGPT",
       "url": "https://www.producthunt.com/products/chatgpt-query-gold?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 92,
+      "votesCount": 104,
       "commentsCount": 5,
       "createdAt": "2025-08-17T07:01:00Z",
       "thumbnail": {
@@ -64,47 +85,21 @@
       }
     },
     {
-      "id": "999606",
-      "name": "HeadsUp",
-      "tagline": "The first AI competitor monitoring agent",
-      "url": "https://www.producthunt.com/products/headsup-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 89,
-      "commentsCount": 14,
-      "createdAt": "2025-08-17T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/93dbfff4-4315-484a-9b6a-1905fb5bf0f9.svg?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "995456",
-      "name": "Kuzco",
-      "tagline": "Open-source Swift package to run LLMs locally on iOS & macOS",
-      "url": "https://www.producthunt.com/products/kuzco?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 82,
+      "id": "1005829",
+      "name": "Higgsfield Product-to-Video",
+      "tagline": "Your sketch turns into a cinema in a second. ",
+      "url": "https://www.producthunt.com/products/higgsfield?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 101,
       "commentsCount": 2,
       "createdAt": "2025-08-17T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/2ef14139-e4cf-46ad-b824-08cd6f2bd485.png?auto=format"
+        "url": "https://ph-files.imgix.net/bc2f3698-fbfd-4763-bd59-992b9b529f44.png?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "iOS"
-            }
-          },
-          {
-            "node": {
-              "name": "Developer Tools"
+              "name": "Photography"
             }
           },
           {
@@ -114,7 +109,7 @@
           },
           {
             "node": {
-              "name": "GitHub"
+              "name": "Video"
             }
           }
         ]
@@ -125,7 +120,7 @@
       "name": "Well",
       "tagline": "Save time and effort by automating your document retrieval",
       "url": "https://www.producthunt.com/products/well-let-robots-chase-receipts-invoices?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 81,
+      "votesCount": 93,
       "commentsCount": 3,
       "createdAt": "2025-08-17T07:01:00Z",
       "thumbnail": {
@@ -157,42 +152,11 @@
       }
     },
     {
-      "id": "1005829",
-      "name": "Higgsfield Product-to-Video",
-      "tagline": "Your sketch turns into a cinema in a second. ",
-      "url": "https://www.producthunt.com/products/higgsfield?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 82,
-      "commentsCount": 2,
-      "createdAt": "2025-08-17T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/bc2f3698-fbfd-4763-bd59-992b9b529f44.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Photography"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          },
-          {
-            "node": {
-              "name": "Video"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1005762",
       "name": "Channel3",
       "tagline": "API to find any product and earn commission on sales",
       "url": "https://www.producthunt.com/products/channel3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 79,
+      "votesCount": 92,
       "commentsCount": 6,
       "createdAt": "2025-08-17T07:01:00Z",
       "thumbnail": {
@@ -219,12 +183,48 @@
       }
     },
     {
+      "id": "995456",
+      "name": "Kuzco",
+      "tagline": "Open-source Swift package to run LLMs locally on iOS & macOS",
+      "url": "https://www.producthunt.com/products/kuzco?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 91,
+      "commentsCount": 2,
+      "createdAt": "2025-08-17T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/2ef14139-e4cf-46ad-b824-08cd6f2bd485.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "iOS"
+            }
+          },
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "GitHub"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1005708",
       "name": "Shimmer Community Membership",
       "tagline": "The all-in-one platform to manage & grow with ADHD",
       "url": "https://www.producthunt.com/products/shimmer-care?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 69,
-      "commentsCount": 3,
+      "votesCount": 80,
+      "commentsCount": 4,
       "createdAt": "2025-08-17T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/782c0fbe-b2a3-4043-8311-05980468f166.png?auto=format"
@@ -254,8 +254,8 @@
       "name": "Postel",
       "tagline": "Your unfair advantage for 𝕏 / Twitter growth",
       "url": "https://www.producthunt.com/products/postel?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 36,
-      "commentsCount": 14,
+      "votesCount": 44,
+      "commentsCount": 18,
       "createdAt": "2025-08-17T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/2b7933e7-f7a9-495f-9b22-3879c3dfa1b8.png?auto=format"
@@ -285,8 +285,8 @@
       "name": "Unlazy Writer",
       "tagline": "Don’t outsource your thinking to AI",
       "url": "https://www.producthunt.com/products/unlazy-writer?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 19,
-      "commentsCount": 3,
+      "votesCount": 29,
+      "commentsCount": 4,
       "createdAt": "2025-08-17T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/bc613636-bf6f-451f-805c-f893fa3a3d7c.png?auto=format"
@@ -316,7 +316,7 @@
       "name": "Flare",
       "tagline": "Turn Ideas Into Sales, In Seconds.",
       "url": "https://www.producthunt.com/products/flare-6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 8,
+      "votesCount": 13,
       "commentsCount": 1,
       "createdAt": "2025-08-17T07:01:00Z",
       "thumbnail": {
@@ -347,7 +347,7 @@
       "name": "Wolfgang AI",
       "tagline": "Your personal game master anywhere and at any time",
       "url": "https://www.producthunt.com/products/wolfgang-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 7,
+      "votesCount": 12,
       "commentsCount": 1,
       "createdAt": "2025-08-17T07:01:00Z",
       "thumbnail": {
@@ -383,7 +383,7 @@
       "name": "StudyMind AI",
       "tagline": "AI-powered study assistant for mastering any subject",
       "url": "https://www.producthunt.com/products/studymind-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 7,
+      "votesCount": 12,
       "commentsCount": 1,
       "createdAt": "2025-08-17T07:01:00Z",
       "thumbnail": {
@@ -414,7 +414,7 @@
       "name": "CyberRecon Arsenal",
       "tagline": "Open-source ethical hacking & osint toolkit",
       "url": "https://www.producthunt.com/products/cyberrecon-arsenal?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 6,
+      "votesCount": 11,
       "commentsCount": 1,
       "createdAt": "2025-08-17T07:01:00Z",
       "thumbnail": {
@@ -445,7 +445,7 @@
       "name": "Startup Deck Review ",
       "tagline": "Upload your deck, get investor feedback in 48 hours.",
       "url": "https://www.producthunt.com/products/startup-deck-review?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 6,
+      "votesCount": 11,
       "commentsCount": 0,
       "createdAt": "2025-08-17T07:01:00Z",
       "thumbnail": {
@@ -467,42 +467,11 @@
       }
     },
     {
-      "id": "1005905",
-      "name": "Valueglyph",
-      "tagline": "Stocks and company fundamentals, simplified for mobile.",
-      "url": "https://www.producthunt.com/products/valueglyph?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 6,
-      "commentsCount": 2,
-      "createdAt": "2025-08-17T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/e8f8f616-2ad7-4712-92ec-3bba57242860.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Android"
-            }
-          },
-          {
-            "node": {
-              "name": "Fintech"
-            }
-          },
-          {
-            "node": {
-              "name": "Investing"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1005943",
       "name": "HTMLSync",
       "tagline": "Run your AI-generated HTML app on every device, instantly",
       "url": "https://www.producthunt.com/products/htmlsync?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 6,
+      "votesCount": 11,
       "commentsCount": 3,
       "createdAt": "2025-08-17T07:01:00Z",
       "thumbnail": {
@@ -529,11 +498,42 @@
       }
     },
     {
+      "id": "1005905",
+      "name": "Valueglyph",
+      "tagline": "Stocks and company fundamentals, simplified for mobile.",
+      "url": "https://www.producthunt.com/products/valueglyph?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 11,
+      "commentsCount": 2,
+      "createdAt": "2025-08-17T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/e8f8f616-2ad7-4712-92ec-3bba57242860.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Android"
+            }
+          },
+          {
+            "node": {
+              "name": "Fintech"
+            }
+          },
+          {
+            "node": {
+              "name": "Investing"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1005867",
       "name": "Codexport",
       "tagline": "Real-time code collaboration and code share platform",
       "url": "https://www.producthunt.com/products/codexport?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 5,
+      "votesCount": 10,
       "commentsCount": 1,
       "createdAt": "2025-08-17T07:01:00Z",
       "thumbnail": {
@@ -550,11 +550,42 @@
       }
     },
     {
+      "id": "1005764",
+      "name": "Free AI Video Maker & Generator",
+      "tagline": "Free 5-sec 480p AI videos from text or images. No sign-up.",
+      "url": "https://www.producthunt.com/products/free-ai-video-maker-generator?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 9,
+      "commentsCount": 1,
+      "createdAt": "2025-08-17T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/864d67cf-2042-48b0-895e-0fa5801f8fd6.x-icon?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Marketing"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "Video"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1001091",
       "name": "Phocus",
       "tagline": "Minimalist launcher",
       "url": "https://www.producthunt.com/products/phocus?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 4,
+      "votesCount": 9,
       "commentsCount": 10,
       "createdAt": "2025-08-17T07:01:00Z",
       "thumbnail": {
@@ -575,37 +606,6 @@
           {
             "node": {
               "name": "User Experience"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1006083",
-      "name": "Clody",
-      "tagline": "AI gratitude journaling that writes back with warmth",
-      "url": "https://www.producthunt.com/products/clody?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 4,
-      "commentsCount": 2,
-      "createdAt": "2025-08-17T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/e28c8425-d010-44f3-bbba-95571dbde0e7.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Writing"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          },
-          {
-            "node": {
-              "name": "Health"
             }
           }
         ]
