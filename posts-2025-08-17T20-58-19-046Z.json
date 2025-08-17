@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2025-08-17T20:45:57.627Z",
+  "fetchedAt": "2025-08-17T20:58:19.046Z",
   "posts": [
     {
       "id": "999606",
@@ -7,7 +7,7 @@
       "tagline": "The first AI competitor monitoring agent",
       "url": "https://www.producthunt.com/products/headsup-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 294,
-      "commentsCount": 67,
+      "commentsCount": 68,
       "createdAt": "2025-08-17T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/93dbfff4-4315-484a-9b6a-1905fb5bf0f9.svg?auto=format"
@@ -130,7 +130,7 @@
       "name": "Kuzco",
       "tagline": "Open-source Swift package to run LLMs locally on iOS & macOS",
       "url": "https://www.producthunt.com/products/kuzco?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 154,
+      "votesCount": 155,
       "commentsCount": 4,
       "createdAt": "2025-08-17T07:01:00Z",
       "thumbnail": {
@@ -296,7 +296,7 @@
       "tagline": "Don’t outsource your thinking to AI",
       "url": "https://www.producthunt.com/products/unlazy-writer?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 35,
-      "commentsCount": 12,
+      "commentsCount": 13,
       "createdAt": "2025-08-17T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/bc613636-bf6f-451f-805c-f893fa3a3d7c.png?auto=format"
@@ -570,32 +570,11 @@
       }
     },
     {
-      "id": "1005867",
-      "name": "Codexport",
-      "tagline": "Real-time code collaboration and code share platform",
-      "url": "https://www.producthunt.com/products/codexport?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 12,
-      "commentsCount": 1,
-      "createdAt": "2025-08-17T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/b4b5fb44-08f3-46dc-aea0-971638619ef1.x-icon?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "SaaS"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1005790",
       "name": "Reef - Excel Builder ",
       "tagline": "Chat to Excel — downloadable model with formulas included",
       "url": "https://www.producthunt.com/products/reef?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 11,
+      "votesCount": 12,
       "commentsCount": 1,
       "createdAt": "2025-08-17T07:01:00Z",
       "thumbnail": {
@@ -616,6 +595,27 @@
           {
             "node": {
               "name": "Fundraising"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1005867",
+      "name": "Codexport",
+      "tagline": "Real-time code collaboration and code share platform",
+      "url": "https://www.producthunt.com/products/codexport?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 12,
+      "commentsCount": 1,
+      "createdAt": "2025-08-17T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/b4b5fb44-08f3-46dc-aea0-971638619ef1.x-icon?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "SaaS"
             }
           }
         ]
