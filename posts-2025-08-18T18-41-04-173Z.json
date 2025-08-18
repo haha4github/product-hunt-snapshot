@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2025-08-18T17:58:00.601Z",
+  "fetchedAt": "2025-08-18T18:41:04.173Z",
   "posts": [
     {
       "id": "1000928",
       "name": "Mirror",
       "tagline": "Deeply understand yourself and every relationship",
       "url": "https://www.producthunt.com/products/mirror-11?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 275,
-      "commentsCount": 32,
+      "votesCount": 280,
+      "commentsCount": 33,
       "createdAt": "2025-08-18T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/3ffbf52b-e9de-4c92-85ae-9d5d656da4ce.webp?auto=format"
@@ -37,8 +37,8 @@
       "name": "Stormy",
       "tagline": "Stormy — AI agent for influencer marketing",
       "url": "https://www.producthunt.com/products/stormy-influencer-marketing-ai-agent?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 255,
-      "commentsCount": 55,
+      "votesCount": 270,
+      "commentsCount": 70,
       "createdAt": "2025-08-18T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/e74d8c50-084a-477b-96fd-c6e706a792de.png?auto=format"
@@ -68,7 +68,7 @@
       "name": "TensorZero",
       "tagline": "Open-source stack for industrial-grade LLM applications",
       "url": "https://www.producthunt.com/products/tensorzero?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 239,
+      "votesCount": 246,
       "commentsCount": 18,
       "createdAt": "2025-08-18T07:01:00Z",
       "thumbnail": {
@@ -99,8 +99,8 @@
       "name": "Dualite x Supabase",
       "tagline": "Build full-stack applications with Dualite - securely",
       "url": "https://www.producthunt.com/products/dualite-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 223,
-      "commentsCount": 20,
+      "votesCount": 230,
+      "commentsCount": 21,
       "createdAt": "2025-08-18T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/b8cae4a8-df4e-44cc-a29a-636fe6ca5253.png?auto=format"
@@ -130,7 +130,7 @@
       "name": "FileFaker",
       "tagline": "Generate sample files of various types and sizes in seconds.",
       "url": "https://www.producthunt.com/products/filefaker?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 188,
+      "votesCount": 189,
       "commentsCount": 18,
       "createdAt": "2025-08-18T07:01:00Z",
       "thumbnail": {
@@ -161,7 +161,7 @@
       "name": "Blink",
       "tagline": "Deep code research, straight from Slack or your browser",
       "url": "https://www.producthunt.com/products/blink-a-deep-research-agent-for-devs?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 130,
+      "votesCount": 131,
       "commentsCount": 5,
       "createdAt": "2025-08-18T07:01:00Z",
       "thumbnail": {
@@ -182,6 +182,37 @@
           {
             "node": {
               "name": "Development"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1006282",
+      "name": "Autosana",
+      "tagline": "QA Agent for Mobile Apps",
+      "url": "https://www.producthunt.com/products/autosana?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 126,
+      "commentsCount": 13,
+      "createdAt": "2025-08-18T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/75b3746f-9f4a-4936-a885-c637a69bbe62.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Android"
+            }
+          },
+          {
+            "node": {
+              "name": "iOS"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
             }
           }
         ]
@@ -219,42 +250,11 @@
       }
     },
     {
-      "id": "1006282",
-      "name": "Autosana",
-      "tagline": "QA Agent for Mobile Apps",
-      "url": "https://www.producthunt.com/products/autosana?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 124,
-      "commentsCount": 11,
-      "createdAt": "2025-08-18T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/75b3746f-9f4a-4936-a885-c637a69bbe62.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Android"
-            }
-          },
-          {
-            "node": {
-              "name": "iOS"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1005810",
       "name": "Extra Thursday",
       "tagline": "Fly through your inbox just by talking",
       "url": "https://www.producthunt.com/products/extra-thursday?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 117,
+      "votesCount": 118,
       "commentsCount": 4,
       "createdAt": "2025-08-18T07:01:00Z",
       "thumbnail": {
@@ -285,7 +285,7 @@
       "name": "Gitmore",
       "tagline": "The first AI-powered reporting tool for git repositories",
       "url": "https://www.producthunt.com/products/gitmore?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 113,
+      "votesCount": 114,
       "commentsCount": 3,
       "createdAt": "2025-08-18T07:01:00Z",
       "thumbnail": {
@@ -316,7 +316,7 @@
       "name": "RealRoots",
       "tagline": "We guarantee women new friends in her city",
       "url": "https://www.producthunt.com/products/realroots-the-mobile-friendship-app?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 112,
+      "votesCount": 113,
       "commentsCount": 2,
       "createdAt": "2025-08-18T07:01:00Z",
       "thumbnail": {
@@ -405,42 +405,11 @@
       }
     },
     {
-      "id": "1005454",
-      "name": "Wanderboat 2.0",
-      "tagline": "Your AI shortcut to the best places to eat, see & do",
-      "url": "https://www.producthunt.com/products/wanderboat-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 46,
-      "commentsCount": 9,
-      "createdAt": "2025-08-18T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/2a857d36-46a4-4207-a9a8-644fc2b655f7.gif?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Travel"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          },
-          {
-            "node": {
-              "name": "Food & Drink"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1006378",
       "name": "Renderly AI",
       "tagline": "Bring architecture to life in minutes.",
       "url": "https://www.producthunt.com/products/renderly-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 31,
+      "votesCount": 32,
       "commentsCount": 4,
       "createdAt": "2025-08-18T07:01:00Z",
       "thumbnail": {
@@ -471,8 +440,8 @@
       "name": "Hyperpod",
       "tagline": "AI models to apps, fast",
       "url": "https://www.producthunt.com/products/hyperpod?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 30,
-      "commentsCount": 22,
+      "votesCount": 31,
+      "commentsCount": 23,
       "createdAt": "2025-08-18T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/f526d1cc-a210-4c99-a7d7-0a85845a5efe.png?auto=format"
@@ -591,12 +560,43 @@
       }
     },
     {
+      "id": "1006155",
+      "name": "D.Waste",
+      "tagline": "AI-powered real-time waste audits for schools & institutions",
+      "url": "https://www.producthunt.com/products/deep-waste?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 16,
+      "commentsCount": 27,
+      "createdAt": "2025-08-18T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/cecbfea7-977f-49ac-a241-193f9b3bc238.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Analytics"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "Climate Tech"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "991383",
       "name": "onbalance",
       "tagline": "Cashflow planning for e'neurs who value trust and privacy",
       "url": "https://www.producthunt.com/products/onbalance?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 16,
-      "commentsCount": 7,
+      "commentsCount": 15,
       "createdAt": "2025-08-18T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/ad705255-39e7-4864-8b29-5bc04b17ce13.png?auto=format"
