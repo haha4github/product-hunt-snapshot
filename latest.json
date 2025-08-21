@@ -1,12 +1,12 @@
 {
-  "fetchedAt": "2025-08-21T11:30:40.661Z",
+  "fetchedAt": "2025-08-21T11:43:23.184Z",
   "posts": [
     {
       "id": "1004583",
       "name": "Mocke (YC S22)",
       "tagline": "Mock email campaigns: know your reply rate without launching",
       "url": "https://www.producthunt.com/products/mocke-mock-cold-email-campaigns?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 196,
+      "votesCount": 207,
       "commentsCount": 16,
       "createdAt": "2025-08-21T07:01:00Z",
       "thumbnail": {
@@ -37,7 +37,7 @@
       "name": "ReadyBase",
       "tagline": "Prompt to PDF in seconds",
       "url": "https://www.producthunt.com/products/readybase?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 173,
+      "votesCount": 177,
       "commentsCount": 8,
       "createdAt": "2025-08-21T07:01:00Z",
       "thumbnail": {
@@ -68,8 +68,8 @@
       "name": "Macaly 2.0",
       "tagline": "AI website builder with built-in database, hosting & more",
       "url": "https://www.producthunt.com/products/macaly?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 154,
-      "commentsCount": 6,
+      "votesCount": 160,
+      "commentsCount": 7,
       "createdAt": "2025-08-21T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/04d1fc72-96ce-46c6-a8d9-a165432ce428.jpeg?auto=format"
@@ -99,7 +99,7 @@
       "name": "Daymi",
       "tagline": "Your AI clone for iMessage conversations that feel real",
       "url": "https://www.producthunt.com/products/daymi-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 151,
+      "votesCount": 156,
       "commentsCount": 12,
       "createdAt": "2025-08-21T07:01:00Z",
       "thumbnail": {
@@ -130,8 +130,8 @@
       "name": "Syncly Social",
       "tagline": "AI social listening for TikTok videos",
       "url": "https://www.producthunt.com/products/syncly?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 129,
-      "commentsCount": 6,
+      "votesCount": 130,
+      "commentsCount": 9,
       "createdAt": "2025-08-21T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/9ebf0fb4-5349-4b55-862a-2525351fb5a7.png?auto=format"
@@ -161,8 +161,8 @@
       "name": "Disco.dev",
       "tagline": "Plug-and-play open source mcp servers",
       "url": "https://www.producthunt.com/products/disco-dev?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 111,
-      "commentsCount": 18,
+      "votesCount": 112,
+      "commentsCount": 19,
       "createdAt": "2025-08-21T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/bd6c7771-45ef-465f-bd32-467337ae378e.png?auto=format"
@@ -182,6 +182,42 @@
           {
             "node": {
               "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1007381",
+      "name": "Puck",
+      "tagline": "Open-source visual editor for React",
+      "url": "https://www.producthunt.com/products/puck?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 108,
+      "commentsCount": 11,
+      "createdAt": "2025-08-21T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/874c2548-8f73-477c-96d6-cfcbcbc931d4.jpeg?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Open Source"
+            }
+          },
+          {
+            "node": {
+              "name": "Website Builder"
+            }
+          },
+          {
+            "node": {
+              "name": "GitHub"
+            }
+          },
+          {
+            "node": {
+              "name": "No-Code"
             }
           }
         ]
@@ -213,42 +249,6 @@
           {
             "node": {
               "name": "Development"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1007381",
-      "name": "Puck",
-      "tagline": "Open-source visual editor for React",
-      "url": "https://www.producthunt.com/products/puck?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 103,
-      "commentsCount": 11,
-      "createdAt": "2025-08-21T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/874c2548-8f73-477c-96d6-cfcbcbc931d4.jpeg?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Open Source"
-            }
-          },
-          {
-            "node": {
-              "name": "Website Builder"
-            }
-          },
-          {
-            "node": {
-              "name": "GitHub"
-            }
-          },
-          {
-            "node": {
-              "name": "No-Code"
             }
           }
         ]
@@ -388,7 +388,7 @@
       "name": "Pinery",
       "tagline": "Markdown Editor for Books",
       "url": "https://www.producthunt.com/products/pinery?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 88,
+      "votesCount": 89,
       "commentsCount": 5,
       "createdAt": "2025-08-21T07:01:00Z",
       "thumbnail": {
@@ -534,7 +534,7 @@
       "tagline": "Write it once, perfect it fast.",
       "url": "https://www.producthunt.com/products/rewrait?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 79,
-      "commentsCount": 4,
+      "commentsCount": 7,
       "createdAt": "2025-08-21T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/f9b37568-a91e-47a9-83c0-ac033ae3c756.png?auto=format"
