@@ -1,12 +1,12 @@
 {
-  "fetchedAt": "2025-08-23T16:28:01.567Z",
+  "fetchedAt": "2025-08-23T16:45:01.783Z",
   "posts": [
     {
       "id": "1007944",
       "name": "Deforge",
       "tagline": "Canva for AI Agents",
       "url": "https://www.producthunt.com/products/deforge-open-beta?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 244,
+      "votesCount": 246,
       "commentsCount": 17,
       "createdAt": "2025-08-23T07:01:00Z",
       "thumbnail": {
@@ -68,7 +68,7 @@
       "name": "Daily Grind",
       "tagline": "Menubar time tracker for MacOS",
       "url": "https://www.producthunt.com/products/breww-beta-macos-time-tracker?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 187,
+      "votesCount": 188,
       "commentsCount": 6,
       "createdAt": "2025-08-23T07:01:00Z",
       "thumbnail": {
@@ -99,8 +99,8 @@
       "name": "Madespace",
       "tagline": "The world's first AI interior design studio",
       "url": "https://www.producthunt.com/products/madespace?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 173,
-      "commentsCount": 8,
+      "votesCount": 174,
+      "commentsCount": 9,
       "createdAt": "2025-08-23T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/684a8e1d-f170-4476-951a-76ad81c4a9b2.png?auto=format"
@@ -130,7 +130,7 @@
       "name": "ReachLLM",
       "tagline": "Dominate the AI Search Era",
       "url": "https://www.producthunt.com/products/reachllm?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 157,
+      "votesCount": 158,
       "commentsCount": 16,
       "createdAt": "2025-08-23T07:01:00Z",
       "thumbnail": {
@@ -161,7 +161,7 @@
       "name": "Global AI News",
       "tagline": "Your FREE app for staying up-to-date on the latest AI stuff!",
       "url": "https://www.producthunt.com/products/global-ai-news?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 34,
+      "votesCount": 35,
       "commentsCount": 2,
       "createdAt": "2025-08-23T07:01:00Z",
       "thumbnail": {
@@ -271,12 +271,43 @@
       }
     },
     {
+      "id": "1008512",
+      "name": "Marxx AI",
+      "tagline": "AI Agents that explain why ads fail & cut ad waste",
+      "url": "https://www.producthunt.com/products/marxx-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 13,
+      "commentsCount": 9,
+      "createdAt": "2025-08-23T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/a0939896-8d7e-4940-8aad-ec5f8dbe5b9a.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Advertising"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "Business Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1008532",
       "name": "HeyFounder",
       "tagline": "Pitch. Sell. Invest. Grow.",
       "url": "https://www.producthunt.com/products/heyfounder-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 13,
-      "commentsCount": 3,
+      "commentsCount": 6,
       "createdAt": "2025-08-23T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/1d5861e2-be1f-4523-821e-8e33d52c458c.png?auto=format"
@@ -327,37 +358,6 @@
           {
             "node": {
               "name": "Education"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1008512",
-      "name": "Marxx AI",
-      "tagline": "AI Agents that explain why ads fail & cut ad waste",
-      "url": "https://www.producthunt.com/products/marxx-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 13,
-      "commentsCount": 8,
-      "createdAt": "2025-08-23T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/a0939896-8d7e-4940-8aad-ec5f8dbe5b9a.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Advertising"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          },
-          {
-            "node": {
-              "name": "Business Intelligence"
             }
           }
         ]
