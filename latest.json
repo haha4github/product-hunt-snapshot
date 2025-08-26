@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2025-08-26T07:30:55.824Z",
+  "fetchedAt": "2025-08-26T07:44:53.086Z",
   "posts": [
     {
       "id": "1005303",
       "name": "Creem 1.0",
       "tagline": "Split SaaS revenue with partners, sell without headaches",
       "url": "https://www.producthunt.com/products/creem?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 75,
-      "commentsCount": 10,
+      "votesCount": 83,
+      "commentsCount": 16,
       "createdAt": "2025-08-26T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/007a3f13-1003-4895-b2d3-b4179b3e9efc.png?auto=format"
@@ -37,8 +37,8 @@
       "name": "Pikto AI Studio",
       "tagline": "One AI suite to replace all your design tools",
       "url": "https://www.producthunt.com/products/piktochart?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 74,
-      "commentsCount": 4,
+      "votesCount": 78,
+      "commentsCount": 5,
       "createdAt": "2025-08-26T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/001f4c8a-d398-48f9-a8bc-66c010e29ed2.png?auto=format"
@@ -68,7 +68,7 @@
       "name": "Graphite Chat",
       "tagline": "The agentic code review experience.",
       "url": "https://www.producthunt.com/products/graphite?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 71,
+      "votesCount": 72,
       "commentsCount": 1,
       "createdAt": "2025-08-26T07:01:00Z",
       "thumbnail": {
@@ -95,11 +95,42 @@
       }
     },
     {
+      "id": "1007852",
+      "name": "Jotform Instagram Agent",
+      "tagline": "Auto-replies for Instagram DMs, comments, and stories",
+      "url": "https://www.producthunt.com/products/jotform?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 67,
+      "commentsCount": 1,
+      "createdAt": "2025-08-26T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/04f7ecb0-f461-4d9f-b240-465a403988ae.gif?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Messaging"
+            }
+          },
+          {
+            "node": {
+              "name": "Marketing automation"
+            }
+          },
+          {
+            "node": {
+              "name": "Social media marketing"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1009017",
       "name": "TaskWand",
       "tagline": "From words to workflows in seconds",
       "url": "https://www.producthunt.com/products/taskwand?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 65,
+      "votesCount": 67,
       "commentsCount": 4,
       "createdAt": "2025-08-26T07:01:00Z",
       "thumbnail": {
@@ -120,6 +151,27 @@
           {
             "node": {
               "name": "No-Code"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1008496",
+      "name": "Tasker Builder",
+      "tagline": "Build your idea from prompt to product to pipeline",
+      "url": "https://www.producthunt.com/products/tasker-builder?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 65,
+      "commentsCount": 3,
+      "createdAt": "2025-08-26T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/674cd9ef-2d81-4fb0-bbf5-be2cc42fa224.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Vibe coding"
             }
           }
         ]
@@ -157,63 +209,11 @@
       }
     },
     {
-      "id": "1008496",
-      "name": "Tasker Builder",
-      "tagline": "Build your idea from prompt to product to pipeline",
-      "url": "https://www.producthunt.com/products/tasker-builder?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 63,
-      "commentsCount": 2,
-      "createdAt": "2025-08-26T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/674cd9ef-2d81-4fb0-bbf5-be2cc42fa224.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Vibe coding"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1007852",
-      "name": "Jotform Instagram Agent",
-      "tagline": "Auto-replies for Instagram DMs, comments, and stories",
-      "url": "https://www.producthunt.com/products/jotform?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 63,
-      "commentsCount": 1,
-      "createdAt": "2025-08-26T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/04f7ecb0-f461-4d9f-b240-465a403988ae.gif?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Messaging"
-            }
-          },
-          {
-            "node": {
-              "name": "Marketing automation"
-            }
-          },
-          {
-            "node": {
-              "name": "Social media marketing"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1009397",
       "name": "Radar",
       "tagline": "Generate and track keyword rankings",
       "url": "https://www.producthunt.com/products/radar-ios-app-store-keyword-analyizer?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 57,
+      "votesCount": 61,
       "commentsCount": 0,
       "createdAt": "2025-08-26T07:01:00Z",
       "thumbnail": {
@@ -244,7 +244,7 @@
       "name": "Cosmic AI Platform",
       "tagline": "AI-powered app development and deployment",
       "url": "https://www.producthunt.com/products/cosmic?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 57,
+      "votesCount": 60,
       "commentsCount": 1,
       "createdAt": "2025-08-26T07:01:00Z",
       "thumbnail": {
@@ -260,6 +260,37 @@
           {
             "node": {
               "name": "Developer Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1009414",
+      "name": "Risely AI ",
+      "tagline": "AI agents automating student success and retention workflows",
+      "url": "https://www.producthunt.com/products/risely-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 58,
+      "commentsCount": 1,
+      "createdAt": "2025-08-26T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/315759d9-8c5c-49de-8f6b-3c08af750631.svg?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Education"
+            }
+          },
+          {
+            "node": {
+              "name": "SaaS"
             }
           },
           {
@@ -302,42 +333,11 @@
       }
     },
     {
-      "id": "1009414",
-      "name": "Risely AI ",
-      "tagline": "AI agents automating student success and retention workflows",
-      "url": "https://www.producthunt.com/products/risely-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 57,
-      "commentsCount": 1,
-      "createdAt": "2025-08-26T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/315759d9-8c5c-49de-8f6b-3c08af750631.svg?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Education"
-            }
-          },
-          {
-            "node": {
-              "name": "SaaS"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1002010",
       "name": "FlowStack",
       "tagline": "Tasks. Focus. Routines. All in one simple app",
       "url": "https://www.producthunt.com/products/flowstack?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 51,
+      "votesCount": 53,
       "commentsCount": 1,
       "createdAt": "2025-08-26T07:01:00Z",
       "thumbnail": {
@@ -426,6 +426,37 @@
       }
     },
     {
+      "id": "1009468",
+      "name": "MiniCPM-V 4.5",
+      "tagline": "GPT-4o level vision model on the phone",
+      "url": "https://www.producthunt.com/products/minicpm-4-0?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 6,
+      "commentsCount": 1,
+      "createdAt": "2025-08-26T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/feeafea5-6718-4269-b481-7e2257bbc8a0.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Open Source"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "Development"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1006638",
       "name": "IGScraping",
       "tagline": "Find verified emails from Instagram followers & influencers",
@@ -457,21 +488,21 @@
       }
     },
     {
-      "id": "1009468",
-      "name": "MiniCPM-V 4.5",
-      "tagline": "GPT-4o level vision model on the phone",
-      "url": "https://www.producthunt.com/products/minicpm-4-0?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 6,
-      "commentsCount": 1,
+      "id": "1009269",
+      "name": "Know Your CTC by Unified Mentor",
+      "tagline": "Test. Prepare. Predict your CTC with AI mock Interviews",
+      "url": "https://www.producthunt.com/products/know-your-ctc-by-unified-mentor?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 5,
+      "commentsCount": 4,
       "createdAt": "2025-08-26T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/feeafea5-6718-4269-b481-7e2257bbc8a0.png?auto=format"
+        "url": "https://ph-files.imgix.net/cede17aa-f8f5-4ed2-98d8-11b130c85a42.jpeg?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "Open Source"
+              "name": "Productivity"
             }
           },
           {
@@ -481,7 +512,7 @@
           },
           {
             "node": {
-              "name": "Development"
+              "name": "Career"
             }
           }
         ]
@@ -519,37 +550,6 @@
       }
     },
     {
-      "id": "1009269",
-      "name": "Know Your CTC by Unified Mentor",
-      "tagline": "Test. Prepare. Predict your CTC with AI mock Interviews",
-      "url": "https://www.producthunt.com/products/know-your-ctc-by-unified-mentor?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 3,
-      "commentsCount": 4,
-      "createdAt": "2025-08-26T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/cede17aa-f8f5-4ed2-98d8-11b130c85a42.jpeg?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          },
-          {
-            "node": {
-              "name": "Career"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1000537",
       "name": "Bewell",
       "tagline": "Women’s health guide",
@@ -581,21 +581,21 @@
       }
     },
     {
-      "id": "1005454",
-      "name": "Wanderboat 2.0",
-      "tagline": "Your AI shortcut to the best places to eat, see & do",
-      "url": "https://www.producthunt.com/products/wanderboat-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "id": "1008650",
+      "name": "Cycle9",
+      "tagline": "Smart Device Lifecycle Management App by Cortexial",
+      "url": "https://www.producthunt.com/products/cycle9?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 3,
-      "commentsCount": 2,
+      "commentsCount": 1,
       "createdAt": "2025-08-26T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/2a857d36-46a4-4207-a9a8-644fc2b655f7.gif?auto=format"
+        "url": "https://ph-files.imgix.net/aba96b49-6485-402c-8231-801568637037.png?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "Travel"
+              "name": "Productivity"
             }
           },
           {
@@ -605,7 +605,7 @@
           },
           {
             "node": {
-              "name": "Food & Drink"
+              "name": "Personal Finance"
             }
           }
         ]
