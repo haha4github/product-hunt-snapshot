@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2025-08-29T10:56:20.709Z",
+  "fetchedAt": "2025-08-29T11:20:27.664Z",
   "posts": [
     {
       "id": "1010263",
       "name": "Wanderboat 2.0",
       "tagline": "Social + local + AI map search",
       "url": "https://www.producthunt.com/products/wanderboat-2-0?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 190,
-      "commentsCount": 23,
+      "votesCount": 201,
+      "commentsCount": 25,
       "createdAt": "2025-08-29T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/c349e7f7-0379-4779-88f4-61c905fa4b6e.gif?auto=format"
@@ -33,12 +33,43 @@
       }
     },
     {
+      "id": "1007265",
+      "name": "Surf",
+      "tagline": "AI-powered crypto insights and trading in one platform",
+      "url": "https://www.producthunt.com/products/surf-9?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 165,
+      "commentsCount": 26,
+      "createdAt": "2025-08-29T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/eae5349c-9924-4ee5-a27a-7be81c19e200.jpeg?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Analytics"
+            }
+          },
+          {
+            "node": {
+              "name": "Crypto"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1010327",
       "name": "HyNote AI",
       "tagline": "Full stack AI note taker with Google, Notion + more support",
       "url": "https://www.producthunt.com/products/ai-notebook-app?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 145,
-      "commentsCount": 27,
+      "votesCount": 150,
+      "commentsCount": 28,
       "createdAt": "2025-08-29T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/ae4bbf44-afd8-41b6-bd74-79312edd5701.jpeg?auto=format"
@@ -69,42 +100,11 @@
       }
     },
     {
-      "id": "1007265",
-      "name": "Surf",
-      "tagline": "AI-powered crypto insights and trading in one platform",
-      "url": "https://www.producthunt.com/products/surf-9?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 144,
-      "commentsCount": 22,
-      "createdAt": "2025-08-29T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/eae5349c-9924-4ee5-a27a-7be81c19e200.jpeg?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Analytics"
-            }
-          },
-          {
-            "node": {
-              "name": "Crypto"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1009406",
       "name": "Find Anyone’s Email & Cell",
       "tagline": "Verified emails and direct dials in seconds.",
       "url": "https://www.producthunt.com/products/find-anyone-s-email-cellphone-for-free?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 130,
+      "votesCount": 136,
       "commentsCount": 30,
       "createdAt": "2025-08-29T07:01:00Z",
       "thumbnail": {
@@ -135,7 +135,7 @@
       "name": "Codex by OpenAI",
       "tagline": "Your new software engineering teammate",
       "url": "https://www.producthunt.com/products/openai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 113,
+      "votesCount": 118,
       "commentsCount": 4,
       "createdAt": "2025-08-29T07:01:00Z",
       "thumbnail": {
@@ -188,42 +188,11 @@
       }
     },
     {
-      "id": "1010535",
-      "name": "Optibase 2.0",
-      "tagline": "The ultimate A/B testing app for Webflow",
-      "url": "https://www.producthunt.com/products/a-b-testing-for-webflow?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 105,
-      "commentsCount": 5,
-      "createdAt": "2025-08-29T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/009555c0-7066-4abb-8f9f-dff700162ae2.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "A/B Testing"
-            }
-          },
-          {
-            "node": {
-              "name": "Marketing"
-            }
-          },
-          {
-            "node": {
-              "name": "Data & Analytics"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1008359",
       "name": "Streamdown by Vercel",
       "tagline": "Drop-in replacement for react-markdown",
       "url": "https://www.producthunt.com/products/vercel?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 105,
+      "votesCount": 106,
       "commentsCount": 4,
       "createdAt": "2025-08-29T07:01:00Z",
       "thumbnail": {
@@ -255,11 +224,42 @@
       }
     },
     {
+      "id": "1010535",
+      "name": "Optibase 2.0",
+      "tagline": "The ultimate A/B testing app for Webflow",
+      "url": "https://www.producthunt.com/products/a-b-testing-for-webflow?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 105,
+      "commentsCount": 5,
+      "createdAt": "2025-08-29T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/009555c0-7066-4abb-8f9f-dff700162ae2.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "A/B Testing"
+            }
+          },
+          {
+            "node": {
+              "name": "Marketing"
+            }
+          },
+          {
+            "node": {
+              "name": "Data & Analytics"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1010354",
       "name": "Twistly",
       "tagline": "AI presentation maker add-in for Microsoft PowerPoint",
       "url": "https://www.producthunt.com/products/twistly?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 99,
+      "votesCount": 101,
       "commentsCount": 3,
       "createdAt": "2025-08-29T07:01:00Z",
       "thumbnail": {
@@ -290,7 +290,7 @@
       "name": "KushoAI",
       "tagline": "Open-source AI tester that lives in your CLI",
       "url": "https://www.producthunt.com/products/kushoai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 99,
+      "votesCount": 100,
       "commentsCount": 4,
       "createdAt": "2025-08-29T07:01:00Z",
       "thumbnail": {
@@ -326,7 +326,7 @@
       "name": "Microsoft AI (MAI) Voice-1",
       "tagline": "Highly expressive and natural speech generation model",
       "url": "https://www.producthunt.com/products/microsoft-copilot?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 98,
+      "votesCount": 99,
       "commentsCount": 4,
       "createdAt": "2025-08-29T07:01:00Z",
       "thumbnail": {
@@ -414,8 +414,8 @@
       "name": "Never lose your work again ",
       "tagline": "Checkpoints for claude code ",
       "url": "https://www.producthunt.com/products/never-lose-your-work-again?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 89,
-      "commentsCount": 4,
+      "votesCount": 91,
+      "commentsCount": 5,
       "createdAt": "2025-08-29T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/6c4083d8-0100-4175-962c-d9e55f0cb751.jpeg?auto=format"
@@ -466,7 +466,7 @@
       "name": "Articalize ",
       "tagline": "Create high quality blog articles from any source",
       "url": "https://www.producthunt.com/products/articalize-ai-article-writer?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 44,
+      "votesCount": 46,
       "commentsCount": 15,
       "createdAt": "2025-08-29T07:01:00Z",
       "thumbnail": {
@@ -518,6 +518,37 @@
           {
             "node": {
               "name": "Career"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1008710",
+      "name": "Sovereign Trades",
+      "tagline": "Easily Trade Curated Defense and Aerospace Startups",
+      "url": "https://www.producthunt.com/products/sovereign-trades-prelaunch?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 18,
+      "commentsCount": 1,
+      "createdAt": "2025-08-29T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/083bf7d6-bc52-4eca-a771-f68ca0245609.jpeg?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Fintech"
+            }
+          },
+          {
+            "node": {
+              "name": "Investing"
+            }
+          },
+          {
+            "node": {
+              "name": "Money"
             }
           }
         ]
@@ -580,37 +611,6 @@
           {
             "node": {
               "name": "WordPress"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1010622",
-      "name": "Hermes 4",
-      "tagline": "Powerful reasoning model that's aligned to you",
-      "url": "https://www.producthunt.com/products/hermes-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 8,
-      "commentsCount": 1,
-      "createdAt": "2025-08-29T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/322e236c-e6fc-4a5d-be8e-9d509d7a34d6.jpeg?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Open Source"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          },
-          {
-            "node": {
-              "name": "Development"
             }
           }
         ]
