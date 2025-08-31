@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2025-08-31T20:58:36.723Z",
+  "fetchedAt": "2025-08-31T21:22:29.652Z",
   "posts": [
     {
       "id": "1007243",
       "name": "A01",
       "tagline": "Your personal news agent",
       "url": "https://www.producthunt.com/products/a01?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 317,
-      "commentsCount": 41,
+      "votesCount": 318,
+      "commentsCount": 39,
       "createdAt": "2025-08-31T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/7d6c6aec-aecb-4280-bc30-1a6dbbb122c5.png?auto=format"
@@ -99,8 +99,8 @@
       "name": "UseArticle",
       "tagline": "Turn any product url into profitable affiliate website",
       "url": "https://www.producthunt.com/products/usearticle-urls-to-affiliate-website?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 197,
-      "commentsCount": 19,
+      "votesCount": 203,
+      "commentsCount": 18,
       "createdAt": "2025-08-31T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/8bc30353-84a0-4067-93cc-a1e0b0a09bb2.png?auto=format"
@@ -130,7 +130,7 @@
       "name": "Byterover 2.0",
       "tagline": "Central Memory Layer For Dev Teams with Git-like System",
       "url": "https://www.producthunt.com/products/byterover?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 186,
+      "votesCount": 188,
       "commentsCount": 8,
       "createdAt": "2025-08-31T07:01:00Z",
       "thumbnail": {
@@ -161,8 +161,8 @@
       "name": "Higgsfield Speak 2.0",
       "tagline": "Make Avatars Speak ",
       "url": "https://www.producthunt.com/products/higgsfield?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 146,
-      "commentsCount": 0,
+      "votesCount": 147,
+      "commentsCount": 1,
       "createdAt": "2025-08-31T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/bc2f3698-fbfd-4763-bd59-992b9b529f44.png?auto=format"
@@ -333,7 +333,7 @@
       "tagline": "Turn your ideas into viral talking head videos in minutes",
       "url": "https://www.producthunt.com/products/creatoor-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 21,
-      "commentsCount": 10,
+      "commentsCount": 11,
       "createdAt": "2025-08-31T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/ef501ea4-5ada-4c63-a3fe-c75c64b98c80.jpeg?auto=format"
@@ -416,11 +416,42 @@
       }
     },
     {
+      "id": "1011185",
+      "name": "ZZZello",
+      "tagline": "Book Your Hotel Stay Direct with No Middleman",
+      "url": "https://www.producthunt.com/products/zzzello?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 18,
+      "commentsCount": 9,
+      "createdAt": "2025-08-31T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/9595a752-1bbf-407a-9c9c-7e39cadaad10.jpeg?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Travel"
+            }
+          },
+          {
+            "node": {
+              "name": "Vacation"
+            }
+          },
+          {
+            "node": {
+              "name": "Business Travel"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1011014",
       "name": "Orion",
       "tagline": "Sound Library Browser",
       "url": "https://www.producthunt.com/products/orion-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 18,
+      "votesCount": 17,
       "commentsCount": 34,
       "createdAt": "2025-08-31T07:01:00Z",
       "thumbnail": {
@@ -441,37 +472,6 @@
           {
             "node": {
               "name": "Search"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1011185",
-      "name": "ZZZello",
-      "tagline": "Book Your Hotel Stay Direct with No Middleman",
-      "url": "https://www.producthunt.com/products/zzzello?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 17,
-      "commentsCount": 7,
-      "createdAt": "2025-08-31T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/9595a752-1bbf-407a-9c9c-7e39cadaad10.jpeg?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Travel"
-            }
-          },
-          {
-            "node": {
-              "name": "Vacation"
-            }
-          },
-          {
-            "node": {
-              "name": "Business Travel"
             }
           }
         ]
