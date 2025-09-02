@@ -1,12 +1,12 @@
 {
-  "fetchedAt": "2025-09-02T16:43:51.747Z",
+  "fetchedAt": "2025-09-02T16:56:31.427Z",
   "posts": [
     {
       "id": "1011137",
       "name": "Receiptor AI 2.0",
       "tagline": "Bookkeeping on Autopilot with AI",
       "url": "https://www.producthunt.com/products/receiptor-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 272,
+      "votesCount": 275,
       "commentsCount": 58,
       "createdAt": "2025-09-02T07:01:00Z",
       "thumbnail": {
@@ -37,7 +37,7 @@
       "name": "Google Finance Beta",
       "tagline": "Dive into the world of finance with AI-powered insights",
       "url": "https://www.producthunt.com/products/google?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 228,
+      "votesCount": 229,
       "commentsCount": 13,
       "createdAt": "2025-09-02T07:01:00Z",
       "thumbnail": {
@@ -68,7 +68,7 @@
       "name": "Bhava",
       "tagline": "Create and edit diagrams instantly with AI",
       "url": "https://www.producthunt.com/products/bhava?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 177,
+      "votesCount": 178,
       "commentsCount": 25,
       "createdAt": "2025-09-02T07:01:00Z",
       "thumbnail": {
@@ -99,7 +99,7 @@
       "name": "Copilot Audio Expressions",
       "tagline": "The new voice of your stories",
       "url": "https://www.producthunt.com/products/the-new-microsoft-copilot?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 166,
+      "votesCount": 167,
       "commentsCount": 10,
       "createdAt": "2025-09-02T07:01:00Z",
       "thumbnail": {
@@ -178,6 +178,32 @@
       }
     },
     {
+      "id": "1006579",
+      "name": "Bugster",
+      "tagline": "AI QA engineer for Next.js apps",
+      "url": "https://www.producthunt.com/products/bugster?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 139,
+      "commentsCount": 14,
+      "createdAt": "2025-09-02T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/f75f52fb-c0b0-4fe1-9ea5-cbbe600c466a.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1006345",
       "name": "fileAI MCP",
       "tagline": "Give AI agents secure, real-time access to your files",
@@ -195,32 +221,6 @@
               "name": "Productivity"
             }
           },
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1006579",
-      "name": "Bugster",
-      "tagline": "AI QA engineer for Next.js apps",
-      "url": "https://www.producthunt.com/products/bugster?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 138,
-      "commentsCount": 13,
-      "createdAt": "2025-09-02T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/f75f52fb-c0b0-4fe1-9ea5-cbbe600c466a.png?auto=format"
-      },
-      "topics": {
-        "edges": [
           {
             "node": {
               "name": "Developer Tools"
@@ -452,6 +452,37 @@
       }
     },
     {
+      "id": "1011748",
+      "name": "SpatialChat",
+      "tagline": "Product Feature Update for our Virtual Conferencing Platform",
+      "url": "https://www.producthunt.com/products/spatialchat?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 93,
+      "commentsCount": 2,
+      "createdAt": "2025-09-02T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/af94a043-f4c9-4e00-8019-7a8e2aea5587.jpeg?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Events"
+            }
+          },
+          {
+            "node": {
+              "name": "User Experience"
+            }
+          },
+          {
+            "node": {
+              "name": "Tech"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1011790",
       "name": "NoteWave",
       "tagline": "AI-powered transcription & summaries for any meeting",
@@ -477,37 +508,6 @@
           {
             "node": {
               "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1011748",
-      "name": "SpatialChat",
-      "tagline": "Product Feature Update for our Virtual Conferencing Platform",
-      "url": "https://www.producthunt.com/products/spatialchat?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 92,
-      "commentsCount": 2,
-      "createdAt": "2025-09-02T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/af94a043-f4c9-4e00-8019-7a8e2aea5587.jpeg?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Events"
-            }
-          },
-          {
-            "node": {
-              "name": "User Experience"
-            }
-          },
-          {
-            "node": {
-              "name": "Tech"
             }
           }
         ]
