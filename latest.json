@@ -1,12 +1,12 @@
 {
-  "fetchedAt": "2025-09-02T11:36:55.695Z",
+  "fetchedAt": "2025-09-02T11:49:23.160Z",
   "posts": [
     {
       "id": "1011137",
       "name": "Receiptor AI 2.0",
       "tagline": "Bookkeeping on Autopilot with AI",
       "url": "https://www.producthunt.com/products/receiptor-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 161,
+      "votesCount": 164,
       "commentsCount": 33,
       "createdAt": "2025-09-02T07:01:00Z",
       "thumbnail": {
@@ -37,7 +37,7 @@
       "name": "Google Finance Beta",
       "tagline": "Dive into the world of finance with AI-powered insights",
       "url": "https://www.producthunt.com/products/google?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 151,
+      "votesCount": 152,
       "commentsCount": 2,
       "createdAt": "2025-09-02T07:01:00Z",
       "thumbnail": {
@@ -125,7 +125,7 @@
       "name": "fileAI MCP",
       "tagline": "Give AI agents secure, real-time access to your files",
       "url": "https://www.producthunt.com/products/fileai-ai-ocr?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 111,
+      "votesCount": 112,
       "commentsCount": 12,
       "createdAt": "2025-09-02T07:01:00Z",
       "thumbnail": {
@@ -156,7 +156,7 @@
       "name": "Upvoted",
       "tagline": "Feature voting and product feedback tool",
       "url": "https://www.producthunt.com/products/upvoted-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 107,
+      "votesCount": 108,
       "commentsCount": 2,
       "createdAt": "2025-09-02T07:01:00Z",
       "thumbnail": {
@@ -214,7 +214,7 @@
       "tagline": " Explore a living, animated sci-fi world made of pixel art",
       "url": "https://www.producthunt.com/products/floor796?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 98,
-      "commentsCount": 6,
+      "commentsCount": 7,
       "createdAt": "2025-09-02T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/1013b780-5cac-40cb-8921-609c51f6978b.png?auto=format"
@@ -266,6 +266,32 @@
       }
     },
     {
+      "id": "1006579",
+      "name": "Bugster",
+      "tagline": "AI QA engineer for Next.js apps",
+      "url": "https://www.producthunt.com/products/bugster?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 93,
+      "commentsCount": 4,
+      "createdAt": "2025-09-02T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/f75f52fb-c0b0-4fe1-9ea5-cbbe600c466a.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1009793",
       "name": "Coherence X5 for macOS",
       "tagline": "Turn websites into isolated Mac apps using Chrome",
@@ -291,32 +317,6 @@
           {
             "node": {
               "name": "Apple"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1006579",
-      "name": "Bugster",
-      "tagline": "AI QA engineer for Next.js apps",
-      "url": "https://www.producthunt.com/products/bugster?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 92,
-      "commentsCount": 4,
-      "createdAt": "2025-09-02T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/f75f52fb-c0b0-4fe1-9ea5-cbbe600c466a.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
             }
           }
         ]
@@ -421,6 +421,37 @@
       }
     },
     {
+      "id": "1008763",
+      "name": "Ghost",
+      "tagline": "Cursor, Figma, and Powerpoint all in one slide editor",
+      "url": "https://www.producthunt.com/products/ghost-6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 87,
+      "commentsCount": 3,
+      "createdAt": "2025-09-02T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/dd412973-b457-49b9-a05b-2d176fe3a13e.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Design Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1006524",
       "name": "Compot",
       "tagline": "SwiftUI components + AI coding assistant",
@@ -477,37 +508,6 @@
           {
             "node": {
               "name": "Tech"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1008763",
-      "name": "Ghost",
-      "tagline": "Cursor, Figma, and Powerpoint all in one slide editor",
-      "url": "https://www.producthunt.com/products/ghost-6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 87,
-      "commentsCount": 3,
-      "createdAt": "2025-09-02T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/dd412973-b457-49b9-a05b-2d176fe3a13e.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Design Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
             }
           }
         ]
