@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2025-09-05T07:56:49.941Z",
+  "fetchedAt": "2025-09-05T08:32:33.915Z",
   "posts": [
     {
       "id": "1010082",
       "name": "CapCut AI Suite",
       "tagline": "Create, edit, or remix content with AI in a simple editor",
       "url": "https://www.producthunt.com/products/capcut-ai-suite?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 99,
-      "commentsCount": 5,
+      "votesCount": 133,
+      "commentsCount": 12,
       "createdAt": "2025-09-05T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/35da16dd-7653-4b42-af84-a20797b06415.vnd.microsoft.icon?auto=format"
@@ -33,12 +33,74 @@
       }
     },
     {
+      "id": "1010375",
+      "name": "Katalog",
+      "tagline": "Talk to your reading list",
+      "url": "https://www.producthunt.com/products/katalog-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 91,
+      "commentsCount": 12,
+      "createdAt": "2025-09-05T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/bd61921a-fb0d-4f2b-87df-29f075b94e99.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Web App"
+            }
+          },
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Audio"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1012533",
+      "name": "100 Vibe Coding",
+      "tagline": "From zero to your first project in 100 challenges",
+      "url": "https://www.producthunt.com/products/100-vibe-coding?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 85,
+      "commentsCount": 7,
+      "createdAt": "2025-09-05T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/bdbd75f4-04c3-46f9-bda2-f757e900b646.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Education"
+            }
+          },
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1008190",
       "name": "Clips by xdge.ai",
       "tagline": "Ditch Meetings and effortlessly capture + rewind your day",
       "url": "https://www.producthunt.com/products/ayraa?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 78,
-      "commentsCount": 2,
+      "votesCount": 83,
+      "commentsCount": 4,
       "createdAt": "2025-09-05T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/5edffebd-37a1-4b3a-b4c1-937bd4115a63.jpeg?auto=format"
@@ -68,8 +130,8 @@
       "name": "Speech to Note Mobile App",
       "tagline": "Taking Notes on the Go! Online, offline",
       "url": "https://www.producthunt.com/products/speech-to-note?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 78,
-      "commentsCount": 1,
+      "votesCount": 83,
+      "commentsCount": 8,
       "createdAt": "2025-09-05T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/f3eeba06-e937-4d1f-9c88-8782ab85e8da.png?auto=format"
@@ -95,23 +157,18 @@
       }
     },
     {
-      "id": "1010375",
-      "name": "Katalog",
-      "tagline": "Talk to your reading list",
-      "url": "https://www.producthunt.com/products/katalog-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 83,
+      "id": "1012941",
+      "name": "TextJam",
+      "tagline": "The multiplayer AI editor for collaborative team writing ",
+      "url": "https://www.producthunt.com/products/textjam-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 78,
       "commentsCount": 4,
       "createdAt": "2025-09-05T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/bd61921a-fb0d-4f2b-87df-29f075b94e99.png?auto=format"
+        "url": "https://ph-files.imgix.net/0e5faba6-2c94-4272-a63a-05359938dff2.png?auto=format"
       },
       "topics": {
         "edges": [
-          {
-            "node": {
-              "name": "Web App"
-            }
-          },
           {
             "node": {
               "name": "Productivity"
@@ -119,7 +176,12 @@
           },
           {
             "node": {
-              "name": "Audio"
+              "name": "Writing"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
             }
           }
         ]
@@ -130,7 +192,7 @@
       "name": "Stax",
       "tagline": "Move your LLM evals from vibes to data",
       "url": "https://www.producthunt.com/products/google-labs?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 73,
+      "votesCount": 77,
       "commentsCount": 2,
       "createdAt": "2025-09-05T07:01:00Z",
       "thumbnail": {
@@ -157,93 +219,31 @@
       }
     },
     {
-      "id": "1012941",
-      "name": "TextJam",
-      "tagline": "The multiplayer AI editor for collaborative team writing ",
-      "url": "https://www.producthunt.com/products/textjam-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 69,
-      "commentsCount": 2,
-      "createdAt": "2025-09-05T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/0e5faba6-2c94-4272-a63a-05359938dff2.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Writing"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1012533",
-      "name": "100 Vibe Coding",
-      "tagline": "From zero to your first project in 100 challenges",
-      "url": "https://www.producthunt.com/products/100-vibe-coding?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 74,
-      "commentsCount": 2,
-      "createdAt": "2025-09-05T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/bdbd75f4-04c3-46f9-bda2-f757e900b646.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Education"
-            }
-          },
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1012570",
-      "name": "doQment",
-      "tagline": "Turn websites into ephemeral MCP servers! From docs, to code",
-      "url": "https://www.producthunt.com/products/doqment?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 58,
+      "id": "1012912",
+      "name": "Brick Coder AI",
+      "tagline": "Build powerful agents in seconds with AI CANVA GENERATOR",
+      "url": "https://www.producthunt.com/products/brick-coder-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 68,
       "commentsCount": 1,
       "createdAt": "2025-09-05T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/5cbf1866-7309-4f0a-b131-bb43d09d8d19.png?auto=format"
+        "url": "https://ph-files.imgix.net/c855aaf3-7c54-4513-ad5f-7d9356effa1b.vnd.microsoft.icon?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "SaaS"
-            }
-          },
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          },
-          {
-            "node": {
               "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "Marketing automation"
+            }
+          },
+          {
+            "node": {
+              "name": "Vibe coding"
             }
           }
         ]
@@ -254,7 +254,7 @@
       "name": "bestie",
       "tagline": "like chatgpt with your friends",
       "url": "https://www.producthunt.com/products/bestie-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 55,
+      "votesCount": 64,
       "commentsCount": 1,
       "createdAt": "2025-09-05T07:01:00Z",
       "thumbnail": {
@@ -285,8 +285,8 @@
       "name": "Heep",
       "tagline": "The AI front desk for modern restaurants",
       "url": "https://www.producthunt.com/products/heep-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 55,
-      "commentsCount": 2,
+      "votesCount": 65,
+      "commentsCount": 4,
       "createdAt": "2025-09-05T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/8f9b5537-5bfa-479c-b3d4-d21bd153fbaa.png?auto=format"
@@ -312,31 +312,31 @@
       }
     },
     {
-      "id": "1012912",
-      "name": "Brick Coder AI",
-      "tagline": "Build powerful agents in seconds with AI CANVA GENERATOR",
-      "url": "https://www.producthunt.com/products/brick-coder-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 53,
+      "id": "1012570",
+      "name": "doQment",
+      "tagline": "Turn websites into ephemeral MCP servers! From docs, to code",
+      "url": "https://www.producthunt.com/products/doqment?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 59,
       "commentsCount": 1,
       "createdAt": "2025-09-05T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/c855aaf3-7c54-4513-ad5f-7d9356effa1b.vnd.microsoft.icon?auto=format"
+        "url": "https://ph-files.imgix.net/5cbf1866-7309-4f0a-b131-bb43d09d8d19.png?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
+              "name": "SaaS"
+            }
+          },
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          },
+          {
+            "node": {
               "name": "Artificial Intelligence"
-            }
-          },
-          {
-            "node": {
-              "name": "Marketing automation"
-            }
-          },
-          {
-            "node": {
-              "name": "Vibe coding"
             }
           }
         ]
@@ -347,7 +347,7 @@
       "name": "Talking Translator",
       "tagline": "Left Ear Spanish, Right Ear English - Instant Translation",
       "url": "https://www.producthunt.com/products/talking-translator-ai-earbuds?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 17,
+      "votesCount": 18,
       "commentsCount": 3,
       "createdAt": "2025-09-05T07:01:00Z",
       "thumbnail": {
@@ -431,6 +431,37 @@
       }
     },
     {
+      "id": "1012694",
+      "name": "Pinkfish - Vibe Workflow Automation",
+      "tagline": "Idea to automation without the wait",
+      "url": "https://www.producthunt.com/products/pinkfish-vibe-workflow-automation?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 4,
+      "commentsCount": 1,
+      "createdAt": "2025-09-05T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/94034e2b-87eb-435a-9fcf-1fa101c18c57.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "Vibe coding"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1012566",
       "name": "Price Translator",
       "tagline": "Minimal exchange rate tool for travelers on your home screen",
@@ -456,6 +487,37 @@
           {
             "node": {
               "name": "Travel"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1012779",
+      "name": "SalaryShame",
+      "tagline": "The brutal truth about your salary in 60 seconds",
+      "url": "https://www.producthunt.com/products/salaryshame-am-i-underpaid?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 3,
+      "commentsCount": 1,
+      "createdAt": "2025-09-05T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/07508c47-d24d-42b4-b40c-cfb94f47891f.webp?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "SaaS"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "Tech"
             }
           }
         ]
@@ -498,37 +560,6 @@
       }
     },
     {
-      "id": "1012694",
-      "name": "Pinkfish - Vibe Workflow Automation",
-      "tagline": "Idea to automation without the wait",
-      "url": "https://www.producthunt.com/products/pinkfish-vibe-workflow-automation?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 3,
-      "commentsCount": 1,
-      "createdAt": "2025-09-05T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/94034e2b-87eb-435a-9fcf-1fa101c18c57.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          },
-          {
-            "node": {
-              "name": "Vibe coding"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1012985",
       "name": "Bizcraftiq",
       "tagline": "AI-Powered Business Data Finder",
@@ -560,62 +591,31 @@
       }
     },
     {
-      "id": "1012779",
-      "name": "SalaryShame",
-      "tagline": "The brutal truth about your salary in 60 seconds",
-      "url": "https://www.producthunt.com/products/salaryshame-am-i-underpaid?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "id": "1012860",
+      "name": "InvoX",
+      "tagline": "Self-hosted invoicing software for small businesses",
+      "url": "https://www.producthunt.com/products/invox-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 3,
       "commentsCount": 1,
       "createdAt": "2025-09-05T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/07508c47-d24d-42b4-b40c-cfb94f47891f.webp?auto=format"
+        "url": "https://ph-files.imgix.net/db2a6752-6096-4886-ad98-2b0ab4c7b302.png?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "SaaS"
+              "name": "Freelance"
             }
           },
           {
             "node": {
-              "name": "Artificial Intelligence"
+              "name": "Fintech"
             }
           },
           {
             "node": {
-              "name": "Tech"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1012750",
-      "name": "Free NanoBanana Creations nanobananas.me",
-      "tagline": "Stunning nano banana art and supporting free to use.",
-      "url": "https://www.producthunt.com/products/free-nano-banana-creations-anobananas-me?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 3,
-      "commentsCount": 1,
-      "createdAt": "2025-09-05T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/de7d4d38-37a6-490d-b1db-ec6396d541d3.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Design Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Photography"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
+              "name": "Payments"
             }
           }
         ]
