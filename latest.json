@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2025-09-06T18:42:10.099Z",
+  "fetchedAt": "2025-09-06T18:54:43.604Z",
   "posts": [
     {
       "id": "1011893",
@@ -68,8 +68,8 @@
       "name": "Dockify ",
       "tagline": "Customize and switch your Mac dock instantly",
       "url": "https://www.producthunt.com/products/dockify?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 177,
-      "commentsCount": 14,
+      "votesCount": 178,
+      "commentsCount": 15,
       "createdAt": "2025-09-06T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/477bed8d-6e79-40db-81be-f4be987e532c.png?auto=format"
@@ -99,7 +99,7 @@
       "name": "Kaylin AI",
       "tagline": "Full-service AI powered marketing for small businesses",
       "url": "https://www.producthunt.com/products/kaylin-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 162,
+      "votesCount": 163,
       "commentsCount": 12,
       "createdAt": "2025-09-06T07:01:00Z",
       "thumbnail": {
@@ -276,7 +276,7 @@
       "tagline": "Write once. publish everywhere.",
       "url": "https://www.producthunt.com/products/cross-write?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 12,
-      "commentsCount": 7,
+      "commentsCount": 8,
       "createdAt": "2025-09-06T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/33c3239c-c471-405e-afea-6c77ddddaf87.png?auto=format"
@@ -385,12 +385,43 @@
       }
     },
     {
+      "id": "1012155",
+      "name": "ZenTrack - AI Habit & Focus Tracker",
+      "tagline": "AI-powered habit tracker that learns your daily patterns",
+      "url": "https://www.producthunt.com/products/zentrack-ai-habit-focus-tracker?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 10,
+      "commentsCount": 3,
+      "createdAt": "2025-09-06T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/d407847e-486c-471c-8bfa-b63e429605fd.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Android"
+            }
+          },
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1012974",
       "name": "Test your \"Hunter\" Skills",
       "tagline": "Simple game where you guess which PH product got more votes.",
       "url": "https://www.producthunt.com/products/test-your-hunter-skills?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 10,
-      "commentsCount": 7,
+      "commentsCount": 8,
       "createdAt": "2025-09-06T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/054fec49-2b24-4a61-8059-e49fa6060313.png?auto=format"
@@ -421,7 +452,7 @@
       "tagline": "Ship Software at the Speed of AI",
       "url": "https://www.producthunt.com/products/vivid-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 9,
-      "commentsCount": 6,
+      "commentsCount": 7,
       "createdAt": "2025-09-06T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/02668d4b-131a-423b-b858-83d8f9824463.png?auto=format"
@@ -436,37 +467,6 @@
           {
             "node": {
               "name": "Developer Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1012155",
-      "name": "ZenTrack - AI Habit & Focus Tracker",
-      "tagline": "AI-powered habit tracker that learns your daily patterns",
-      "url": "https://www.producthunt.com/products/zentrack-ai-habit-focus-tracker?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 9,
-      "commentsCount": 2,
-      "createdAt": "2025-09-06T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/d407847e-486c-471c-8bfa-b63e429605fd.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Android"
-            }
-          },
-          {
-            "node": {
-              "name": "Productivity"
             }
           },
           {
