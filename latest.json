@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2025-09-06T19:27:36.338Z",
+  "fetchedAt": "2025-09-06T19:39:45.799Z",
   "posts": [
     {
       "id": "1011893",
@@ -152,7 +152,7 @@
       "tagline": "Customer Data and Intelligence Platform for Real-time Action",
       "url": "https://www.producthunt.com/products/datablit?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 20,
-      "commentsCount": 5,
+      "commentsCount": 6,
       "createdAt": "2025-09-06T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/5c1545b8-f818-40dc-a7d2-cd2dbb506920.svg?auto=format"
@@ -271,6 +271,32 @@
       }
     },
     {
+      "id": "1013080",
+      "name": "BugByBug",
+      "tagline": "AI error tracker that tells you why bugs happen and fix it.",
+      "url": "https://www.producthunt.com/products/bugbybug?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 12,
+      "commentsCount": 3,
+      "createdAt": "2025-09-06T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/0e466705-8e4c-44a9-ad44-0c5a1ab0b27e.x-icon?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1012771",
       "name": "Cross Write",
       "tagline": "Write once. publish everywhere.",
@@ -302,21 +328,26 @@
       }
     },
     {
-      "id": "1013080",
-      "name": "BugByBug",
-      "tagline": "AI error tracker that tells you why bugs happen and fix it.",
-      "url": "https://www.producthunt.com/products/bugbybug?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "id": "1012155",
+      "name": "ZenTrack - AI Habit & Focus Tracker",
+      "tagline": "AI-powered habit tracker that learns your daily patterns",
+      "url": "https://www.producthunt.com/products/zentrack-ai-habit-focus-tracker?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 11,
       "commentsCount": 3,
       "createdAt": "2025-09-06T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/0e466705-8e4c-44a9-ad44-0c5a1ab0b27e.x-icon?auto=format"
+        "url": "https://ph-files.imgix.net/d407847e-486c-471c-8bfa-b63e429605fd.png?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "Developer Tools"
+              "name": "Android"
+            }
+          },
+          {
+            "node": {
+              "name": "Productivity"
             }
           },
           {
@@ -348,37 +379,6 @@
           {
             "node": {
               "name": "Startup Lessons"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1012155",
-      "name": "ZenTrack - AI Habit & Focus Tracker",
-      "tagline": "AI-powered habit tracker that learns your daily patterns",
-      "url": "https://www.producthunt.com/products/zentrack-ai-habit-focus-tracker?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 11,
-      "commentsCount": 3,
-      "createdAt": "2025-09-06T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/d407847e-486c-471c-8bfa-b63e429605fd.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Android"
-            }
-          },
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
             }
           }
         ]
