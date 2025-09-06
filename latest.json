@@ -1,12 +1,12 @@
 {
-  "fetchedAt": "2025-09-06T08:00:17.535Z",
+  "fetchedAt": "2025-09-06T08:29:12.246Z",
   "posts": [
     {
       "id": "1011893",
       "name": "PhotoFox AI",
       "tagline": "Turn any product photo into 100+ on-brand assets in minutes",
       "url": "https://www.producthunt.com/products/photofox-ai-instant-product-studio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 90,
+      "votesCount": 99,
       "commentsCount": 3,
       "createdAt": "2025-09-06T07:01:00Z",
       "thumbnail": {
@@ -33,11 +33,42 @@
       }
     },
     {
+      "id": "1013293",
+      "name": "Meeting.ai",
+      "tagline": "an AI notetaker built for visual learners",
+      "url": "https://www.producthunt.com/products/meeting-ai-visual-note?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 80,
+      "commentsCount": 1,
+      "createdAt": "2025-09-06T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/77d1c7de-6168-4b65-a944-dd89c4bef6e1.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Meetings"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1013271",
       "name": "Dockify ",
       "tagline": "Customize and switch your Mac dock instantly",
       "url": "https://www.producthunt.com/products/dockify?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 74,
+      "votesCount": 76,
       "commentsCount": 1,
       "createdAt": "2025-09-06T07:01:00Z",
       "thumbnail": {
@@ -68,7 +99,7 @@
       "name": "Kaylin AI",
       "tagline": "Full-service AI powered marketing for small businesses",
       "url": "https://www.producthunt.com/products/kaylin-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 71,
+      "votesCount": 75,
       "commentsCount": 2,
       "createdAt": "2025-09-06T07:01:00Z",
       "thumbnail": {
@@ -95,42 +126,11 @@
       }
     },
     {
-      "id": "1013293",
-      "name": "Meeting.ai",
-      "tagline": "an AI notetaker built for visual learners",
-      "url": "https://www.producthunt.com/products/meeting-ai-visual-note?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 70,
-      "commentsCount": 1,
-      "createdAt": "2025-09-06T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/77d1c7de-6168-4b65-a944-dd89c4bef6e1.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Meetings"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1012277",
       "name": "QuickDeploy",
       "tagline": "Deploy your web app to a VPS in minutes",
       "url": "https://www.producthunt.com/products/quickdeploy?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 59,
+      "votesCount": 67,
       "commentsCount": 1,
       "createdAt": "2025-09-06T07:01:00Z",
       "thumbnail": {
@@ -182,7 +182,7 @@
       "name": "Cross Write",
       "tagline": "Write once. publish everywhere.",
       "url": "https://www.producthunt.com/products/cross-write?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 3,
+      "votesCount": 4,
       "commentsCount": 1,
       "createdAt": "2025-09-06T07:01:00Z",
       "thumbnail": {
@@ -203,37 +203,6 @@
           {
             "node": {
               "name": "GitHub"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1013235",
-      "name": "Lutify",
-      "tagline": "AI Image Editor for Figma.",
-      "url": "https://www.producthunt.com/products/lutify?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 3,
-      "commentsCount": 1,
-      "createdAt": "2025-09-06T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/a6a4d06c-aeb1-4b6f-b626-83cb83035917.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Design Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "User Experience"
-            }
-          },
-          {
-            "node": {
-              "name": "Photo editing"
             }
           }
         ]
@@ -265,6 +234,37 @@
           {
             "node": {
               "name": "SaaS"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1013235",
+      "name": "Lutify",
+      "tagline": "AI Image Editor for Figma.",
+      "url": "https://www.producthunt.com/products/lutify?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 3,
+      "commentsCount": 1,
+      "createdAt": "2025-09-06T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/a6a4d06c-aeb1-4b6f-b626-83cb83035917.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Design Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "User Experience"
+            }
+          },
+          {
+            "node": {
+              "name": "Photo editing"
             }
           }
         ]
@@ -327,6 +327,37 @@
           {
             "node": {
               "name": "GitHub"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1012974",
+      "name": "Test your \"Hunter\" Skills",
+      "tagline": "Simple game were you guess which PH product got more votes.",
+      "url": "https://www.producthunt.com/products/test-your-hunter-skills?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 2,
+      "commentsCount": 2,
+      "createdAt": "2025-09-06T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/054fec49-2b24-4a61-8059-e49fa6060313.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Free Games"
+            }
+          },
+          {
+            "node": {
+              "name": "Product Hunt"
+            }
+          },
+          {
+            "node": {
+              "name": "Games"
             }
           }
         ]
@@ -457,37 +488,6 @@
       }
     },
     {
-      "id": "1012974",
-      "name": "Test your \"Hunter\" Skills",
-      "tagline": "Simple game were you guess which PH product got more votes.",
-      "url": "https://www.producthunt.com/products/test-your-hunter-skills?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 1,
-      "commentsCount": 2,
-      "createdAt": "2025-09-06T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/054fec49-2b24-4a61-8059-e49fa6060313.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Free Games"
-            }
-          },
-          {
-            "node": {
-              "name": "Product Hunt"
-            }
-          },
-          {
-            "node": {
-              "name": "Games"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "979398",
       "name": "Valasys AI Score ",
       "tagline": "Empowering marketers with powerful insights",
@@ -576,31 +576,21 @@
       }
     },
     {
-      "id": "1011887",
-      "name": "QuizGen",
-      "tagline": "Organize, export & master any subject with AI quizzes",
-      "url": "https://www.producthunt.com/products/quizgen?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "id": "1013231",
+      "name": "Gameaton",
+      "tagline": "Find your next steam game",
+      "url": "https://www.producthunt.com/products/gameaton?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 1,
       "commentsCount": 1,
       "createdAt": "2025-09-06T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/c1d52d65-fb0e-4cbd-9dcf-b577bd40060a.png?auto=format"
+        "url": "https://ph-files.imgix.net/8fd121aa-538d-46c5-8fda-be8fbc0e0ce4.vnd.microsoft.icon?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "Education"
-            }
-          },
-          {
-            "node": {
-              "name": "SaaS"
-            }
-          },
-          {
-            "node": {
-              "name": "Online Learning"
+              "name": "Games"
             }
           }
         ]
