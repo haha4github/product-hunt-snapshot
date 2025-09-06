@@ -1,12 +1,12 @@
 {
-  "fetchedAt": "2025-09-06T07:35:38.015Z",
+  "fetchedAt": "2025-09-06T07:47:59.060Z",
   "posts": [
     {
       "id": "1011893",
       "name": "PhotoFox AI",
       "tagline": "Turn any product photo into 100+ on-brand assets in minutes",
       "url": "https://www.producthunt.com/products/photofox-ai-instant-product-studio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 80,
+      "votesCount": 88,
       "commentsCount": 3,
       "createdAt": "2025-09-06T07:01:00Z",
       "thumbnail": {
@@ -37,7 +37,7 @@
       "name": "Dockify ",
       "tagline": "Customize and switch your Mac dock instantly",
       "url": "https://www.producthunt.com/products/dockify?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 70,
+      "votesCount": 73,
       "commentsCount": 1,
       "createdAt": "2025-09-06T07:01:00Z",
       "thumbnail": {
@@ -68,7 +68,7 @@
       "name": "Kaylin AI",
       "tagline": "Full-service AI powered marketing for small businesses",
       "url": "https://www.producthunt.com/products/kaylin-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 69,
+      "votesCount": 71,
       "commentsCount": 2,
       "createdAt": "2025-09-06T07:01:00Z",
       "thumbnail": {
@@ -99,7 +99,7 @@
       "name": "Meeting.ai",
       "tagline": "an AI notetaker built for visual learners",
       "url": "https://www.producthunt.com/products/meeting-ai-visual-note?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 65,
+      "votesCount": 68,
       "commentsCount": 1,
       "createdAt": "2025-09-06T07:01:00Z",
       "thumbnail": {
@@ -130,7 +130,7 @@
       "name": "QuickDeploy",
       "tagline": "Deploy your web app to a VPS in minutes",
       "url": "https://www.producthunt.com/products/quickdeploy?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 56,
+      "votesCount": 57,
       "commentsCount": 1,
       "createdAt": "2025-09-06T07:01:00Z",
       "thumbnail": {
@@ -178,37 +178,6 @@
       }
     },
     {
-      "id": "1013118",
-      "name": "DefendTab: Don't Close My Tab / Save Tab",
-      "tagline": "DefendTab is a Smart Tab Protector - Chrome Web Store",
-      "url": "https://www.producthunt.com/products/defendtab-don-t-close-my-tab-save-tab?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 3,
-      "commentsCount": 1,
-      "createdAt": "2025-09-06T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/de5e8ed6-034e-4c6a-a5e8-e20ef2f50a17.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Chrome Extensions"
-            }
-          },
-          {
-            "node": {
-              "name": "User Experience"
-            }
-          },
-          {
-            "node": {
-              "name": "SaaS"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1013235",
       "name": "Lutify",
       "tagline": "AI Image Editor for Figma.",
@@ -234,6 +203,68 @@
           {
             "node": {
               "name": "Photo editing"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1012771",
+      "name": "Cross Write",
+      "tagline": "Write once. publish everywhere.",
+      "url": "https://www.producthunt.com/products/cross-write?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 3,
+      "commentsCount": 1,
+      "createdAt": "2025-09-06T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/33c3239c-c471-405e-afea-6c77ddddaf87.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Writing"
+            }
+          },
+          {
+            "node": {
+              "name": "GitHub"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1013118",
+      "name": "DefendTab: Don't Close My Tab / Save Tab",
+      "tagline": "DefendTab is a Smart Tab Protector - Chrome Web Store",
+      "url": "https://www.producthunt.com/products/defendtab-don-t-close-my-tab-save-tab?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 3,
+      "commentsCount": 1,
+      "createdAt": "2025-09-06T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/de5e8ed6-034e-4c6a-a5e8-e20ef2f50a17.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Chrome Extensions"
+            }
+          },
+          {
+            "node": {
+              "name": "User Experience"
+            }
+          },
+          {
+            "node": {
+              "name": "SaaS"
             }
           }
         ]
@@ -271,37 +302,6 @@
       }
     },
     {
-      "id": "1012771",
-      "name": "Cross Write",
-      "tagline": "Write once. publish everywhere.",
-      "url": "https://www.producthunt.com/products/cross-write?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 4,
-      "commentsCount": 1,
-      "createdAt": "2025-09-06T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/33c3239c-c471-405e-afea-6c77ddddaf87.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Writing"
-            }
-          },
-          {
-            "node": {
-              "name": "GitHub"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1013220",
       "name": "Amplitude Data Manager",
       "tagline": "Upload & update user properties, send events",
@@ -327,99 +327,6 @@
           {
             "node": {
               "name": "GitHub"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1013187",
-      "name": "Vivid",
-      "tagline": "Ship Software at the Speed of AI",
-      "url": "https://www.producthunt.com/products/vivid-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 2,
-      "commentsCount": 2,
-      "createdAt": "2025-09-06T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/02668d4b-131a-423b-b858-83d8f9824463.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1013137",
-      "name": "Black Screen for Windows",
-      "tagline": "Instantly black out ALL monitors with a key press.",
-      "url": "https://www.producthunt.com/products/black-screen-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 2,
-      "commentsCount": 1,
-      "createdAt": "2025-09-06T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/e99e663c-bf78-4350-8cb7-4c1404665769.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Lifestyle"
-            }
-          },
-          {
-            "node": {
-              "name": "Health"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1013189",
-      "name": "CasaNoor",
-      "tagline": "Minimalist and modern room design made simple with AI",
-      "url": "https://www.producthunt.com/products/casanoor-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 2,
-      "commentsCount": 1,
-      "createdAt": "2025-09-06T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/57b5c256-21cf-4e4b-be63-ba13b63da539.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Design Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          },
-          {
-            "node": {
-              "name": "Interior design"
             }
           }
         ]
@@ -457,31 +364,93 @@
       }
     },
     {
-      "id": "979398",
-      "name": "Valasys AI Score ",
-      "tagline": "Empowering marketers with powerful insights",
-      "url": "https://www.producthunt.com/products/valasys-ai-score?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 1,
-      "commentsCount": 0,
+      "id": "1013187",
+      "name": "Vivid",
+      "tagline": "Ship Software at the Speed of AI",
+      "url": "https://www.producthunt.com/products/vivid-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 2,
+      "commentsCount": 2,
       "createdAt": "2025-09-06T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/4305db1e-7e82-46a9-a308-cfeb42d78798.jpeg?auto=format"
+        "url": "https://ph-files.imgix.net/02668d4b-131a-423b-b858-83d8f9824463.png?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "Sales"
+              "name": "Productivity"
             }
           },
           {
             "node": {
-              "name": "Marketing"
+              "name": "Developer Tools"
             }
           },
           {
             "node": {
-              "name": "SaaS"
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1013189",
+      "name": "CasaNoor",
+      "tagline": "Minimalist and modern room design made simple with AI",
+      "url": "https://www.producthunt.com/products/casanoor-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 2,
+      "commentsCount": 1,
+      "createdAt": "2025-09-06T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/57b5c256-21cf-4e4b-be63-ba13b63da539.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Design Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "Interior design"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1013137",
+      "name": "Black Screen for Windows",
+      "tagline": "Instantly black out ALL monitors with a key press.",
+      "url": "https://www.producthunt.com/products/black-screen-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 2,
+      "commentsCount": 1,
+      "createdAt": "2025-09-06T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/e99e663c-bf78-4350-8cb7-4c1404665769.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Lifestyle"
+            }
+          },
+          {
+            "node": {
+              "name": "Health"
             }
           }
         ]
@@ -513,6 +482,37 @@
           {
             "node": {
               "name": "Games"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "979398",
+      "name": "Valasys AI Score ",
+      "tagline": "Empowering marketers with powerful insights",
+      "url": "https://www.producthunt.com/products/valasys-ai-score?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 1,
+      "commentsCount": 0,
+      "createdAt": "2025-09-06T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/4305db1e-7e82-46a9-a308-cfeb42d78798.jpeg?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Sales"
+            }
+          },
+          {
+            "node": {
+              "name": "Marketing"
+            }
+          },
+          {
+            "node": {
+              "name": "SaaS"
             }
           }
         ]
@@ -576,31 +576,31 @@
       }
     },
     {
-      "id": "1012462",
-      "name": "MakerBox",
-      "tagline": "Your AI co-pilot for bios that get you hired and booked.",
-      "url": "https://www.producthunt.com/products/makerbox-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 2,
+      "id": "1011887",
+      "name": "QuizGen",
+      "tagline": "Organize, export & master any subject with AI quizzes",
+      "url": "https://www.producthunt.com/products/quizgen?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 1,
       "commentsCount": 1,
       "createdAt": "2025-09-06T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/e491a0fb-7a56-42f5-9473-5d05c93f232b.png?auto=format"
+        "url": "https://ph-files.imgix.net/c1d52d65-fb0e-4cbd-9dcf-b577bd40060a.png?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "Writing"
+              "name": "Education"
             }
           },
           {
             "node": {
-              "name": "Marketing"
+              "name": "SaaS"
             }
           },
           {
             "node": {
-              "name": "Artificial Intelligence"
+              "name": "Online Learning"
             }
           }
         ]
