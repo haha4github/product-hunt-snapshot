@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2025-09-06T19:15:16.550Z",
+  "fetchedAt": "2025-09-06T19:27:36.338Z",
   "posts": [
     {
       "id": "1011893",
@@ -152,7 +152,7 @@
       "tagline": "Customer Data and Intelligence Platform for Real-time Action",
       "url": "https://www.producthunt.com/products/datablit?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 20,
-      "commentsCount": 4,
+      "commentsCount": 5,
       "createdAt": "2025-09-06T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/5c1545b8-f818-40dc-a7d2-cd2dbb506920.svg?auto=format"
@@ -354,6 +354,37 @@
       }
     },
     {
+      "id": "1012155",
+      "name": "ZenTrack - AI Habit & Focus Tracker",
+      "tagline": "AI-powered habit tracker that learns your daily patterns",
+      "url": "https://www.producthunt.com/products/zentrack-ai-habit-focus-tracker?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 11,
+      "commentsCount": 3,
+      "createdAt": "2025-09-06T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/d407847e-486c-471c-8bfa-b63e429605fd.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Android"
+            }
+          },
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1013118",
       "name": "DefendTab: Don't Close My Tab / Save Tab",
       "tagline": "DefendTab is a Smart Tab Protector - Chrome Web Store",
@@ -379,37 +410,6 @@
           {
             "node": {
               "name": "SaaS"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1012155",
-      "name": "ZenTrack - AI Habit & Focus Tracker",
-      "tagline": "AI-powered habit tracker that learns your daily patterns",
-      "url": "https://www.producthunt.com/products/zentrack-ai-habit-focus-tracker?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 10,
-      "commentsCount": 3,
-      "createdAt": "2025-09-06T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/d407847e-486c-471c-8bfa-b63e429605fd.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Android"
-            }
-          },
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
             }
           }
         ]
