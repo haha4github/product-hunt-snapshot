@@ -1,12 +1,12 @@
 {
-  "fetchedAt": "2025-09-06T19:52:11.097Z",
+  "fetchedAt": "2025-09-06T20:15:34.565Z",
   "posts": [
     {
       "id": "1011893",
       "name": "PhotoFox AI",
       "tagline": "Turn any product photo into 100+ on-brand assets in minutes",
       "url": "https://www.producthunt.com/products/photofox-ai-instant-product-studio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 267,
+      "votesCount": 269,
       "commentsCount": 44,
       "createdAt": "2025-09-06T07:01:00Z",
       "thumbnail": {
@@ -37,7 +37,7 @@
       "name": "Meeting.ai",
       "tagline": "an AI notetaker built for visual learners",
       "url": "https://www.producthunt.com/products/meeting-ai-visual-note?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 248,
+      "votesCount": 249,
       "commentsCount": 16,
       "createdAt": "2025-09-06T07:01:00Z",
       "thumbnail": {
@@ -240,6 +240,37 @@
       }
     },
     {
+      "id": "1012155",
+      "name": "ZenTrack - AI Habit & Focus Tracker",
+      "tagline": "AI-powered habit tracker that learns your daily patterns",
+      "url": "https://www.producthunt.com/products/zentrack-ai-habit-focus-tracker?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 13,
+      "commentsCount": 3,
+      "createdAt": "2025-09-06T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/d407847e-486c-471c-8bfa-b63e429605fd.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Android"
+            }
+          },
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1013048",
       "name": "Instastock",
       "tagline": "Any Stock Image, Instantly.",
@@ -302,7 +333,7 @@
       "tagline": "Write once. publish everywhere.",
       "url": "https://www.producthunt.com/products/cross-write?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 12,
-      "commentsCount": 8,
+      "commentsCount": 10,
       "createdAt": "2025-09-06T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/33c3239c-c471-405e-afea-6c77ddddaf87.png?auto=format"
@@ -322,37 +353,6 @@
           {
             "node": {
               "name": "GitHub"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1012155",
-      "name": "ZenTrack - AI Habit & Focus Tracker",
-      "tagline": "AI-powered habit tracker that learns your daily patterns",
-      "url": "https://www.producthunt.com/products/zentrack-ai-habit-focus-tracker?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 12,
-      "commentsCount": 3,
-      "createdAt": "2025-09-06T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/d407847e-486c-471c-8bfa-b63e429605fd.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Android"
-            }
-          },
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
             }
           }
         ]
