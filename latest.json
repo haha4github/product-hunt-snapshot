@@ -1,12 +1,12 @@
 {
-  "fetchedAt": "2025-09-07T04:28:09.831Z",
+  "fetchedAt": "2025-09-07T04:43:35.748Z",
   "posts": [
     {
       "id": "1011893",
       "name": "PhotoFox AI",
       "tagline": "Turn any product photo into 100+ on-brand assets in minutes",
       "url": "https://www.producthunt.com/products/photofox-ai-instant-product-studio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 303,
+      "votesCount": 304,
       "commentsCount": 62,
       "createdAt": "2025-09-06T07:01:00Z",
       "thumbnail": {
@@ -37,7 +37,7 @@
       "name": "Meeting.ai",
       "tagline": "an AI notetaker built for visual learners",
       "url": "https://www.producthunt.com/products/meeting-ai-visual-note?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 276,
+      "votesCount": 277,
       "commentsCount": 19,
       "createdAt": "2025-09-06T07:01:00Z",
       "thumbnail": {
@@ -130,7 +130,7 @@
       "name": "QuickDeploy",
       "tagline": "Deploy your web app to a VPS in minutes",
       "url": "https://www.producthunt.com/products/quickdeploy?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 152,
+      "votesCount": 153,
       "commentsCount": 19,
       "createdAt": "2025-09-06T07:01:00Z",
       "thumbnail": {
@@ -363,7 +363,7 @@
       "name": "Appiverse",
       "tagline": "The right place to get early traffic for your app",
       "url": "https://www.producthunt.com/products/appiverse?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 11,
+      "votesCount": 12,
       "commentsCount": 5,
       "createdAt": "2025-09-06T07:01:00Z",
       "thumbnail": {
@@ -416,6 +416,37 @@
       }
     },
     {
+      "id": "1012974",
+      "name": "Test your \"Hunter\" Skills",
+      "tagline": "Simple game where you guess which PH product got more votes.",
+      "url": "https://www.producthunt.com/products/test-your-hunter-skills?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 10,
+      "commentsCount": 9,
+      "createdAt": "2025-09-06T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/054fec49-2b24-4a61-8059-e49fa6060313.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Free Games"
+            }
+          },
+          {
+            "node": {
+              "name": "Product Hunt"
+            }
+          },
+          {
+            "node": {
+              "name": "Games"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1013118",
       "name": "DefendTab: Don't Close My Tab / Save Tab",
       "tagline": "DefendTab is a Smart Tab Protector - Chrome Web Store",
@@ -441,37 +472,6 @@
           {
             "node": {
               "name": "SaaS"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1012974",
-      "name": "Test your \"Hunter\" Skills",
-      "tagline": "Simple game where you guess which PH product got more votes.",
-      "url": "https://www.producthunt.com/products/test-your-hunter-skills?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 10,
-      "commentsCount": 8,
-      "createdAt": "2025-09-06T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/054fec49-2b24-4a61-8059-e49fa6060313.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Free Games"
-            }
-          },
-          {
-            "node": {
-              "name": "Product Hunt"
-            }
-          },
-          {
-            "node": {
-              "name": "Games"
             }
           }
         ]
