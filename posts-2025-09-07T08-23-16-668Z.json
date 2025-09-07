@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2025-09-07T07:54:14.188Z",
+  "fetchedAt": "2025-09-07T08:23:16.668Z",
   "posts": [
     {
       "id": "996353",
       "name": "Uxia",
       "tagline": "Validate your User flows UX & UI in seconds with AI",
       "url": "https://www.producthunt.com/products/uxia?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 104,
-      "commentsCount": 5,
+      "votesCount": 124,
+      "commentsCount": 12,
       "createdAt": "2025-09-07T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/09e65cf3-7886-4ac2-982a-c3f0feb1b2a7.png?auto=format"
@@ -35,10 +35,10 @@
     {
       "id": "1013464",
       "name": "SEO Mega Report",
-      "tagline": "GPT-5 powered all-in-one SEO report for ChatGPT and Google",
+      "tagline": "GPT-5 all-in-one SEO report for Google & ChatGPT",
       "url": "https://www.producthunt.com/products/seo-mega-report?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 95,
-      "commentsCount": 3,
+      "votesCount": 108,
+      "commentsCount": 4,
       "createdAt": "2025-09-07T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/b7abf982-0081-4473-91a7-84a51a9b98e4.jpeg?auto=format"
@@ -68,8 +68,8 @@
       "name": "FunBlocks AI Slides",
       "tagline": "Instant AI Slides, Smooth Editing with Markdown and AI Help",
       "url": "https://www.producthunt.com/products/funblocks-ai-slides?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 79,
-      "commentsCount": 3,
+      "votesCount": 101,
+      "commentsCount": 5,
       "createdAt": "2025-09-07T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/d3fc9535-9495-4f32-b1e9-d5df36add64c.png?auto=format"
@@ -99,7 +99,7 @@
       "name": "Higgsfield Ads 2.0",
       "tagline": "Product placement is finally solved by Higgsfield",
       "url": "https://www.producthunt.com/products/higgsfield?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 76,
+      "votesCount": 88,
       "commentsCount": 1,
       "createdAt": "2025-09-07T07:01:00Z",
       "thumbnail": {
@@ -125,8 +125,8 @@
       "name": "Givgive -  Share more. Own less.",
       "tagline": "A local sharing app to connect, borrow, and give.",
       "url": "https://www.producthunt.com/products/givgive-share-more-own-less?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 74,
-      "commentsCount": 3,
+      "votesCount": 88,
+      "commentsCount": 4,
       "createdAt": "2025-09-07T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/a3aaf16e-89ed-4428-9c87-33ec28458a50.png?auto=format"
@@ -151,6 +151,99 @@
           {
             "node": {
               "name": "Local news"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1009962",
+      "name": "UI Kits",
+      "tagline": "All the best UI kits & Component Libraries – in one place.",
+      "url": "https://www.producthunt.com/products/ui-kits?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 6,
+      "commentsCount": 1,
+      "createdAt": "2025-09-07T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/8b368df2-d30e-4cf8-8e02-dce3a954fb0a.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Web Design"
+            }
+          },
+          {
+            "node": {
+              "name": "Design resources"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1012505",
+      "name": "HeyAgent - Notifications for Claude Code",
+      "tagline": "Get notified when Claude Code needs your input!",
+      "url": "https://www.producthunt.com/products/heyagent?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 6,
+      "commentsCount": 1,
+      "createdAt": "2025-09-07T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/3682ff87-f821-4e7a-a49f-b11797c67026.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Messaging"
+            }
+          },
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1011820",
+      "name": "AltSchema: Auto SEO + GenAI Optimization",
+      "tagline": "Rank Fast: GEO,AIO,SEO Automation w/ Schema, Alt Text & More",
+      "url": "https://www.producthunt.com/products/altschema-ai-seo-for-alt-schema-meta?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 5,
+      "commentsCount": 3,
+      "createdAt": "2025-09-07T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/d95f7a55-935e-4991-a2a5-2734796c7d2c.svg?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "SEO"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "Marketing automation"
             }
           }
         ]
@@ -182,6 +275,37 @@
           {
             "node": {
               "name": "Health"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1012799",
+      "name": "Shop Support",
+      "tagline": "Smart customer support ticketing system for e-commerce",
+      "url": "https://www.producthunt.com/products/shop-support?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 2,
+      "commentsCount": 1,
+      "createdAt": "2025-09-07T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/b9f45bc0-b7f3-4e73-a82e-8ea885b537bd.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Customer Communication"
+            }
+          },
+          {
+            "node": {
+              "name": "Marketing"
+            }
+          },
+          {
+            "node": {
+              "name": "E-Commerce"
             }
           }
         ]
@@ -250,31 +374,36 @@
       }
     },
     {
-      "id": "1011820",
-      "name": "AltSchema: Auto SEO + GenAI Optimization",
-      "tagline": "Rank Fast: GEO,AIO,SEO Automation w/ Schema, Alt Text & More",
-      "url": "https://www.producthunt.com/products/altschema-ai-seo-for-alt-schema-meta?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "id": "1013440",
+      "name": "Arabic Desktop Audio Translator",
+      "tagline": "Real-time Arabic speech capture and English translation.",
+      "url": "https://www.producthunt.com/products/arabic-desktop-audio-translator?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 2,
       "commentsCount": 1,
       "createdAt": "2025-09-07T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/d95f7a55-935e-4991-a2a5-2734796c7d2c.svg?auto=format"
+        "url": "https://ph-files.imgix.net/234a01b2-966d-4bc0-aa9a-62a29e908660.svg?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "SEO"
+              "name": "Languages"
             }
           },
           {
             "node": {
-              "name": "Artificial Intelligence"
+              "name": "Meetings"
             }
           },
           {
             "node": {
-              "name": "Marketing automation"
+              "name": "GitHub"
+            }
+          },
+          {
+            "node": {
+              "name": "Audio"
             }
           }
         ]
@@ -374,31 +503,31 @@
       }
     },
     {
-      "id": "1013306",
-      "name": "PhoAi",
-      "tagline": "Your personal ai photo editor",
-      "url": "https://www.producthunt.com/products/phoai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "id": "981721",
+      "name": "Crazy Startuper: You are not alone!",
+      "tagline": "Startup. Exile. Faith. A true story of not giving up.",
+      "url": "https://www.producthunt.com/products/crazy-startuper-burnout-belief?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 1,
-      "commentsCount": 1,
+      "commentsCount": 2,
       "createdAt": "2025-09-07T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/7f3b6252-3ed7-48f8-ad8c-56bfa3f94027.png?auto=format"
+        "url": "https://ph-files.imgix.net/3d794760-e3b2-404f-a636-12f2807a2083.jpeg?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "Artificial Intelligence"
+              "name": "Productivity"
             }
           },
           {
             "node": {
-              "name": "Photo & Video"
+              "name": "Startup Books"
             }
           },
           {
             "node": {
-              "name": "Photo editing"
+              "name": "Community"
             }
           }
         ]
@@ -431,54 +560,18 @@
       }
     },
     {
-      "id": "1013140",
-      "name": "DefendTab: Don't Close My Tab Protector",
-      "tagline": "Stop accidentally closing your most important Tabs for Edge ",
-      "url": "https://www.producthunt.com/products/defendtab-don-t-close-my-tab-protector?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "id": "1013306",
+      "name": "PhoAi",
+      "tagline": "Your personal ai photo editor",
+      "url": "https://www.producthunt.com/products/phoai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 1,
       "commentsCount": 1,
       "createdAt": "2025-09-07T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/04964c7e-945b-45d2-b03c-31d871aed3fe.png?auto=format"
+        "url": "https://ph-files.imgix.net/7f3b6252-3ed7-48f8-ad8c-56bfa3f94027.png?auto=format"
       },
       "topics": {
         "edges": [
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "User Experience"
-            }
-          },
-          {
-            "node": {
-              "name": "Edge Extensions"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1013343",
-      "name": "Nano Banana AI ",
-      "tagline": "Create & edit iCreate and edit stunning AI images ",
-      "url": "https://www.producthunt.com/products/nano-banana-ai-5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 1,
-      "commentsCount": 1,
-      "createdAt": "2025-09-07T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/b74a8a3c-5158-4149-8067-3e2102107ec6.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Design Tools"
-            }
-          },
           {
             "node": {
               "name": "Artificial Intelligence"
@@ -486,131 +579,43 @@
           },
           {
             "node": {
-              "name": "Tech"
+              "name": "Photo & Video"
+            }
+          },
+          {
+            "node": {
+              "name": "Photo editing"
             }
           }
         ]
       }
     },
     {
-      "id": "1012505",
-      "name": "HeyAgent - Notifications for Claude Code",
-      "tagline": "Get notified when Claude Code needs your input!",
-      "url": "https://www.producthunt.com/products/heyagent?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "id": "477944",
+      "name": "Finotify",
+      "tagline": "Real-time visibility into your finances from apps and SMS",
+      "url": "https://www.producthunt.com/products/finotify?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 1,
       "commentsCount": 1,
       "createdAt": "2025-09-07T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/3682ff87-f821-4e7a-a49f-b11797c67026.png?auto=format"
+        "url": "https://ph-files.imgix.net/1499a9af-af8e-48c9-863c-11d882b8e7b0.png?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "Messaging"
+              "name": "Fintech"
             }
           },
           {
             "node": {
-              "name": "Developer Tools"
+              "name": "SaaS"
             }
           },
           {
             "node": {
-              "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1009962",
-      "name": "UI Kits",
-      "tagline": "All the best UI kits & Component Libraries – in one place.",
-      "url": "https://www.producthunt.com/products/ui-kits?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 1,
-      "commentsCount": 1,
-      "createdAt": "2025-09-07T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/8b368df2-d30e-4cf8-8e02-dce3a954fb0a.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Web Design"
-            }
-          },
-          {
-            "node": {
-              "name": "Design resources"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1013483",
-      "name": "ONEWallet",
-      "tagline": "Simplify your wallet, amplify your life",
-      "url": "https://www.producthunt.com/products/onewallet?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 1,
-      "commentsCount": 1,
-      "createdAt": "2025-09-07T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/6f9c5060-19d0-4f90-a6ec-8c8a5d9653af.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Android"
-            }
-          },
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "User Experience"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "981721",
-      "name": "Crazy Startuper: You are not alone!",
-      "tagline": "Startup. Exile. Faith. A true story of not giving up.",
-      "url": "https://www.producthunt.com/products/crazy-startuper-burnout-belief?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 1,
-      "commentsCount": 2,
-      "createdAt": "2025-09-07T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/3d794760-e3b2-404f-a636-12f2807a2083.jpeg?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Startup Books"
-            }
-          },
-          {
-            "node": {
-              "name": "Community"
+              "name": "Finance"
             }
           }
         ]
