@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2025-09-10T06:43:43.063Z",
+  "fetchedAt": "2025-09-10T06:55:58.424Z",
   "posts": [
     {
       "id": "1005195",
       "name": "CREAO",
       "tagline": "Infinitely personalized software for every team member",
       "url": "https://www.producthunt.com/products/creao-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 795,
-      "commentsCount": 289,
+      "votesCount": 817,
+      "commentsCount": 307,
       "createdAt": "2025-09-09T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/ba846527-58b5-45e0-b0c2-e0a2f80cef1a.png?auto=format"
@@ -37,8 +37,8 @@
       "name": "YouMind",
       "tagline": "The first AI creation studio where learning meets writing",
       "url": "https://www.producthunt.com/products/youmind?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 784,
-      "commentsCount": 322,
+      "votesCount": 815,
+      "commentsCount": 331,
       "createdAt": "2025-09-09T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/d2cea244-f3f5-405c-ad12-8977e8fd1d97.png?auto=format"
@@ -68,7 +68,7 @@
       "name": "Empromptu",
       "tagline": "Describe your idea to build AI apps that actually work",
       "url": "https://www.producthunt.com/products/empromptu?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 401,
+      "votesCount": 402,
       "commentsCount": 78,
       "createdAt": "2025-09-09T07:01:00Z",
       "thumbnail": {
@@ -445,7 +445,7 @@
       "name": "docAnalyzer.ai",
       "tagline": "AI That Works With Your Documents",
       "url": "https://www.producthunt.com/products/docanalyzer-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 58,
+      "votesCount": 59,
       "commentsCount": 84,
       "createdAt": "2025-09-09T07:01:00Z",
       "thumbnail": {
@@ -565,42 +565,11 @@
       }
     },
     {
-      "id": "1009302",
-      "name": "Bupple v2.0",
-      "tagline": "All-in-one AI platform for social media content creation",
-      "url": "https://www.producthunt.com/products/bupple?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 52,
-      "commentsCount": 4,
-      "createdAt": "2025-09-09T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/4c49d643-21cf-4cfa-9917-bee6a3a96502.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Social Media"
-            }
-          },
-          {
-            "node": {
-              "name": "Marketing"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1014140",
       "name": "PogiFit",
       "tagline": "Smart nutrition & workout tracker for every level of fitness",
       "url": "https://www.producthunt.com/products/pogifit-macros-and-workout-tracker?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 51,
+      "votesCount": 53,
       "commentsCount": 2,
       "createdAt": "2025-09-09T07:01:00Z",
       "thumbnail": {
@@ -626,6 +595,37 @@
           {
             "node": {
               "name": "Fitness"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1009302",
+      "name": "Bupple v2.0",
+      "tagline": "All-in-one AI platform for social media content creation",
+      "url": "https://www.producthunt.com/products/bupple?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 52,
+      "commentsCount": 4,
+      "createdAt": "2025-09-09T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/4c49d643-21cf-4cfa-9917-bee6a3a96502.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Social Media"
+            }
+          },
+          {
+            "node": {
+              "name": "Marketing"
             }
           }
         ]
