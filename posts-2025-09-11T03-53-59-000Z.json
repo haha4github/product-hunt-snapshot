@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2025-09-11T03:40:15.558Z",
+  "fetchedAt": "2025-09-11T03:53:59.000Z",
   "posts": [
     {
       "id": "1014258",
@@ -7,7 +7,7 @@
       "tagline": "Start selling online with just a prompt",
       "url": "https://www.producthunt.com/products/genstore-ai-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 512,
-      "commentsCount": 101,
+      "commentsCount": 102,
       "createdAt": "2025-09-10T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/0ccb4eee-d0a4-42be-8fba-b93c606e3298.jpeg?auto=format"
@@ -68,7 +68,7 @@
       "name": "Incredible Small 1.0 by Incredible",
       "tagline": "Agentic AI Models that can take 1000+ actions at once",
       "url": "https://www.producthunt.com/products/incredible?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 418,
+      "votesCount": 421,
       "commentsCount": 80,
       "createdAt": "2025-09-10T07:01:00Z",
       "thumbnail": {
@@ -161,7 +161,7 @@
       "name": "BuildKit 2.0",
       "tagline": "Build integration tools for MCPs & agents in minutes",
       "url": "https://www.producthunt.com/products/buildkit-2-0?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 184,
+      "votesCount": 188,
       "commentsCount": 17,
       "createdAt": "2025-09-10T07:01:00Z",
       "thumbnail": {
@@ -498,42 +498,11 @@
       }
     },
     {
-      "id": "1013688",
-      "name": "Magia Trade",
-      "tagline": "Empowering traders with AI agents for market analysis",
-      "url": "https://www.producthunt.com/products/magia-trade?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 45,
-      "commentsCount": 4,
-      "createdAt": "2025-09-10T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/bb9dd829-2837-4506-92f7-a593691365d8.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Investing"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          },
-          {
-            "node": {
-              "name": "Finance"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1009801",
       "name": "Product to Video",
       "tagline": "Turn product listings into AI-powered UGC ads with avatars",
       "url": "https://www.producthunt.com/products/ai-studios?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 45,
+      "votesCount": 46,
       "commentsCount": 3,
       "createdAt": "2025-09-10T07:01:00Z",
       "thumbnail": {
@@ -564,6 +533,37 @@
           {
             "node": {
               "name": "YouTube"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1013688",
+      "name": "Magia Trade",
+      "tagline": "Empowering traders with AI agents for market analysis",
+      "url": "https://www.producthunt.com/products/magia-trade?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 46,
+      "commentsCount": 4,
+      "createdAt": "2025-09-10T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/bb9dd829-2837-4506-92f7-a593691365d8.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Investing"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "Finance"
             }
           }
         ]
