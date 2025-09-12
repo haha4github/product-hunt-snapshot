@@ -1,44 +1,13 @@
 {
-  "fetchedAt": "2025-09-12T20:20:05.361Z",
+  "fetchedAt": "2025-09-12T20:35:55.136Z",
   "posts": [
-    {
-      "id": "1014937",
-      "name": "Mayson",
-      "tagline": "No code backend for everyone",
-      "url": "https://www.producthunt.com/products/backstract?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 392,
-      "commentsCount": 17,
-      "createdAt": "2025-09-12T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/3060a719-d1f0-4536-b853-b9b82b0def37.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          },
-          {
-            "node": {
-              "name": "Vibe coding"
-            }
-          }
-        ]
-      }
-    },
     {
       "id": "1010695",
       "name": "Stash MCP Server",
       "tagline": "Make AI IDEs even smarter with your team’s knowledge",
       "url": "https://www.producthunt.com/products/stash-9?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 368,
-      "commentsCount": 26,
+      "votesCount": 370,
+      "commentsCount": 27,
       "createdAt": "2025-09-12T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/aea7b9e1-89ee-467a-823e-477224a7455e.png?auto=format"
@@ -68,7 +37,7 @@
       "name": "Mozart AI v0.5 ",
       "tagline": "Cursor for making music",
       "url": "https://www.producthunt.com/products/mozart-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 298,
+      "votesCount": 301,
       "commentsCount": 40,
       "createdAt": "2025-09-12T07:01:00Z",
       "thumbnail": {
@@ -99,7 +68,7 @@
       "name": "Replit Agent 3",
       "tagline": "Our most autonomous agent yet",
       "url": "https://www.producthunt.com/products/replit?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 244,
+      "votesCount": 245,
       "commentsCount": 7,
       "createdAt": "2025-09-12T07:01:00Z",
       "thumbnail": {
@@ -161,7 +130,7 @@
       "name": "Claude Memory",
       "tagline": "Bringing memory to teams at work",
       "url": "https://www.producthunt.com/products/claude-code?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 188,
+      "votesCount": 189,
       "commentsCount": 2,
       "createdAt": "2025-09-12T07:01:00Z",
       "thumbnail": {
@@ -187,7 +156,7 @@
       "name": "tweakcn",
       "tagline": "Design your perfect shadcn/ui theme with real-time preview",
       "url": "https://www.producthunt.com/products/tweakcn-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 174,
+      "votesCount": 175,
       "commentsCount": 3,
       "createdAt": "2025-09-12T07:01:00Z",
       "thumbnail": {
@@ -404,7 +373,7 @@
       "name": "rolyai",
       "tagline": "Group chat with AI roles",
       "url": "https://www.producthunt.com/products/rolyai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 102,
+      "votesCount": 103,
       "commentsCount": 10,
       "createdAt": "2025-09-12T07:01:00Z",
       "thumbnail": {
@@ -456,6 +425,37 @@
           {
             "node": {
               "name": "Business Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1014937",
+      "name": "Mayson",
+      "tagline": "No code backend for everyone",
+      "url": "https://www.producthunt.com/products/backstract?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 128,
+      "commentsCount": 17,
+      "createdAt": "2025-09-12T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/3060a719-d1f0-4536-b853-b9b82b0def37.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "Vibe coding"
             }
           }
         ]
