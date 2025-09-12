@@ -1,70 +1,13 @@
 {
-  "fetchedAt": "2025-09-12T08:27:02.925Z",
+  "fetchedAt": "2025-09-12T08:46:26.737Z",
   "posts": [
-    {
-      "id": "1015473",
-      "name": "Claude Memory",
-      "tagline": "Bringing memory to teams at work",
-      "url": "https://www.producthunt.com/products/claude-code?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 85,
-      "commentsCount": 2,
-      "createdAt": "2025-09-12T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/c5a3faa6-57ef-415e-a20e-bdb44e2c3538.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1015074",
-      "name": "Mozart AI v0.5 ",
-      "tagline": "Cursor for making music",
-      "url": "https://www.producthunt.com/products/mozart-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 81,
-      "commentsCount": 14,
-      "createdAt": "2025-09-12T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/1a032952-2c24-4f4e-a899-b8ad286387f3.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Music"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          },
-          {
-            "node": {
-              "name": "Electronic Music"
-            }
-          }
-        ]
-      }
-    },
     {
       "id": "1010695",
       "name": "Stash MCP Server",
       "tagline": "Make AI IDEs even smarter with your team’s knowledge",
       "url": "https://www.producthunt.com/products/stash-9?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 81,
-      "commentsCount": 6,
+      "votesCount": 99,
+      "commentsCount": 9,
       "createdAt": "2025-09-12T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/aea7b9e1-89ee-467a-823e-477224a7455e.png?auto=format"
@@ -90,46 +33,15 @@
       }
     },
     {
-      "id": "1014970",
-      "name": "tweakcn",
-      "tagline": "Design your perfect shadcn/ui theme with real-time preview",
-      "url": "https://www.producthunt.com/products/tweakcn-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 77,
-      "commentsCount": 1,
+      "id": "1015473",
+      "name": "Claude Memory",
+      "tagline": "Bringing memory to teams at work",
+      "url": "https://www.producthunt.com/products/claude-code?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 88,
+      "commentsCount": 2,
       "createdAt": "2025-09-12T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/5ba78761-7c0c-4b16-8092-ab23ffab9d0a.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Open Source"
-            }
-          },
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "GitHub"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1012639",
-      "name": "LockedIn",
-      "tagline": "F**k job applications",
-      "url": "https://www.producthunt.com/products/lockedin-5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 76,
-      "commentsCount": 8,
-      "createdAt": "2025-09-12T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/8e51966b-7070-4b79-9576-7db21887b6e9.png?auto=format"
+        "url": "https://ph-files.imgix.net/c5a3faa6-57ef-415e-a20e-bdb44e2c3538.png?auto=format"
       },
       "topics": {
         "edges": [
@@ -142,10 +54,67 @@
             "node": {
               "name": "Artificial Intelligence"
             }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1015074",
+      "name": "Mozart AI v0.5 ",
+      "tagline": "Cursor for making music",
+      "url": "https://www.producthunt.com/products/mozart-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 85,
+      "commentsCount": 15,
+      "createdAt": "2025-09-12T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/1a032952-2c24-4f4e-a899-b8ad286387f3.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Music"
+            }
           },
           {
             "node": {
-              "name": "Career"
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "Electronic Music"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1015387",
+      "name": "viral.app",
+      "tagline": "tracking & analytics for TikTok, Instagram & Youtube",
+      "url": "https://www.producthunt.com/products/viral-app-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 81,
+      "commentsCount": 12,
+      "createdAt": "2025-09-12T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/928406ba-4d5f-454a-b0c0-5f882ef160e3.x-icon?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Social Media"
+            }
+          },
+          {
+            "node": {
+              "name": "Analytics"
+            }
+          },
+          {
+            "node": {
+              "name": "Marketing"
             }
           }
         ]
@@ -156,7 +125,7 @@
       "name": "Replit Agent 3",
       "tagline": "Our most autonomous agent yet",
       "url": "https://www.producthunt.com/products/replit?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 80,
+      "votesCount": 81,
       "commentsCount": 2,
       "createdAt": "2025-09-12T07:01:00Z",
       "thumbnail": {
@@ -183,11 +152,104 @@
       }
     },
     {
+      "id": "1015322",
+      "name": "Genspark AI Browser ",
+      "tagline": "World's First On-Device Free AI",
+      "url": "https://www.producthunt.com/products/genspark?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 80,
+      "commentsCount": 7,
+      "createdAt": "2025-09-12T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/b2b84d4d-b6d3-4828-8681-b722ed341d36.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "Search"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1012639",
+      "name": "LockedIn",
+      "tagline": "F**k job applications",
+      "url": "https://www.producthunt.com/products/lockedin-5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 81,
+      "commentsCount": 10,
+      "createdAt": "2025-09-12T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/8e51966b-7070-4b79-9576-7db21887b6e9.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "Career"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1014970",
+      "name": "tweakcn",
+      "tagline": "Design your perfect shadcn/ui theme with real-time preview",
+      "url": "https://www.producthunt.com/products/tweakcn-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 79,
+      "commentsCount": 1,
+      "createdAt": "2025-09-12T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/5ba78761-7c0c-4b16-8092-ab23ffab9d0a.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Open Source"
+            }
+          },
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "GitHub"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1014937",
       "name": "Mayson",
       "tagline": "No code backend for everyone",
       "url": "https://www.producthunt.com/products/backstract?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 74,
+      "votesCount": 76,
       "commentsCount": 3,
       "createdAt": "2025-09-12T07:01:00Z",
       "thumbnail": {
@@ -214,42 +276,11 @@
       }
     },
     {
-      "id": "1015322",
-      "name": "Genspark AI Browser ",
-      "tagline": "World's First On-Device Free AI",
-      "url": "https://www.producthunt.com/products/genspark?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 80,
-      "commentsCount": 6,
-      "createdAt": "2025-09-12T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/b2b84d4d-b6d3-4828-8681-b722ed341d36.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          },
-          {
-            "node": {
-              "name": "Search"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1015220",
       "name": "Vidzflow 2.0",
       "tagline": "The complete video platform for Webflow",
       "url": "https://www.producthunt.com/products/vidzflow?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 72,
+      "votesCount": 73,
       "commentsCount": 2,
       "createdAt": "2025-09-12T07:01:00Z",
       "thumbnail": {
@@ -276,43 +307,12 @@
       }
     },
     {
-      "id": "1015387",
-      "name": "viral.app",
-      "tagline": "tracking & analytics for TikTok, Instagram & Youtube",
-      "url": "https://www.producthunt.com/products/viral-app-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 74,
-      "commentsCount": 4,
-      "createdAt": "2025-09-12T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/928406ba-4d5f-454a-b0c0-5f882ef160e3.x-icon?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Social Media"
-            }
-          },
-          {
-            "node": {
-              "name": "Analytics"
-            }
-          },
-          {
-            "node": {
-              "name": "Marketing"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1012708",
       "name": "Tallyrus",
       "tagline": "Analyze your documents faster, smarter, and more efficiently",
       "url": "https://www.producthunt.com/products/tallyrus-the-ai-essay-grader?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 69,
-      "commentsCount": 5,
+      "votesCount": 70,
+      "commentsCount": 7,
       "createdAt": "2025-09-12T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/4488699b-48d2-40a6-82e9-4af86f8602c4.png?auto=format"
@@ -342,7 +342,7 @@
       "name": "Saldor",
       "tagline": "Hands-free email and calendar.",
       "url": "https://www.producthunt.com/products/saldor?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 68,
+      "votesCount": 70,
       "commentsCount": 4,
       "createdAt": "2025-09-12T07:01:00Z",
       "thumbnail": {
@@ -373,7 +373,7 @@
       "name": "Rebrowse",
       "tagline": "Turn screen-record into 100 browser flows",
       "url": "https://www.producthunt.com/products/rebrowse?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 67,
+      "votesCount": 68,
       "commentsCount": 3,
       "createdAt": "2025-09-12T07:01:00Z",
       "thumbnail": {
@@ -404,7 +404,7 @@
       "name": "rolyai",
       "tagline": "Group chat with AI roles",
       "url": "https://www.producthunt.com/products/rolyai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 66,
+      "votesCount": 67,
       "commentsCount": 1,
       "createdAt": "2025-09-12T07:01:00Z",
       "thumbnail": {
@@ -435,7 +435,7 @@
       "name": "Meet Macro Terminal",
       "tagline": "Claude Code for data analysis",
       "url": "https://www.producthunt.com/products/introducing-macro-terminal?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 59,
+      "votesCount": 61,
       "commentsCount": 1,
       "createdAt": "2025-09-12T07:01:00Z",
       "thumbnail": {
@@ -466,7 +466,7 @@
       "name": "SubtitlesFast",
       "tagline": "Video Subtitles - Fast! ",
       "url": "https://www.producthunt.com/products/subtitlesfast?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 14,
+      "votesCount": 15,
       "commentsCount": 4,
       "createdAt": "2025-09-12T07:01:00Z",
       "thumbnail": {
@@ -497,7 +497,7 @@
       "name": "Magic Studio",
       "tagline": "The world's easiest and simplest AI image generator",
       "url": "https://www.producthunt.com/products/magic-studio-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 10,
+      "votesCount": 11,
       "commentsCount": 1,
       "createdAt": "2025-09-12T07:01:00Z",
       "thumbnail": {
@@ -518,6 +518,37 @@
           {
             "node": {
               "name": "Digital Art"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1015255",
+      "name": "App Profile Review by Countly",
+      "tagline": "Quick AI insights to boost your downloads",
+      "url": "https://www.producthunt.com/products/countly?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 10,
+      "commentsCount": 2,
+      "createdAt": "2025-09-12T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/b3796b7c-0917-44ca-8c10-f0975b712c94.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Marketing"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "Growth Hacks "
             }
           }
         ]
@@ -575,37 +606,6 @@
           {
             "node": {
               "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1012829",
-      "name": "YouStory",
-      "tagline": "AI personalized storybooks for kids that teach, and inspire",
-      "url": "https://www.producthunt.com/products/youstory-io-ai-storybooks-for-kids?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 6,
-      "commentsCount": 2,
-      "createdAt": "2025-09-12T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/3b2b5ed2-e79a-48a5-832a-8dc8be6f8b9d.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Education"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          },
-          {
-            "node": {
-              "name": "Kids & Parenting"
             }
           }
         ]
