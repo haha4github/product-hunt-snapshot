@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2025-09-14T09:16:07.195Z",
+  "fetchedAt": "2025-09-14T09:30:11.126Z",
   "posts": [
     {
       "id": "1004951",
       "name": "GraphBit",
       "tagline": "Developer-first, enterprise-grade LLM framework.",
       "url": "https://www.producthunt.com/products/graphbit?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 164,
-      "commentsCount": 26,
+      "votesCount": 175,
+      "commentsCount": 27,
       "createdAt": "2025-09-14T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/8dacfaa0-efcf-41f2-83e2-a39acafc2849.png?auto=format"
@@ -37,7 +37,7 @@
       "name": "Magic Mic by Guidde",
       "tagline": "Think out loud–we'll do the rest",
       "url": "https://www.producthunt.com/products/guidde-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 118,
+      "votesCount": 124,
       "commentsCount": 9,
       "createdAt": "2025-09-14T07:01:00Z",
       "thumbnail": {
@@ -68,7 +68,7 @@
       "name": "AI SEO Score by Findable",
       "tagline": "Check the AI SEO score of your company",
       "url": "https://www.producthunt.com/products/ai-seo-score-by-findable?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 112,
+      "votesCount": 114,
       "commentsCount": 9,
       "createdAt": "2025-09-14T07:01:00Z",
       "thumbnail": {
@@ -95,11 +95,42 @@
       }
     },
     {
+      "id": "1015920",
+      "name": "Scaloom",
+      "tagline": "AI-powered Reddit marketing that works while you sleep",
+      "url": "https://www.producthunt.com/products/scaloom?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 108,
+      "commentsCount": 10,
+      "createdAt": "2025-09-14T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/a2262cbe-43f9-47e9-bd8f-78c505b4998b.x-icon?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Marketing"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "reddit"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1000628",
       "name": "Greenmor Mail",
       "tagline": "Email, simplified",
       "url": "https://www.producthunt.com/products/greenmor-mail?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 100,
+      "votesCount": 107,
       "commentsCount": 1,
       "createdAt": "2025-09-14T07:01:00Z",
       "thumbnail": {
@@ -126,42 +157,11 @@
       }
     },
     {
-      "id": "1015920",
-      "name": "Scaloom",
-      "tagline": "AI-powered Reddit marketing that works while you sleep",
-      "url": "https://www.producthunt.com/products/scaloom?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 96,
-      "commentsCount": 7,
-      "createdAt": "2025-09-14T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/a2262cbe-43f9-47e9-bd8f-78c505b4998b.x-icon?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Marketing"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          },
-          {
-            "node": {
-              "name": "reddit"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1015594",
       "name": "MyBerryFlow",
       "tagline": "Stripe Connect, simplified for small marketplaces",
       "url": "https://www.producthunt.com/products/myberryflow?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 86,
+      "votesCount": 89,
       "commentsCount": 5,
       "createdAt": "2025-09-14T07:01:00Z",
       "thumbnail": {
@@ -462,6 +462,37 @@
       }
     },
     {
+      "id": "1015767",
+      "name": "AI Miniatur | Nano-Banana Model",
+      "tagline": "AI miniatur figurine generator powered by nano-banana",
+      "url": "https://www.producthunt.com/products/ai-miniatur-nano-banana-model?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 1,
+      "commentsCount": 1,
+      "createdAt": "2025-09-14T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/d157ff03-6376-4bd4-9b55-a7b61ed3f13c.vnd.microsoft.icon?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Funny"
+            }
+          },
+          {
+            "node": {
+              "name": "Photography"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1015750",
       "name": "ZbirkaPrice",
       "tagline": "Price tracker for shoppers & businesses: save time, pay less",
@@ -487,6 +518,37 @@
           {
             "node": {
               "name": "E-Commerce"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1015781",
+      "name": "NextBook - Your Perfect Read in Seconds",
+      "tagline": "Discover your next favorite book, just for you. ",
+      "url": "https://www.producthunt.com/products/nextbook-your-perfect-read-in-seconds?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 1,
+      "commentsCount": 1,
+      "createdAt": "2025-09-14T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/c5595f2d-3e6e-47bc-8d79-c7d81d6cdb74.jpeg?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Education"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "Books"
             }
           }
         ]
@@ -549,68 +611,6 @@
           {
             "node": {
               "name": "Photography"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1015781",
-      "name": "NextBook - Your Perfect Read in Seconds",
-      "tagline": "Discover your next favorite book, just for you. ",
-      "url": "https://www.producthunt.com/products/nextbook-your-perfect-read-in-seconds?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 1,
-      "commentsCount": 1,
-      "createdAt": "2025-09-14T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/c5595f2d-3e6e-47bc-8d79-c7d81d6cdb74.jpeg?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Education"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          },
-          {
-            "node": {
-              "name": "Books"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1015767",
-      "name": "AI Miniatur | Nano-Banana Model",
-      "tagline": "AI miniatur figurine generator powered by nano-banana",
-      "url": "https://www.producthunt.com/products/ai-miniatur-nano-banana-model?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 1,
-      "commentsCount": 1,
-      "createdAt": "2025-09-14T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/d157ff03-6376-4bd4-9b55-a7b61ed3f13c.vnd.microsoft.icon?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Funny"
-            }
-          },
-          {
-            "node": {
-              "name": "Photography"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
             }
           }
         ]
