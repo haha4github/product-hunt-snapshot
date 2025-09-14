@@ -1,6 +1,37 @@
 {
-  "fetchedAt": "2025-09-14T22:31:30.488Z",
+  "fetchedAt": "2025-09-14T22:44:03.245Z",
   "posts": [
+    {
+      "id": "1013130",
+      "name": "Magic Mic by Guidde",
+      "tagline": "Think out loud–we'll do the rest",
+      "url": "https://www.producthunt.com/products/guidde-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 382,
+      "commentsCount": 56,
+      "createdAt": "2025-09-14T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/407335aa-4964-4721-8904-37c20a5b72c4.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Chrome Extensions"
+            }
+          },
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
     {
       "id": "1004951",
       "name": "GraphBit",
@@ -22,37 +53,6 @@
           {
             "node": {
               "name": "Developer Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1013130",
-      "name": "Magic Mic by Guidde",
-      "tagline": "Think out loud–we'll do the rest",
-      "url": "https://www.producthunt.com/products/guidde-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 375,
-      "commentsCount": 54,
-      "createdAt": "2025-09-14T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/407335aa-4964-4721-8904-37c20a5b72c4.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Chrome Extensions"
-            }
-          },
-          {
-            "node": {
-              "name": "Productivity"
             }
           },
           {
@@ -130,7 +130,7 @@
       "name": "Greenmor Mail",
       "tagline": "Email, simplified",
       "url": "https://www.producthunt.com/products/greenmor-mail?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 168,
+      "votesCount": 169,
       "commentsCount": 10,
       "createdAt": "2025-09-14T07:01:00Z",
       "thumbnail": {
