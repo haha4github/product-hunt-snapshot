@@ -1,12 +1,12 @@
 {
-  "fetchedAt": "2025-09-15T20:33:51.826Z",
+  "fetchedAt": "2025-09-15T20:46:18.909Z",
   "posts": [
     {
       "id": "1014285",
       "name": "Blocks",
       "tagline": "Turn plain language into smart work apps and agents",
       "url": "https://www.producthunt.com/products/blocks-11?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 344,
+      "votesCount": 345,
       "commentsCount": 67,
       "createdAt": "2025-09-15T07:01:00Z",
       "thumbnail": {
@@ -37,7 +37,7 @@
       "name": "Cal.ai Phone Agent",
       "tagline": "Supercharged Cal.com scheduling with AI-powered calls",
       "url": "https://www.producthunt.com/products/cal?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 315,
+      "votesCount": 321,
       "commentsCount": 26,
       "createdAt": "2025-09-15T07:01:00Z",
       "thumbnail": {
@@ -156,7 +156,7 @@
       "name": "Retrotype",
       "tagline": "Feels like a real typewriter",
       "url": "https://www.producthunt.com/products/monotype-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 177,
+      "votesCount": 183,
       "commentsCount": 17,
       "createdAt": "2025-09-15T07:01:00Z",
       "thumbnail": {
@@ -172,6 +172,37 @@
           {
             "node": {
               "name": "Writing"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "975897",
+      "name": "Clix",
+      "tagline": "Mobile push for modern builders",
+      "url": "https://www.producthunt.com/products/clix-so?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 156,
+      "commentsCount": 31,
+      "createdAt": "2025-09-15T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/1570326a-3ae8-4dd1-bf9b-7e625cee3cf3.gif?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Tech"
+            }
+          },
+          {
+            "node": {
+              "name": "Marketing automation"
             }
           }
         ]
@@ -203,37 +234,6 @@
           {
             "node": {
               "name": "Bots"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "975897",
-      "name": "Clix",
-      "tagline": "Mobile push for modern builders",
-      "url": "https://www.producthunt.com/products/clix-so?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 155,
-      "commentsCount": 31,
-      "createdAt": "2025-09-15T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/1570326a-3ae8-4dd1-bf9b-7e625cee3cf3.gif?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Tech"
-            }
-          },
-          {
-            "node": {
-              "name": "Marketing automation"
             }
           }
         ]
