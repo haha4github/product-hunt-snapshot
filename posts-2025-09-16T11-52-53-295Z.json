@@ -1,12 +1,43 @@
 {
-  "fetchedAt": "2025-09-16T11:40:34.216Z",
+  "fetchedAt": "2025-09-16T11:52:53.295Z",
   "posts": [
+    {
+      "id": "1009314",
+      "name": "Your Next Store",
+      "tagline": "Launch your store in minutes. Stripe-native. Built for AI.",
+      "url": "https://www.producthunt.com/products/your-next-store?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 192,
+      "commentsCount": 33,
+      "createdAt": "2025-09-16T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/7e2b1515-6f4e-45b9-b87d-ba80670ef45a.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "SaaS"
+            }
+          },
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "E-Commerce"
+            }
+          }
+        ]
+      }
+    },
     {
       "id": "999528",
       "name": "Munch Studio",
       "tagline": "The AI Marketing Partner for SMBs",
       "url": "https://www.producthunt.com/products/munch-studio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 193,
+      "votesCount": 187,
       "commentsCount": 41,
       "createdAt": "2025-09-16T07:01:00Z",
       "thumbnail": {
@@ -33,42 +64,11 @@
       }
     },
     {
-      "id": "1009314",
-      "name": "Your Next Store",
-      "tagline": "Launch your store in minutes. Stripe-native. Built for AI.",
-      "url": "https://www.producthunt.com/products/your-next-store?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 190,
-      "commentsCount": 32,
-      "createdAt": "2025-09-16T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/7e2b1515-6f4e-45b9-b87d-ba80670ef45a.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "SaaS"
-            }
-          },
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "E-Commerce"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1015602",
       "name": "RizzCalc",
       "tagline": "The 1st AI Financial Modeling Agent in Google Sheets",
       "url": "https://www.producthunt.com/products/rizzcalc?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 147,
+      "votesCount": 148,
       "commentsCount": 30,
       "createdAt": "2025-09-16T07:01:00Z",
       "thumbnail": {
@@ -152,7 +152,7 @@
       "tagline": "Gmail with a brain",
       "url": "https://www.producthunt.com/products/heyhelp?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 107,
-      "commentsCount": 14,
+      "commentsCount": 15,
       "createdAt": "2025-09-16T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/dab94497-a876-43c7-882b-bf601238a71a.png?auto=format"
@@ -214,7 +214,7 @@
       "tagline": "A better home for your music collection",
       "url": "https://www.producthunt.com/products/crates?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 97,
-      "commentsCount": 5,
+      "commentsCount": 7,
       "createdAt": "2025-09-16T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/1ed0c583-8718-4cc3-802c-3c42fb6762db.gif?auto=format"
@@ -405,7 +405,7 @@
       "tagline": "Review pull requests like you wrote them yourself",
       "url": "https://www.producthunt.com/products/haystack-editor?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 86,
-      "commentsCount": 1,
+      "commentsCount": 2,
       "createdAt": "2025-09-16T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/30362dc8-8047-42eb-bd25-012be7d7035a.png?auto=format"
@@ -425,6 +425,37 @@
           {
             "node": {
               "name": "GitHub"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1016291",
+      "name": "Auron",
+      "tagline": "Your Desktop. Now with a Brain.",
+      "url": "https://www.producthunt.com/products/auron?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 84,
+      "commentsCount": 4,
+      "createdAt": "2025-09-16T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/a36b0c04-4b6c-41f6-a665-bc670d564827.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "Virtual Assistants"
             }
           }
         ]
@@ -524,6 +555,32 @@
       }
     },
     {
+      "id": "1016667",
+      "name": "Model Kombat by HackerRank",
+      "tagline": "Chose your Code...",
+      "url": "https://www.producthunt.com/products/model-kombat-by-hackerrank-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 80,
+      "commentsCount": 6,
+      "createdAt": "2025-09-16T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/080fa3ef-bb02-4dc3-be07-bb88f272ee1a.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1016379",
       "name": "SUMRY",
       "tagline": "Turn your HealthKit data into summaries, maps & insights",
@@ -549,68 +606,6 @@
           {
             "node": {
               "name": "Travel"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1016291",
-      "name": "Auron",
-      "tagline": "Your Desktop. Now with a Brain.",
-      "url": "https://www.producthunt.com/products/auron?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 79,
-      "commentsCount": 4,
-      "createdAt": "2025-09-16T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/a36b0c04-4b6c-41f6-a665-bc670d564827.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          },
-          {
-            "node": {
-              "name": "Virtual Assistants"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1016544",
-      "name": "TrackFit",
-      "tagline": "Progress your fitness goals using machine learning",
-      "url": "https://www.producthunt.com/products/trackfit-personal-fitness-tracker?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 77,
-      "commentsCount": 3,
-      "createdAt": "2025-09-16T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/4f8326ca-8f67-4cd4-8292-c8e50e955d90.svg?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Health & Fitness"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          },
-          {
-            "node": {
-              "name": "GitHub"
             }
           }
         ]
