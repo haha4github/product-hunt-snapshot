@@ -1,12 +1,12 @@
 {
-  "fetchedAt": "2025-09-19T20:22:28.166Z",
+  "fetchedAt": "2025-09-19T20:38:01.351Z",
   "posts": [
     {
       "id": "1009490",
       "name": "Magiclight",
       "tagline": "Intelligent story creation agent that creates long videos",
       "url": "https://www.producthunt.com/products/magiclight-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 349,
+      "votesCount": 350,
       "commentsCount": 58,
       "createdAt": "2025-09-19T07:01:00Z",
       "thumbnail": {
@@ -37,8 +37,8 @@
       "name": "Cursor for your API",
       "tagline": "Generate, edit, lint & test your API workflow in one place",
       "url": "https://www.producthunt.com/products/theneo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 299,
-      "commentsCount": 53,
+      "votesCount": 300,
+      "commentsCount": 55,
       "createdAt": "2025-09-19T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/f8b82f28-04da-47f5-b97a-fb4a4479b4bf.png?auto=format"
@@ -68,7 +68,7 @@
       "name": "ElevenLabs Studio 3.0 ",
       "tagline": "The best AI audio models in one powerful editor",
       "url": "https://www.producthunt.com/products/elevenlabs?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 249,
+      "votesCount": 251,
       "commentsCount": 17,
       "createdAt": "2025-09-19T07:01:00Z",
       "thumbnail": {
@@ -130,7 +130,7 @@
       "name": "Google Chrome with AI",
       "tagline": "The browser you love, reimagined with AI",
       "url": "https://www.producthunt.com/products/chrome-ai-edition?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 165,
+      "votesCount": 167,
       "commentsCount": 6,
       "createdAt": "2025-09-19T07:01:00Z",
       "thumbnail": {
@@ -156,7 +156,7 @@
       "name": "My:Thiings",
       "tagline": "Elevate your brand with a custom icon collection.",
       "url": "https://www.producthunt.com/products/the-thiings-collection-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 148,
+      "votesCount": 149,
       "commentsCount": 22,
       "createdAt": "2025-09-19T07:01:00Z",
       "thumbnail": {
@@ -214,11 +214,42 @@
       }
     },
     {
+      "id": "1017114",
+      "name": "Hoot for Mac",
+      "tagline": "Widgets, tools, screenshots, wake screen all in your menubar",
+      "url": "https://www.producthunt.com/products/hoot-smart-menubar-for-macos?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 117,
+      "commentsCount": 14,
+      "createdAt": "2025-09-19T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/f67e1cf0-cbe2-4daf-b76e-cda1f40f528e.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Mac"
+            }
+          },
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Menu Bar Apps"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1017657",
       "name": "Luma Ray 3",
       "tagline": "First reasoning video model with studio-grade HDR",
       "url": "https://www.producthunt.com/products/luma-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 116,
+      "votesCount": 117,
       "commentsCount": 7,
       "createdAt": "2025-09-19T07:01:00Z",
       "thumbnail": {
@@ -265,37 +296,6 @@
           {
             "node": {
               "name": "Marketing"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1017114",
-      "name": "Hoot for Mac",
-      "tagline": "Widgets, tools, screenshots, wake screen all in your menubar",
-      "url": "https://www.producthunt.com/products/hoot-smart-menubar-for-macos?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 115,
-      "commentsCount": 14,
-      "createdAt": "2025-09-19T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/f67e1cf0-cbe2-4daf-b76e-cda1f40f528e.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Mac"
-            }
-          },
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Menu Bar Apps"
             }
           }
         ]
@@ -503,7 +503,7 @@
       "tagline": "The only way to add AI to your app with zero backend code",
       "url": "https://www.producthunt.com/products/airbolt-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 45,
-      "commentsCount": 36,
+      "commentsCount": 37,
       "createdAt": "2025-09-19T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/e842da3f-9abd-42d8-affd-ec123242005e.png?auto=format"
