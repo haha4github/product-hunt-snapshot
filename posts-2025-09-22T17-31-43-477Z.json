@@ -1,12 +1,12 @@
 {
-  "fetchedAt": "2025-09-22T17:15:38.273Z",
+  "fetchedAt": "2025-09-22T17:31:43.477Z",
   "posts": [
     {
       "id": "1018203",
       "name": "Snapdeck",
       "tagline": "Lovable for Slides. No more wrestling with PowerPoint.",
       "url": "https://www.producthunt.com/products/snapdeck-beta?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 380,
+      "votesCount": 383,
       "commentsCount": 82,
       "createdAt": "2025-09-22T07:01:00Z",
       "thumbnail": {
@@ -32,8 +32,8 @@
       "name": "Strata",
       "tagline": "One MCP server for AI agents to handle thousands of tools",
       "url": "https://www.producthunt.com/products/strata-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 317,
-      "commentsCount": 56,
+      "votesCount": 323,
+      "commentsCount": 70,
       "createdAt": "2025-09-22T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/d40e76fc-b0b5-47f8-8c4a-7c11718f2b1b.png?auto=format"
@@ -104,7 +104,7 @@
       "name": "alphaAI Capital",
       "tagline": "AI Trading App that Dynamically Adapts to the Markets",
       "url": "https://www.producthunt.com/products/alphaai-capital?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 245,
+      "votesCount": 247,
       "commentsCount": 61,
       "createdAt": "2025-09-22T07:01:00Z",
       "thumbnail": {
@@ -135,7 +135,7 @@
       "name": "Pie",
       "tagline": "The first AI QA team. Ship with confidence.",
       "url": "https://www.producthunt.com/products/pie-5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 216,
+      "votesCount": 217,
       "commentsCount": 35,
       "createdAt": "2025-09-22T07:01:00Z",
       "thumbnail": {
@@ -166,7 +166,7 @@
       "name": "Postage.to",
       "tagline": "Send physical letters worldwide from your browser ",
       "url": "https://www.producthunt.com/products/postage-to?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 131,
+      "votesCount": 132,
       "commentsCount": 33,
       "createdAt": "2025-09-22T07:01:00Z",
       "thumbnail": {
@@ -197,7 +197,7 @@
       "name": "SwipeSwoop",
       "tagline": "Tinder for camera roll",
       "url": "https://www.producthunt.com/products/swipeswoop?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 122,
+      "votesCount": 123,
       "commentsCount": 25,
       "createdAt": "2025-09-22T07:01:00Z",
       "thumbnail": {
@@ -451,6 +451,37 @@
       }
     },
     {
+      "id": "1018525",
+      "name": "Briefly",
+      "tagline": "Know what your remote team actually did today",
+      "url": "https://www.producthunt.com/products/briefly-9?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 17,
+      "commentsCount": 2,
+      "createdAt": "2025-09-22T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/3a023507-ff70-4692-b531-b1dc3ba89e66.jpeg?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Remote Work"
+            }
+          },
+          {
+            "node": {
+              "name": "Human Resources"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1018692",
       "name": "Altmole",
       "tagline": "Turn product photos into search traffic. Automatically.",
@@ -476,37 +507,6 @@
           {
             "node": {
               "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1018525",
-      "name": "Briefly",
-      "tagline": "Know what your remote team actually did today",
-      "url": "https://www.producthunt.com/products/briefly-9?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 15,
-      "commentsCount": 2,
-      "createdAt": "2025-09-22T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/3a023507-ff70-4692-b531-b1dc3ba89e66.jpeg?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Remote Work"
-            }
-          },
-          {
-            "node": {
-              "name": "Human Resources"
             }
           }
         ]
