@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2025-09-27T14:42:53.691Z",
+  "fetchedAt": "2025-09-27T14:55:20.338Z",
   "posts": [
     {
       "id": "1020398",
@@ -37,7 +37,7 @@
       "name": "Recal.dev",
       "tagline": "Like Resend, but for everything Calendars & Scheduling",
       "url": "https://www.producthunt.com/products/recal-dev-scheduling-booking-calendar?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 195,
+      "votesCount": 197,
       "commentsCount": 36,
       "createdAt": "2025-09-27T07:01:00Z",
       "thumbnail": {
@@ -99,8 +99,8 @@
       "name": "Tab",
       "tagline": "World's simplest blog that ranks on AI and SEO",
       "url": "https://www.producthunt.com/products/tab-the-automated-blog?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 132,
-      "commentsCount": 36,
+      "votesCount": 133,
+      "commentsCount": 37,
       "createdAt": "2025-09-27T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/7fc75f8c-6f0a-44a5-b873-79585340b46e.svg?auto=format"
@@ -162,7 +162,7 @@
       "tagline": "Best Collaborative LaTeX Editor",
       "url": "https://www.producthunt.com/products/latexwriter?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 104,
-      "commentsCount": 19,
+      "commentsCount": 21,
       "createdAt": "2025-09-27T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/c8aa5cb9-4387-4b59-9787-da4cc24aacde.png?auto=format"
@@ -214,7 +214,7 @@
       "tagline": "Do pushups or we block your code",
       "url": "https://www.producthunt.com/products/git-pushups?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 95,
-      "commentsCount": 10,
+      "commentsCount": 11,
       "createdAt": "2025-09-27T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/62b0afb8-5603-4fb3-bb1f-d86e5e238c47.png?auto=format"
@@ -421,6 +421,37 @@
       }
     },
     {
+      "id": "1020474",
+      "name": "Omi",
+      "tagline": "Pokemon tcg card scanner for real(tru) fans, 17+ language",
+      "url": "https://www.producthunt.com/products/omi-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 8,
+      "commentsCount": 7,
+      "createdAt": "2025-09-27T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/373bc1cd-667b-4d79-9d05-e4fad77c7f90.webp?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Card Games"
+            }
+          },
+          {
+            "node": {
+              "name": "Pokemon"
+            }
+          },
+          {
+            "node": {
+              "name": "Games"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1020462",
       "name": "Notihook",
       "tagline": "Stop refreshing. Get notified instead",
@@ -570,37 +601,6 @@
           {
             "node": {
               "name": "Human Resources"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1020474",
-      "name": "Omi",
-      "tagline": "Pokemon tcg card scanner for real(tru) fans, 17+ language",
-      "url": "https://www.producthunt.com/products/omi-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 7,
-      "commentsCount": 7,
-      "createdAt": "2025-09-27T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/373bc1cd-667b-4d79-9d05-e4fad77c7f90.webp?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Card Games"
-            }
-          },
-          {
-            "node": {
-              "name": "Pokemon"
-            }
-          },
-          {
-            "node": {
-              "name": "Games"
             }
           }
         ]
