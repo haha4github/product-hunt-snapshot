@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2025-09-27T07:33:08.125Z",
+  "fetchedAt": "2025-09-27T07:45:39.965Z",
   "posts": [
     {
       "id": "1020398",
       "name": "Github Copilot CLI",
       "tagline": "Copilot's response to Claude Code and Codex CLI",
       "url": "https://www.producthunt.com/products/github-copilot?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 74,
-      "commentsCount": 2,
+      "votesCount": 87,
+      "commentsCount": 3,
       "createdAt": "2025-09-27T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/9511fe6d-3bff-472b-ab02-f1c38d036235.png?auto=format"
@@ -33,11 +33,42 @@
       }
     },
     {
+      "id": "1018293",
+      "name": "Recal.dev",
+      "tagline": "Like Resend, but for everything Calendars & Scheduling",
+      "url": "https://www.producthunt.com/products/recal-dev-scheduling-booking-calendar?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 68,
+      "commentsCount": 4,
+      "createdAt": "2025-09-27T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/a4590bdf-88c4-4d7b-a108-4a4fac6c5715.jpeg?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "API"
+            }
+          },
+          {
+            "node": {
+              "name": "Calendar"
+            }
+          },
+          {
+            "node": {
+              "name": "SDK"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "993551",
       "name": "Tab",
       "tagline": "World's simplest blog that ranks on AI and SEO",
       "url": "https://www.producthunt.com/products/tab-the-automated-blog?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 62,
+      "votesCount": 64,
       "commentsCount": 2,
       "createdAt": "2025-09-27T07:01:00Z",
       "thumbnail": {
@@ -58,6 +89,37 @@
           {
             "node": {
               "name": "SaaS"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1020268",
+      "name": "Daily Water Reminder",
+      "tagline": "Hydration tracker for iOS & watchOS",
+      "url": "https://www.producthunt.com/products/daily-water-reminder?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 63,
+      "commentsCount": 6,
+      "createdAt": "2025-09-27T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/d4512b74-ffd3-4700-a61f-92243e6c97dc.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Health & Fitness"
+            }
+          },
+          {
+            "node": {
+              "name": "Drinking"
+            }
+          },
+          {
+            "node": {
+              "name": "Apple"
             }
           }
         ]
@@ -95,7 +157,7 @@
       "tagline": "Best Collaborative LaTeX Editor",
       "url": "https://www.producthunt.com/products/latexwriter?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 61,
-      "commentsCount": 2,
+      "commentsCount": 3,
       "createdAt": "2025-09-27T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/c8aa5cb9-4387-4b59-9787-da4cc24aacde.png?auto=format"
@@ -116,73 +178,11 @@
       }
     },
     {
-      "id": "1020268",
-      "name": "Daily Water Reminder",
-      "tagline": "Hydration tracker for iOS & watchOS",
-      "url": "https://www.producthunt.com/products/daily-water-reminder?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 61,
-      "commentsCount": 3,
-      "createdAt": "2025-09-27T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/d4512b74-ffd3-4700-a61f-92243e6c97dc.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Health & Fitness"
-            }
-          },
-          {
-            "node": {
-              "name": "Drinking"
-            }
-          },
-          {
-            "node": {
-              "name": "Apple"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1018293",
-      "name": "Recal.dev",
-      "tagline": "Like Resend, but for everything Calendars & Scheduling",
-      "url": "https://www.producthunt.com/products/recal-dev-scheduling-booking-calendar?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 59,
-      "commentsCount": 3,
-      "createdAt": "2025-09-27T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/a4590bdf-88c4-4d7b-a108-4a4fac6c5715.jpeg?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "API"
-            }
-          },
-          {
-            "node": {
-              "name": "Calendar"
-            }
-          },
-          {
-            "node": {
-              "name": "SDK"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1002050",
       "name": "Zennbox",
       "tagline": "Save & organize your resources. Take notes with AI",
       "url": "https://www.producthunt.com/products/zennbox?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 58,
+      "votesCount": 61,
       "commentsCount": 2,
       "createdAt": "2025-09-27T07:01:00Z",
       "thumbnail": {
@@ -250,7 +250,7 @@
       "tagline": "Developers get full index power with instant accuracy",
       "url": "https://www.producthunt.com/products/perplexity-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 7,
-      "commentsCount": 2,
+      "commentsCount": 3,
       "createdAt": "2025-09-27T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/db193b4c-13cc-4700-8cde-ebac26d3c247.png?auto=format"
@@ -421,6 +421,37 @@
       }
     },
     {
+      "id": "1015913",
+      "name": "To-Doo Boo",
+      "tagline": "Finish Tasks in Time or Lose Apps — Stay Focused",
+      "url": "https://www.producthunt.com/products/to-doo-boo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 2,
+      "commentsCount": 1,
+      "createdAt": "2025-09-27T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/5c0a0c09-e5ab-4aea-84b0-59cc93a49304.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "iOS"
+            }
+          },
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Task Management"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1020408",
       "name": "Wanimate",
       "tagline": "Animate any character from a source video",
@@ -457,7 +488,7 @@
       "tagline": "Trustpilot trustbox widget generator",
       "url": "https://www.producthunt.com/products/protrust-widget-builder-free?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 1,
-      "commentsCount": 1,
+      "commentsCount": 2,
       "createdAt": "2025-09-27T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/1f4954d4-30a8-4009-a7ba-08079343c8f3.vnd.microsoft.icon?auto=format"
@@ -570,27 +601,6 @@
           {
             "node": {
               "name": "Accounting"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1020484",
-      "name": "FindU",
-      "tagline": "Find and explore colleges",
-      "url": "https://www.producthunt.com/products/findu?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 1,
-      "commentsCount": 0,
-      "createdAt": "2025-09-27T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/b263da14-9ccb-4382-8b51-28cf8c0ded7c.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Education"
             }
           }
         ]
