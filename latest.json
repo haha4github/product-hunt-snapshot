@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2025-09-28T08:00:20.272Z",
+  "fetchedAt": "2025-09-28T08:30:03.927Z",
   "posts": [
     {
       "id": "1019538",
       "name": "Kilo Code for JetBrains",
       "tagline": "Fast, open-source AI coding agent for JetBrains IDEs",
       "url": "https://www.producthunt.com/products/kilocode?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 101,
-      "commentsCount": 29,
+      "votesCount": 117,
+      "commentsCount": 33,
       "createdAt": "2025-09-28T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/1a41e8bf-2f29-42ee-8bce-d99357ebc0fb.gif?auto=format"
@@ -42,7 +42,7 @@
       "name": "VibeSDK by CloudFlare ",
       "tagline": "Deploy your AI vibe coding platform on Cloudflare in 1 click",
       "url": "https://www.producthunt.com/products/vibesdk-by-cloudflare?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 85,
+      "votesCount": 97,
       "commentsCount": 3,
       "createdAt": "2025-09-28T07:01:00Z",
       "thumbnail": {
@@ -78,8 +78,8 @@
       "name": "Creatium",
       "tagline": "Make interactive learning that doesn’t suck",
       "url": "https://www.producthunt.com/products/creatium?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 81,
-      "commentsCount": 6,
+      "votesCount": 90,
+      "commentsCount": 9,
       "createdAt": "2025-09-28T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/7954cf82-59c8-40f6-8e98-1cc49c537f93.png?auto=format"
@@ -105,42 +105,11 @@
       }
     },
     {
-      "id": "1018090",
-      "name": "WebTrafficWatch",
-      "tagline": "Weekly insights from Google Analytics 4 & Search Console",
-      "url": "https://www.producthunt.com/products/webtrafficwatch?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 79,
-      "commentsCount": 2,
-      "createdAt": "2025-09-28T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/7b4a74d0-cb05-43b0-a78b-cebbd58bd6e9.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Analytics"
-            }
-          },
-          {
-            "node": {
-              "name": "Marketing"
-            }
-          },
-          {
-            "node": {
-              "name": "Statistical Analysis"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1020762",
       "name": "Poke.com",
       "tagline": "Text with poke, your friend, assistant, or nemisis",
       "url": "https://www.producthunt.com/products/poke-by-interaction-co?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 78,
+      "votesCount": 82,
       "commentsCount": 4,
       "createdAt": "2025-09-28T07:01:00Z",
       "thumbnail": {
@@ -167,11 +136,73 @@
       }
     },
     {
+      "id": "1018090",
+      "name": "WebTrafficWatch",
+      "tagline": "Weekly insights from Google Analytics 4 & Search Console",
+      "url": "https://www.producthunt.com/products/webtrafficwatch?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 81,
+      "commentsCount": 3,
+      "createdAt": "2025-09-28T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/7b4a74d0-cb05-43b0-a78b-cebbd58bd6e9.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Analytics"
+            }
+          },
+          {
+            "node": {
+              "name": "Marketing"
+            }
+          },
+          {
+            "node": {
+              "name": "Statistical Analysis"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1020601",
+      "name": "Kora",
+      "tagline": "Daily wisdom & voice chats with history’s greatest thinkers",
+      "url": "https://www.producthunt.com/products/kora-voice-chat-with-philosophers?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 79,
+      "commentsCount": 7,
+      "createdAt": "2025-09-28T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/46f2d43c-0299-4628-b443-231af9242115.jpeg?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Education"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "No-Code"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1020002",
       "name": "AI Search Crawler Check",
       "tagline": "Check if your robots.txt allows ChatGPT, Google Gemini",
       "url": "https://www.producthunt.com/products/llm-seo-index-crawler-check?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 73,
+      "votesCount": 76,
       "commentsCount": 4,
       "createdAt": "2025-09-28T07:01:00Z",
       "thumbnail": {
@@ -202,8 +233,8 @@
       "name": "Murmur Lab",
       "tagline": "The first AI PM workspace by Currents AI",
       "url": "https://www.producthunt.com/products/murmur-lab?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 70,
-      "commentsCount": 4,
+      "votesCount": 74,
+      "commentsCount": 5,
       "createdAt": "2025-09-28T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/d95ac806-62de-4265-9f27-b9cfa66e7fd7.png?auto=format"
@@ -229,42 +260,11 @@
       }
     },
     {
-      "id": "1020601",
-      "name": "Kora",
-      "tagline": "Daily wisdom & voice chats with history’s greatest thinkers",
-      "url": "https://www.producthunt.com/products/kora-voice-chat-with-philosophers?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 65,
-      "commentsCount": 4,
-      "createdAt": "2025-09-28T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/46f2d43c-0299-4628-b443-231af9242115.jpeg?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Education"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          },
-          {
-            "node": {
-              "name": "No-Code"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1017764",
       "name": "Orito",
       "tagline": "1st AI Meeting Agent for Global Teams",
       "url": "https://www.producthunt.com/products/soundai-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 32,
+      "votesCount": 34,
       "commentsCount": 6,
       "createdAt": "2025-09-28T07:01:00Z",
       "thumbnail": {
@@ -295,8 +295,8 @@
       "name": "Remote Jobs By Startupvisors",
       "tagline": "Discover curated remote, work from home jobs globally",
       "url": "https://www.producthunt.com/products/remote-jobs-by-startupvisors?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 22,
-      "commentsCount": 5,
+      "votesCount": 28,
+      "commentsCount": 6,
       "createdAt": "2025-09-28T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/cc1a35fd-882a-4441-a859-78138725c34e.png?auto=format"
@@ -326,8 +326,8 @@
       "name": "MarketFit",
       "tagline": "Sales AI: Don't Sell. Solve Problems.",
       "url": "https://www.producthunt.com/products/marketfit?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 19,
-      "commentsCount": 3,
+      "votesCount": 21,
+      "commentsCount": 4,
       "createdAt": "2025-09-28T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/aaa1d1e2-f23a-44ea-81bf-78aedc1ca6d0.gif?auto=format"
@@ -357,8 +357,8 @@
       "name": "Quinnsy",
       "tagline": "From Idea to Launch-Ready Course. In Minutes. ",
       "url": "https://www.producthunt.com/products/quinnsy?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 17,
-      "commentsCount": 2,
+      "votesCount": 18,
+      "commentsCount": 3,
       "createdAt": "2025-09-28T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/ffd07c1a-f41a-434f-bf8e-681a266815cd.x-icon?auto=format"
@@ -388,8 +388,8 @@
       "name": "HiClip",
       "tagline": "Capture the highlights, go viral in one click.",
       "url": "https://www.producthunt.com/products/hiclip?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 14,
-      "commentsCount": 4,
+      "votesCount": 18,
+      "commentsCount": 7,
       "createdAt": "2025-09-28T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/9d12d684-0e0c-46c1-9f0b-20037fabcdb0.x-icon?auto=format"
@@ -461,6 +461,27 @@
           {
             "node": {
               "name": "No-Code"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1018362",
+      "name": "Pastors.ai",
+      "tagline": "ChatGPT for Churches and Sermons",
+      "url": "https://www.producthunt.com/products/pastors-ai-faith-meets-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 12,
+      "commentsCount": 1,
+      "createdAt": "2025-09-28T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/1fec19fd-a830-419d-95a2-b22febedaee5.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Artificial Intelligence"
             }
           }
         ]
@@ -564,7 +585,7 @@
       "name": "Email List Validator – Free",
       "tagline": "Validate your email list online (DNS/MX/SMTP checks + more)",
       "url": "https://www.producthunt.com/products/free-email-list-validator?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 7,
+      "votesCount": 8,
       "commentsCount": 1,
       "createdAt": "2025-09-28T07:01:00Z",
       "thumbnail": {
@@ -585,37 +606,6 @@
           {
             "node": {
               "name": "Marketing"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1020135",
-      "name": "NairaTrack – Digital Receipts for SMEs",
-      "tagline": "Digital receipts for modern Nigerian SMEs",
-      "url": "https://www.producthunt.com/products/nairatrack-digital-receipts-for-smes?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 7,
-      "commentsCount": 27,
-      "createdAt": "2025-09-28T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/c7729249-021c-4ccd-9b81-e0680010830f.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Fintech"
-            }
-          },
-          {
-            "node": {
-              "name": "Payments"
-            }
-          },
-          {
-            "node": {
-              "name": "SaaS"
             }
           }
         ]
