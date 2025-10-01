@@ -1,12 +1,12 @@
 {
-  "fetchedAt": "2025-10-01T22:47:43.359Z",
+  "fetchedAt": "2025-10-01T22:59:55.598Z",
   "posts": [
     {
       "id": "1021710",
       "name": "Everyday",
       "tagline": "Get tasks done across apps with plain English",
       "url": "https://www.producthunt.com/products/everyday-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 436,
+      "votesCount": 439,
       "commentsCount": 46,
       "createdAt": "2025-10-01T07:01:00Z",
       "thumbnail": {
@@ -37,7 +37,7 @@
       "name": "Sora 2",
       "tagline": "Turn your ideas into videos & drop yourself into the action",
       "url": "https://www.producthunt.com/products/openai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 375,
+      "votesCount": 377,
       "commentsCount": 10,
       "createdAt": "2025-10-01T07:01:00Z",
       "thumbnail": {
@@ -68,7 +68,7 @@
       "name": "Verdent Deck",
       "tagline": "Your AI code editor that runs multiple AI agents in parallel",
       "url": "https://www.producthunt.com/products/verdent-deck?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 305,
+      "votesCount": 307,
       "commentsCount": 39,
       "createdAt": "2025-10-01T07:01:00Z",
       "thumbnail": {
@@ -99,7 +99,7 @@
       "name": "Cursor 1.7",
       "tagline": "Agent autocomplete, hooks, and team rules",
       "url": "https://www.producthunt.com/products/cursor?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 258,
+      "votesCount": 259,
       "commentsCount": 7,
       "createdAt": "2025-10-01T07:01:00Z",
       "thumbnail": {
@@ -426,37 +426,6 @@
       }
     },
     {
-      "id": "1021300",
-      "name": "MCP by Alloy Automation",
-      "tagline": "Connect your AI Agent to 400+ business systems in minutes",
-      "url": "https://www.producthunt.com/products/alloy-automation?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 102,
-      "commentsCount": 5,
-      "createdAt": "2025-10-01T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/f22d820d-928e-4428-b4a0-21fac478462a.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "API"
-            }
-          },
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1021531",
       "name": "Structura",
       "tagline": "Visualize and edit JSON like Lego blocks",
@@ -482,6 +451,37 @@
           {
             "node": {
               "name": "Data Visualization"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1021300",
+      "name": "MCP by Alloy Automation",
+      "tagline": "Connect your AI Agent to 400+ business systems in minutes",
+      "url": "https://www.producthunt.com/products/alloy-automation?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 102,
+      "commentsCount": 5,
+      "createdAt": "2025-10-01T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/f22d820d-928e-4428-b4a0-21fac478462a.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "API"
+            }
+          },
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
             }
           }
         ]
