@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2025-10-02T04:38:54.998Z",
+  "fetchedAt": "2025-10-02T04:51:33.186Z",
   "posts": [
     {
       "id": "1021710",
@@ -7,7 +7,7 @@
       "tagline": "Get tasks done across apps with plain English",
       "url": "https://www.producthunt.com/products/everyday-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 516,
-      "commentsCount": 49,
+      "commentsCount": 50,
       "createdAt": "2025-10-01T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/ab6b85e5-1d4b-4c93-bd19-2a1a97b3cba7.png?auto=format"
@@ -37,7 +37,7 @@
       "name": "Sora 2",
       "tagline": "Turn your ideas into videos & drop yourself into the action",
       "url": "https://www.producthunt.com/products/openai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 407,
+      "votesCount": 408,
       "commentsCount": 13,
       "createdAt": "2025-10-01T07:01:00Z",
       "thumbnail": {
@@ -99,7 +99,7 @@
       "name": "Cursor 1.7",
       "tagline": "Agent autocomplete, hooks, and team rules",
       "url": "https://www.producthunt.com/products/cursor?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 276,
+      "votesCount": 277,
       "commentsCount": 7,
       "createdAt": "2025-10-01T07:01:00Z",
       "thumbnail": {
@@ -240,6 +240,37 @@
       }
     },
     {
+      "id": "1017270",
+      "name": "Palify 2.0",
+      "tagline": "Why post for free when you can post, earn & grow",
+      "url": "https://www.producthunt.com/products/palify?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 131,
+      "commentsCount": 15,
+      "createdAt": "2025-10-01T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/ccf481e2-2359-4a48-8e1f-0ce200a5ece8.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Writing"
+            }
+          },
+          {
+            "node": {
+              "name": "Social Media"
+            }
+          },
+          {
+            "node": {
+              "name": "Social Networking"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "486244",
       "name": "Zellij",
       "tagline": "A terminal workspace with batteries included",
@@ -265,37 +296,6 @@
           {
             "node": {
               "name": "GitHub"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1017270",
-      "name": "Palify 2.0",
-      "tagline": "Why post for free when you can post, earn & grow",
-      "url": "https://www.producthunt.com/products/palify?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 128,
-      "commentsCount": 15,
-      "createdAt": "2025-10-01T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/ccf481e2-2359-4a48-8e1f-0ce200a5ece8.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Writing"
-            }
-          },
-          {
-            "node": {
-              "name": "Social Media"
-            }
-          },
-          {
-            "node": {
-              "name": "Social Networking"
             }
           }
         ]
