@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2025-10-02T06:37:13.284Z",
+  "fetchedAt": "2025-10-02T06:52:15.722Z",
   "posts": [
     {
       "id": "1021710",
       "name": "Everyday",
       "tagline": "Get tasks done across apps with plain English",
       "url": "https://www.producthunt.com/products/everyday-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 525,
-      "commentsCount": 51,
+      "votesCount": 526,
+      "commentsCount": 52,
       "createdAt": "2025-10-01T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/ab6b85e5-1d4b-4c93-bd19-2a1a97b3cba7.png?auto=format"
@@ -37,7 +37,7 @@
       "name": "Sora 2",
       "tagline": "Turn your ideas into videos & drop yourself into the action",
       "url": "https://www.producthunt.com/products/openai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 416,
+      "votesCount": 418,
       "commentsCount": 14,
       "createdAt": "2025-10-01T07:01:00Z",
       "thumbnail": {
@@ -68,7 +68,7 @@
       "name": "Verdent Deck",
       "tagline": "Your AI code editor that runs multiple AI agents in parallel",
       "url": "https://www.producthunt.com/products/verdent-deck?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 358,
+      "votesCount": 359,
       "commentsCount": 47,
       "createdAt": "2025-10-01T07:01:00Z",
       "thumbnail": {
@@ -99,7 +99,7 @@
       "name": "Cursor 1.7",
       "tagline": "Agent autocomplete, hooks, and team rules",
       "url": "https://www.producthunt.com/products/cursor?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 282,
+      "votesCount": 283,
       "commentsCount": 8,
       "createdAt": "2025-10-01T07:01:00Z",
       "thumbnail": {
@@ -213,7 +213,7 @@
       "name": "Palify 2.0",
       "tagline": "Why post for free when you can post, earn & grow",
       "url": "https://www.producthunt.com/products/palify?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 159,
+      "votesCount": 164,
       "commentsCount": 15,
       "createdAt": "2025-10-01T07:01:00Z",
       "thumbnail": {
@@ -395,37 +395,6 @@
       }
     },
     {
-      "id": "1021531",
-      "name": "Structura",
-      "tagline": "Visualize and edit JSON like Lego blocks",
-      "url": "https://www.producthunt.com/products/structura?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 105,
-      "commentsCount": 5,
-      "createdAt": "2025-10-01T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/42feeafc-ea68-4adc-989e-c1516dc0960c.svg?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "SaaS"
-            }
-          },
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Data Visualization"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1021754",
       "name": "Pigeon",
       "tagline": "Chrome Extension for Opinion Insights",
@@ -451,6 +420,37 @@
           {
             "node": {
               "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1021531",
+      "name": "Structura",
+      "tagline": "Visualize and edit JSON like Lego blocks",
+      "url": "https://www.producthunt.com/products/structura?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 105,
+      "commentsCount": 5,
+      "createdAt": "2025-10-01T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/42feeafc-ea68-4adc-989e-c1516dc0960c.svg?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "SaaS"
+            }
+          },
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Data Visualization"
             }
           }
         ]
