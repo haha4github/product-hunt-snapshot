@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2025-10-03T15:44:16.856Z",
+  "fetchedAt": "2025-10-03T15:56:32.874Z",
   "posts": [
     {
       "id": "1019634",
       "name": "Super Intern",
       "tagline": "First customizable AI agent in group chats, for work and fun",
       "url": "https://www.producthunt.com/products/super-intern-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 250,
-      "commentsCount": 35,
+      "votesCount": 264,
+      "commentsCount": 36,
       "createdAt": "2025-10-03T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/74760304-a502-4253-9c5b-e545c4a9e2da.png?auto=format"
@@ -37,7 +37,7 @@
       "name": "Krisp AI Note Taker",
       "tagline": "Capture online + in-person meetings with better audio",
       "url": "https://www.producthunt.com/products/krisp?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 225,
+      "votesCount": 234,
       "commentsCount": 15,
       "createdAt": "2025-10-03T07:01:00Z",
       "thumbnail": {
@@ -68,7 +68,7 @@
       "name": "Vercel Domains",
       "tagline": "Fastest domain search on the planet with at cost pricing",
       "url": "https://www.producthunt.com/products/vercel?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 187,
+      "votesCount": 199,
       "commentsCount": 6,
       "createdAt": "2025-10-03T07:01:00Z",
       "thumbnail": {
@@ -89,7 +89,7 @@
       "name": "DayDrift",
       "tagline": "Organize your week with gentle focus",
       "url": "https://www.producthunt.com/products/daydrift?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 159,
+      "votesCount": 164,
       "commentsCount": 15,
       "createdAt": "2025-10-03T07:01:00Z",
       "thumbnail": {
@@ -271,42 +271,11 @@
       }
     },
     {
-      "id": "1022319",
-      "name": "WhereFlight",
-      "tagline": "Flight tracking made simple",
-      "url": "https://www.producthunt.com/products/whereflight?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 109,
-      "commentsCount": 11,
-      "createdAt": "2025-10-03T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/d13422dc-16e2-44f2-889f-1f70f3c45846.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "User Experience"
-            }
-          },
-          {
-            "node": {
-              "name": "Travel"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1014974",
       "name": "Grain Desktop Capture",
       "tagline": "AI meeting notes without bots",
       "url": "https://www.producthunt.com/products/grain?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 105,
+      "votesCount": 110,
       "commentsCount": 2,
       "createdAt": "2025-10-03T07:01:00Z",
       "thumbnail": {
@@ -337,7 +306,7 @@
       "name": "solveit",
       "tagline": "New course and AI platform from Jeremy Howard and Eric Ries",
       "url": "https://www.producthunt.com/products/solveit?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 103,
+      "votesCount": 110,
       "commentsCount": 5,
       "createdAt": "2025-10-03T07:01:00Z",
       "thumbnail": {
@@ -358,6 +327,37 @@
           {
             "node": {
               "name": "Online Learning"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1022319",
+      "name": "WhereFlight",
+      "tagline": "Flight tracking made simple",
+      "url": "https://www.producthunt.com/products/whereflight?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 109,
+      "commentsCount": 11,
+      "createdAt": "2025-10-03T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/d13422dc-16e2-44f2-889f-1f70f3c45846.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "User Experience"
+            }
+          },
+          {
+            "node": {
+              "name": "Travel"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
             }
           }
         ]
