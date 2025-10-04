@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2025-10-04T19:43:39.326Z",
+  "fetchedAt": "2025-10-04T19:56:09.304Z",
   "posts": [
     {
       "id": "1019241",
       "name": "MailTester.AI",
       "tagline": "Forward an email and get an AI deliverability report in 30s",
       "url": "https://www.producthunt.com/products/mailtester-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 230,
-      "commentsCount": 16,
+      "votesCount": 233,
+      "commentsCount": 17,
       "createdAt": "2025-10-04T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/ec39d6fd-e4f9-44b4-af4b-27e3ca3b320b.png?auto=format"
@@ -37,7 +37,7 @@
       "name": "RightNow AI Code Editor",
       "tagline": "The first GPU-native code editor with AI",
       "url": "https://www.producthunt.com/products/rightnow-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 210,
+      "votesCount": 214,
       "commentsCount": 20,
       "createdAt": "2025-10-04T07:01:00Z",
       "thumbnail": {
@@ -68,8 +68,8 @@
       "name": "Nuxt UI v4",
       "tagline": "Open-source UI library built with Tailwind CSS",
       "url": "https://www.producthunt.com/products/nuxt-ui?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 185,
-      "commentsCount": 1,
+      "votesCount": 187,
+      "commentsCount": 2,
       "createdAt": "2025-10-04T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/797bc116-f116-4b34-88b2-a4158848ccee.png?auto=format"
@@ -125,7 +125,7 @@
       "name": "Dolby Vision® 2",
       "tagline": "Go beyond HDR with more AI and ‘authentic motion’ smoothing",
       "url": "https://www.producthunt.com/products/dolby-vision-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 151,
+      "votesCount": 152,
       "commentsCount": 4,
       "createdAt": "2025-10-04T07:01:00Z",
       "thumbnail": {
@@ -249,7 +249,7 @@
       "name": "Nexion - For Windows & Open Source",
       "tagline": "A cross-platform blockchain Shell Client based on XLayer",
       "url": "https://www.producthunt.com/products/nexion-for-windows-open-source?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 95,
+      "votesCount": 96,
       "commentsCount": 2,
       "createdAt": "2025-10-04T07:01:00Z",
       "thumbnail": {
@@ -321,7 +321,7 @@
       "name": "Snippetly",
       "tagline": "Your snippet vault. Save, organize & share code snippets",
       "url": "https://www.producthunt.com/products/snippetly?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 88,
+      "votesCount": 89,
       "commentsCount": 2,
       "createdAt": "2025-10-04T07:01:00Z",
       "thumbnail": {
@@ -342,6 +342,37 @@
           {
             "node": {
               "name": "Developer Tools"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1003807",
+      "name": "Skippership",
+      "tagline": "AI-Powered Website & User Behavior Analytics",
+      "url": "https://www.producthunt.com/products/skippership?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 7,
+      "commentsCount": 2,
+      "createdAt": "2025-10-04T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/f788b5d2-f760-4096-97eb-16d4ff1ca17d.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "User Experience"
+            }
+          },
+          {
+            "node": {
+              "name": "Analytics"
+            }
+          },
+          {
+            "node": {
+              "name": "SaaS"
             }
           }
         ]
@@ -378,37 +409,6 @@
           {
             "node": {
               "name": "GitHub"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1003807",
-      "name": "Skippership",
-      "tagline": "AI-Powered Website & User Behavior Analytics",
-      "url": "https://www.producthunt.com/products/skippership?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 6,
-      "commentsCount": 2,
-      "createdAt": "2025-10-04T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/f788b5d2-f760-4096-97eb-16d4ff1ca17d.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "User Experience"
-            }
-          },
-          {
-            "node": {
-              "name": "Analytics"
-            }
-          },
-          {
-            "node": {
-              "name": "SaaS"
             }
           }
         ]
@@ -508,6 +508,68 @@
       }
     },
     {
+      "id": "1022712",
+      "name": "TalentOS",
+      "tagline": "Game for your Career",
+      "url": "https://www.producthunt.com/products/talentos-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 5,
+      "commentsCount": 1,
+      "createdAt": "2025-10-04T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/19dabc26-eab3-43b8-bb4b-c189f6a3f02a.x-icon?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Hiring"
+            }
+          },
+          {
+            "node": {
+              "name": "Tech"
+            }
+          },
+          {
+            "node": {
+              "name": "Career"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1022474",
+      "name": "MentorSpace",
+      "tagline": "Your AI-Powered Startup Mentor",
+      "url": "https://www.producthunt.com/products/mentorspace?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 5,
+      "commentsCount": 1,
+      "createdAt": "2025-10-04T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/8718e6cc-c781-41c3-8992-6e392102a314.jpeg?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Education"
+            }
+          },
+          {
+            "node": {
+              "name": "SaaS"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1022534",
       "name": "The MUN Directory",
       "tagline": "India’s #1 Verified Hub for Online Model UNs 🌍",
@@ -539,85 +601,18 @@
       }
     },
     {
-      "id": "1022712",
-      "name": "TalentOS",
-      "tagline": "Game for your Career",
-      "url": "https://www.producthunt.com/products/talentos-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "id": "1022718",
+      "name": "DomNest",
+      "tagline": "Manage all your domains in one dashboard",
+      "url": "https://www.producthunt.com/products/domnest-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 4,
       "commentsCount": 1,
       "createdAt": "2025-10-04T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/19dabc26-eab3-43b8-bb4b-c189f6a3f02a.x-icon?auto=format"
+        "url": "https://ph-files.imgix.net/26082785-854a-4edb-a8e5-fcb4d862fc11.png?auto=format"
       },
       "topics": {
         "edges": [
-          {
-            "node": {
-              "name": "Hiring"
-            }
-          },
-          {
-            "node": {
-              "name": "Tech"
-            }
-          },
-          {
-            "node": {
-              "name": "Career"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1022757",
-      "name": "Vibecoding Studio",
-      "tagline": "Learn how to be a professional vibecoder",
-      "url": "https://www.producthunt.com/products/vibecoding-studio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 4,
-      "commentsCount": 1,
-      "createdAt": "2025-10-04T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/dfa5d9ee-38f3-4680-9013-19f5ff9041e4.octet-stream?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Education"
-            }
-          },
-          {
-            "node": {
-              "name": "Web Design"
-            }
-          },
-          {
-            "node": {
-              "name": "Vibe coding"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1022565",
-      "name": "SigmaQu AI",
-      "tagline": "Your Complete Business Planning Suite, Powered by Gemini",
-      "url": "https://www.producthunt.com/products/sigmaqu-ai-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 4,
-      "commentsCount": 1,
-      "createdAt": "2025-10-04T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/56fa01d7-25fa-4fb0-914e-412730ce7e42.jpeg?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Android"
-            }
-          },
           {
             "node": {
               "name": "Productivity"
@@ -625,12 +620,12 @@
           },
           {
             "node": {
-              "name": "Marketing"
+              "name": "SaaS"
             }
           },
           {
             "node": {
-              "name": "Artificial Intelligence"
+              "name": "Developer Tools"
             }
           }
         ]
