@@ -1,12 +1,12 @@
 {
-  "fetchedAt": "2025-10-04T14:45:23.523Z",
+  "fetchedAt": "2025-10-04T14:57:38.449Z",
   "posts": [
     {
       "id": "1019241",
       "name": "MailTester.AI",
       "tagline": "Forward an email and get an AI deliverability report in 30s",
       "url": "https://www.producthunt.com/products/mailtester-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 168,
+      "votesCount": 170,
       "commentsCount": 14,
       "createdAt": "2025-10-04T07:01:00Z",
       "thumbnail": {
@@ -37,7 +37,7 @@
       "name": "Nuxt UI v4",
       "tagline": "Open-source UI library built with Tailwind CSS",
       "url": "https://www.producthunt.com/products/nuxt-ui?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 147,
+      "votesCount": 149,
       "commentsCount": 1,
       "createdAt": "2025-10-04T07:01:00Z",
       "thumbnail": {
@@ -63,7 +63,7 @@
       "name": "Spit Notes",
       "tagline": "A songwriting app that keeps your lyrics and audio together",
       "url": "https://www.producthunt.com/products/spit-notes?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 139,
+      "votesCount": 141,
       "commentsCount": 5,
       "createdAt": "2025-10-04T07:01:00Z",
       "thumbnail": {
@@ -147,6 +147,37 @@
       }
     },
     {
+      "id": "1022568",
+      "name": "RightNow AI Code Editor",
+      "tagline": "The first GPU-native code editor with AI",
+      "url": "https://www.producthunt.com/products/rightnow-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 114,
+      "commentsCount": 13,
+      "createdAt": "2025-10-04T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/98483cfd-30ce-4705-b521-50ec81f2dfaa.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Software Engineering"
+            }
+          },
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Tech"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1022735",
       "name": "Ghost Note",
       "tagline": "An innovative privacy focused approach to code documentation",
@@ -172,37 +203,6 @@
           {
             "node": {
               "name": "Developer Tools"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1022568",
-      "name": "RightNow AI Code Editor",
-      "tagline": "The first GPU-native code editor with AI",
-      "url": "https://www.producthunt.com/products/rightnow-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 112,
-      "commentsCount": 12,
-      "createdAt": "2025-10-04T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/98483cfd-30ce-4705-b521-50ec81f2dfaa.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Software Engineering"
-            }
-          },
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Tech"
             }
           }
         ]
