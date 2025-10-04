@@ -1,12 +1,12 @@
 {
-  "fetchedAt": "2025-10-04T18:59:37.446Z",
+  "fetchedAt": "2025-10-04T19:18:19.316Z",
   "posts": [
     {
       "id": "1019241",
       "name": "MailTester.AI",
       "tagline": "Forward an email and get an AI deliverability report in 30s",
       "url": "https://www.producthunt.com/products/mailtester-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 223,
+      "votesCount": 224,
       "commentsCount": 16,
       "createdAt": "2025-10-04T07:01:00Z",
       "thumbnail": {
@@ -37,7 +37,7 @@
       "name": "RightNow AI Code Editor",
       "tagline": "The first GPU-native code editor with AI",
       "url": "https://www.producthunt.com/products/rightnow-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 189,
+      "votesCount": 202,
       "commentsCount": 19,
       "createdAt": "2025-10-04T07:01:00Z",
       "thumbnail": {
@@ -68,7 +68,7 @@
       "name": "Nuxt UI v4",
       "tagline": "Open-source UI library built with Tailwind CSS",
       "url": "https://www.producthunt.com/products/nuxt-ui?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 183,
+      "votesCount": 184,
       "commentsCount": 1,
       "createdAt": "2025-10-04T07:01:00Z",
       "thumbnail": {
@@ -94,7 +94,7 @@
       "name": "Spit Notes",
       "tagline": "A songwriting app that keeps your lyrics and audio together",
       "url": "https://www.producthunt.com/products/spit-notes?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 159,
+      "votesCount": 160,
       "commentsCount": 5,
       "createdAt": "2025-10-04T07:01:00Z",
       "thumbnail": {
@@ -539,37 +539,6 @@
       }
     },
     {
-      "id": "1022757",
-      "name": "Vibecoding Studio",
-      "tagline": "Learn how to be a professional vibecoder",
-      "url": "https://www.producthunt.com/products/vibecoding-studio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 4,
-      "commentsCount": 1,
-      "createdAt": "2025-10-04T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/dfa5d9ee-38f3-4680-9013-19f5ff9041e4.octet-stream?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Education"
-            }
-          },
-          {
-            "node": {
-              "name": "Web Design"
-            }
-          },
-          {
-            "node": {
-              "name": "Vibe coding"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1022712",
       "name": "TalentOS",
       "tagline": "Game for your Career",
@@ -595,6 +564,37 @@
           {
             "node": {
               "name": "Career"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1022757",
+      "name": "Vibecoding Studio",
+      "tagline": "Learn how to be a professional vibecoder",
+      "url": "https://www.producthunt.com/products/vibecoding-studio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 4,
+      "commentsCount": 1,
+      "createdAt": "2025-10-04T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/dfa5d9ee-38f3-4680-9013-19f5ff9041e4.octet-stream?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Education"
+            }
+          },
+          {
+            "node": {
+              "name": "Web Design"
+            }
+          },
+          {
+            "node": {
+              "name": "Vibe coding"
             }
           }
         ]
