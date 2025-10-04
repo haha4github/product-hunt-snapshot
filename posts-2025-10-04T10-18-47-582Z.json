@@ -1,6 +1,37 @@
 {
-  "fetchedAt": "2025-10-04T09:53:59.268Z",
+  "fetchedAt": "2025-10-04T10:18:47.582Z",
   "posts": [
+    {
+      "id": "1022599",
+      "name": "Spit Notes",
+      "tagline": "A songwriting app that keeps your lyrics and audio together",
+      "url": "https://www.producthunt.com/products/spit-notes?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 107,
+      "commentsCount": 2,
+      "createdAt": "2025-10-04T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/7bb813b9-3899-4ac3-9a0b-6db48d196625.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Music"
+            }
+          },
+          {
+            "node": {
+              "name": "Writing"
+            }
+          },
+          {
+            "node": {
+              "name": "Audio"
+            }
+          }
+        ]
+      }
+    },
     {
       "id": "1012204",
       "name": "Dolby Vision® 2",
@@ -28,31 +59,57 @@
       }
     },
     {
-      "id": "1022599",
-      "name": "Spit Notes",
-      "tagline": "A songwriting app that keeps your lyrics and audio together",
-      "url": "https://www.producthunt.com/products/spit-notes?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 102,
-      "commentsCount": 2,
+      "id": "1019241",
+      "name": "MailTester.AI",
+      "tagline": "Forward an email and get an AI deliverability report in 30s",
+      "url": "https://www.producthunt.com/products/mailtester-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 104,
+      "commentsCount": 6,
       "createdAt": "2025-10-04T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/7bb813b9-3899-4ac3-9a0b-6db48d196625.png?auto=format"
+        "url": "https://ph-files.imgix.net/ec39d6fd-e4f9-44b4-af4b-27e3ca3b320b.png?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "Music"
+              "name": "Email"
             }
           },
           {
             "node": {
-              "name": "Writing"
+              "name": "Newsletters"
             }
           },
           {
             "node": {
-              "name": "Audio"
+              "name": "Marketing"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1020140",
+      "name": "Nuxt UI v4",
+      "tagline": "Open-source UI library built with Tailwind CSS",
+      "url": "https://www.producthunt.com/products/nuxt-ui?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 102,
+      "commentsCount": 1,
+      "createdAt": "2025-10-04T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/797bc116-f116-4b34-88b2-a4158848ccee.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Open Source"
+            }
+          },
+          {
+            "node": {
+              "name": "Developer Tools"
             }
           }
         ]
@@ -63,7 +120,7 @@
       "name": "Ghost Note",
       "tagline": "An innovative privacy focused approach to code documentation",
       "url": "https://www.producthunt.com/products/ghost-note?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 98,
+      "votesCount": 99,
       "commentsCount": 2,
       "createdAt": "2025-10-04T07:01:00Z",
       "thumbnail": {
@@ -94,7 +151,7 @@
       "name": "Dropstone",
       "tagline": "AI IDE that learns and improves itself as you code",
       "url": "https://www.producthunt.com/products/dropstone-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 97,
+      "votesCount": 98,
       "commentsCount": 2,
       "createdAt": "2025-10-04T07:01:00Z",
       "thumbnail": {
@@ -121,68 +178,11 @@
       }
     },
     {
-      "id": "1020140",
-      "name": "Nuxt UI v4",
-      "tagline": "Open-source UI library built with Tailwind CSS",
-      "url": "https://www.producthunt.com/products/nuxt-ui?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 96,
-      "commentsCount": 1,
-      "createdAt": "2025-10-04T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/797bc116-f116-4b34-88b2-a4158848ccee.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Open Source"
-            }
-          },
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1019241",
-      "name": "MailTester.AI",
-      "tagline": "Forward an email and get an AI deliverability report in 30s",
-      "url": "https://www.producthunt.com/products/mailtester-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 95,
-      "commentsCount": 5,
-      "createdAt": "2025-10-04T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/ec39d6fd-e4f9-44b4-af4b-27e3ca3b320b.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Email"
-            }
-          },
-          {
-            "node": {
-              "name": "Newsletters"
-            }
-          },
-          {
-            "node": {
-              "name": "Marketing"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1022568",
       "name": "RightNow AI Code Editor",
       "tagline": "The first GPU-native code editor with AI",
       "url": "https://www.producthunt.com/products/rightnow-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 90,
+      "votesCount": 96,
       "commentsCount": 8,
       "createdAt": "2025-10-04T07:01:00Z",
       "thumbnail": {
@@ -213,7 +213,7 @@
       "name": "Ziyo",
       "tagline": "A powerful Japanese Kanji dictionary & search engine",
       "url": "https://www.producthunt.com/products/ziyo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 85,
+      "votesCount": 91,
       "commentsCount": 2,
       "createdAt": "2025-10-04T07:01:00Z",
       "thumbnail": {
@@ -249,7 +249,7 @@
       "name": "Nexion - For Windows & Open Source",
       "tagline": "A cross-platform blockchain Shell Client based on XLayer",
       "url": "https://www.producthunt.com/products/nexion-for-windows-open-source?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 80,
+      "votesCount": 81,
       "commentsCount": 2,
       "createdAt": "2025-10-04T07:01:00Z",
       "thumbnail": {
@@ -280,8 +280,8 @@
       "name": "Snippetly",
       "tagline": "Your snippet vault. Save, organize & share code snippets",
       "url": "https://www.producthunt.com/products/snippetly?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 78,
-      "commentsCount": 1,
+      "votesCount": 79,
+      "commentsCount": 2,
       "createdAt": "2025-10-04T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/bf266c1c-52e2-4758-b816-92c902ea2c11.png?auto=format"
@@ -311,7 +311,7 @@
       "name": "Enhance",
       "tagline": "Turn your new tab into a daily boost of calm + productivity.",
       "url": "https://www.producthunt.com/products/enhance-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 73,
+      "votesCount": 78,
       "commentsCount": 3,
       "createdAt": "2025-10-04T07:01:00Z",
       "thumbnail": {
@@ -353,7 +353,7 @@
       "tagline": "Protect Your Ideas and brand with the AI ​​Assistant",
       "url": "https://www.producthunt.com/products/ipnote?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 17,
-      "commentsCount": 2,
+      "commentsCount": 3,
       "createdAt": "2025-10-04T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/8cbd931a-d5c5-41ab-84a4-eceb8ea1a94b.gif?auto=format"
@@ -570,6 +570,32 @@
       }
     },
     {
+      "id": "1022527",
+      "name": "PassText",
+      "tagline": "A minimal tool to share Markdown with end-to-end encryption",
+      "url": "https://www.producthunt.com/products/passtext?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 3,
+      "commentsCount": 1,
+      "createdAt": "2025-10-04T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/f86755f0-4f62-4644-8bc0-268d7dfe80cc.vnd.microsoft.icon?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Writing"
+            }
+          },
+          {
+            "node": {
+              "name": "Notes"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1022686",
       "name": "Slane",
       "tagline": "The minimalist task manager for solo builders",
@@ -590,32 +616,6 @@
           {
             "node": {
               "name": "Task Management"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1022786",
-      "name": "Shadcn Directory",
-      "tagline": "Components, templates & resources",
-      "url": "https://www.producthunt.com/products/shadcn-directory?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 3,
-      "commentsCount": 0,
-      "createdAt": "2025-10-04T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/38d8af2e-3fe0-4ccd-b139-c0f79d849126.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Design Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Web Design"
             }
           }
         ]
