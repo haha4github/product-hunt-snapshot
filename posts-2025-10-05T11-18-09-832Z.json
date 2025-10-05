@@ -1,12 +1,12 @@
 {
-  "fetchedAt": "2025-10-05T10:56:28.799Z",
+  "fetchedAt": "2025-10-05T11:18:09.832Z",
   "posts": [
     {
       "id": "1020143",
       "name": "shadcn CLI 3.0 and MCP Server",
       "tagline": "One command line to add UI components to your project",
       "url": "https://www.producthunt.com/products/shadcn-ui?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 151,
+      "votesCount": 156,
       "commentsCount": 1,
       "createdAt": "2025-10-05T07:01:00Z",
       "thumbnail": {
@@ -32,7 +32,7 @@
       "name": "Plus AI Presentations API",
       "tagline": "Create professional presentations with the Plus AI API",
       "url": "https://www.producthunt.com/products/plus-ai-presentations-api?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 147,
+      "votesCount": 155,
       "commentsCount": 1,
       "createdAt": "2025-10-05T07:01:00Z",
       "thumbnail": {
@@ -63,8 +63,8 @@
       "name": "LangLime",
       "tagline": "A language learning app that doesn’t actually suck",
       "url": "https://www.producthunt.com/products/langlime?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 117,
-      "commentsCount": 7,
+      "votesCount": 119,
+      "commentsCount": 8,
       "createdAt": "2025-10-05T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/38fc2a2c-159d-48e4-b901-e14216039139.png?auto=format"
@@ -90,11 +90,42 @@
       }
     },
     {
+      "id": "1023137",
+      "name": "Scaloom",
+      "tagline": "Reddit Multi-Posting — Publish at once across Subreddits ",
+      "url": "https://www.producthunt.com/products/scaloom-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 116,
+      "commentsCount": 7,
+      "createdAt": "2025-10-05T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/0b59f91a-0349-47ad-9a50-54cf7d623a3f.x-icon?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Social Media"
+            }
+          },
+          {
+            "node": {
+              "name": "Marketing"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1022773",
       "name": "Casio Moflin",
       "tagline": "AI pet that forms real emotional bonds",
       "url": "https://www.producthunt.com/products/casio-moflin?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 114,
+      "votesCount": 115,
       "commentsCount": 2,
       "createdAt": "2025-10-05T07:01:00Z",
       "thumbnail": {
@@ -126,42 +157,11 @@
       }
     },
     {
-      "id": "1023137",
-      "name": "Scaloom",
-      "tagline": "Reddit Multi-Posting — Publish at once across Subreddits ",
-      "url": "https://www.producthunt.com/products/scaloom-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 114,
-      "commentsCount": 7,
-      "createdAt": "2025-10-05T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/0b59f91a-0349-47ad-9a50-54cf7d623a3f.x-icon?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Social Media"
-            }
-          },
-          {
-            "node": {
-              "name": "Marketing"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1022976",
       "name": "Partisyn",
       "tagline": "Tag your setup, share your build.",
       "url": "https://www.producthunt.com/products/partisyn?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 94,
+      "votesCount": 95,
       "commentsCount": 1,
       "createdAt": "2025-10-05T07:01:00Z",
       "thumbnail": {
@@ -410,6 +410,27 @@
       }
     },
     {
+      "id": "1022429",
+      "name": "All Conferences",
+      "tagline": "ProductHunt For Conferences",
+      "url": "https://www.producthunt.com/products/all-conferences?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 3,
+      "commentsCount": 1,
+      "createdAt": "2025-10-05T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/1f047b73-5a27-413d-a8b4-cd06ee47854e.svg?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Events"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1023141",
       "name": "FotoShare AI Photo editor",
       "tagline": "Turn your photos into stunning AI masterpieces",
@@ -440,27 +461,6 @@
           {
             "node": {
               "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1022429",
-      "name": "All Conferences",
-      "tagline": "ProductHunt For Conferences",
-      "url": "https://www.producthunt.com/products/all-conferences?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 3,
-      "commentsCount": 1,
-      "createdAt": "2025-10-05T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/1f047b73-5a27-413d-a8b4-cd06ee47854e.svg?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Events"
             }
           }
         ]
@@ -529,6 +529,37 @@
       }
     },
     {
+      "id": "1023107",
+      "name": "Email-Signature Generator",
+      "tagline": "Generate polished, clickable email signatures in seconds.",
+      "url": "https://www.producthunt.com/products/email-signature-generator-2e80a7ea-4afa-4380-9ae1-2e79c25380aa?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 2,
+      "commentsCount": 1,
+      "createdAt": "2025-10-05T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/10991c7e-01c4-46b1-b0f4-32ff9e11b5ae.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Email"
+            }
+          },
+          {
+            "node": {
+              "name": "Design Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1023135",
       "name": "LabelMob",
       "tagline": "Data annotation marketplace for AI teams – 150+ jobs posted!",
@@ -560,18 +591,23 @@
       }
     },
     {
-      "id": "1022880",
-      "name": "omniai.club",
-      "tagline": "Go to market through content, trust, and brand authority",
-      "url": "https://www.producthunt.com/products/omniai-club?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "id": "1002764",
+      "name": "Kepler Insights for Product Teams",
+      "tagline": "The AI Copilot for product team management & performance.",
+      "url": "https://www.producthunt.com/products/kepler-blueprint?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 2,
       "commentsCount": 1,
       "createdAt": "2025-10-05T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/59a09517-cc2d-4c03-bfe4-944e878b1783.webp?auto=format"
+        "url": "https://ph-files.imgix.net/d8b3dabe-d803-4cbc-ab75-578ee82cb956.gif?auto=format"
       },
       "topics": {
         "edges": [
+          {
+            "node": {
+              "name": "Slack"
+            }
+          },
           {
             "node": {
               "name": "Productivity"
@@ -579,43 +615,7 @@
           },
           {
             "node": {
-              "name": "Marketing"
-            }
-          },
-          {
-            "node": {
               "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1023155",
-      "name": "SyneWear",
-      "tagline": "AI Fashion Discovery Engine",
-      "url": "https://www.producthunt.com/products/synewear-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 2,
-      "commentsCount": 1,
-      "createdAt": "2025-10-05T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/13688caf-995e-465a-8f93-eb0652eab5e7.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Fashion"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          },
-          {
-            "node": {
-              "name": "E-Commerce"
             }
           }
         ]
