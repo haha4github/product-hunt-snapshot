@@ -1,12 +1,12 @@
 {
-  "fetchedAt": "2025-10-05T07:08:17.140Z",
+  "fetchedAt": "2025-10-05T07:25:00.794Z",
   "posts": [
     {
       "id": "1020143",
       "name": "shadcn CLI 3.0 and MCP Server",
       "tagline": "One command line to add UI components to your project",
       "url": "https://www.producthunt.com/products/shadcn-ui?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 62,
+      "votesCount": 84,
       "commentsCount": 1,
       "createdAt": "2025-10-05T07:01:00Z",
       "thumbnail": {
@@ -28,43 +28,12 @@
       }
     },
     {
-      "id": "1023137",
-      "name": "Scaloom",
-      "tagline": "Reddit Multi-Posting — Publish at once across Subreddits ",
-      "url": "https://www.producthunt.com/products/scaloom-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 53,
-      "commentsCount": 1,
-      "createdAt": "2025-10-05T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/0b59f91a-0349-47ad-9a50-54cf7d623a3f.x-icon?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Social Media"
-            }
-          },
-          {
-            "node": {
-              "name": "Marketing"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1020583",
       "name": "LangLime",
       "tagline": "A language learning app that doesn’t actually suck",
       "url": "https://www.producthunt.com/products/langlime?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 52,
-      "commentsCount": 2,
+      "votesCount": 77,
+      "commentsCount": 4,
       "createdAt": "2025-10-05T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/38fc2a2c-159d-48e4-b901-e14216039139.png?auto=format"
@@ -90,42 +59,11 @@
       }
     },
     {
-      "id": "1021664",
-      "name": "Plus AI Presentations API",
-      "tagline": "Create professional presentations with the Plus AI API",
-      "url": "https://www.producthunt.com/products/plus-ai-presentations-api?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 56,
-      "commentsCount": 1,
-      "createdAt": "2025-10-05T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/3756cee0-63c2-4602-975a-110dde63ccb9.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Design Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "API"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1022773",
       "name": "Casio Moflin",
       "tagline": "AI pet that forms real emotional bonds",
       "url": "https://www.producthunt.com/products/casio-moflin?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 6,
+      "votesCount": 76,
       "commentsCount": 1,
       "createdAt": "2025-10-05T07:01:00Z",
       "thumbnail": {
@@ -157,11 +95,73 @@
       }
     },
     {
+      "id": "1023137",
+      "name": "Scaloom",
+      "tagline": "Reddit Multi-Posting — Publish at once across Subreddits ",
+      "url": "https://www.producthunt.com/products/scaloom-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 75,
+      "commentsCount": 1,
+      "createdAt": "2025-10-05T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/0b59f91a-0349-47ad-9a50-54cf7d623a3f.x-icon?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Social Media"
+            }
+          },
+          {
+            "node": {
+              "name": "Marketing"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1021664",
+      "name": "Plus AI Presentations API",
+      "tagline": "Create professional presentations with the Plus AI API",
+      "url": "https://www.producthunt.com/products/plus-ai-presentations-api?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 70,
+      "commentsCount": 1,
+      "createdAt": "2025-10-05T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/3756cee0-63c2-4602-975a-110dde63ccb9.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Design Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "API"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1022976",
       "name": "Partisyn",
       "tagline": "Tag your setup, share your build.",
       "url": "https://www.producthunt.com/products/partisyn?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 51,
+      "votesCount": 56,
       "commentsCount": 1,
       "createdAt": "2025-10-05T07:01:00Z",
       "thumbnail": {
@@ -188,11 +188,42 @@
       }
     },
     {
+      "id": "1020192",
+      "name": "Net30",
+      "tagline": "AI to calculate the best payment method for invoices",
+      "url": "https://www.producthunt.com/products/net30?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 8,
+      "commentsCount": 1,
+      "createdAt": "2025-10-05T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/b21cc3e3-8a09-4dcf-a944-96d65661a28b.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Finance"
+            }
+          },
+          {
+            "node": {
+              "name": "Accounting"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1023150",
       "name": "Nothing Playground",
       "tagline": "Vibe-code your Nothing phone",
       "url": "https://www.producthunt.com/products/nothing-phone-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 6,
+      "votesCount": 7,
       "commentsCount": 1,
       "createdAt": "2025-10-05T07:01:00Z",
       "thumbnail": {
@@ -223,7 +254,7 @@
       "name": "Simple Photo Gallery",
       "tagline": "Beautiful photo galleries in 1 minute",
       "url": "https://www.producthunt.com/products/simple-photo-gallery?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 2,
+      "votesCount": 3,
       "commentsCount": 1,
       "createdAt": "2025-10-05T07:01:00Z",
       "thumbnail": {
@@ -255,42 +286,11 @@
       }
     },
     {
-      "id": "1022869",
-      "name": "X Manager",
-      "tagline": "Manage followers, grow your x account fast",
-      "url": "https://www.producthunt.com/products/x-manager?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 1,
-      "commentsCount": 1,
-      "createdAt": "2025-10-05T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/2c469e41-2dd9-45c8-9996-a3e83d551035.jpeg?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Chrome Extensions"
-            }
-          },
-          {
-            "node": {
-              "name": "Social Media"
-            }
-          },
-          {
-            "node": {
-              "name": "Growth Hacking"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1023141",
       "name": "FotoShare AI Photo editor",
       "tagline": "Turn your photos into stunning AI masterpieces",
       "url": "https://www.producthunt.com/products/fotoshare-ai-photo-editor?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 1,
+      "votesCount": 2,
       "commentsCount": 1,
       "createdAt": "2025-10-05T07:01:00Z",
       "thumbnail": {
@@ -326,7 +326,7 @@
       "name": "All Conferences",
       "tagline": "ProductHunt For Conferences",
       "url": "https://www.producthunt.com/products/all-conferences?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 1,
+      "votesCount": 2,
       "commentsCount": 1,
       "createdAt": "2025-10-05T07:01:00Z",
       "thumbnail": {
@@ -343,42 +343,11 @@
       }
     },
     {
-      "id": "1022872",
-      "name": "BuySaleSigns",
-      "tagline": "Purchase yard sale, garage sale and estate sale signs",
-      "url": "https://www.producthunt.com/products/buysalesigns?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 1,
-      "commentsCount": 1,
-      "createdAt": "2025-10-05T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/e36c0010-4307-4790-99b9-a767b99084b3.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Sales"
-            }
-          },
-          {
-            "node": {
-              "name": "Home"
-            }
-          },
-          {
-            "node": {
-              "name": "Marketing"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1011187",
       "name": "SEOPage.ai",
       "tagline": "Cheat the SEO game! Pro pages, no code, beat rivals!",
       "url": "https://www.producthunt.com/products/seopage-ai-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 1,
+      "votesCount": 2,
       "commentsCount": 0,
       "createdAt": "2025-10-05T07:01:00Z",
       "thumbnail": {
@@ -405,42 +374,11 @@
       }
     },
     {
-      "id": "1022962",
-      "name": "Buildsheet",
-      "tagline": "A simple, drag and drop cheatsheet builder",
-      "url": "https://www.producthunt.com/products/buildsheet?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 1,
-      "commentsCount": 0,
-      "createdAt": "2025-10-05T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/392a0e6d-449f-499e-ad22-878ad898f940.svg?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Education"
-            }
-          },
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1022891",
       "name": "Tigsaw - AI Component Builder",
       "tagline": "Build & Launch Website Section with AI in Minutes",
       "url": "https://www.producthunt.com/products/tigsaw-ai-component-builder?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 1,
+      "votesCount": 2,
       "commentsCount": 0,
       "createdAt": "2025-10-05T07:01:00Z",
       "thumbnail": {
@@ -467,15 +405,15 @@
       }
     },
     {
-      "id": "1020192",
-      "name": "Net30",
-      "tagline": "AI to calculate the best payment method for invoices",
-      "url": "https://www.producthunt.com/products/net30?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 1,
-      "commentsCount": 1,
+      "id": "1022962",
+      "name": "Buildsheet",
+      "tagline": "A simple, drag and drop cheatsheet builder",
+      "url": "https://www.producthunt.com/products/buildsheet?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 2,
+      "commentsCount": 0,
       "createdAt": "2025-10-05T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/b21cc3e3-8a09-4dcf-a944-96d65661a28b.png?auto=format"
+        "url": "https://ph-files.imgix.net/392a0e6d-449f-499e-ad22-878ad898f940.svg?auto=format"
       },
       "topics": {
         "edges": [
@@ -486,12 +424,12 @@
           },
           {
             "node": {
-              "name": "Finance"
+              "name": "Education"
             }
           },
           {
             "node": {
-              "name": "Accounting"
+              "name": "Developer Tools"
             }
           }
         ]
@@ -502,7 +440,7 @@
       "name": "X Auto Reply Assistant-AI-powered",
       "tagline": "Engage smarter,not harder.Generate natural replies inSeconds",
       "url": "https://www.producthunt.com/products/x-auto-reply-assistant-ai-powered?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 1,
+      "votesCount": 2,
       "commentsCount": 3,
       "createdAt": "2025-10-05T07:01:00Z",
       "thumbnail": {
@@ -534,83 +472,83 @@
       }
     },
     {
-      "id": "1022888",
-      "name": "ChatBrow",
-      "tagline": "Web scraping AI Agent with plain English for dynamic webpage",
-      "url": "https://www.producthunt.com/products/chatbrow?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 1,
+      "id": "1022872",
+      "name": "BuySaleSigns",
+      "tagline": "Purchase yard sale, garage sale and estate sale signs",
+      "url": "https://www.producthunt.com/products/buysalesigns?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 2,
       "commentsCount": 1,
       "createdAt": "2025-10-05T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/3edcc841-24c6-466c-b5bc-dc6714dda4fc.png?auto=format"
+        "url": "https://ph-files.imgix.net/e36c0010-4307-4790-99b9-a767b99084b3.png?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "Artificial Intelligence"
+              "name": "Sales"
             }
           },
           {
             "node": {
-              "name": "No-Code"
-            }
-          },
-          {
-            "node": {
-              "name": "Data & Analytics"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1022880",
-      "name": "omniai.club",
-      "tagline": "Go to market through content, trust, and brand authority",
-      "url": "https://www.producthunt.com/products/omniai-club?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 1,
-      "commentsCount": 1,
-      "createdAt": "2025-10-05T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/59a09517-cc2d-4c03-bfe4-944e878b1783.webp?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Productivity"
+              "name": "Home"
             }
           },
           {
             "node": {
               "name": "Marketing"
             }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1023155",
+      "name": "SyneWear",
+      "tagline": "AI Fashion Discovery Engine",
+      "url": "https://www.producthunt.com/products/synewear-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 2,
+      "commentsCount": 1,
+      "createdAt": "2025-10-05T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/13688caf-995e-465a-8f93-eb0652eab5e7.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Fashion"
+            }
           },
           {
             "node": {
               "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "E-Commerce"
             }
           }
         ]
       }
     },
     {
-      "id": "1022823",
-      "name": "creafico.com - AI video analysis",
-      "tagline": "Upload a video → get AI recommendations → grow faster.",
-      "url": "https://www.producthunt.com/products/creafico-com-ai-video-analysis?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 1,
+      "id": "1023109",
+      "name": "Visual Branding System v1.2",
+      "tagline": "The AI Playbook for Brand-Perfect Images",
+      "url": "https://www.producthunt.com/products/visual-branding-system-v1-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 2,
       "commentsCount": 1,
       "createdAt": "2025-10-05T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/7151aa7e-f839-4242-97b1-37c6376daedb.x-icon?auto=format"
+        "url": "https://ph-files.imgix.net/b027a8cd-957b-4aab-933f-6c650562954d.png?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "Instagram"
+              "name": "Design Tools"
             }
           },
           {
@@ -620,7 +558,69 @@
           },
           {
             "node": {
+              "name": "Photography"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1023149",
+      "name": "Perkly for Students",
+      "tagline": "Find Student Discounts & Freebies",
+      "url": "https://www.producthunt.com/products/perkly?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 2,
+      "commentsCount": 1,
+      "createdAt": "2025-10-05T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/8caeab40-b074-4a89-ac84-462b1e3cddc4.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Sales"
+            }
+          },
+          {
+            "node": {
               "name": "Marketing"
+            }
+          },
+          {
+            "node": {
+              "name": "Education"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1022869",
+      "name": "X Manager",
+      "tagline": "Manage followers, grow your x account fast",
+      "url": "https://www.producthunt.com/products/x-manager?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 2,
+      "commentsCount": 1,
+      "createdAt": "2025-10-05T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/2c469e41-2dd9-45c8-9996-a3e83d551035.jpeg?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Chrome Extensions"
+            }
+          },
+          {
+            "node": {
+              "name": "Social Media"
+            }
+          },
+          {
+            "node": {
+              "name": "Growth Hacking"
             }
           }
         ]
