@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2025-10-05T03:55:46.433Z",
+  "fetchedAt": "2025-10-05T04:26:45.078Z",
   "posts": [
     {
       "id": "1022568",
@@ -68,7 +68,7 @@
       "name": "Nuxt UI v4",
       "tagline": "Open-source UI library built with Tailwind CSS",
       "url": "https://www.producthunt.com/products/nuxt-ui?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 213,
+      "votesCount": 214,
       "commentsCount": 2,
       "createdAt": "2025-10-04T07:01:00Z",
       "thumbnail": {
@@ -125,7 +125,7 @@
       "name": "Dolby Vision® 2",
       "tagline": "Go beyond HDR with more AI and ‘authentic motion’ smoothing",
       "url": "https://www.producthunt.com/products/dolby-vision-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 163,
+      "votesCount": 164,
       "commentsCount": 4,
       "createdAt": "2025-10-04T07:01:00Z",
       "thumbnail": {
@@ -213,7 +213,7 @@
       "name": "Ziyo",
       "tagline": "A powerful Japanese Kanji dictionary & search engine",
       "url": "https://www.producthunt.com/products/ziyo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 103,
+      "votesCount": 104,
       "commentsCount": 3,
       "createdAt": "2025-10-04T07:01:00Z",
       "thumbnail": {
@@ -290,7 +290,7 @@
       "name": "Nexion - For Windows & Open Source",
       "tagline": "A cross-platform blockchain Shell Client based on XLayer",
       "url": "https://www.producthunt.com/products/nexion-for-windows-open-source?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 97,
+      "votesCount": 98,
       "commentsCount": 2,
       "createdAt": "2025-10-04T07:01:00Z",
       "thumbnail": {
@@ -321,7 +321,7 @@
       "name": "Snippetly",
       "tagline": "Your snippet vault. Save, organize & share code snippets",
       "url": "https://www.producthunt.com/products/snippetly?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 91,
+      "votesCount": 92,
       "commentsCount": 3,
       "createdAt": "2025-10-04T07:01:00Z",
       "thumbnail": {
@@ -503,6 +503,37 @@
       }
     },
     {
+      "id": "1022531",
+      "name": "World of Maps",
+      "tagline": "A daily globe puzzle: guess the data planet is showing free",
+      "url": "https://www.producthunt.com/products/world-of-maps?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 5,
+      "commentsCount": 1,
+      "createdAt": "2025-10-04T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/2e1ec320-ed4c-4589-9e24-789c7b47619b.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Education"
+            }
+          },
+          {
+            "node": {
+              "name": "Games"
+            }
+          },
+          {
+            "node": {
+              "name": "Online Learning"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1022560",
       "name": "Caffeine Clock",
       "tagline": "The best caffeine tracker that will help you limit caffeine.",
@@ -595,37 +626,6 @@
           {
             "node": {
               "name": "Community"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1022718",
-      "name": "DomNest",
-      "tagline": "Manage all your domains in one dashboard",
-      "url": "https://www.producthunt.com/products/domnest-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 5,
-      "commentsCount": 1,
-      "createdAt": "2025-10-04T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/26082785-854a-4edb-a8e5-fcb4d862fc11.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "SaaS"
-            }
-          },
-          {
-            "node": {
-              "name": "Developer Tools"
             }
           }
         ]
