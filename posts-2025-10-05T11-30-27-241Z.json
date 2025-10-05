@@ -1,38 +1,12 @@
 {
-  "fetchedAt": "2025-10-05T11:18:09.832Z",
+  "fetchedAt": "2025-10-05T11:30:27.241Z",
   "posts": [
-    {
-      "id": "1020143",
-      "name": "shadcn CLI 3.0 and MCP Server",
-      "tagline": "One command line to add UI components to your project",
-      "url": "https://www.producthunt.com/products/shadcn-ui?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 156,
-      "commentsCount": 1,
-      "createdAt": "2025-10-05T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/468c329a-30d2-404f-a484-5ac5f7643f80.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Open Source"
-            }
-          },
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          }
-        ]
-      }
-    },
     {
       "id": "1021664",
       "name": "Plus AI Presentations API",
       "tagline": "Create professional presentations with the Plus AI API",
       "url": "https://www.producthunt.com/products/plus-ai-presentations-api?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 155,
+      "votesCount": 168,
       "commentsCount": 1,
       "createdAt": "2025-10-05T07:01:00Z",
       "thumbnail": {
@@ -59,11 +33,37 @@
       }
     },
     {
+      "id": "1020143",
+      "name": "shadcn CLI 3.0 and MCP Server",
+      "tagline": "One command line to add UI components to your project",
+      "url": "https://www.producthunt.com/products/shadcn-ui?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 163,
+      "commentsCount": 1,
+      "createdAt": "2025-10-05T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/468c329a-30d2-404f-a484-5ac5f7643f80.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Open Source"
+            }
+          },
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1020583",
       "name": "LangLime",
       "tagline": "A language learning app that doesn’t actually suck",
       "url": "https://www.producthunt.com/products/langlime?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 119,
+      "votesCount": 120,
       "commentsCount": 8,
       "createdAt": "2025-10-05T07:01:00Z",
       "thumbnail": {
@@ -94,7 +94,7 @@
       "name": "Scaloom",
       "tagline": "Reddit Multi-Posting — Publish at once across Subreddits ",
       "url": "https://www.producthunt.com/products/scaloom-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 116,
+      "votesCount": 118,
       "commentsCount": 7,
       "createdAt": "2025-10-05T07:01:00Z",
       "thumbnail": {
@@ -157,6 +157,37 @@
       }
     },
     {
+      "id": "1023150",
+      "name": "Nothing Playground",
+      "tagline": "Vibe-code your Nothing phone",
+      "url": "https://www.producthunt.com/products/nothing-phone-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 95,
+      "commentsCount": 2,
+      "createdAt": "2025-10-05T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/81571a82-13b9-4b4d-8b6d-ebb989bb6482.svg?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Hardware"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "Community"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1022976",
       "name": "Partisyn",
       "tagline": "Tag your setup, share your build.",
@@ -182,37 +213,6 @@
           {
             "node": {
               "name": "Tech"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1023150",
-      "name": "Nothing Playground",
-      "tagline": "Vibe-code your Nothing phone",
-      "url": "https://www.producthunt.com/products/nothing-phone-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 94,
-      "commentsCount": 2,
-      "createdAt": "2025-10-05T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/81571a82-13b9-4b4d-8b6d-ebb989bb6482.svg?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Hardware"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          },
-          {
-            "node": {
-              "name": "Community"
             }
           }
         ]
