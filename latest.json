@@ -1,12 +1,12 @@
 {
-  "fetchedAt": "2025-10-05T03:13:16.688Z",
+  "fetchedAt": "2025-10-05T03:43:33.072Z",
   "posts": [
     {
       "id": "1022568",
       "name": "RightNow AI Code Editor",
       "tagline": "The first GPU-native code editor with AI",
       "url": "https://www.producthunt.com/products/rightnow-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 261,
+      "votesCount": 265,
       "commentsCount": 24,
       "createdAt": "2025-10-04T07:01:00Z",
       "thumbnail": {
@@ -37,7 +37,7 @@
       "name": "MailTester.AI",
       "tagline": "Forward an email and get an AI deliverability report in 30s",
       "url": "https://www.producthunt.com/products/mailtester-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 247,
+      "votesCount": 248,
       "commentsCount": 19,
       "createdAt": "2025-10-04T07:01:00Z",
       "thumbnail": {
@@ -68,7 +68,7 @@
       "name": "Nuxt UI v4",
       "tagline": "Open-source UI library built with Tailwind CSS",
       "url": "https://www.producthunt.com/products/nuxt-ui?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 211,
+      "votesCount": 213,
       "commentsCount": 2,
       "createdAt": "2025-10-04T07:01:00Z",
       "thumbnail": {
@@ -94,7 +94,7 @@
       "name": "Spit Notes",
       "tagline": "A songwriting app that keeps your lyrics and audio together",
       "url": "https://www.producthunt.com/products/spit-notes?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 172,
+      "votesCount": 174,
       "commentsCount": 6,
       "createdAt": "2025-10-04T07:01:00Z",
       "thumbnail": {
@@ -245,43 +245,12 @@
       }
     },
     {
-      "id": "1022544",
-      "name": "Nexion - For Windows & Open Source",
-      "tagline": "A cross-platform blockchain Shell Client based on XLayer",
-      "url": "https://www.producthunt.com/products/nexion-for-windows-open-source?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 97,
-      "commentsCount": 2,
-      "createdAt": "2025-10-04T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/ab86e3e4-a91d-49cb-809c-52764c58d6dd.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Open Source"
-            }
-          },
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "GitHub"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1022688",
       "name": "Enhance",
       "tagline": "Turn your new tab into a daily boost of calm + productivity.",
       "url": "https://www.producthunt.com/products/enhance-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 96,
-      "commentsCount": 3,
+      "votesCount": 98,
+      "commentsCount": 4,
       "createdAt": "2025-10-04T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/218b32ba-1d65-4dd7-8ba1-a88e729fac0e.png?auto=format"
@@ -311,6 +280,37 @@
           {
             "node": {
               "name": "Tech"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1022544",
+      "name": "Nexion - For Windows & Open Source",
+      "tagline": "A cross-platform blockchain Shell Client based on XLayer",
+      "url": "https://www.producthunt.com/products/nexion-for-windows-open-source?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 97,
+      "commentsCount": 2,
+      "createdAt": "2025-10-04T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/ab86e3e4-a91d-49cb-809c-52764c58d6dd.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Open Source"
+            }
+          },
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "GitHub"
             }
           }
         ]
