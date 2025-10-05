@@ -1,12 +1,12 @@
 {
-  "fetchedAt": "2025-10-05T08:34:31.648Z",
+  "fetchedAt": "2025-10-05T08:47:04.651Z",
   "posts": [
     {
       "id": "1020143",
       "name": "shadcn CLI 3.0 and MCP Server",
       "tagline": "One command line to add UI components to your project",
       "url": "https://www.producthunt.com/products/shadcn-ui?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 111,
+      "votesCount": 116,
       "commentsCount": 1,
       "createdAt": "2025-10-05T07:01:00Z",
       "thumbnail": {
@@ -32,7 +32,7 @@
       "name": "Plus AI Presentations API",
       "tagline": "Create professional presentations with the Plus AI API",
       "url": "https://www.producthunt.com/products/plus-ai-presentations-api?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 106,
+      "votesCount": 112,
       "commentsCount": 1,
       "createdAt": "2025-10-05T07:01:00Z",
       "thumbnail": {
@@ -48,6 +48,37 @@
           {
             "node": {
               "name": "API"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1020583",
+      "name": "LangLime",
+      "tagline": "A language learning app that doesn’t actually suck",
+      "url": "https://www.producthunt.com/products/langlime?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 105,
+      "commentsCount": 5,
+      "createdAt": "2025-10-05T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/38fc2a2c-159d-48e4-b901-e14216039139.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Education"
+            }
+          },
+          {
+            "node": {
+              "name": "Languages"
             }
           },
           {
@@ -95,42 +126,11 @@
       }
     },
     {
-      "id": "1020583",
-      "name": "LangLime",
-      "tagline": "A language learning app that doesn’t actually suck",
-      "url": "https://www.producthunt.com/products/langlime?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 98,
-      "commentsCount": 5,
-      "createdAt": "2025-10-05T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/38fc2a2c-159d-48e4-b901-e14216039139.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Education"
-            }
-          },
-          {
-            "node": {
-              "name": "Languages"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1023137",
       "name": "Scaloom",
       "tagline": "Reddit Multi-Posting — Publish at once across Subreddits ",
       "url": "https://www.producthunt.com/products/scaloom-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 95,
+      "votesCount": 96,
       "commentsCount": 5,
       "createdAt": "2025-10-05T07:01:00Z",
       "thumbnail": {
@@ -161,7 +161,7 @@
       "name": "Partisyn",
       "tagline": "Tag your setup, share your build.",
       "url": "https://www.producthunt.com/products/partisyn?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 80,
+      "votesCount": 81,
       "commentsCount": 1,
       "createdAt": "2025-10-05T07:01:00Z",
       "thumbnail": {
@@ -192,7 +192,7 @@
       "name": "Nothing Playground",
       "tagline": "Vibe-code your Nothing phone",
       "url": "https://www.producthunt.com/products/nothing-phone-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 61,
+      "votesCount": 67,
       "commentsCount": 1,
       "createdAt": "2025-10-05T07:01:00Z",
       "thumbnail": {
@@ -529,37 +529,6 @@
       }
     },
     {
-      "id": "1022869",
-      "name": "X Manager",
-      "tagline": "Manage followers, grow your x account fast",
-      "url": "https://www.producthunt.com/products/x-manager?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 2,
-      "commentsCount": 1,
-      "createdAt": "2025-10-05T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/2c469e41-2dd9-45c8-9996-a3e83d551035.jpeg?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Chrome Extensions"
-            }
-          },
-          {
-            "node": {
-              "name": "Social Media"
-            }
-          },
-          {
-            "node": {
-              "name": "Growth Hacking"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1023135",
       "name": "LabelMob",
       "tagline": "Data annotation marketplace for AI teams – 150+ jobs posted!",
@@ -585,6 +554,37 @@
           {
             "node": {
               "name": "Tech"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1022869",
+      "name": "X Manager",
+      "tagline": "Manage followers, grow your x account fast",
+      "url": "https://www.producthunt.com/products/x-manager?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 2,
+      "commentsCount": 1,
+      "createdAt": "2025-10-05T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/2c469e41-2dd9-45c8-9996-a3e83d551035.jpeg?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Chrome Extensions"
+            }
+          },
+          {
+            "node": {
+              "name": "Social Media"
+            }
+          },
+          {
+            "node": {
+              "name": "Growth Hacking"
             }
           }
         ]
