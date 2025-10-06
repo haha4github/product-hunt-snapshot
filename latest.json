@@ -1,12 +1,12 @@
 {
-  "fetchedAt": "2025-10-06T14:41:38.949Z",
+  "fetchedAt": "2025-10-06T14:54:21.026Z",
   "posts": [
     {
       "id": "1021486",
       "name": "PromptSignal",
       "tagline": "Monitor your brand’s LLM visibility, and how to improve it",
       "url": "https://www.producthunt.com/products/promptsignal?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 202,
+      "votesCount": 203,
       "commentsCount": 15,
       "createdAt": "2025-10-06T07:01:00Z",
       "thumbnail": {
@@ -37,7 +37,7 @@
       "name": "Fruitful",
       "tagline": "Track competitors instantly. Juicy insights every day.",
       "url": "https://www.producthunt.com/products/fruitful?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 169,
+      "votesCount": 177,
       "commentsCount": 22,
       "createdAt": "2025-10-06T07:01:00Z",
       "thumbnail": {
@@ -89,7 +89,7 @@
       "name": "nibi",
       "tagline": "Run your empire as a freelancer",
       "url": "https://www.producthunt.com/products/nibi?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 129,
+      "votesCount": 131,
       "commentsCount": 10,
       "createdAt": "2025-10-06T07:01:00Z",
       "thumbnail": {
@@ -120,7 +120,7 @@
       "name": "TrueWellness",
       "tagline": "Personalized health & wellness built around you",
       "url": "https://www.producthunt.com/products/truewellness?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 113,
+      "votesCount": 114,
       "commentsCount": 7,
       "createdAt": "2025-10-06T07:01:00Z",
       "thumbnail": {
@@ -178,6 +178,32 @@
       }
     },
     {
+      "id": "1021779",
+      "name": "Sorce",
+      "tagline": "Swipe right to let AI apply on your behalf",
+      "url": "https://www.producthunt.com/products/sorce?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 109,
+      "commentsCount": 11,
+      "createdAt": "2025-10-06T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/6f7ae35f-a106-40f9-a85e-0d6a31032514.jpeg?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "Career"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1023297",
       "name": "Ascend.io",
       "tagline": "Advanced AI for building & running agentic data & workflows",
@@ -203,32 +229,6 @@
           {
             "node": {
               "name": "Data & Analytics"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1021779",
-      "name": "Sorce",
-      "tagline": "Swipe right to let AI apply on your behalf",
-      "url": "https://www.producthunt.com/products/sorce?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 105,
-      "commentsCount": 9,
-      "createdAt": "2025-10-06T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/6f7ae35f-a106-40f9-a85e-0d6a31032514.jpeg?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          },
-          {
-            "node": {
-              "name": "Career"
             }
           }
         ]
@@ -333,7 +333,7 @@
       "tagline": "Make productivity fun, grow a pet, and stay accountable",
       "url": "https://www.producthunt.com/products/dodoo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 51,
-      "commentsCount": 2,
+      "commentsCount": 3,
       "createdAt": "2025-10-06T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/739c637e-9caa-46ab-a4ff-1a4289dfe2db.vnd.microsoft.icon?auto=format"
@@ -390,6 +390,37 @@
       }
     },
     {
+      "id": "1023350",
+      "name": "AI Spaces",
+      "tagline": "Reddit for AI tools",
+      "url": "https://www.producthunt.com/products/ai-spaces?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 20,
+      "commentsCount": 10,
+      "createdAt": "2025-10-06T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/c1eb85fd-a196-4216-b65e-ad089b691794.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "Community"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1022305",
       "name": "SupaRedd",
       "tagline": "Get Customers from Reddit with Human-like AI",
@@ -415,37 +446,6 @@
           {
             "node": {
               "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1023350",
-      "name": "AI Spaces",
-      "tagline": "Reddit for AI tools",
-      "url": "https://www.producthunt.com/products/ai-spaces?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 18,
-      "commentsCount": 10,
-      "createdAt": "2025-10-06T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/c1eb85fd-a196-4216-b65e-ad089b691794.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          },
-          {
-            "node": {
-              "name": "Community"
             }
           }
         ]
@@ -513,7 +513,7 @@
       "name": "See TikTok",
       "tagline": "Watch TikToks without an account or app",
       "url": "https://www.producthunt.com/products/use-tiktok?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 11,
+      "votesCount": 12,
       "commentsCount": 2,
       "createdAt": "2025-10-06T07:01:00Z",
       "thumbnail": {
