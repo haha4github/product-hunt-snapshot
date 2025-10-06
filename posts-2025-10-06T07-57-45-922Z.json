@@ -1,12 +1,12 @@
 {
-  "fetchedAt": "2025-10-06T07:45:29.968Z",
+  "fetchedAt": "2025-10-06T07:57:45.922Z",
   "posts": [
     {
       "id": "1022726",
       "name": "Nook",
       "tagline": "Fast, focused, and open — a new WebKit browser for Mac",
       "url": "https://www.producthunt.com/products/nook-an-open-source-arc-alternative?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 83,
+      "votesCount": 86,
       "commentsCount": 1,
       "createdAt": "2025-10-06T07:01:00Z",
       "thumbnail": {
@@ -37,7 +37,7 @@
       "name": "PromptSignal",
       "tagline": "Monitor your brand’s LLM visibility, and how to improve it",
       "url": "https://www.producthunt.com/products/promptsignal?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 71,
+      "votesCount": 74,
       "commentsCount": 2,
       "createdAt": "2025-10-06T07:01:00Z",
       "thumbnail": {
@@ -68,7 +68,7 @@
       "name": "TimeFly Dev",
       "tagline": "Coding activity tracker for developers",
       "url": "https://www.producthunt.com/products/timefly-dev?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 66,
+      "votesCount": 69,
       "commentsCount": 3,
       "createdAt": "2025-10-06T07:01:00Z",
       "thumbnail": {
@@ -95,42 +95,11 @@
       }
     },
     {
-      "id": "1023244",
-      "name": "nibi",
-      "tagline": "Run your empire as a freelancer",
-      "url": "https://www.producthunt.com/products/nibi?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 64,
-      "commentsCount": 2,
-      "createdAt": "2025-10-06T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/98f86cdc-7fac-47fe-848a-6c23e80d7d8a.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Freelance"
-            }
-          },
-          {
-            "node": {
-              "name": "Accounting"
-            }
-          },
-          {
-            "node": {
-              "name": "Budgeting"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1023357",
       "name": "TrueWellness",
       "tagline": "Personalized health & wellness built around you",
       "url": "https://www.producthunt.com/products/truewellness?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 64,
+      "votesCount": 66,
       "commentsCount": 2,
       "createdAt": "2025-10-06T07:01:00Z",
       "thumbnail": {
@@ -157,33 +126,12 @@
       }
     },
     {
-      "id": "1022038",
-      "name": "Fruitful",
-      "tagline": "Track competitors instantly. Juicy insights every day.",
-      "url": "https://www.producthunt.com/products/fruitful?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 62,
-      "commentsCount": 2,
-      "createdAt": "2025-10-06T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/e1f55e1c-6576-4275-b695-6b8be9de93a8.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1023297",
       "name": "Ascend.io",
       "tagline": "Advanced AI for building & running agentic data & workflows",
       "url": "https://www.producthunt.com/products/ascend-io?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 62,
-      "commentsCount": 3,
+      "votesCount": 65,
+      "commentsCount": 4,
       "createdAt": "2025-10-06T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/0301c85b-9e51-4214-ba60-ebdb7aa1751e.png?auto=format"
@@ -209,11 +157,63 @@
       }
     },
     {
+      "id": "1023244",
+      "name": "nibi",
+      "tagline": "Run your empire as a freelancer",
+      "url": "https://www.producthunt.com/products/nibi?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 65,
+      "commentsCount": 2,
+      "createdAt": "2025-10-06T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/98f86cdc-7fac-47fe-848a-6c23e80d7d8a.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Freelance"
+            }
+          },
+          {
+            "node": {
+              "name": "Accounting"
+            }
+          },
+          {
+            "node": {
+              "name": "Budgeting"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1022038",
+      "name": "Fruitful",
+      "tagline": "Track competitors instantly. Juicy insights every day.",
+      "url": "https://www.producthunt.com/products/fruitful?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 65,
+      "commentsCount": 5,
+      "createdAt": "2025-10-06T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/e1f55e1c-6576-4275-b695-6b8be9de93a8.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1023435",
       "name": "Saveclip",
       "tagline": "The clip camera that remembers your life",
       "url": "https://www.producthunt.com/products/saveclip?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 61,
+      "votesCount": 63,
       "commentsCount": 1,
       "createdAt": "2025-10-06T07:01:00Z",
       "thumbnail": {
@@ -235,37 +235,11 @@
       }
     },
     {
-      "id": "1021779",
-      "name": "Sorce",
-      "tagline": "Swipe right to let AI apply on your behalf",
-      "url": "https://www.producthunt.com/products/sorce?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 57,
-      "commentsCount": 3,
-      "createdAt": "2025-10-06T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/6f7ae35f-a106-40f9-a85e-0d6a31032514.jpeg?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          },
-          {
-            "node": {
-              "name": "Career"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1020393",
       "name": "Anything Max",
       "tagline": "Autonomous software engineer that ships for you",
       "url": "https://www.producthunt.com/products/anything-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 57,
+      "votesCount": 60,
       "commentsCount": 1,
       "createdAt": "2025-10-06T07:01:00Z",
       "thumbnail": {
@@ -292,11 +266,37 @@
       }
     },
     {
+      "id": "1021779",
+      "name": "Sorce",
+      "tagline": "Swipe right to let AI apply on your behalf",
+      "url": "https://www.producthunt.com/products/sorce?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 58,
+      "commentsCount": 3,
+      "createdAt": "2025-10-06T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/6f7ae35f-a106-40f9-a85e-0d6a31032514.jpeg?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "Career"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1023246",
       "name": "DoDoo",
       "tagline": "Make productivity fun, grow a pet, and stay accountable",
       "url": "https://www.producthunt.com/products/dodoo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 15,
+      "votesCount": 22,
       "commentsCount": 2,
       "createdAt": "2025-10-06T07:01:00Z",
       "thumbnail": {
@@ -312,6 +312,37 @@
           {
             "node": {
               "name": "Task Management"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1022305",
+      "name": "SupaRedd",
+      "tagline": "Get Customers from Reddit with Human-like AI",
+      "url": "https://www.producthunt.com/products/suparedd?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 12,
+      "commentsCount": 1,
+      "createdAt": "2025-10-06T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/0af26e39-4d29-4fd9-9edb-a13429cc2bc6.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Marketing"
+            }
+          },
+          {
+            "node": {
+              "name": "SaaS"
             }
           },
           {
@@ -354,42 +385,11 @@
       }
     },
     {
-      "id": "1022305",
-      "name": "SupaRedd",
-      "tagline": "Get Customers from Reddit with Human-like AI",
-      "url": "https://www.producthunt.com/products/suparedd?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 7,
-      "commentsCount": 1,
-      "createdAt": "2025-10-06T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/0af26e39-4d29-4fd9-9edb-a13429cc2bc6.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Marketing"
-            }
-          },
-          {
-            "node": {
-              "name": "SaaS"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1007114",
       "name": "Instict",
       "tagline": "AI interview coach to get you hired",
       "url": "https://www.producthunt.com/products/instict?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 6,
+      "votesCount": 7,
       "commentsCount": 7,
       "createdAt": "2025-10-06T07:01:00Z",
       "thumbnail": {
@@ -420,7 +420,7 @@
       "name": "Ovesio",
       "tagline": "Scale E-Commerce Globally With Multilingual AI",
       "url": "https://www.producthunt.com/products/ovesio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 3,
+      "votesCount": 5,
       "commentsCount": 3,
       "createdAt": "2025-10-06T07:01:00Z",
       "thumbnail": {
@@ -451,7 +451,7 @@
       "name": "See TikTok",
       "tagline": "Watch TikToks without an account or app",
       "url": "https://www.producthunt.com/products/use-tiktok?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 3,
+      "votesCount": 4,
       "commentsCount": 2,
       "createdAt": "2025-10-06T07:01:00Z",
       "thumbnail": {
@@ -509,26 +509,31 @@
       }
     },
     {
-      "id": "1023392",
-      "name": "Fieldwise",
-      "tagline": "Unlock the intelligence trapped in your data.",
-      "url": "https://www.producthunt.com/products/fieldwise?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "id": "1023350",
+      "name": "AI Spaces",
+      "tagline": "Reddit for AI tools",
+      "url": "https://www.producthunt.com/products/ai-spaces?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 2,
       "commentsCount": 1,
       "createdAt": "2025-10-06T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/cdff8195-e8f2-469d-84a6-85490adc0a1c.png?auto=format"
+        "url": "https://ph-files.imgix.net/c1eb85fd-a196-4216-b65e-ad089b691794.png?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "API"
+              "name": "Productivity"
             }
           },
           {
             "node": {
               "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "Community"
             }
           }
         ]
@@ -566,18 +571,23 @@
       }
     },
     {
-      "id": "1022615",
-      "name": "RabbitGraph",
-      "tagline": "Turn ideas into clear diagrams with single AI prompt",
-      "url": "https://www.producthunt.com/products/rabbitgraph?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "id": "1023392",
+      "name": "Fieldwise",
+      "tagline": "Unlock the intelligence trapped in your data.",
+      "url": "https://www.producthunt.com/products/fieldwise?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 2,
       "commentsCount": 1,
       "createdAt": "2025-10-06T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/4c276f8a-60aa-4cfe-9a81-5c1c7a3c7625.png?auto=format"
+        "url": "https://ph-files.imgix.net/cdff8195-e8f2-469d-84a6-85490adc0a1c.png?auto=format"
       },
       "topics": {
         "edges": [
+          {
+            "node": {
+              "name": "API"
+            }
+          },
           {
             "node": {
               "name": "Artificial Intelligence"
