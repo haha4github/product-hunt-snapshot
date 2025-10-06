@@ -1,12 +1,12 @@
 {
-  "fetchedAt": "2025-10-06T09:39:16.476Z",
+  "fetchedAt": "2025-10-06T09:51:47.747Z",
   "posts": [
     {
       "id": "1020393",
       "name": "Anything Max",
       "tagline": "Autonomous software engineer that ships for you",
       "url": "https://www.producthunt.com/products/anything-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 105,
+      "votesCount": 108,
       "commentsCount": 3,
       "createdAt": "2025-10-06T07:01:00Z",
       "thumbnail": {
@@ -37,7 +37,7 @@
       "name": "Nook",
       "tagline": "Fast, focused, and open — a new WebKit browser for Mac",
       "url": "https://www.producthunt.com/products/nook-an-open-source-arc-alternative?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 99,
+      "votesCount": 100,
       "commentsCount": 1,
       "createdAt": "2025-10-06T07:01:00Z",
       "thumbnail": {
@@ -68,7 +68,7 @@
       "name": "PromptSignal",
       "tagline": "Monitor your brand’s LLM visibility, and how to improve it",
       "url": "https://www.producthunt.com/products/promptsignal?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 91,
+      "votesCount": 92,
       "commentsCount": 3,
       "createdAt": "2025-10-06T07:01:00Z",
       "thumbnail": {
@@ -99,8 +99,8 @@
       "name": "Fruitful",
       "tagline": "Track competitors instantly. Juicy insights every day.",
       "url": "https://www.producthunt.com/products/fruitful?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 86,
-      "commentsCount": 6,
+      "votesCount": 89,
+      "commentsCount": 7,
       "createdAt": "2025-10-06T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/e1f55e1c-6576-4275-b695-6b8be9de93a8.png?auto=format"
@@ -120,7 +120,7 @@
       "name": "TimeFly Dev",
       "tagline": "Coding activity tracker for developers",
       "url": "https://www.producthunt.com/products/timefly-dev?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 79,
+      "votesCount": 86,
       "commentsCount": 6,
       "createdAt": "2025-10-06T07:01:00Z",
       "thumbnail": {
@@ -178,11 +178,42 @@
       }
     },
     {
+      "id": "1023357",
+      "name": "TrueWellness",
+      "tagline": "Personalized health & wellness built around you",
+      "url": "https://www.producthunt.com/products/truewellness?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 78,
+      "commentsCount": 3,
+      "createdAt": "2025-10-06T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/049471c1-3bab-4e3f-8bc8-e20bab8ced29.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Health & Fitness"
+            }
+          },
+          {
+            "node": {
+              "name": "Biohacking"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1023297",
       "name": "Ascend.io",
       "tagline": "Advanced AI for building & running agentic data & workflows",
       "url": "https://www.producthunt.com/products/ascend-io?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 77,
+      "votesCount": 78,
       "commentsCount": 4,
       "createdAt": "2025-10-06T07:01:00Z",
       "thumbnail": {
@@ -209,31 +240,26 @@
       }
     },
     {
-      "id": "1023357",
-      "name": "TrueWellness",
-      "tagline": "Personalized health & wellness built around you",
-      "url": "https://www.producthunt.com/products/truewellness?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 76,
-      "commentsCount": 3,
+      "id": "1021779",
+      "name": "Sorce",
+      "tagline": "Swipe right to let AI apply on your behalf",
+      "url": "https://www.producthunt.com/products/sorce?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 73,
+      "commentsCount": 5,
       "createdAt": "2025-10-06T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/049471c1-3bab-4e3f-8bc8-e20bab8ced29.png?auto=format"
+        "url": "https://ph-files.imgix.net/6f7ae35f-a106-40f9-a85e-0d6a31032514.jpeg?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "Health & Fitness"
-            }
-          },
-          {
-            "node": {
-              "name": "Biohacking"
-            }
-          },
-          {
-            "node": {
               "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "Career"
             }
           }
         ]
@@ -265,32 +291,6 @@
           {
             "node": {
               "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1021779",
-      "name": "Sorce",
-      "tagline": "Swipe right to let AI apply on your behalf",
-      "url": "https://www.producthunt.com/products/sorce?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 72,
-      "commentsCount": 5,
-      "createdAt": "2025-10-06T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/6f7ae35f-a106-40f9-a85e-0d6a31032514.jpeg?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          },
-          {
-            "node": {
-              "name": "Career"
             }
           }
         ]
@@ -332,7 +332,7 @@
       "name": "Ovesio",
       "tagline": "Scale E-Commerce Globally With Multilingual AI",
       "url": "https://www.producthunt.com/products/ovesio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 28,
+      "votesCount": 30,
       "commentsCount": 3,
       "createdAt": "2025-10-06T07:01:00Z",
       "thumbnail": {
@@ -425,7 +425,7 @@
       "name": "Flight Mail",
       "tagline": "Send more, spend less!",
       "url": "https://www.producthunt.com/products/flight-v0-1?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 7,
+      "votesCount": 8,
       "commentsCount": 2,
       "createdAt": "2025-10-06T07:01:00Z",
       "thumbnail": {
