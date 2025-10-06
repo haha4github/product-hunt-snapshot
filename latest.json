@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2025-10-06T13:54:48.588Z",
+  "fetchedAt": "2025-10-06T14:22:22.936Z",
   "posts": [
     {
       "id": "1021486",
       "name": "PromptSignal",
       "tagline": "Monitor your brand’s LLM visibility, and how to improve it",
       "url": "https://www.producthunt.com/products/promptsignal?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 184,
-      "commentsCount": 14,
+      "votesCount": 187,
+      "commentsCount": 15,
       "createdAt": "2025-10-06T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/cc9c38fb-402d-4909-b360-2d302f9ca139.png?auto=format"
@@ -33,12 +33,33 @@
       }
     },
     {
+      "id": "1022038",
+      "name": "Fruitful",
+      "tagline": "Track competitors instantly. Juicy insights every day.",
+      "url": "https://www.producthunt.com/products/fruitful?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 155,
+      "commentsCount": 22,
+      "createdAt": "2025-10-06T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/e1f55e1c-6576-4275-b695-6b8be9de93a8.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1023253",
       "name": "TimeFly Dev",
       "tagline": "Coding activity tracker for developers",
       "url": "https://www.producthunt.com/products/timefly-dev?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 149,
-      "commentsCount": 17,
+      "votesCount": 151,
+      "commentsCount": 19,
       "createdAt": "2025-10-06T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/0134ff19-28b1-4fc1-a101-527437c65afb.png?auto=format"
@@ -58,27 +79,6 @@
           {
             "node": {
               "name": "Developer Tools"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1022038",
-      "name": "Fruitful",
-      "tagline": "Track competitors instantly. Juicy insights every day.",
-      "url": "https://www.producthunt.com/products/fruitful?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 148,
-      "commentsCount": 20,
-      "createdAt": "2025-10-06T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/e1f55e1c-6576-4275-b695-6b8be9de93a8.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Artificial Intelligence"
             }
           }
         ]
@@ -120,7 +120,7 @@
       "name": "TrueWellness",
       "tagline": "Personalized health & wellness built around you",
       "url": "https://www.producthunt.com/products/truewellness?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 111,
+      "votesCount": 113,
       "commentsCount": 7,
       "createdAt": "2025-10-06T07:01:00Z",
       "thumbnail": {
@@ -182,8 +182,8 @@
       "name": "Ascend.io",
       "tagline": "Advanced AI for building & running agentic data & workflows",
       "url": "https://www.producthunt.com/products/ascend-io?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 106,
-      "commentsCount": 6,
+      "votesCount": 107,
+      "commentsCount": 7,
       "createdAt": "2025-10-06T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/0301c85b-9e51-4214-ba60-ebdb7aa1751e.png?auto=format"
@@ -213,7 +213,7 @@
       "name": "Sorce",
       "tagline": "Swipe right to let AI apply on your behalf",
       "url": "https://www.producthunt.com/products/sorce?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 101,
+      "votesCount": 102,
       "commentsCount": 9,
       "createdAt": "2025-10-06T07:01:00Z",
       "thumbnail": {
@@ -421,11 +421,42 @@
       }
     },
     {
+      "id": "1023350",
+      "name": "AI Spaces",
+      "tagline": "Reddit for AI tools",
+      "url": "https://www.producthunt.com/products/ai-spaces?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 17,
+      "commentsCount": 10,
+      "createdAt": "2025-10-06T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/c1eb85fd-a196-4216-b65e-ad089b691794.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "Community"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1004734",
       "name": "Flight Mail",
       "tagline": "Send more, spend less!",
       "url": "https://www.producthunt.com/products/flight-v0-1?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 16,
+      "votesCount": 17,
       "commentsCount": 2,
       "createdAt": "2025-10-06T07:01:00Z",
       "thumbnail": {
@@ -451,7 +482,7 @@
       "name": "ByDesign – Design Your Best Life",
       "tagline": "Productivity + Learning + Auto-Scheduling ",
       "url": "https://www.producthunt.com/products/bydesign-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 14,
+      "votesCount": 15,
       "commentsCount": 1,
       "createdAt": "2025-10-06T07:01:00Z",
       "thumbnail": {
@@ -534,37 +565,6 @@
           {
             "node": {
               "name": "Privacy"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1023350",
-      "name": "AI Spaces",
-      "tagline": "Reddit for AI tools",
-      "url": "https://www.producthunt.com/products/ai-spaces?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 10,
-      "commentsCount": 6,
-      "createdAt": "2025-10-06T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/c1eb85fd-a196-4216-b65e-ad089b691794.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          },
-          {
-            "node": {
-              "name": "Community"
             }
           }
         ]
