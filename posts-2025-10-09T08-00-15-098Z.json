@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2025-10-09T07:48:00.225Z",
+  "fetchedAt": "2025-10-09T08:00:15.098Z",
   "posts": [
     {
       "id": "1012210",
       "name": "Tight Studio",
       "tagline": "An AI-native, more powerful Screen Studio",
       "url": "https://www.producthunt.com/products/tight-studio-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 92,
-      "commentsCount": 2,
+      "votesCount": 108,
+      "commentsCount": 3,
       "createdAt": "2025-10-09T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/265b6bf1-5641-4908-a1b9-48beff112c85.png?auto=format"
@@ -37,7 +37,7 @@
       "name": "ElevenLabs UI",
       "tagline": "Open-source components for AI audio & voice agents",
       "url": "https://www.producthunt.com/products/elevenlabs?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 87,
+      "votesCount": 102,
       "commentsCount": 2,
       "createdAt": "2025-10-09T07:01:00Z",
       "thumbnail": {
@@ -64,68 +64,11 @@
       }
     },
     {
-      "id": "1024218",
-      "name": "One Line",
-      "tagline": "Draw it in one continuous line!",
-      "url": "https://www.producthunt.com/products/one-line-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 76,
-      "commentsCount": 3,
-      "createdAt": "2025-10-09T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/a8d06afb-9efd-43d4-8a72-ec468f8debcf.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Free Games"
-            }
-          },
-          {
-            "node": {
-              "name": "Games"
-            }
-          },
-          {
-            "node": {
-              "name": "Drawing"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1020439",
-      "name": "Plural",
-      "tagline": "Your AI-powered control plane for Kubernetes",
-      "url": "https://www.producthunt.com/products/plural-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 75,
-      "commentsCount": 1,
-      "createdAt": "2025-10-09T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/e9cf3c52-1024-4157-97e3-b82228b2e3cd.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1024113",
       "name": "Glue",
       "tagline": "An agentic chat platform for your team, your tools, and AI",
       "url": "https://www.producthunt.com/products/glue-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 74,
+      "votesCount": 85,
       "commentsCount": 9,
       "createdAt": "2025-10-09T07:01:00Z",
       "thumbnail": {
@@ -152,11 +95,94 @@
       }
     },
     {
+      "id": "1020439",
+      "name": "Plural",
+      "tagline": "Your AI-powered control plane for Kubernetes",
+      "url": "https://www.producthunt.com/products/plural-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 82,
+      "commentsCount": 1,
+      "createdAt": "2025-10-09T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/e9cf3c52-1024-4157-97e3-b82228b2e3cd.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1024218",
+      "name": "One Line",
+      "tagline": "Draw it in one continuous line!",
+      "url": "https://www.producthunt.com/products/one-line-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 82,
+      "commentsCount": 3,
+      "createdAt": "2025-10-09T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/a8d06afb-9efd-43d4-8a72-ec468f8debcf.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Free Games"
+            }
+          },
+          {
+            "node": {
+              "name": "Games"
+            }
+          },
+          {
+            "node": {
+              "name": "Drawing"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1024456",
+      "name": "Heroku Vibes",
+      "tagline": "Your Collaborative Agent For Turning Ideas to Apps",
+      "url": "https://www.producthunt.com/products/heroku?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 78,
+      "commentsCount": 0,
+      "createdAt": "2025-10-09T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/0951e870-98d0-40ab-b502-ce7c8c9e1754.webp?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "SaaS"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1024554",
       "name": "Tasklet",
       "tagline": "Automate your business with AI agents",
       "url": "https://www.producthunt.com/products/tasklet?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 69,
+      "votesCount": 78,
       "commentsCount": 1,
       "createdAt": "2025-10-09T07:01:00Z",
       "thumbnail": {
@@ -183,26 +209,31 @@
       }
     },
     {
-      "id": "1024456",
-      "name": "Heroku Vibes",
-      "tagline": "Your Collaborative Agent For Turning Ideas to Apps",
-      "url": "https://www.producthunt.com/products/heroku?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 66,
-      "commentsCount": 0,
+      "id": "968996",
+      "name": "Nyra AI ",
+      "tagline": "The AI Growth Stack for Founders",
+      "url": "https://www.producthunt.com/products/nyra-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 76,
+      "commentsCount": 1,
       "createdAt": "2025-10-09T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/0951e870-98d0-40ab-b502-ce7c8c9e1754.webp?auto=format"
+        "url": "https://ph-files.imgix.net/a61d6d3f-00c3-4e9e-8455-db19c6037571.png?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "SaaS"
+              "name": "Marketing"
             }
           },
           {
             "node": {
-              "name": "Artificial Intelligence"
+              "name": "Advertising"
+            }
+          },
+          {
+            "node": {
+              "name": "Marketing automation"
             }
           }
         ]
@@ -213,7 +244,7 @@
       "name": "Stencil by SUPERHANDS",
       "tagline": "The Copy & Paste tool that vibe coding is missing",
       "url": "https://www.producthunt.com/products/stencil-by-superhands?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 65,
+      "votesCount": 72,
       "commentsCount": 1,
       "createdAt": "2025-10-09T07:01:00Z",
       "thumbnail": {
@@ -240,18 +271,23 @@
       }
     },
     {
-      "id": "968996",
-      "name": "Nyra AI ",
-      "tagline": "The AI Growth Stack for Founders",
-      "url": "https://www.producthunt.com/products/nyra-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 63,
+      "id": "1024568",
+      "name": "NatAgent",
+      "tagline": "AI data extraction & monitoring agent",
+      "url": "https://www.producthunt.com/products/natagent-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 8,
       "commentsCount": 1,
       "createdAt": "2025-10-09T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/a61d6d3f-00c3-4e9e-8455-db19c6037571.png?auto=format"
+        "url": "https://ph-files.imgix.net/2a727fe8-58fb-4cce-958c-7d4ac002ea85.png?auto=format"
       },
       "topics": {
         "edges": [
+          {
+            "node": {
+              "name": "Analytics"
+            }
+          },
           {
             "node": {
               "name": "Marketing"
@@ -259,12 +295,69 @@
           },
           {
             "node": {
-              "name": "Advertising"
+              "name": "SaaS"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1024209",
+      "name": "Magic Studio",
+      "tagline": "Ideas to art, in seconds. World's easiest AI art generator.",
+      "url": "https://www.producthunt.com/products/magic-studio-ai-art-generator?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 8,
+      "commentsCount": 1,
+      "createdAt": "2025-10-09T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/a87a1202-5ca4-44d9-a9bf-7544f5c94b05.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Design Tools"
             }
           },
           {
             "node": {
-              "name": "Marketing automation"
+              "name": "Art"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1021502",
+      "name": "NuggetFinder",
+      "tagline": "Claim Validated Startup Ideas: Timing + Demand + Tech",
+      "url": "https://www.producthunt.com/products/nuggetfinder?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 8,
+      "commentsCount": 1,
+      "createdAt": "2025-10-09T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/6297cd4e-9e04-43e1-9f21-505f123bd63e.x-icon?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Tech"
+            }
+          },
+          {
+            "node": {
+              "name": "Startup Lessons"
+            }
+          },
+          {
+            "node": {
+              "name": "Business Intelligence"
             }
           }
         ]
@@ -302,62 +395,21 @@
       }
     },
     {
-      "id": "1024568",
-      "name": "NatAgent",
-      "tagline": "AI data extraction & monitoring agent",
-      "url": "https://www.producthunt.com/products/natagent-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 7,
+      "id": "1024484",
+      "name": "Grok Imagine v0.9",
+      "tagline": "AI-powered cinematic video & audio creation",
+      "url": "https://www.producthunt.com/products/grok-com-beta?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 6,
       "commentsCount": 1,
       "createdAt": "2025-10-09T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/2a727fe8-58fb-4cce-958c-7d4ac002ea85.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Analytics"
-            }
-          },
-          {
-            "node": {
-              "name": "Marketing"
-            }
-          },
-          {
-            "node": {
-              "name": "SaaS"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1024209",
-      "name": "Magic Studio",
-      "tagline": "Ideas to art, in seconds. World's easiest AI art generator.",
-      "url": "https://www.producthunt.com/products/magic-studio-ai-art-generator?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 7,
-      "commentsCount": 1,
-      "createdAt": "2025-10-09T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/a87a1202-5ca4-44d9-a9bf-7544f5c94b05.png?auto=format"
+        "url": "https://ph-files.imgix.net/95cd1618-2511-4f42-b24b-f01e3ca60db4.jpeg?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
               "name": "Design Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Art"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
             }
           }
         ]
@@ -395,27 +447,6 @@
       }
     },
     {
-      "id": "1024484",
-      "name": "Grok Imagine v0.9",
-      "tagline": "AI-powered cinematic video & audio creation",
-      "url": "https://www.producthunt.com/products/grok-com-beta?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 6,
-      "commentsCount": 1,
-      "createdAt": "2025-10-09T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/95cd1618-2511-4f42-b24b-f01e3ca60db4.jpeg?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Design Tools"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1024244",
       "name": "Glissy",
       "tagline": "Create, share & discover Nail Art",
@@ -442,43 +473,12 @@
       }
     },
     {
-      "id": "1021502",
-      "name": "NuggetFinder",
-      "tagline": "Claim Validated Startup Ideas: Timing + Demand + Tech",
-      "url": "https://www.producthunt.com/products/nuggetfinder?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 6,
-      "commentsCount": 1,
-      "createdAt": "2025-10-09T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/6297cd4e-9e04-43e1-9f21-505f123bd63e.x-icon?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Tech"
-            }
-          },
-          {
-            "node": {
-              "name": "Startup Lessons"
-            }
-          },
-          {
-            "node": {
-              "name": "Business Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1022093",
       "name": "Brainerr",
       "tagline": "Let's Cut Screen Time This Week",
       "url": "https://www.producthunt.com/products/brainerr?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 4,
-      "commentsCount": 5,
+      "votesCount": 5,
+      "commentsCount": 6,
       "createdAt": "2025-10-09T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/606d75ac-44d5-4997-9824-2fd8d70168fd.png?auto=format"
