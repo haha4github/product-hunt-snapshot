@@ -1,12 +1,12 @@
 {
-  "fetchedAt": "2025-10-09T20:29:19.476Z",
+  "fetchedAt": "2025-10-09T20:44:15.914Z",
   "posts": [
     {
       "id": "1012210",
       "name": "Tight Studio",
       "tagline": "An AI-native, more powerful Screen Studio",
       "url": "https://www.producthunt.com/products/tight-studio-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 344,
+      "votesCount": 346,
       "commentsCount": 47,
       "createdAt": "2025-10-09T07:01:00Z",
       "thumbnail": {
@@ -68,7 +68,7 @@
       "name": "Plural",
       "tagline": "Your AI-powered control plane for Kubernetes",
       "url": "https://www.producthunt.com/products/plural-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 260,
+      "votesCount": 263,
       "commentsCount": 9,
       "createdAt": "2025-10-09T07:01:00Z",
       "thumbnail": {
@@ -94,7 +94,7 @@
       "name": "Glue",
       "tagline": "Agentic team chat that turns talk into action",
       "url": "https://www.producthunt.com/products/glue-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 209,
+      "votesCount": 210,
       "commentsCount": 31,
       "createdAt": "2025-10-09T07:01:00Z",
       "thumbnail": {
@@ -245,6 +245,32 @@
       }
     },
     {
+      "id": "1024468",
+      "name": "Agent Runners",
+      "tagline": "Build and ship with Claude Code, Codex, Gemini in Netlify ",
+      "url": "https://www.producthunt.com/products/netlify?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 129,
+      "commentsCount": 10,
+      "createdAt": "2025-10-09T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/76ab59d2-551c-4775-a162-f8490956d66f.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1024454",
       "name": "Launchie",
       "tagline": "The launchpad replacement for MacOS 26 to find all your apps",
@@ -270,32 +296,6 @@
           {
             "node": {
               "name": "Apple"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1024468",
-      "name": "Agent Runners",
-      "tagline": "Build and ship with Claude Code, Codex, Gemini in Netlify ",
-      "url": "https://www.producthunt.com/products/netlify?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 126,
-      "commentsCount": 10,
-      "createdAt": "2025-10-09T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/76ab59d2-551c-4775-a162-f8490956d66f.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
             }
           }
         ]
