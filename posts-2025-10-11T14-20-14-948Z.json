@@ -1,12 +1,12 @@
 {
-  "fetchedAt": "2025-10-11T13:56:10.097Z",
+  "fetchedAt": "2025-10-11T14:20:14.948Z",
   "posts": [
     {
       "id": "1024524",
       "name": "Google AI Studio",
       "tagline": "Now you can vibe code with your voice",
       "url": "https://www.producthunt.com/products/google-ai-studio-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 215,
+      "votesCount": 223,
       "commentsCount": 3,
       "createdAt": "2025-10-11T07:01:00Z",
       "thumbnail": {
@@ -37,7 +37,7 @@
       "name": "JustPaid",
       "tagline": "Autonomous AI for billing, contracts, and collections.",
       "url": "https://www.producthunt.com/products/justpaid?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 158,
+      "votesCount": 160,
       "commentsCount": 1,
       "createdAt": "2025-10-11T07:01:00Z",
       "thumbnail": {
@@ -188,6 +188,32 @@
       }
     },
     {
+      "id": "1025171",
+      "name": "FluxTranslate — LLM Inline Translator",
+      "tagline": "Translate web pages in context - instantly, and naturally.",
+      "url": "https://www.producthunt.com/products/fluxtranslate-llm-inline-translator?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 21,
+      "commentsCount": 1,
+      "createdAt": "2025-10-11T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/cb265f80-459f-457e-be48-2863aa237476.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Chrome Extensions"
+            }
+          },
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1021434",
       "name": "Votice: Feedback Manager",
       "tagline": "Receive suggestions and issues from your Apple apps.",
@@ -281,26 +307,31 @@
       }
     },
     {
-      "id": "1025171",
-      "name": "FluxTranslate — LLM Inline Translator",
-      "tagline": "Translate web pages in context - instantly, and naturally.",
-      "url": "https://www.producthunt.com/products/fluxtranslate-llm-inline-translator?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "id": "1025330",
+      "name": "PostSmithAI — AI-Powered LinkedIn Posts",
+      "tagline": "Write authentic LinkedIn posts & comments using AI",
+      "url": "https://www.producthunt.com/products/postsmithai-ai-powered-linkedin-posts?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 9,
       "commentsCount": 1,
       "createdAt": "2025-10-11T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/cb265f80-459f-457e-be48-2863aa237476.png?auto=format"
+        "url": "https://ph-files.imgix.net/6a9a2007-fc89-4115-ad04-4855e57d8a9a.svg?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "Chrome Extensions"
+              "name": "Writing"
             }
           },
           {
             "node": {
-              "name": "Productivity"
+              "name": "Marketing"
+            }
+          },
+          {
+            "node": {
+              "name": "LinkedIn"
             }
           }
         ]
@@ -332,37 +363,6 @@
           {
             "node": {
               "name": "Travel"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1025330",
-      "name": "PostSmithAI — AI-Powered LinkedIn Posts",
-      "tagline": "Write authentic LinkedIn posts & comments using AI",
-      "url": "https://www.producthunt.com/products/postsmithai-ai-powered-linkedin-posts?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 9,
-      "commentsCount": 1,
-      "createdAt": "2025-10-11T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/6a9a2007-fc89-4115-ad04-4855e57d8a9a.svg?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Writing"
-            }
-          },
-          {
-            "node": {
-              "name": "Marketing"
-            }
-          },
-          {
-            "node": {
-              "name": "LinkedIn"
             }
           }
         ]
