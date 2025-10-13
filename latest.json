@@ -1,12 +1,12 @@
 {
-  "fetchedAt": "2025-10-13T10:47:11.548Z",
+  "fetchedAt": "2025-10-13T10:59:31.752Z",
   "posts": [
     {
       "id": "1022691",
       "name": "Traycer AI",
       "tagline": "Plan-first AI coding for real codebases",
       "url": "https://www.producthunt.com/products/traycer-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 164,
+      "votesCount": 166,
       "commentsCount": 9,
       "createdAt": "2025-10-13T07:01:00Z",
       "thumbnail": {
@@ -63,7 +63,7 @@
       "name": "Trupeer: Knowledge Base with AI Search",
       "tagline": "Your knowledge hub, with AI video search.",
       "url": "https://www.producthunt.com/products/trupeer?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 136,
+      "votesCount": 138,
       "commentsCount": 2,
       "createdAt": "2025-10-13T07:01:00Z",
       "thumbnail": {
@@ -94,8 +94,8 @@
       "name": "Plane",
       "tagline": "AI-native project management for every team across your org",
       "url": "https://www.producthunt.com/products/planehq?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 131,
-      "commentsCount": 13,
+      "votesCount": 132,
+      "commentsCount": 17,
       "createdAt": "2025-10-13T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/aab5744a-c692-4177-b14c-15dfa5dd8b6b.png?auto=format"
@@ -156,7 +156,7 @@
       "name": "SigmaMind AI",
       "tagline": "Build enterprise-ready voice/chat AI agents",
       "url": "https://www.producthunt.com/products/sigma-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 108,
+      "votesCount": 110,
       "commentsCount": 7,
       "createdAt": "2025-10-13T07:01:00Z",
       "thumbnail": {
@@ -249,7 +249,7 @@
       "name": "InputLock",
       "tagline": "Lock your input method(IME) on macOS",
       "url": "https://www.producthunt.com/products/inputlock?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 92,
+      "votesCount": 93,
       "commentsCount": 3,
       "createdAt": "2025-10-13T07:01:00Z",
       "thumbnail": {
@@ -280,7 +280,7 @@
       "name": "SalesEcho",
       "tagline": "Real-time AI Sales Call Assistant 📞",
       "url": "https://www.producthunt.com/products/salesecho?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 58,
+      "votesCount": 59,
       "commentsCount": 1,
       "createdAt": "2025-10-13T07:01:00Z",
       "thumbnail": {
@@ -399,7 +399,7 @@
       "name": "myNeutron",
       "tagline": "Portable memory that follows you across AI chats.",
       "url": "https://www.producthunt.com/products/myneutron?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 12,
+      "votesCount": 13,
       "commentsCount": 1,
       "createdAt": "2025-10-13T07:01:00Z",
       "thumbnail": {
@@ -488,37 +488,6 @@
       }
     },
     {
-      "id": "1023725",
-      "name": "Cue Wealth",
-      "tagline": "AI-powered money Coach",
-      "url": "https://www.producthunt.com/products/cue-wealth?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 9,
-      "commentsCount": 1,
-      "createdAt": "2025-10-13T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/6db39faf-4011-4307-81e4-e647f8f360bb.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          },
-          {
-            "node": {
-              "name": "Personal Finance"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1025186",
       "name": "Block Editor",
       "tagline": "Visual Page Builder with real code",
@@ -544,6 +513,37 @@
           {
             "node": {
               "name": "Developer Tools"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1023725",
+      "name": "Cue Wealth",
+      "tagline": "AI-powered money Coach",
+      "url": "https://www.producthunt.com/products/cue-wealth?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 9,
+      "commentsCount": 1,
+      "createdAt": "2025-10-13T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/6db39faf-4011-4307-81e4-e647f8f360bb.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "Personal Finance"
             }
           }
         ]
