@@ -1,74 +1,12 @@
 {
-  "fetchedAt": "2025-10-13T07:54:22.905Z",
+  "fetchedAt": "2025-10-13T08:32:12.006Z",
   "posts": [
-    {
-      "id": "1025617",
-      "name": "Trupeer",
-      "tagline": "Your knowledge hub, with AI video search.",
-      "url": "https://www.producthunt.com/products/trupeer?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 95,
-      "commentsCount": 2,
-      "createdAt": "2025-10-13T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/56ce04f3-25ab-4334-a299-fbe0d904cec7.jpeg?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          },
-          {
-            "node": {
-              "name": "Search"
-            }
-          },
-          {
-            "node": {
-              "name": "Video"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1009527",
-      "name": "Replyke",
-      "tagline": "API & components for comments, feeds, notifications & more",
-      "url": "https://www.producthunt.com/products/replyke?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 92,
-      "commentsCount": 1,
-      "createdAt": "2025-10-13T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/3a990de0-ed56-4aa4-b7e7-a955cf2e1742.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Open Source"
-            }
-          },
-          {
-            "node": {
-              "name": "Software Engineering"
-            }
-          },
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          }
-        ]
-      }
-    },
     {
       "id": "1022691",
       "name": "Traycer AI",
       "tagline": "Plan-first AI coding for real codebases",
       "url": "https://www.producthunt.com/products/traycer-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 90,
+      "votesCount": 113,
       "commentsCount": 1,
       "createdAt": "2025-10-13T07:01:00Z",
       "thumbnail": {
@@ -95,12 +33,43 @@
       }
     },
     {
+      "id": "1025617",
+      "name": "Trupeer",
+      "tagline": "Your knowledge hub, with AI video search.",
+      "url": "https://www.producthunt.com/products/trupeer?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 104,
+      "commentsCount": 2,
+      "createdAt": "2025-10-13T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/56ce04f3-25ab-4334-a299-fbe0d904cec7.jpeg?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "Search"
+            }
+          },
+          {
+            "node": {
+              "name": "Video"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1025988",
       "name": "Orchids",
       "tagline": "The AI Full Stack Engineer",
       "url": "https://www.producthunt.com/products/orchids?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 88,
-      "commentsCount": 1,
+      "votesCount": 99,
+      "commentsCount": 3,
       "createdAt": "2025-10-13T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/6787bb75-b884-4b67-bb4f-a672d9d733f7.png?auto=format"
@@ -121,12 +90,43 @@
       }
     },
     {
+      "id": "1009527",
+      "name": "Replyke",
+      "tagline": "API & components for comments, feeds, notifications & more",
+      "url": "https://www.producthunt.com/products/replyke?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 99,
+      "commentsCount": 3,
+      "createdAt": "2025-10-13T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/3a990de0-ed56-4aa4-b7e7-a955cf2e1742.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Open Source"
+            }
+          },
+          {
+            "node": {
+              "name": "Software Engineering"
+            }
+          },
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1021813",
       "name": "SigmaMind AI",
       "tagline": "Build enterprise-ready voice/chat AI agents",
       "url": "https://www.producthunt.com/products/sigma-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 78,
-      "commentsCount": 7,
+      "votesCount": 86,
+      "commentsCount": 8,
       "createdAt": "2025-10-13T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/b02e8e0f-687d-4a3f-b071-b1ac027e5d35.png?auto=format"
@@ -156,8 +156,8 @@
       "name": "Celaro",
       "tagline": "The Creative Project Tracker",
       "url": "https://www.producthunt.com/products/celaro?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 74,
-      "commentsCount": 1,
+      "votesCount": 83,
+      "commentsCount": 2,
       "createdAt": "2025-10-13T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/4739c067-c756-4f56-bfa9-e5351aa4024d.png?auto=format"
@@ -187,7 +187,7 @@
       "name": "Bloxie",
       "tagline": "Regain control over your life",
       "url": "https://www.producthunt.com/products/bloxie?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 70,
+      "votesCount": 76,
       "commentsCount": 1,
       "createdAt": "2025-10-13T07:01:00Z",
       "thumbnail": {
@@ -218,7 +218,7 @@
       "name": "InputLock",
       "tagline": "Lock your input method(IME) on macOS",
       "url": "https://www.producthunt.com/products/inputlock?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 67,
+      "votesCount": 75,
       "commentsCount": 1,
       "createdAt": "2025-10-13T07:01:00Z",
       "thumbnail": {
@@ -245,31 +245,26 @@
       }
     },
     {
-      "id": "1024426",
-      "name": "MCP360",
-      "tagline": "Unified MCP Hub for AI Agents",
-      "url": "https://www.producthunt.com/products/mcp360?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 20,
-      "commentsCount": 6,
+      "id": "1022012",
+      "name": "SalesEcho",
+      "tagline": "Real-time AI Sales Call Assistant 📞",
+      "url": "https://www.producthunt.com/products/salesecho?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 39,
+      "commentsCount": 1,
       "createdAt": "2025-10-13T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/84733eaf-d93f-499b-a467-d47d07198df6.png?auto=format"
+        "url": "https://ph-files.imgix.net/fc953387-7dad-474c-bc97-40ab1e6f026d.png?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "Productivity"
+              "name": "Sales"
             }
           },
           {
             "node": {
-              "name": "Artificial Intelligence"
-            }
-          },
-          {
-            "node": {
-              "name": "Tech"
+              "name": "Marketing"
             }
           }
         ]
@@ -280,8 +275,8 @@
       "name": "Plane",
       "tagline": "AI-native project management for every team across your org",
       "url": "https://www.producthunt.com/products/planehq?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 19,
-      "commentsCount": 2,
+      "votesCount": 26,
+      "commentsCount": 3,
       "createdAt": "2025-10-13T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/aab5744a-c692-4177-b14c-15dfa5dd8b6b.png?auto=format"
@@ -307,41 +302,15 @@
       }
     },
     {
-      "id": "1022012",
-      "name": "SalesEcho",
-      "tagline": "Real-time AI Sales Call Assistant 📞",
-      "url": "https://www.producthunt.com/products/salesecho?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 10,
-      "commentsCount": 1,
+      "id": "1024426",
+      "name": "MCP360",
+      "tagline": "App Store for AI Agents",
+      "url": "https://www.producthunt.com/products/mcp360?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 26,
+      "commentsCount": 7,
       "createdAt": "2025-10-13T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/fc953387-7dad-474c-bc97-40ab1e6f026d.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Sales"
-            }
-          },
-          {
-            "node": {
-              "name": "Marketing"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1026002",
-      "name": "ColorMe.ai：AI Coloring Page Generator",
-      "tagline": "Turn photos & text into printable coloring pages",
-      "url": "https://www.producthunt.com/products/colorme-ai-ai-coloring-page-generator?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 7,
-      "commentsCount": 1,
-      "createdAt": "2025-10-13T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/9ad3bfa6-3f65-4d04-aab9-82cfdb8352a0.png?auto=format"
+        "url": "https://ph-files.imgix.net/84733eaf-d93f-499b-a467-d47d07198df6.png?auto=format"
       },
       "topics": {
         "edges": [
@@ -357,38 +326,38 @@
           },
           {
             "node": {
-              "name": "Coloring"
+              "name": "Tech"
             }
           }
         ]
       }
     },
     {
-      "id": "1025805",
-      "name": "Breadboard",
-      "tagline": "Vibe coding visually on Figma-like canvas",
-      "url": "https://www.producthunt.com/products/breadboard?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 7,
+      "id": "1025912",
+      "name": "Broken link checker",
+      "tagline": "Check broken links on any website in seconds",
+      "url": "https://www.producthunt.com/products/broken-link-checker?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 10,
       "commentsCount": 1,
       "createdAt": "2025-10-13T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/c41b8c5a-7295-4cc1-a622-1ed2039db887.png?auto=format"
+        "url": "https://ph-files.imgix.net/aaf65ac9-d8c8-49f4-b05c-d017b38131ed.png?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "Prototyping"
+              "name": "Chrome Extensions"
+            }
+          },
+          {
+            "node": {
+              "name": "SEO"
             }
           },
           {
             "node": {
               "name": "Developer Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Vibe coding"
             }
           }
         ]
@@ -426,95 +395,12 @@
       }
     },
     {
-      "id": "1025863",
-      "name": "MyAgeCalc",
-      "tagline": "Age calculator",
-      "url": "https://www.producthunt.com/products/myagecalc?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 7,
-      "commentsCount": 1,
-      "createdAt": "2025-10-13T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/856e6056-20f9-4965-b2c3-7f5a6b596fd3.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Lifestyle"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1025555",
-      "name": "Cashual",
-      "tagline": "Money, made simple.",
-      "url": "https://www.producthunt.com/products/cashual-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 7,
-      "commentsCount": 1,
-      "createdAt": "2025-10-13T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/38e4e013-5c99-4b6f-a7cd-0201fa1fdf66.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Fintech"
-            }
-          },
-          {
-            "node": {
-              "name": "Money"
-            }
-          },
-          {
-            "node": {
-              "name": "Personal Finance"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1023537",
-      "name": "TavernSprite",
-      "tagline": "Expressions for SillyTavern Characters",
-      "url": "https://www.producthunt.com/products/tavernsprite?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 7,
-      "commentsCount": 1,
-      "createdAt": "2025-10-13T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/04e57f29-77d2-492c-992f-4ec62d7a85df.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "RPGs"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          },
-          {
-            "node": {
-              "name": "Tech"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1023210",
       "name": "Linktree Custom Domains by Cloakist",
       "tagline": "Transform Your Linktree into a Professional Brand Asset",
       "url": "https://www.producthunt.com/products/linktree-custom-domains-by-cloakist?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 7,
-      "commentsCount": 1,
+      "votesCount": 8,
+      "commentsCount": 2,
       "createdAt": "2025-10-13T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/87e1cccd-88ce-49c7-a31a-bc839f5996b4.png?auto=format"
@@ -540,21 +426,21 @@
       }
     },
     {
-      "id": "1025953",
-      "name": "@YarpBot Agent",
-      "tagline": "An AI Agent In Your Twitch Chat",
-      "url": "https://www.producthunt.com/products/yarpbot?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "id": "1026002",
+      "name": "ColorMe.ai：AI Coloring Page Generator",
+      "tagline": "Turn photos & text into printable coloring pages",
+      "url": "https://www.producthunt.com/products/colorme-ai-ai-coloring-page-generator?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 7,
       "commentsCount": 1,
       "createdAt": "2025-10-13T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/a87ebee5-0e22-43a5-ba10-fb34babafbfb.gif?auto=format"
+        "url": "https://ph-files.imgix.net/9ad3bfa6-3f65-4d04-aab9-82cfdb8352a0.png?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "Video Streaming"
+              "name": "Productivity"
             }
           },
           {
@@ -564,28 +450,28 @@
           },
           {
             "node": {
-              "name": "Bots"
+              "name": "Coloring"
             }
           }
         ]
       }
     },
     {
-      "id": "1025950",
-      "name": "MyRemodelerAI.com",
-      "tagline": "Transform any space into a stunning design instantly with AI",
-      "url": "https://www.producthunt.com/products/myremodelerai-com?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "id": "1025971",
+      "name": "Runtric AI",
+      "tagline": "Learn to Code With Your Personal AI Tutor",
+      "url": "https://www.producthunt.com/products/runtric-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 7,
       "commentsCount": 1,
       "createdAt": "2025-10-13T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/8e109556-933d-4e66-ac6c-c1fc1c64cdd2.png?auto=format"
+        "url": "https://ph-files.imgix.net/cfa06417-5040-4e90-ad5f-415e1a9258a0.svg?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "Design Tools"
+              "name": "Education"
             }
           },
           {
@@ -595,7 +481,121 @@
           },
           {
             "node": {
-              "name": "Home improvement"
+              "name": "Online Learning"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1025805",
+      "name": "Breadboard",
+      "tagline": "Vibe coding visually on Figma-like canvas",
+      "url": "https://www.producthunt.com/products/breadboard?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 7,
+      "commentsCount": 1,
+      "createdAt": "2025-10-13T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/c41b8c5a-7295-4cc1-a622-1ed2039db887.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Prototyping"
+            }
+          },
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Vibe coding"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1017250",
+      "name": "Analyzer",
+      "tagline": "Crypto trading analysis on Autopilot",
+      "url": "https://www.producthunt.com/products/analyzer?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 7,
+      "commentsCount": 3,
+      "createdAt": "2025-10-13T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/7d3bd3cb-f2e5-43b2-b562-2b1b3c37b1d9.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Crypto"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "Web3"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1025832",
+      "name": "GenZai",
+      "tagline": "Prompt To Product",
+      "url": "https://www.producthunt.com/products/genzai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 7,
+      "commentsCount": 4,
+      "createdAt": "2025-10-13T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/3db5a0bf-3943-4c76-843d-698ec44f779c.jpeg?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1025622",
+      "name": "UpiKar",
+      "tagline": "Collect UPI Payments Instantly By UpiKar",
+      "url": "https://www.producthunt.com/products/upikar?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 7,
+      "commentsCount": 1,
+      "createdAt": "2025-10-13T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/47953b9b-6eba-439b-bb11-1e90d4043e10.vnd.microsoft.icon?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Freelance"
+            }
+          },
+          {
+            "node": {
+              "name": "Payments"
+            }
+          },
+          {
+            "node": {
+              "name": "Tech"
             }
           }
         ]
