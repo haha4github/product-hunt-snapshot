@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2025-10-14T07:53:45.894Z",
+  "fetchedAt": "2025-10-14T08:25:52.539Z",
   "posts": [
     {
       "id": "1024949",
       "name": "Strawberry",
       "tagline": "The self-driving browser",
       "url": "https://www.producthunt.com/products/strawberry?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 88,
-      "commentsCount": 1,
+      "votesCount": 106,
+      "commentsCount": 3,
       "createdAt": "2025-10-14T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/1b357cb9-9207-400a-9d54-c60f64b6c3a6.png?auto=format"
@@ -32,7 +32,7 @@
       "name": "n8n AI Workflow Builder",
       "tagline": "Turn prompts into living workflows",
       "url": "https://www.producthunt.com/products/n8n-io?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 87,
+      "votesCount": 99,
       "commentsCount": 1,
       "createdAt": "2025-10-14T07:01:00Z",
       "thumbnail": {
@@ -58,7 +58,7 @@
       "name": "AI Agent Platform by CometChat",
       "tagline": "AI Copilot for your website/app. Free for first 500 teams.",
       "url": "https://www.producthunt.com/products/full-stack-ai-agent-platform-cometchat?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 80,
+      "votesCount": 98,
       "commentsCount": 2,
       "createdAt": "2025-10-14T07:01:00Z",
       "thumbnail": {
@@ -89,8 +89,8 @@
       "name": "Mailmodo AI",
       "tagline": "AI to run complete email marketing - designs to campaigns",
       "url": "https://www.producthunt.com/products/mailmodo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 80,
-      "commentsCount": 5,
+      "votesCount": 94,
+      "commentsCount": 11,
       "createdAt": "2025-10-14T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/e7ded8f2-0344-48fb-bb9b-92d9f4239f46.png?auto=format"
@@ -116,42 +116,11 @@
       }
     },
     {
-      "id": "1025828",
-      "name": "Jotform Salesforce Agent",
-      "tagline": " AI Chatbot for Salesforce",
-      "url": "https://www.producthunt.com/products/jotform?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 74,
-      "commentsCount": 1,
-      "createdAt": "2025-10-14T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/bb96b0e8-a6ea-4da4-b615-7249bbb21ef6.gif?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Messaging"
-            }
-          },
-          {
-            "node": {
-              "name": "Marketing"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1025824",
       "name": "Bento Grid Generator",
       "tagline": "Create beautiful bento layouts online",
       "url": "https://www.producthunt.com/products/bento-grid-generator?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 73,
+      "votesCount": 86,
       "commentsCount": 1,
       "createdAt": "2025-10-14T07:01:00Z",
       "thumbnail": {
@@ -183,11 +152,73 @@
       }
     },
     {
+      "id": "1026288",
+      "name": "All Blur",
+      "tagline": "Instantly blur your screen for privacy or content creation",
+      "url": "https://www.producthunt.com/products/all-blur?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 84,
+      "commentsCount": 1,
+      "createdAt": "2025-10-14T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/306b9ff9-f29d-43a4-85d6-4441cfa2f921.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Privacy"
+            }
+          },
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Influencer marketing"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1025828",
+      "name": "Jotform Salesforce Agent",
+      "tagline": " AI Chatbot for Salesforce",
+      "url": "https://www.producthunt.com/products/jotform?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 83,
+      "commentsCount": 1,
+      "createdAt": "2025-10-14T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/bb96b0e8-a6ea-4da4-b615-7249bbb21ef6.gif?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Messaging"
+            }
+          },
+          {
+            "node": {
+              "name": "Marketing"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1026341",
       "name": "nanochat",
       "tagline": "The best ChatGPT that $100 can buy",
       "url": "https://www.producthunt.com/products/nanochat?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 73,
+      "votesCount": 82,
       "commentsCount": 1,
       "createdAt": "2025-10-14T07:01:00Z",
       "thumbnail": {
@@ -219,42 +250,11 @@
       }
     },
     {
-      "id": "1026288",
-      "name": "All Blur",
-      "tagline": "Instantly blur your screen for privacy or content creation",
-      "url": "https://www.producthunt.com/products/all-blur?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 64,
-      "commentsCount": 1,
-      "createdAt": "2025-10-14T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/306b9ff9-f29d-43a4-85d6-4441cfa2f921.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Privacy"
-            }
-          },
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Influencer marketing"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1026273",
       "name": "Deckless",
       "tagline": "Create presentation slides from markdown instantly",
       "url": "https://www.producthunt.com/products/deckless?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 62,
+      "votesCount": 69,
       "commentsCount": 1,
       "createdAt": "2025-10-14T07:01:00Z",
       "thumbnail": {
@@ -285,7 +285,7 @@
       "name": "CRAISEE",
       "tagline": "Create anything with AI in one place ",
       "url": "https://www.producthunt.com/products/your-creative-ai-partner?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 22,
+      "votesCount": 28,
       "commentsCount": 5,
       "createdAt": "2025-10-14T07:01:00Z",
       "thumbnail": {
@@ -316,7 +316,7 @@
       "name": "ruttl v3",
       "tagline": "The AI Visual Feedback Tool",
       "url": "https://www.producthunt.com/products/ruttl?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 10,
+      "votesCount": 15,
       "commentsCount": 1,
       "createdAt": "2025-10-14T07:01:00Z",
       "thumbnail": {
@@ -343,11 +343,32 @@
       }
     },
     {
+      "id": "1024805",
+      "name": "Request Video + Data Log Collection",
+      "tagline": "Resolve issues faster with request video and real-time logs",
+      "url": "https://www.producthunt.com/products/zight?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 14,
+      "commentsCount": 1,
+      "createdAt": "2025-10-14T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/1f477783-298e-4204-8e39-2795a97401af.gif?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1025140",
       "name": "Business Mind Mapping Insights",
       "tagline": "AI mind maps for faster strategic decisions",
       "url": "https://www.producthunt.com/products/business-mind-mapping-insights?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 7,
+      "votesCount": 13,
       "commentsCount": 1,
       "createdAt": "2025-10-14T07:01:00Z",
       "thumbnail": {
@@ -378,7 +399,7 @@
       "name": "Scrptly",
       "tagline": "Ai Video Agent that generates consistent multi-scene videos",
       "url": "https://www.producthunt.com/products/scrptly?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 6,
+      "votesCount": 12,
       "commentsCount": 1,
       "createdAt": "2025-10-14T07:01:00Z",
       "thumbnail": {
@@ -405,15 +426,15 @@
       }
     },
     {
-      "id": "1024805",
-      "name": "Request Video + Data Log Collection",
-      "tagline": "Resolve issues faster with request video and real-time logs",
-      "url": "https://www.producthunt.com/products/zight?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 5,
-      "commentsCount": 1,
+      "id": "942190",
+      "name": "TimeAlign 2.0 - AI-Enhanced Time Mastery",
+      "tagline": "Now with built-in AI coach & Health integration",
+      "url": "https://www.producthunt.com/products/timealign?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 8,
+      "commentsCount": 2,
       "createdAt": "2025-10-14T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/1f477783-298e-4204-8e39-2795a97401af.gif?auto=format"
+        "url": "https://ph-files.imgix.net/a3cae3f8-0022-4fe5-a1c6-63faf2894dd8.png?auto=format"
       },
       "topics": {
         "edges": [
@@ -421,36 +442,46 @@
             "node": {
               "name": "Productivity"
             }
+          },
+          {
+            "node": {
+              "name": "Calendar"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
           }
         ]
       }
     },
     {
-      "id": "1023735",
-      "name": "Jarts.io",
-      "tagline": "See & improve how AI talks about you",
-      "url": "https://www.producthunt.com/products/jarts-io?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 4,
-      "commentsCount": 3,
+      "id": "1026332",
+      "name": "MeunMaker: Smart Meal Planner",
+      "tagline": "We do the weekly meal planning for you!",
+      "url": "https://www.producthunt.com/products/menumaker?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 8,
+      "commentsCount": 1,
       "createdAt": "2025-10-14T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/b22885e7-d4f6-4a7e-b69d-518f9b6bab19.png?auto=format"
+        "url": "https://ph-files.imgix.net/6bef5199-be11-4630-b8df-578dc466df7e.png?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "Marketing"
+              "name": "Health & Fitness"
             }
           },
           {
             "node": {
-              "name": "SEO"
+              "name": "Home"
             }
           },
           {
             "node": {
-              "name": "Search"
+              "name": "Cooking"
             }
           }
         ]
@@ -459,9 +490,9 @@
     {
       "id": "1026415",
       "name": "Polarity",
-      "tagline": "Turn AI Code Production Ready, Instantly.",
+      "tagline": "Autonomous parallel code optimization with pre-merge verify",
       "url": "https://www.producthunt.com/products/polarity?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 3,
+      "votesCount": 8,
       "commentsCount": 1,
       "createdAt": "2025-10-14T07:01:00Z",
       "thumbnail": {
@@ -488,31 +519,21 @@
       }
     },
     {
-      "id": "1026023",
-      "name": "Vance ",
-      "tagline": "World's First AI SuperConnector",
-      "url": "https://www.producthunt.com/products/vance?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 2,
+      "id": "1026157",
+      "name": "AI Girl Generator",
+      "tagline": "AI Girl Generator –Create Realistic AI Girls & Anime Avatars",
+      "url": "https://www.producthunt.com/products/ai-girl-generator-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 8,
       "commentsCount": 1,
       "createdAt": "2025-10-14T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/72513bee-2f95-4551-b93f-57c988d931d4.jpeg?auto=format"
+        "url": "https://ph-files.imgix.net/8bbfde8c-86b0-405f-a768-5d9fd10dd06b.png?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "Social Network"
-            }
-          },
-          {
-            "node": {
-              "name": "Social Media"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
+              "name": "Photography"
             }
           }
         ]
@@ -523,7 +544,7 @@
       "name": "Outspeak",
       "tagline": "Realistic AI Voices and Lip-synced Avatars",
       "url": "https://www.producthunt.com/products/outspeak?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 2,
+      "votesCount": 8,
       "commentsCount": 1,
       "createdAt": "2025-10-14T07:01:00Z",
       "thumbnail": {
@@ -550,43 +571,12 @@
       }
     },
     {
-      "id": "1026233",
-      "name": "Meilisearch Chat",
-      "tagline": "We brought conversational AI to Meilisearch",
-      "url": "https://www.producthunt.com/products/meilisearch-cloud?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 2,
-      "commentsCount": 1,
-      "createdAt": "2025-10-14T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/b43d4195-f021-4ab1-b9ef-3dc0be261f7e.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "User Experience"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          },
-          {
-            "node": {
-              "name": "Search"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1024337",
       "name": "Extruct AI",
       "tagline": "Find companies and contacts using natural language",
       "url": "https://www.producthunt.com/products/extruct-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 2,
-      "commentsCount": 1,
+      "votesCount": 7,
+      "commentsCount": 3,
       "createdAt": "2025-10-14T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/81da0544-44ad-4602-bd0f-97ab4a3c6360.png?auto=format"
