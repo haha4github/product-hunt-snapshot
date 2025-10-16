@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2025-10-16T13:43:02.741Z",
+  "fetchedAt": "2025-10-16T13:56:01.269Z",
   "posts": [
     {
       "id": "1027115",
       "name": "Veo 3.1",
       "tagline": "Bring stories to life with stunningly real visuals",
       "url": "https://www.producthunt.com/products/google-flow?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 236,
-      "commentsCount": 4,
+      "votesCount": 239,
+      "commentsCount": 5,
       "createdAt": "2025-10-16T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/396dc136-1877-4ba0-bd28-ba57e43d6c10.png?auto=format"
@@ -37,7 +37,7 @@
       "name": "Outchat AI",
       "tagline": "Launch and monetize your own branded AI chat",
       "url": "https://www.producthunt.com/products/outchat-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 231,
+      "votesCount": 233,
       "commentsCount": 9,
       "createdAt": "2025-10-16T07:01:00Z",
       "thumbnail": {
@@ -182,7 +182,7 @@
       "name": "Lazy — Capture to Notion",
       "tagline": "One ⌘ shortcut to capture anything straight to Notion ⚡️",
       "url": "https://www.producthunt.com/products/lazy?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 129,
+      "votesCount": 130,
       "commentsCount": 15,
       "createdAt": "2025-10-16T07:01:00Z",
       "thumbnail": {
@@ -399,7 +399,7 @@
       "name": "resynced.io",
       "tagline": "Easy two-way data sync between your apps",
       "url": "https://www.producthunt.com/products/resynced-io?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 25,
+      "votesCount": 26,
       "commentsCount": 3,
       "createdAt": "2025-10-16T07:01:00Z",
       "thumbnail": {
@@ -498,6 +498,37 @@
       }
     },
     {
+      "id": "1027038",
+      "name": "Youtube Summary",
+      "tagline": "Summarize YouTube videos of any size in under 30sec for free",
+      "url": "https://www.producthunt.com/products/youtube-summary?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 19,
+      "commentsCount": 5,
+      "createdAt": "2025-10-16T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/2ad880da-43ba-4d10-96e5-76089acd7119.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "YouTube"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1024847",
       "name": "Pressmaster.ai V4",
       "tagline": "AI that turns your thinking into authentic content",
@@ -523,37 +554,6 @@
           {
             "node": {
               "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1027038",
-      "name": "Youtube Summary",
-      "tagline": "Summarize YouTube videos of any size in under 30sec for free",
-      "url": "https://www.producthunt.com/products/youtube-summary?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 18,
-      "commentsCount": 5,
-      "createdAt": "2025-10-16T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/2ad880da-43ba-4d10-96e5-76089acd7119.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          },
-          {
-            "node": {
-              "name": "YouTube"
             }
           }
         ]
