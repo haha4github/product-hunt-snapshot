@@ -1,12 +1,12 @@
 {
-  "fetchedAt": "2025-10-18T10:40:48.475Z",
+  "fetchedAt": "2025-10-18T10:53:26.474Z",
   "posts": [
     {
       "id": "1027778",
       "name": "Claude Skills",
       "tagline": "Specialized capabilities you can customize",
       "url": "https://www.producthunt.com/products/claude?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 155,
+      "votesCount": 157,
       "commentsCount": 2,
       "createdAt": "2025-10-18T07:01:00Z",
       "thumbnail": {
@@ -32,8 +32,8 @@
       "name": "OpenStatus",
       "tagline": "Open-source status page and uptime monitoring system",
       "url": "https://www.producthunt.com/products/openstatus-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 136,
-      "commentsCount": 4,
+      "votesCount": 137,
+      "commentsCount": 6,
       "createdAt": "2025-10-18T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/0e2ad93f-784c-4e3b-991c-d44781378e3a.jpeg?auto=format"
@@ -63,7 +63,7 @@
       "name": "Supamail AI",
       "tagline": "Turn Mail Inbox Chaos Into Clarity",
       "url": "https://www.producthunt.com/products/supamail-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 114,
+      "votesCount": 116,
       "commentsCount": 1,
       "createdAt": "2025-10-18T07:01:00Z",
       "thumbnail": {
@@ -94,7 +94,7 @@
       "name": "Daft Music",
       "tagline": "The definitive Apple Music experience on Mac",
       "url": "https://www.producthunt.com/products/daft-music?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 103,
+      "votesCount": 104,
       "commentsCount": 1,
       "createdAt": "2025-10-18T07:01:00Z",
       "thumbnail": {
@@ -125,7 +125,7 @@
       "name": "Conducto",
       "tagline": "Haptic metronome for Apple Watch",
       "url": "https://www.producthunt.com/products/conducto-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 97,
+      "votesCount": 99,
       "commentsCount": 3,
       "createdAt": "2025-10-18T07:01:00Z",
       "thumbnail": {
@@ -177,7 +177,7 @@
       "name": "MusicRPC",
       "tagline": "Share tracks from Apple Music to Discord",
       "url": "https://www.producthunt.com/products/musicrpc?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 90,
+      "votesCount": 91,
       "commentsCount": 1,
       "createdAt": "2025-10-18T07:01:00Z",
       "thumbnail": {
@@ -208,7 +208,7 @@
       "name": "Udesigner.ai",
       "tagline": "Create stunning product photos & Instagram grids in minutes",
       "url": "https://www.producthunt.com/products/udesigner-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 15,
+      "votesCount": 20,
       "commentsCount": 1,
       "createdAt": "2025-10-18T07:01:00Z",
       "thumbnail": {
@@ -287,6 +287,58 @@
       }
     },
     {
+      "id": "1027849",
+      "name": "AI Terminal",
+      "tagline": "Your terminal, but smarter",
+      "url": "https://www.producthunt.com/products/ai-terminal?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 8,
+      "commentsCount": 1,
+      "createdAt": "2025-10-18T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/d080e014-223d-4abc-a0ed-66e5bbd128e6.jpeg?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Linux"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "Development"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1027794",
+      "name": "LinkPayLeads",
+      "tagline": "Earn money putting links on your blog",
+      "url": "https://www.producthunt.com/products/linkpayleads?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 8,
+      "commentsCount": 1,
+      "createdAt": "2025-10-18T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/2d1de37f-bc89-4a6b-920f-e45160f71e14.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "SEO"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1027624",
       "name": "Mock It AI",
       "tagline": "An AI Photoshoot and Mockup generator",
@@ -318,26 +370,36 @@
       }
     },
     {
-      "id": "1027498",
-      "name": "Manus 1.5",
-      "tagline": "Faster, higher quality, unlimited context & upgraded builder",
-      "url": "https://www.producthunt.com/products/manus?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "id": "1027805",
+      "name": "Makanify Real Estate CRM",
+      "tagline": "Smart Real Estate CRM that turns leads into deals",
+      "url": "https://www.producthunt.com/products/makanify-real-estate-crm?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 8,
       "commentsCount": 1,
       "createdAt": "2025-10-18T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/a842fb62-c77e-4466-8206-86bf8780e048.png?auto=format"
+        "url": "https://ph-files.imgix.net/e3256530-1547-4f3f-96ce-a686d8c578ac.jpeg?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "Productivity"
+              "name": "Android"
             }
           },
           {
             "node": {
-              "name": "Artificial Intelligence"
+              "name": "Sales"
+            }
+          },
+          {
+            "node": {
+              "name": "Marketing"
+            }
+          },
+          {
+            "node": {
+              "name": "CRM"
             }
           }
         ]
@@ -375,6 +437,53 @@
       }
     },
     {
+      "id": "1027855",
+      "name": "Vesta - Neighborhood Insights",
+      "tagline": "Neighborhood insight",
+      "url": "https://www.producthunt.com/products/vesta-neighborhood-insights?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 8,
+      "commentsCount": 1,
+      "createdAt": "2025-10-18T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/3ac27876-0082-4068-92ba-c60c45f7b2d2.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Analytics"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1027498",
+      "name": "Manus 1.5",
+      "tagline": "Faster, higher quality, unlimited context & upgraded builder",
+      "url": "https://www.producthunt.com/products/manus?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 8,
+      "commentsCount": 1,
+      "createdAt": "2025-10-18T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/a842fb62-c77e-4466-8206-86bf8780e048.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1027715",
       "name": "PrivateHub.ai",
       "tagline": "Make Your Website Visible to AI",
@@ -406,156 +515,11 @@
       }
     },
     {
-      "id": "1027970",
-      "name": "Ai Tools Latest",
-      "tagline": "AI Tools Latest – Discover & Compare the Best AI Tools 2025",
-      "url": "https://www.producthunt.com/products/ai-tools-latest?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 8,
-      "commentsCount": 0,
-      "createdAt": "2025-10-18T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/0e615aa0-5517-4ebf-a0e2-0d160bc6c021.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "SaaS"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1027692",
-      "name": "StackBill",
-      "tagline": "Keep your tech stack costs under control",
-      "url": "https://www.producthunt.com/products/stackbill?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 8,
-      "commentsCount": 1,
-      "createdAt": "2025-10-18T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/0ded4ef0-0f36-4626-95bf-aafed73b021b.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "SaaS"
-            }
-          },
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Tech"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1027953",
-      "name": "What I Actually Want",
-      "tagline": "Gift registry for life’s special moments",
-      "url": "https://www.producthunt.com/products/what-i-actually-want?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 8,
-      "commentsCount": 1,
-      "createdAt": "2025-10-18T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/3ae25b02-0cfc-4234-89eb-ea3f483ac03e.jpeg?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Social Network"
-            }
-          },
-          {
-            "node": {
-              "name": "Community"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1027942",
-      "name": "Talky",
-      "tagline": "P2P video conference",
-      "url": "https://www.producthunt.com/products/talky-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 8,
-      "commentsCount": 1,
-      "createdAt": "2025-10-18T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/16186ad5-8d19-4cc4-9f09-40cbd7359510.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Messaging"
-            }
-          },
-          {
-            "node": {
-              "name": "Meetings"
-            }
-          },
-          {
-            "node": {
-              "name": "Video"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1027734",
-      "name": "Snipn",
-      "tagline": "Daily AI-Powered 2-Minute Audio News on WhatsApp",
-      "url": "https://www.producthunt.com/products/snipn?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 7,
-      "commentsCount": 1,
-      "createdAt": "2025-10-18T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/2d6b54cf-96c4-44e8-a21b-f28a124a7425.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          },
-          {
-            "node": {
-              "name": "Audio"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1027785",
       "name": "FlashGTM",
       "tagline": "AI-Powered GTM. Launch Ready",
       "url": "https://www.producthunt.com/products/flashgtm?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 7,
+      "votesCount": 8,
       "commentsCount": 1,
       "createdAt": "2025-10-18T07:01:00Z",
       "thumbnail": {
@@ -576,6 +540,37 @@
           {
             "node": {
               "name": "SaaS"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1027827",
+      "name": "Precommit",
+      "tagline": "Lock your distractions. Free your focus.",
+      "url": "https://www.producthunt.com/products/precommit?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 8,
+      "commentsCount": 1,
+      "createdAt": "2025-10-18T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/9397fee3-b5bb-4da6-a9a8-452378b0f45e.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "iOS"
+            }
+          },
+          {
+            "node": {
+              "name": "Health & Fitness"
+            }
+          },
+          {
+            "node": {
+              "name": "Productivity"
             }
           }
         ]
