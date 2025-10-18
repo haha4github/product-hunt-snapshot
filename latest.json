@@ -1,12 +1,12 @@
 {
-  "fetchedAt": "2025-10-18T11:40:00.386Z",
+  "fetchedAt": "2025-10-18T11:52:23.406Z",
   "posts": [
     {
       "id": "1027778",
       "name": "Claude Skills",
       "tagline": "Specialized capabilities you can customize",
       "url": "https://www.producthunt.com/products/claude?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 171,
+      "votesCount": 179,
       "commentsCount": 2,
       "createdAt": "2025-10-18T07:01:00Z",
       "thumbnail": {
@@ -32,7 +32,7 @@
       "name": "OpenStatus",
       "tagline": "Open-source status page and uptime monitoring system",
       "url": "https://www.producthunt.com/products/openstatus-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 156,
+      "votesCount": 161,
       "commentsCount": 8,
       "createdAt": "2025-10-18T07:01:00Z",
       "thumbnail": {
@@ -63,7 +63,7 @@
       "name": "Supamail AI",
       "tagline": "Turn Mail Inbox Chaos Into Clarity",
       "url": "https://www.producthunt.com/products/supamail-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 119,
+      "votesCount": 120,
       "commentsCount": 1,
       "createdAt": "2025-10-18T07:01:00Z",
       "thumbnail": {
@@ -125,7 +125,7 @@
       "name": "Conducto",
       "tagline": "Haptic metronome for Apple Watch",
       "url": "https://www.producthunt.com/products/conducto-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 102,
+      "votesCount": 103,
       "commentsCount": 3,
       "createdAt": "2025-10-18T07:01:00Z",
       "thumbnail": {
@@ -287,6 +287,37 @@
       }
     },
     {
+      "id": "1027899",
+      "name": "Simply One Page",
+      "tagline": "Websites without Headaches. Turn QR scans into clients",
+      "url": "https://www.producthunt.com/products/simply-one-page?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 9,
+      "commentsCount": 1,
+      "createdAt": "2025-10-18T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/5c1c67c0-c2e5-47fe-a7bf-89ce1d8825a9.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Design Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Freelance"
+            }
+          },
+          {
+            "node": {
+              "name": "No-Code"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1027498",
       "name": "Manus 1.5",
       "tagline": "Faster, higher quality, unlimited context & upgraded builder",
@@ -344,31 +375,31 @@
       }
     },
     {
-      "id": "1027942",
-      "name": "Talky",
-      "tagline": "P2P video conference",
-      "url": "https://www.producthunt.com/products/talky-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "id": "1027715",
+      "name": "PrivateHub.ai",
+      "tagline": "Make Your Website Visible to AI",
+      "url": "https://www.producthunt.com/products/privatehub-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 9,
       "commentsCount": 1,
       "createdAt": "2025-10-18T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/16186ad5-8d19-4cc4-9f09-40cbd7359510.png?auto=format"
+        "url": "https://ph-files.imgix.net/dd37b269-5de0-4a31-bc06-5993eaf6bae3.png?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "Messaging"
+              "name": "Marketing"
             }
           },
           {
             "node": {
-              "name": "Meetings"
+              "name": "SEO"
             }
           },
           {
             "node": {
-              "name": "Video"
+              "name": "Artificial Intelligence"
             }
           }
         ]
@@ -400,6 +431,68 @@
           {
             "node": {
               "name": "Community"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1027942",
+      "name": "Talky",
+      "tagline": "P2P video conference",
+      "url": "https://www.producthunt.com/products/talky-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 9,
+      "commentsCount": 1,
+      "createdAt": "2025-10-18T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/16186ad5-8d19-4cc4-9f09-40cbd7359510.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Messaging"
+            }
+          },
+          {
+            "node": {
+              "name": "Meetings"
+            }
+          },
+          {
+            "node": {
+              "name": "Video"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1027665",
+      "name": "Fuel Your Race Day Success",
+      "tagline": "Turn your training plan into a fueling strategy",
+      "url": "https://www.producthunt.com/products/fuel-your-race-day-success?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 8,
+      "commentsCount": 1,
+      "createdAt": "2025-10-18T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/44770b79-e6b6-4b78-8a6c-33f17d42bb10.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Health & Fitness"
+            }
+          },
+          {
+            "node": {
+              "name": "Nutrition"
+            }
+          },
+          {
+            "node": {
+              "name": "Running"
             }
           }
         ]
@@ -458,73 +551,6 @@
       }
     },
     {
-      "id": "1027805",
-      "name": "Makanify Real Estate CRM",
-      "tagline": "Smart Real Estate CRM that turns leads into deals",
-      "url": "https://www.producthunt.com/products/makanify-real-estate-crm?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 8,
-      "commentsCount": 1,
-      "createdAt": "2025-10-18T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/e3256530-1547-4f3f-96ce-a686d8c578ac.jpeg?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Android"
-            }
-          },
-          {
-            "node": {
-              "name": "Sales"
-            }
-          },
-          {
-            "node": {
-              "name": "Marketing"
-            }
-          },
-          {
-            "node": {
-              "name": "CRM"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1027624",
-      "name": "Mock It AI",
-      "tagline": "An AI Photoshoot and Mockup generator",
-      "url": "https://www.producthunt.com/products/mock-it-ai-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 8,
-      "commentsCount": 1,
-      "createdAt": "2025-10-18T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/207a169a-f4f6-47bc-a062-b6cb91b38b0e.webp?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Design Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Photography"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1027849",
       "name": "AI Terminal",
       "tagline": "Your terminal, but smarter",
@@ -550,27 +576,6 @@
           {
             "node": {
               "name": "Development"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1027855",
-      "name": "Vesta - Neighborhood Insights",
-      "tagline": "Neighborhood insight",
-      "url": "https://www.producthunt.com/products/vesta-neighborhood-insights?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 8,
-      "commentsCount": 1,
-      "createdAt": "2025-10-18T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/3ac27876-0082-4068-92ba-c60c45f7b2d2.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Analytics"
             }
           }
         ]
