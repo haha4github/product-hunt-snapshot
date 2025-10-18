@@ -1,12 +1,12 @@
 {
-  "fetchedAt": "2025-10-18T18:14:52.636Z",
+  "fetchedAt": "2025-10-18T18:40:02.644Z",
   "posts": [
     {
       "id": "1027778",
       "name": "Claude Skills",
       "tagline": "Specialized capabilities you can customize",
       "url": "https://www.producthunt.com/products/claude?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 303,
+      "votesCount": 305,
       "commentsCount": 4,
       "createdAt": "2025-10-18T07:01:00Z",
       "thumbnail": {
@@ -32,7 +32,7 @@
       "name": "OpenStatus",
       "tagline": "Open-source status page and uptime monitoring system",
       "url": "https://www.producthunt.com/products/openstatus-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 267,
+      "votesCount": 271,
       "commentsCount": 15,
       "createdAt": "2025-10-18T07:01:00Z",
       "thumbnail": {
@@ -63,7 +63,7 @@
       "name": "Daft Music",
       "tagline": "The definitive Apple Music experience on Mac",
       "url": "https://www.producthunt.com/products/daft-music?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 183,
+      "votesCount": 184,
       "commentsCount": 5,
       "createdAt": "2025-10-18T07:01:00Z",
       "thumbnail": {
@@ -380,32 +380,6 @@
       }
     },
     {
-      "id": "1027498",
-      "name": "Manus 1.5",
-      "tagline": "Faster, higher quality, unlimited context & upgraded builder",
-      "url": "https://www.producthunt.com/products/manus?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 11,
-      "commentsCount": 1,
-      "createdAt": "2025-10-18T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/a842fb62-c77e-4466-8206-86bf8780e048.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1027942",
       "name": "Talky",
       "tagline": "P2P video conference",
@@ -431,6 +405,32 @@
           {
             "node": {
               "name": "Video"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1027498",
+      "name": "Manus 1.5",
+      "tagline": "Faster, higher quality, unlimited context & upgraded builder",
+      "url": "https://www.producthunt.com/products/manus?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 11,
+      "commentsCount": 1,
+      "createdAt": "2025-10-18T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/a842fb62-c77e-4466-8206-86bf8780e048.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
             }
           }
         ]
