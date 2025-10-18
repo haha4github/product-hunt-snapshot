@@ -1,38 +1,12 @@
 {
-  "fetchedAt": "2025-10-18T07:08:43.932Z",
+  "fetchedAt": "2025-10-18T07:26:48.944Z",
   "posts": [
-    {
-      "id": "1027778",
-      "name": "Claude Skills",
-      "tagline": "Specialized capabilities you can customize",
-      "url": "https://www.producthunt.com/products/claude?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 58,
-      "commentsCount": 1,
-      "createdAt": "2025-10-18T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/0d879541-cff7-4e45-a5ab-8a24dcbc85ce.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
     {
       "id": "1010806",
       "name": "OpenStatus",
       "tagline": "Open-source status page and uptime monitoring system",
       "url": "https://www.producthunt.com/products/openstatus-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 56,
+      "votesCount": 66,
       "commentsCount": 1,
       "createdAt": "2025-10-18T07:01:00Z",
       "thumbnail": {
@@ -59,11 +33,37 @@
       }
     },
     {
+      "id": "1027778",
+      "name": "Claude Skills",
+      "tagline": "Specialized capabilities you can customize",
+      "url": "https://www.producthunt.com/products/claude?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 65,
+      "commentsCount": 1,
+      "createdAt": "2025-10-18T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/0d879541-cff7-4e45-a5ab-8a24dcbc85ce.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1027710",
       "name": "Supamail AI",
       "tagline": "Turn Mail Inbox Chaos Into Clarity",
       "url": "https://www.producthunt.com/products/supamail-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 52,
+      "votesCount": 55,
       "commentsCount": 1,
       "createdAt": "2025-10-18T07:01:00Z",
       "thumbnail": {
@@ -94,7 +94,7 @@
       "name": "Daft Music",
       "tagline": "The definitive Apple Music experience on Mac",
       "url": "https://www.producthunt.com/products/daft-music?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 52,
+      "votesCount": 54,
       "commentsCount": 1,
       "createdAt": "2025-10-18T07:01:00Z",
       "thumbnail": {
@@ -121,11 +121,32 @@
       }
     },
     {
+      "id": "1027655",
+      "name": "DoraPiano",
+      "tagline": "Create beautiful piano visualizations online",
+      "url": "https://www.producthunt.com/products/dorapiano?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 53,
+      "commentsCount": 0,
+      "createdAt": "2025-10-18T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/76013eb3-2109-482d-9883-708399fde049.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Music"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1027359",
       "name": "MusicRPC",
       "tagline": "Share tracks from Apple Music to Discord",
       "url": "https://www.producthunt.com/products/musicrpc?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 51,
+      "votesCount": 53,
       "commentsCount": 1,
       "createdAt": "2025-10-18T07:01:00Z",
       "thumbnail": {
@@ -146,27 +167,6 @@
           {
             "node": {
               "name": "Apple"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1027655",
-      "name": "DoraPiano",
-      "tagline": "Create beautiful piano visualizations online",
-      "url": "https://www.producthunt.com/products/dorapiano?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 51,
-      "commentsCount": 0,
-      "createdAt": "2025-10-18T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/76013eb3-2109-482d-9883-708399fde049.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Music"
             }
           }
         ]
@@ -256,37 +256,6 @@
       }
     },
     {
-      "id": "1026834",
-      "name": "ScaryStories Live",
-      "tagline": "AI Dungeon meets real-time AI horror video generation",
-      "url": "https://www.producthunt.com/products/scarystories-live?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 3,
-      "commentsCount": 3,
-      "createdAt": "2025-10-18T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/c2962dd7-49ec-4a88-83fd-240f6e4737e5.gif?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "User Experience"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          },
-          {
-            "node": {
-              "name": "Video"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1027970",
       "name": "Ai Tools Latest",
       "tagline": "AI Tools Latest – Discover & Compare the Best AI Tools 2025",
@@ -308,15 +277,15 @@
       }
     },
     {
-      "id": "1027498",
-      "name": "Manus 1.5",
-      "tagline": "Faster, higher quality, unlimited context & upgraded builder",
-      "url": "https://www.producthunt.com/products/manus?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "id": "1027713",
+      "name": "ExtendBase",
+      "tagline": "Productivity marketplace",
+      "url": "https://www.producthunt.com/products/extendbase?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 1,
       "commentsCount": 1,
       "createdAt": "2025-10-18T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/a842fb62-c77e-4466-8206-86bf8780e048.png?auto=format"
+        "url": "https://ph-files.imgix.net/c85076ff-8502-43cd-a201-ee03a8c36a1e.png?auto=format"
       },
       "topics": {
         "edges": [
@@ -327,22 +296,58 @@
           },
           {
             "node": {
-              "name": "Artificial Intelligence"
+              "name": "Developer Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Tech"
             }
           }
         ]
       }
     },
     {
-      "id": "1027989",
-      "name": "Aiki: AI Flashcard Generator ",
-      "tagline": "Turn any word list into smart, AI-powered flashcards.",
-      "url": "https://www.producthunt.com/products/aiki-ai-flashcard-generator?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "id": "1027981",
+      "name": "sage",
+      "tagline": "Nutrition programs that adapt to your biology",
+      "url": "https://www.producthunt.com/products/sage-8?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 1,
       "commentsCount": 1,
       "createdAt": "2025-10-18T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/b8383599-c6ec-46ac-a814-da4a076e8dcc.png?auto=format"
+        "url": "https://ph-files.imgix.net/9ce306ad-d933-44aa-a3c9-b1f537506b6a.jpeg?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Health & Fitness"
+            }
+          },
+          {
+            "node": {
+              "name": "Biohacking"
+            }
+          },
+          {
+            "node": {
+              "name": "Food & Drink"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1027872",
+      "name": "TrainCalc",
+      "tagline": "Free fitness calculators for bmi, tdee, macros & more",
+      "url": "https://www.producthunt.com/products/traincalc?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 1,
+      "commentsCount": 1,
+      "createdAt": "2025-10-18T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/1d701a35-5db4-4390-984f-c8a8d39e2da5.png?auto=format"
       },
       "topics": {
         "edges": [
@@ -353,38 +358,38 @@
           },
           {
             "node": {
-              "name": "Education"
+              "name": "Nutrition"
             }
           },
           {
             "node": {
-              "name": "Artificial Intelligence"
+              "name": "Fitness"
             }
           }
         ]
       }
     },
     {
-      "id": "1027785",
-      "name": "FlashGTM",
-      "tagline": "AI-Powered GTM. Launch Ready",
-      "url": "https://www.producthunt.com/products/flashgtm?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "id": "1027738",
+      "name": "GenieSheet",
+      "tagline": "Stop Googling formulas - generate & explain them with AI",
+      "url": "https://www.producthunt.com/products/geniesheet?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 1,
       "commentsCount": 1,
       "createdAt": "2025-10-18T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/fedf7ed3-58a5-47b3-8ab0-099d17532e47.png?auto=format"
+        "url": "https://ph-files.imgix.net/e9032f12-c40a-42fc-8327-f9d0ac3408e9.png?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "Sales"
+              "name": "Productivity"
             }
           },
           {
             "node": {
-              "name": "Marketing"
+              "name": "Spreadsheets"
             }
           },
           {
@@ -396,98 +401,31 @@
       }
     },
     {
-      "id": "1026271",
-      "name": "Udesigner.ai",
-      "tagline": "Create stunning product photos & Instagram grids in minutes",
-      "url": "https://www.producthunt.com/products/udesigner-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "id": "1027882",
+      "name": "ShipYardHQ",
+      "tagline": "A Product Hunt Alternative",
+      "url": "https://www.producthunt.com/products/shipyardhq?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 1,
-      "commentsCount": 1,
+      "commentsCount": 0,
       "createdAt": "2025-10-18T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/e51a8e0a-5133-4148-aa92-94f9e8bfcaa5.png?auto=format"
+        "url": "https://ph-files.imgix.net/fc2413ff-f741-44c6-b6e2-9cf02bd77269.png?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "Design Tools"
+              "name": "Productivity"
             }
           },
           {
             "node": {
-              "name": "Marketing"
+              "name": "SaaS"
             }
           },
           {
             "node": {
-              "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1027687",
-      "name": "Multi-window: YouTube Multi",
-      "tagline": "Watch up to five YouTube videos at once",
-      "url": "https://www.producthunt.com/products/multi-window-youtube-multi?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 1,
-      "commentsCount": 1,
-      "createdAt": "2025-10-18T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/756790f4-7e96-4825-8390-5901ac7a4ea3.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Android"
-            }
-          },
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "YouTube"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1027805",
-      "name": "Makanify Real Estate CRM",
-      "tagline": "Smart Real Estate CRM that turns leads into deals",
-      "url": "https://www.producthunt.com/products/makanify-real-estate-crm?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 1,
-      "commentsCount": 1,
-      "createdAt": "2025-10-18T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/e3256530-1547-4f3f-96ce-a686d8c578ac.jpeg?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Android"
-            }
-          },
-          {
-            "node": {
-              "name": "Sales"
-            }
-          },
-          {
-            "node": {
-              "name": "Marketing"
-            }
-          },
-          {
-            "node": {
-              "name": "CRM"
+              "name": "Product Hunt"
             }
           }
         ]
@@ -556,31 +494,93 @@
       }
     },
     {
-      "id": "1027813",
-      "name": "Founding Banana ",
-      "tagline": "Upload your photo to meet a famous tech founder.",
-      "url": "https://www.producthunt.com/products/founding-banana?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "id": "1027989",
+      "name": "Aiki: AI Flashcard Generator ",
+      "tagline": "Turn any word list into smart, AI-powered flashcards.",
+      "url": "https://www.producthunt.com/products/aiki-ai-flashcard-generator?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 1,
-      "commentsCount": 0,
+      "commentsCount": 1,
       "createdAt": "2025-10-18T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/c6ad93b7-70a2-4c68-9a54-6affd3c6be93.png?auto=format"
+        "url": "https://ph-files.imgix.net/b8383599-c6ec-46ac-a814-da4a076e8dcc.png?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Education"
+            }
+          },
+          {
+            "node": {
               "name": "Artificial Intelligence"
             }
-          },
+          }
+        ]
+      }
+    },
+    {
+      "id": "1027687",
+      "name": "Multi-window: YouTube Multi",
+      "tagline": "Watch up to five YouTube videos at once",
+      "url": "https://www.producthunt.com/products/multi-window-youtube-multi?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 1,
+      "commentsCount": 1,
+      "createdAt": "2025-10-18T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/756790f4-7e96-4825-8390-5901ac7a4ea3.png?auto=format"
+      },
+      "topics": {
+        "edges": [
           {
             "node": {
-              "name": "Tech"
+              "name": "Android"
             }
           },
           {
             "node": {
-              "name": "Photo editing"
+              "name": "Developer Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "YouTube"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1027785",
+      "name": "FlashGTM",
+      "tagline": "AI-Powered GTM. Launch Ready",
+      "url": "https://www.producthunt.com/products/flashgtm?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 1,
+      "commentsCount": 1,
+      "createdAt": "2025-10-18T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/fedf7ed3-58a5-47b3-8ab0-099d17532e47.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Sales"
+            }
+          },
+          {
+            "node": {
+              "name": "Marketing"
+            }
+          },
+          {
+            "node": {
+              "name": "SaaS"
             }
           }
         ]
