@@ -1,12 +1,12 @@
 {
-  "fetchedAt": "2025-10-18T11:26:58.718Z",
+  "fetchedAt": "2025-10-18T11:40:00.386Z",
   "posts": [
     {
       "id": "1027778",
       "name": "Claude Skills",
       "tagline": "Specialized capabilities you can customize",
       "url": "https://www.producthunt.com/products/claude?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 165,
+      "votesCount": 171,
       "commentsCount": 2,
       "createdAt": "2025-10-18T07:01:00Z",
       "thumbnail": {
@@ -32,8 +32,8 @@
       "name": "OpenStatus",
       "tagline": "Open-source status page and uptime monitoring system",
       "url": "https://www.producthunt.com/products/openstatus-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 149,
-      "commentsCount": 7,
+      "votesCount": 156,
+      "commentsCount": 8,
       "createdAt": "2025-10-18T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/0e2ad93f-784c-4e3b-991c-d44781378e3a.jpeg?auto=format"
@@ -94,8 +94,8 @@
       "name": "Daft Music",
       "tagline": "The definitive Apple Music experience on Mac",
       "url": "https://www.producthunt.com/products/daft-music?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 108,
-      "commentsCount": 1,
+      "votesCount": 110,
+      "commentsCount": 2,
       "createdAt": "2025-10-18T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/d4802107-12b1-4813-b958-907d475ffde1.png?auto=format"
@@ -344,6 +344,37 @@
       }
     },
     {
+      "id": "1027942",
+      "name": "Talky",
+      "tagline": "P2P video conference",
+      "url": "https://www.producthunt.com/products/talky-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 9,
+      "commentsCount": 1,
+      "createdAt": "2025-10-18T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/16186ad5-8d19-4cc4-9f09-40cbd7359510.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Messaging"
+            }
+          },
+          {
+            "node": {
+              "name": "Meetings"
+            }
+          },
+          {
+            "node": {
+              "name": "Video"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1027953",
       "name": "What I Actually Want",
       "tagline": "Gift registry for life’s special moments",
@@ -540,37 +571,6 @@
           {
             "node": {
               "name": "Analytics"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1027687",
-      "name": "Multi-window: YouTube Multi",
-      "tagline": "Watch up to five YouTube videos at once",
-      "url": "https://www.producthunt.com/products/multi-window-youtube-multi?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 8,
-      "commentsCount": 1,
-      "createdAt": "2025-10-18T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/756790f4-7e96-4825-8390-5901ac7a4ea3.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Android"
-            }
-          },
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "YouTube"
             }
           }
         ]
