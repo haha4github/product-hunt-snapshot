@@ -1,12 +1,12 @@
 {
-  "fetchedAt": "2025-10-18T14:45:40.698Z",
+  "fetchedAt": "2025-10-18T14:57:59.025Z",
   "posts": [
     {
       "id": "1027778",
       "name": "Claude Skills",
       "tagline": "Specialized capabilities you can customize",
       "url": "https://www.producthunt.com/products/claude?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 226,
+      "votesCount": 230,
       "commentsCount": 3,
       "createdAt": "2025-10-18T07:01:00Z",
       "thumbnail": {
@@ -32,7 +32,7 @@
       "name": "OpenStatus",
       "tagline": "Open-source status page and uptime monitoring system",
       "url": "https://www.producthunt.com/products/openstatus-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 215,
+      "votesCount": 217,
       "commentsCount": 13,
       "createdAt": "2025-10-18T07:01:00Z",
       "thumbnail": {
@@ -63,7 +63,7 @@
       "name": "Supamail AI",
       "tagline": "Turn Mail Inbox Chaos Into Clarity",
       "url": "https://www.producthunt.com/products/supamail-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 141,
+      "votesCount": 143,
       "commentsCount": 3,
       "createdAt": "2025-10-18T07:01:00Z",
       "thumbnail": {
@@ -94,7 +94,7 @@
       "name": "Daft Music",
       "tagline": "The definitive Apple Music experience on Mac",
       "url": "https://www.producthunt.com/products/daft-music?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 138,
+      "votesCount": 139,
       "commentsCount": 3,
       "createdAt": "2025-10-18T07:01:00Z",
       "thumbnail": {
@@ -380,6 +380,37 @@
       }
     },
     {
+      "id": "1027692",
+      "name": "StackBill",
+      "tagline": "Keep your tech stack costs under control",
+      "url": "https://www.producthunt.com/products/stackbill?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 9,
+      "commentsCount": 1,
+      "createdAt": "2025-10-18T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/0ded4ef0-0f36-4626-95bf-aafed73b021b.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "SaaS"
+            }
+          },
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Tech"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1027498",
       "name": "Manus 1.5",
       "tagline": "Faster, higher quality, unlimited context & upgraded builder",
@@ -431,37 +462,6 @@
           {
             "node": {
               "name": "Community"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1027692",
-      "name": "StackBill",
-      "tagline": "Keep your tech stack costs under control",
-      "url": "https://www.producthunt.com/products/stackbill?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 9,
-      "commentsCount": 1,
-      "createdAt": "2025-10-18T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/0ded4ef0-0f36-4626-95bf-aafed73b021b.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "SaaS"
-            }
-          },
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Tech"
             }
           }
         ]
@@ -530,21 +530,31 @@
       }
     },
     {
-      "id": "1027794",
-      "name": "LinkPayLeads",
-      "tagline": "Earn money putting links on your blog",
-      "url": "https://www.producthunt.com/products/linkpayleads?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "id": "1027849",
+      "name": "AI Terminal",
+      "tagline": "Your terminal, but smarter",
+      "url": "https://www.producthunt.com/products/ai-terminal?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 8,
       "commentsCount": 2,
       "createdAt": "2025-10-18T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/2d1de37f-bc89-4a6b-920f-e45160f71e14.png?auto=format"
+        "url": "https://ph-files.imgix.net/d080e014-223d-4abc-a0ed-66e5bbd128e6.jpeg?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "SEO"
+              "name": "Linux"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "Development"
             }
           }
         ]
