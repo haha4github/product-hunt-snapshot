@@ -1,12 +1,12 @@
 {
-  "fetchedAt": "2025-10-18T17:02:23.129Z",
+  "fetchedAt": "2025-10-18T17:24:10.531Z",
   "posts": [
     {
       "id": "1027778",
       "name": "Claude Skills",
       "tagline": "Specialized capabilities you can customize",
       "url": "https://www.producthunt.com/products/claude?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 272,
+      "votesCount": 279,
       "commentsCount": 4,
       "createdAt": "2025-10-18T07:01:00Z",
       "thumbnail": {
@@ -32,7 +32,7 @@
       "name": "OpenStatus",
       "tagline": "Open-source status page and uptime monitoring system",
       "url": "https://www.producthunt.com/products/openstatus-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 252,
+      "votesCount": 255,
       "commentsCount": 15,
       "createdAt": "2025-10-18T07:01:00Z",
       "thumbnail": {
@@ -63,7 +63,7 @@
       "name": "Daft Music",
       "tagline": "The definitive Apple Music experience on Mac",
       "url": "https://www.producthunt.com/products/daft-music?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 166,
+      "votesCount": 168,
       "commentsCount": 4,
       "createdAt": "2025-10-18T07:01:00Z",
       "thumbnail": {
@@ -94,8 +94,8 @@
       "name": "Supamail AI",
       "tagline": "Turn Mail Inbox Chaos Into Clarity",
       "url": "https://www.producthunt.com/products/supamail-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 150,
-      "commentsCount": 4,
+      "votesCount": 152,
+      "commentsCount": 5,
       "createdAt": "2025-10-18T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/ecd4cd67-bc44-4309-a93a-580536583170.jpeg?auto=format"
@@ -125,7 +125,7 @@
       "name": "Conducto",
       "tagline": "Haptic metronome for Apple Watch",
       "url": "https://www.producthunt.com/products/conducto-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 125,
+      "votesCount": 126,
       "commentsCount": 3,
       "createdAt": "2025-10-18T07:01:00Z",
       "thumbnail": {
@@ -177,7 +177,7 @@
       "name": "MusicRPC",
       "tagline": "Share tracks from Apple Music to Discord",
       "url": "https://www.producthunt.com/products/musicrpc?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 97,
+      "votesCount": 98,
       "commentsCount": 1,
       "createdAt": "2025-10-18T07:01:00Z",
       "thumbnail": {
@@ -301,7 +301,7 @@
       "name": "Fuel Your Race Day Success",
       "tagline": "Turn your training plan into a fueling strategy",
       "url": "https://www.producthunt.com/products/fuel-your-race-day-success?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 16,
+      "votesCount": 17,
       "commentsCount": 8,
       "createdAt": "2025-10-18T07:01:00Z",
       "thumbnail": {
@@ -468,37 +468,6 @@
       }
     },
     {
-      "id": "1027734",
-      "name": "Snipn",
-      "tagline": "Daily AI-Powered 2-Minute Audio News on WhatsApp",
-      "url": "https://www.producthunt.com/products/snipn?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 10,
-      "commentsCount": 3,
-      "createdAt": "2025-10-18T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/2d6b54cf-96c4-44e8-a21b-f28a124a7425.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          },
-          {
-            "node": {
-              "name": "Audio"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1027942",
       "name": "Talky",
       "tagline": "P2P video conference",
@@ -524,6 +493,37 @@
           {
             "node": {
               "name": "Video"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1027734",
+      "name": "Snipn",
+      "tagline": "Daily AI-Powered 2-Minute Audio News on WhatsApp",
+      "url": "https://www.producthunt.com/products/snipn?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 10,
+      "commentsCount": 3,
+      "createdAt": "2025-10-18T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/2d6b54cf-96c4-44e8-a21b-f28a124a7425.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "Audio"
             }
           }
         ]
@@ -561,31 +561,31 @@
       }
     },
     {
-      "id": "1027849",
-      "name": "AI Terminal",
-      "tagline": "Your terminal, but smarter",
-      "url": "https://www.producthunt.com/products/ai-terminal?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "id": "1027624",
+      "name": "Mock It AI",
+      "tagline": "An AI Photoshoot and Mockup generator",
+      "url": "https://www.producthunt.com/products/mock-it-ai-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 9,
       "commentsCount": 2,
       "createdAt": "2025-10-18T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/d080e014-223d-4abc-a0ed-66e5bbd128e6.jpeg?auto=format"
+        "url": "https://ph-files.imgix.net/207a169a-f4f6-47bc-a062-b6cb91b38b0e.webp?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "Linux"
+              "name": "Design Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Photography"
             }
           },
           {
             "node": {
               "name": "Artificial Intelligence"
-            }
-          },
-          {
-            "node": {
-              "name": "Development"
             }
           }
         ]
