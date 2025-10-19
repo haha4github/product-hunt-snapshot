@@ -1,12 +1,12 @@
 {
-  "fetchedAt": "2025-10-19T13:40:49.508Z",
+  "fetchedAt": "2025-10-19T13:53:20.967Z",
   "posts": [
     {
       "id": "1028220",
       "name": "Rybbit",
       "tagline": "Open Source Google Analytics Replacement",
       "url": "https://www.producthunt.com/products/rybbit?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 198,
+      "votesCount": 202,
       "commentsCount": 3,
       "createdAt": "2025-10-19T07:01:00Z",
       "thumbnail": {
@@ -99,7 +99,7 @@
       "name": "HeyGrid",
       "tagline": "A link-in-bio tool and an infinite grid",
       "url": "https://www.producthunt.com/products/heygrid?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 129,
+      "votesCount": 130,
       "commentsCount": 3,
       "createdAt": "2025-10-19T07:01:00Z",
       "thumbnail": {
@@ -565,37 +565,6 @@
       }
     },
     {
-      "id": "1028181",
-      "name": "b2bPainPoint",
-      "tagline": "Identify and solve real founder pain faster",
-      "url": "https://www.producthunt.com/products/b2bpainpoint?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 7,
-      "commentsCount": 2,
-      "createdAt": "2025-10-19T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/539e4c7f-4526-4353-8099-e350372ae09f.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Marketing"
-            }
-          },
-          {
-            "node": {
-              "name": "SaaS"
-            }
-          },
-          {
-            "node": {
-              "name": "Data"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1028202",
       "name": "The Build Shift",
       "tagline": "Every senior started as a junior",
@@ -621,6 +590,37 @@
           {
             "node": {
               "name": "Career"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1028191",
+      "name": "Rotini: Recipe Manager",
+      "tagline": "Import from anywhere, auto-organize like it's magic!",
+      "url": "https://www.producthunt.com/products/rotini-recipe-manager?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 7,
+      "commentsCount": 1,
+      "createdAt": "2025-10-19T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/1f7e181a-1f05-4bbe-ab59-c89ecf06af0b.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "iOS"
+            }
+          },
+          {
+            "node": {
+              "name": "Cookbooks"
+            }
+          },
+          {
+            "node": {
+              "name": "Cooking"
             }
           }
         ]
