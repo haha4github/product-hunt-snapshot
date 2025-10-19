@@ -1,12 +1,12 @@
 {
-  "fetchedAt": "2025-10-19T10:48:51.766Z",
+  "fetchedAt": "2025-10-19T11:06:55.957Z",
   "posts": [
     {
       "id": "1028220",
       "name": "Rybbit",
       "tagline": "Open Source Google Analytics Replacement",
       "url": "https://www.producthunt.com/products/rybbit?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 134,
+      "votesCount": 138,
       "commentsCount": 2,
       "createdAt": "2025-10-19T07:01:00Z",
       "thumbnail": {
@@ -37,8 +37,8 @@
       "name": "TinyFast",
       "tagline": "Fast File Size Reducer Tool for MacOS",
       "url": "https://www.producthunt.com/products/tinyfast?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 119,
-      "commentsCount": 4,
+      "votesCount": 127,
+      "commentsCount": 5,
       "createdAt": "2025-10-19T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/ac355bef-6fde-4e75-9ac7-2cdf972c32e3.png?auto=format"
@@ -68,7 +68,7 @@
       "name": "Kibo UI Patterns",
       "tagline": "1,000+ free shadcn/ui examples for use in your project",
       "url": "https://www.producthunt.com/products/kibo-ui?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 113,
+      "votesCount": 120,
       "commentsCount": 3,
       "createdAt": "2025-10-19T07:01:00Z",
       "thumbnail": {
@@ -99,7 +99,7 @@
       "name": "HeyGrid",
       "tagline": "A link-in-bio tool and an infinite grid",
       "url": "https://www.producthunt.com/products/heygrid?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 108,
+      "votesCount": 109,
       "commentsCount": 1,
       "createdAt": "2025-10-19T07:01:00Z",
       "thumbnail": {
@@ -126,73 +126,11 @@
       }
     },
     {
-      "id": "1026712",
-      "name": " AI Grants & Credit Search by HackerNoon",
-      "tagline": "Find the best active AI software & compute grants & credits",
-      "url": "https://www.producthunt.com/products/hacker-noon?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 98,
-      "commentsCount": 0,
-      "createdAt": "2025-10-19T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/6d8734a7-d64b-402b-af78-58949e86c0a3.jpeg?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          },
-          {
-            "node": {
-              "name": "Data Science"
-            }
-          },
-          {
-            "node": {
-              "name": "Business Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1026703",
-      "name": "ZippCall",
-      "tagline": "Cheap international calls online",
-      "url": "https://www.producthunt.com/products/zippcall?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 94,
-      "commentsCount": 5,
-      "createdAt": "2025-10-19T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/1ab9fb75-0c73-497d-867c-438644a59b75.jpeg?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Android"
-            }
-          },
-          {
-            "node": {
-              "name": "iOS"
-            }
-          },
-          {
-            "node": {
-              "name": "Travel"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1028255",
       "name": "Private Resume Builder",
       "tagline": "Build Your Resume in Private. No Account.",
       "url": "https://www.producthunt.com/products/private-resume-builder-open-source?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 94,
+      "votesCount": 101,
       "commentsCount": 6,
       "createdAt": "2025-10-19T07:01:00Z",
       "thumbnail": {
@@ -224,11 +162,73 @@
       }
     },
     {
+      "id": "1026712",
+      "name": " AI Grants & Credit Search by HackerNoon",
+      "tagline": "Find the best active AI software & compute grants & credits",
+      "url": "https://www.producthunt.com/products/hacker-noon?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 99,
+      "commentsCount": 0,
+      "createdAt": "2025-10-19T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/6d8734a7-d64b-402b-af78-58949e86c0a3.jpeg?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "Data Science"
+            }
+          },
+          {
+            "node": {
+              "name": "Business Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1026703",
+      "name": "ZippCall",
+      "tagline": "Cheap international calls online",
+      "url": "https://www.producthunt.com/products/zippcall?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 95,
+      "commentsCount": 5,
+      "createdAt": "2025-10-19T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/1ab9fb75-0c73-497d-867c-438644a59b75.jpeg?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Android"
+            }
+          },
+          {
+            "node": {
+              "name": "iOS"
+            }
+          },
+          {
+            "node": {
+              "name": "Travel"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1028261",
       "name": "Compyle",
       "tagline": "The AI coding agent that actually collaborates with you",
       "url": "https://www.producthunt.com/products/compyle-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 83,
+      "votesCount": 84,
       "commentsCount": 1,
       "createdAt": "2025-10-19T07:01:00Z",
       "thumbnail": {
@@ -565,31 +565,31 @@
       }
     },
     {
-      "id": "1028148",
-      "name": "FocusWall: Your Attention Firewall",
-      "tagline": "Your digital wall against distractions.",
-      "url": "https://www.producthunt.com/products/focuswall?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "id": "1028007",
+      "name": "Synapsmith",
+      "tagline": "AI web dev: code generation, and site builder",
+      "url": "https://www.producthunt.com/products/synapsmith?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 2,
       "commentsCount": 1,
       "createdAt": "2025-10-19T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/530a8cab-df5a-4db2-ac29-d72361f9c622.png?auto=format"
+        "url": "https://ph-files.imgix.net/9c19a6c2-d650-4ed4-ab61-bcbb9aa2d2b4.webp?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "Chrome Extensions"
+              "name": "Website Builder"
             }
           },
           {
             "node": {
-              "name": "Productivity"
+              "name": "Developer Tools"
             }
           },
           {
             "node": {
-              "name": "Task Management"
+              "name": "Artificial Intelligence"
             }
           }
         ]
