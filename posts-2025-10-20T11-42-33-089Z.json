@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2025-10-20T11:30:19.598Z",
+  "fetchedAt": "2025-10-20T11:42:33.089Z",
   "posts": [
     {
       "id": "1023740",
@@ -426,26 +426,31 @@
       }
     },
     {
-      "id": "1028539",
-      "name": "StatusSage",
-      "tagline": "Website monitoring made simple",
-      "url": "https://www.producthunt.com/products/statussage?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "id": "1028524",
+      "name": "CleanDocs.io",
+      "tagline": "A simple markdown-based Confluence alternative!",
+      "url": "https://www.producthunt.com/products/cleandocs-io?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 9,
       "commentsCount": 2,
       "createdAt": "2025-10-20T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/7c418443-2ee8-4722-80da-e0cec3189005.svg?auto=format"
+        "url": "https://ph-files.imgix.net/e39b6611-afcf-46dd-aa86-7f39f27fb9ae.svg?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "Analytics"
+              "name": "Productivity"
             }
           },
           {
             "node": {
-              "name": "SaaS"
+              "name": "Writing"
+            }
+          },
+          {
+            "node": {
+              "name": "Text Editors"
             }
           }
         ]
@@ -483,57 +488,26 @@
       }
     },
     {
-      "id": "1028524",
-      "name": "CleanDocs.io",
-      "tagline": "A simple markdown-based Confluence alternative!",
-      "url": "https://www.producthunt.com/products/cleandocs-io?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "id": "1028539",
+      "name": "StatusSage",
+      "tagline": "Website monitoring made simple",
+      "url": "https://www.producthunt.com/products/statussage?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 9,
       "commentsCount": 2,
       "createdAt": "2025-10-20T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/e39b6611-afcf-46dd-aa86-7f39f27fb9ae.svg?auto=format"
+        "url": "https://ph-files.imgix.net/7c418443-2ee8-4722-80da-e0cec3189005.svg?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "Productivity"
+              "name": "Analytics"
             }
           },
           {
             "node": {
-              "name": "Writing"
-            }
-          },
-          {
-            "node": {
-              "name": "Text Editors"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1028549",
-      "name": "SoraStrip",
-      "tagline": "Remove Sora watermarks in seconds—clean MP4s ready to post",
-      "url": "https://www.producthunt.com/products/sorastrip?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 8,
-      "commentsCount": 2,
-      "createdAt": "2025-10-20T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/87bb2ae7-c48e-4374-9b2b-73051e96ebfb.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          },
-          {
-            "node": {
-              "name": "Video"
+              "name": "SaaS"
             }
           }
         ]
@@ -565,6 +539,32 @@
           {
             "node": {
               "name": "Social media marketing"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1028549",
+      "name": "SoraStrip",
+      "tagline": "Remove Sora watermarks in seconds—clean MP4s ready to post",
+      "url": "https://www.producthunt.com/products/sorastrip?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 8,
+      "commentsCount": 2,
+      "createdAt": "2025-10-20T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/87bb2ae7-c48e-4374-9b2b-73051e96ebfb.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "Video"
             }
           }
         ]
