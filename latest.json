@@ -1,39 +1,13 @@
 {
-  "fetchedAt": "2025-10-20T07:57:56.615Z",
+  "fetchedAt": "2025-10-20T08:34:29.786Z",
   "posts": [
-    {
-      "id": "1026439",
-      "name": "Replymer",
-      "tagline": "Human replies that sell your product",
-      "url": "https://www.producthunt.com/products/replymer?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 103,
-      "commentsCount": 2,
-      "createdAt": "2025-10-20T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/9fbff144-e894-42e7-bda5-3113f3fd33c1.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Messaging"
-            }
-          },
-          {
-            "node": {
-              "name": "Marketing"
-            }
-          }
-        ]
-      }
-    },
     {
       "id": "1023740",
       "name": "Fish Audio S1",
       "tagline": "Expressive Voice Cloning and Text-to-Speech",
       "url": "https://www.producthunt.com/products/fish-speech?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 101,
-      "commentsCount": 7,
+      "votesCount": 119,
+      "commentsCount": 25,
       "createdAt": "2025-10-20T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/c7bd6a8f-c1fb-4228-8688-d225acbbfab7.png?auto=format"
@@ -64,11 +38,37 @@
       }
     },
     {
+      "id": "1026439",
+      "name": "Replymer",
+      "tagline": "Human replies that sell your product",
+      "url": "https://www.producthunt.com/products/replymer?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 116,
+      "commentsCount": 3,
+      "createdAt": "2025-10-20T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/9fbff144-e894-42e7-bda5-3113f3fd33c1.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Messaging"
+            }
+          },
+          {
+            "node": {
+              "name": "Marketing"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1027145",
       "name": "Logic, Inc.",
       "tagline": "Automate recurring decisions in plain English",
       "url": "https://www.producthunt.com/products/logic-effortless-operational-magic?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 76,
+      "votesCount": 93,
       "commentsCount": 7,
       "createdAt": "2025-10-20T07:01:00Z",
       "thumbnail": {
@@ -99,7 +99,7 @@
       "name": "Voice Gecko",
       "tagline": "Voice dictation at your fingertips—type less, say more.",
       "url": "https://www.producthunt.com/products/voice-gecko?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 76,
+      "votesCount": 86,
       "commentsCount": 2,
       "createdAt": "2025-10-20T07:01:00Z",
       "thumbnail": {
@@ -130,8 +130,8 @@
       "name": "Simplora",
       "tagline": "Meetings that make you smarter, not confused",
       "url": "https://www.producthunt.com/products/simplora?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 74,
-      "commentsCount": 5,
+      "votesCount": 81,
+      "commentsCount": 6,
       "createdAt": "2025-10-20T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/012a8431-b859-458c-9758-dd86587a1a8f.png?auto=format"
@@ -161,7 +161,7 @@
       "name": "diny",
       "tagline": "From git diff to clean commits",
       "url": "https://www.producthunt.com/products/diny?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 67,
+      "votesCount": 73,
       "commentsCount": 0,
       "createdAt": "2025-10-20T07:01:00Z",
       "thumbnail": {
@@ -188,11 +188,42 @@
       }
     },
     {
+      "id": "1028486",
+      "name": "VibeOnly",
+      "tagline": "Helping companies screen and hire AI-fluent employees",
+      "url": "https://www.producthunt.com/products/vibeonly?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 60,
+      "commentsCount": 3,
+      "createdAt": "2025-10-20T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/8152494e-ea5c-434a-bfd8-5074fabfef06.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Hiring"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "Human Resources"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1028095",
       "name": "App2.dev",
       "tagline": "Turn ideas & Figma designs into complete web & mobile apps",
       "url": "https://www.producthunt.com/products/app2-dev?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 58,
+      "votesCount": 60,
       "commentsCount": 1,
       "createdAt": "2025-10-20T07:01:00Z",
       "thumbnail": {
@@ -219,68 +250,11 @@
       }
     },
     {
-      "id": "1028486",
-      "name": "VibeOnly",
-      "tagline": "Helping companies screen and hire AI-fluent employees",
-      "url": "https://www.producthunt.com/products/vibeonly?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 57,
-      "commentsCount": 1,
-      "createdAt": "2025-10-20T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/8152494e-ea5c-434a-bfd8-5074fabfef06.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Hiring"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          },
-          {
-            "node": {
-              "name": "Human Resources"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1028406",
-      "name": "Pylon",
-      "tagline": "The support platform built for B2B",
-      "url": "https://www.producthunt.com/products/pylon-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 57,
-      "commentsCount": 1,
-      "createdAt": "2025-10-20T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/b3eea0f3-10d6-4915-b6b9-40f39397ff02.svg?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Customer Success"
-            }
-          },
-          {
-            "node": {
-              "name": "Customer Communication"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1027878",
       "name": "Aden AI",
       "tagline": "Turn any file into a chatbot course & get certified with AI",
       "url": "https://www.producthunt.com/products/ai-powered-form-that-fills-itself?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 56,
+      "votesCount": 60,
       "commentsCount": 1,
       "createdAt": "2025-10-20T07:01:00Z",
       "thumbnail": {
@@ -307,11 +281,68 @@
       }
     },
     {
+      "id": "1028406",
+      "name": "Pylon",
+      "tagline": "The support platform built for B2B",
+      "url": "https://www.producthunt.com/products/pylon-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 58,
+      "commentsCount": 1,
+      "createdAt": "2025-10-20T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/b3eea0f3-10d6-4915-b6b9-40f39397ff02.svg?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Customer Success"
+            }
+          },
+          {
+            "node": {
+              "name": "Customer Communication"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1026961",
+      "name": "Noiz AI",
+      "tagline": "1st AI super agent for audio: voice, bgm, tts, dubbing, fx",
+      "url": "https://www.producthunt.com/products/noiz-studio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 17,
+      "commentsCount": 1,
+      "createdAt": "2025-10-20T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/517f04ec-0754-41db-ad02-9eee26339a77.jpeg?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "API"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "Audio"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1028527",
       "name": "Userjam",
       "tagline": "AI turns realtime user activity into stories, not dashboards",
       "url": "https://www.producthunt.com/products/userjam?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 9,
+      "votesCount": 16,
       "commentsCount": 2,
       "createdAt": "2025-10-20T07:01:00Z",
       "thumbnail": {
@@ -343,7 +374,7 @@
       "tagline": "Turn Any File Into a Chatbot Course. Get Certified with AI ",
       "url": "https://www.producthunt.com/products/ai-powered-form-that-fills-itself?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 8,
-      "commentsCount": 1,
+      "commentsCount": 3,
       "createdAt": "2025-10-20T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/b63d8086-c11d-4e4b-852c-7d9a3cfbf64e.png?auto=format"
@@ -404,8 +435,8 @@
       "name": "CleanDocs.io",
       "tagline": "A simple markdown-based Confluence alternative!",
       "url": "https://www.producthunt.com/products/cleandocs-io?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 3,
-      "commentsCount": 1,
+      "votesCount": 4,
+      "commentsCount": 2,
       "createdAt": "2025-10-20T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/e39b6611-afcf-46dd-aa86-7f39f27fb9ae.svg?auto=format"
@@ -431,31 +462,31 @@
       }
     },
     {
-      "id": "1026961",
-      "name": "Noiz AI",
-      "tagline": "1st AI super agent for audio: voice, bgm, tts, dubbing, fx",
-      "url": "https://www.producthunt.com/products/noiz-studio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "id": "1025846",
+      "name": "ViralSort 2.0",
+      "tagline": "Your Fastest Way to Go Viral on Instagram Reels",
+      "url": "https://www.producthunt.com/products/viralsort-sort-instagram-reel?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 3,
       "commentsCount": 1,
       "createdAt": "2025-10-20T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/517f04ec-0754-41db-ad02-9eee26339a77.jpeg?auto=format"
+        "url": "https://ph-files.imgix.net/44b0a2e5-9b3a-444c-b817-aa957bde1776.gif?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "API"
+              "name": "Chrome Extensions"
             }
           },
           {
             "node": {
-              "name": "Artificial Intelligence"
+              "name": "Instagram"
             }
           },
           {
             "node": {
-              "name": "Audio"
+              "name": "Social media marketing"
             }
           }
         ]
@@ -493,99 +524,6 @@
       }
     },
     {
-      "id": "1025846",
-      "name": "ViralSort 2.0",
-      "tagline": "Your Fastest Way to Go Viral on Instagram Reels",
-      "url": "https://www.producthunt.com/products/viralsort-sort-instagram-reel?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 2,
-      "commentsCount": 1,
-      "createdAt": "2025-10-20T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/44b0a2e5-9b3a-444c-b817-aa957bde1776.gif?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Chrome Extensions"
-            }
-          },
-          {
-            "node": {
-              "name": "Instagram"
-            }
-          },
-          {
-            "node": {
-              "name": "Social media marketing"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1025560",
-      "name": "Weekspro customisable for you",
-      "tagline": "An affordable customisable business management app",
-      "url": "https://www.producthunt.com/products/weekspro-customisable-for-you?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 2,
-      "commentsCount": 1,
-      "createdAt": "2025-10-20T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/fbec0423-5d3a-4227-8e77-19719ce477f8.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "SaaS"
-            }
-          },
-          {
-            "node": {
-              "name": "Website Builder"
-            }
-          },
-          {
-            "node": {
-              "name": "CRM"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1028495",
-      "name": "MarkdownConverters: Files → Markdown ",
-      "tagline": "Turn PDFs, Docs, Slides & URLs into LLM-ready Markdown",
-      "url": "https://www.producthunt.com/products/markdown-converter-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 2,
-      "commentsCount": 1,
-      "createdAt": "2025-10-20T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/8f3a2146-b48c-4e2c-9a4d-892d7b76f192.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1028539",
       "name": "StatusSage",
       "tagline": "Website monitoring made simple",
@@ -606,6 +544,58 @@
           {
             "node": {
               "name": "SaaS"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1028632",
+      "name": "Namma Metro Bangalore Route Guide",
+      "tagline": "Routes, timings, fares & station guide 2025",
+      "url": "https://www.producthunt.com/products/namma-metro-bangalore-route-guide?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 2,
+      "commentsCount": 1,
+      "createdAt": "2025-10-20T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/8ada72fe-b3e9-4964-917c-d6d159bf17f3.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Travel"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1027220",
+      "name": "Common Path",
+      "tagline": "Build a professional resume and website effortlessly.",
+      "url": "https://www.producthunt.com/products/common-path?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 2,
+      "commentsCount": 1,
+      "createdAt": "2025-10-20T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/d1cbdd46-37fd-46ba-9ab4-2b714b24a081.jpeg?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Hiring"
+            }
+          },
+          {
+            "node": {
+              "name": "Marketing"
+            }
+          },
+          {
+            "node": {
+              "name": "Career"
             }
           }
         ]
