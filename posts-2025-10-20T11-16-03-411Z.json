@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2025-10-20T10:52:51.415Z",
+  "fetchedAt": "2025-10-20T11:16:03.411Z",
   "posts": [
     {
       "id": "1023740",
@@ -126,7 +126,7 @@
       "tagline": "Meetings that make you smarter, not confused",
       "url": "https://www.producthunt.com/products/simplora?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 99,
-      "commentsCount": 11,
+      "commentsCount": 13,
       "createdAt": "2025-10-20T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/012a8431-b859-458c-9758-dd86587a1a8f.png?auto=format"
@@ -214,32 +214,6 @@
       }
     },
     {
-      "id": "1028406",
-      "name": "Pylon",
-      "tagline": "The support platform built for B2B",
-      "url": "https://www.producthunt.com/products/pylon-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 70,
-      "commentsCount": 1,
-      "createdAt": "2025-10-20T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/b3eea0f3-10d6-4915-b6b9-40f39397ff02.svg?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Customer Success"
-            }
-          },
-          {
-            "node": {
-              "name": "Customer Communication"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1027878",
       "name": "Aden AI",
       "tagline": "Turn any file into a chatbot course & get certified with AI",
@@ -271,12 +245,38 @@
       }
     },
     {
+      "id": "1028406",
+      "name": "Pylon",
+      "tagline": "The support platform built for B2B",
+      "url": "https://www.producthunt.com/products/pylon-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 70,
+      "commentsCount": 2,
+      "createdAt": "2025-10-20T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/b3eea0f3-10d6-4915-b6b9-40f39397ff02.svg?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Customer Success"
+            }
+          },
+          {
+            "node": {
+              "name": "Customer Communication"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1028486",
       "name": "VibeOnly",
       "tagline": "Helping companies screen and hire AI-fluent employees",
       "url": "https://www.producthunt.com/products/vibeonly?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 69,
-      "commentsCount": 3,
+      "commentsCount": 5,
       "createdAt": "2025-10-20T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/8152494e-ea5c-434a-bfd8-5074fabfef06.png?auto=format"
@@ -426,37 +426,6 @@
       }
     },
     {
-      "id": "1028524",
-      "name": "CleanDocs.io",
-      "tagline": "A simple markdown-based Confluence alternative!",
-      "url": "https://www.producthunt.com/products/cleandocs-io?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 9,
-      "commentsCount": 2,
-      "createdAt": "2025-10-20T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/e39b6611-afcf-46dd-aa86-7f39f27fb9ae.svg?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Writing"
-            }
-          },
-          {
-            "node": {
-              "name": "Text Editors"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1028565",
       "name": "Pawbit – Habit Tracker",
       "tagline": "Cute pixel pet habit tracker",
@@ -514,26 +483,62 @@
       }
     },
     {
-      "id": "1028549",
-      "name": "SoraStrip",
-      "tagline": "Remove Sora watermarks in seconds—clean MP4s ready to post",
-      "url": "https://www.producthunt.com/products/sorastrip?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 8,
+      "id": "1028524",
+      "name": "CleanDocs.io",
+      "tagline": "A simple markdown-based Confluence alternative!",
+      "url": "https://www.producthunt.com/products/cleandocs-io?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 9,
       "commentsCount": 2,
       "createdAt": "2025-10-20T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/87bb2ae7-c48e-4374-9b2b-73051e96ebfb.png?auto=format"
+        "url": "https://ph-files.imgix.net/e39b6611-afcf-46dd-aa86-7f39f27fb9ae.svg?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "Artificial Intelligence"
+              "name": "Productivity"
             }
           },
           {
             "node": {
-              "name": "Video"
+              "name": "Writing"
+            }
+          },
+          {
+            "node": {
+              "name": "Text Editors"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1027775",
+      "name": "Open Bulk Url",
+      "tagline": "Fast bulk url opener",
+      "url": "https://www.producthunt.com/products/open-bulk-url?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 8,
+      "commentsCount": 0,
+      "createdAt": "2025-10-20T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/58693de3-26b0-4a12-b64c-739b52e24367.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "User Experience"
+            }
+          },
+          {
+            "node": {
+              "name": "Developer Tools"
             }
           }
         ]
@@ -571,31 +576,26 @@
       }
     },
     {
-      "id": "1027775",
-      "name": "Open Bulk Url",
-      "tagline": "Fast bulk url opener",
-      "url": "https://www.producthunt.com/products/open-bulk-url?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "id": "1028549",
+      "name": "SoraStrip",
+      "tagline": "Remove Sora watermarks in seconds—clean MP4s ready to post",
+      "url": "https://www.producthunt.com/products/sorastrip?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 8,
-      "commentsCount": 0,
+      "commentsCount": 2,
       "createdAt": "2025-10-20T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/58693de3-26b0-4a12-b64c-739b52e24367.png?auto=format"
+        "url": "https://ph-files.imgix.net/87bb2ae7-c48e-4374-9b2b-73051e96ebfb.png?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "Productivity"
+              "name": "Artificial Intelligence"
             }
           },
           {
             "node": {
-              "name": "User Experience"
-            }
-          },
-          {
-            "node": {
-              "name": "Developer Tools"
+              "name": "Video"
             }
           }
         ]
