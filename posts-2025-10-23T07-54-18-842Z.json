@@ -1,13 +1,39 @@
 {
-  "fetchedAt": "2025-10-23T07:41:34.616Z",
+  "fetchedAt": "2025-10-23T07:54:18.842Z",
   "posts": [
+    {
+      "id": "1028877",
+      "name": "In-Depth Reviews",
+      "tagline": "Reviews that ask better questions",
+      "url": "https://www.producthunt.com/products/producthunt?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 100,
+      "commentsCount": 6,
+      "createdAt": "2025-10-23T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/d618ea86-70ae-4d12-8ec2-0ed78c723ddf.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Product Hunt"
+            }
+          },
+          {
+            "node": {
+              "name": "Community"
+            }
+          }
+        ]
+      }
+    },
     {
       "id": "1012962",
       "name": "Nimo",
       "tagline": "An Intelligent Canvas that goes far Beyond your Browser",
       "url": "https://www.producthunt.com/products/nimo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 92,
-      "commentsCount": 3,
+      "votesCount": 96,
+      "commentsCount": 5,
       "createdAt": "2025-10-23T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/1316dd6a-badb-411e-a31f-958796e9adfa.png?auto=format"
@@ -33,52 +59,31 @@
       }
     },
     {
-      "id": "1028877",
-      "name": "In-Depth Reviews",
-      "tagline": "Reviews that ask better questions",
-      "url": "https://www.producthunt.com/products/producthunt?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 89,
-      "commentsCount": 5,
+      "id": "1020172",
+      "name": "Migma AI",
+      "tagline": "Lovable for Email ",
+      "url": "https://www.producthunt.com/products/migma-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 82,
+      "commentsCount": 3,
       "createdAt": "2025-10-23T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/d618ea86-70ae-4d12-8ec2-0ed78c723ddf.png?auto=format"
+        "url": "https://ph-files.imgix.net/709dfc6b-177e-46c5-98aa-61332b5146a8.png?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "Product Hunt"
+              "name": "Email"
             }
           },
           {
             "node": {
-              "name": "Community"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1029231",
-      "name": "Composite",
-      "tagline": "Autopilot for your browser; it clicks, types, & navigates",
-      "url": "https://www.producthunt.com/products/composite-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 75,
-      "commentsCount": 2,
-      "createdAt": "2025-10-23T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/4c6bc0e2-0ea2-4d74-820b-6ffc02459be2.jpeg?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Task Management"
+              "name": "Design Tools"
             }
           },
           {
             "node": {
-              "name": "Artificial Intelligence"
+              "name": "No-Code"
             }
           }
         ]
@@ -89,8 +94,8 @@
       "name": "Xano 2.0",
       "tagline": "A full backend in minutes with AI, visual dev, and code.",
       "url": "https://www.producthunt.com/products/xano?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 74,
-      "commentsCount": 9,
+      "votesCount": 78,
+      "commentsCount": 20,
       "createdAt": "2025-10-23T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/2dda17f6-1b81-4dea-b7b7-5ac419058ea2.png?auto=format"
@@ -116,26 +121,21 @@
       }
     },
     {
-      "id": "1026188",
-      "name": "AI-Powered Markdown/Text Editor",
-      "tagline": "Experience the joy and speed of pure text, with AI copilot",
-      "url": "https://www.producthunt.com/products/ai-powered-markdown-text-editor?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 73,
-      "commentsCount": 5,
+      "id": "1029231",
+      "name": "Composite",
+      "tagline": "Autopilot for your browser; it clicks, types, & navigates",
+      "url": "https://www.producthunt.com/products/composite-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 77,
+      "commentsCount": 2,
       "createdAt": "2025-10-23T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/66a46b5a-1df1-4147-ba7e-1ce423ef9f21.png?auto=format"
+        "url": "https://ph-files.imgix.net/4c6bc0e2-0ea2-4d74-820b-6ffc02459be2.jpeg?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Text Editors"
+              "name": "Task Management"
             }
           },
           {
@@ -151,7 +151,7 @@
       "name": "Julius Slack Agent",
       "tagline": "AI Data Scientist giving insights directly in Slack",
       "url": "https://www.producthunt.com/products/julius-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 73,
+      "votesCount": 75,
       "commentsCount": 3,
       "createdAt": "2025-10-23T07:01:00Z",
       "thumbnail": {
@@ -178,31 +178,62 @@
       }
     },
     {
-      "id": "1020172",
-      "name": "Migma AI",
-      "tagline": "Lovable for Email ",
-      "url": "https://www.producthunt.com/products/migma-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 71,
-      "commentsCount": 2,
+      "id": "1026188",
+      "name": "AI-Powered Markdown/Text Editor",
+      "tagline": "Experience the joy and speed of pure text, with AI copilot",
+      "url": "https://www.producthunt.com/products/ai-powered-markdown-text-editor?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 74,
+      "commentsCount": 5,
       "createdAt": "2025-10-23T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/709dfc6b-177e-46c5-98aa-61332b5146a8.png?auto=format"
+        "url": "https://ph-files.imgix.net/66a46b5a-1df1-4147-ba7e-1ce423ef9f21.png?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "Email"
+              "name": "Productivity"
             }
           },
           {
             "node": {
-              "name": "Design Tools"
+              "name": "Text Editors"
             }
           },
           {
             "node": {
-              "name": "No-Code"
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1028798",
+      "name": "Cosine VS Code Extension",
+      "tagline": "The AI teammate for your editor",
+      "url": "https://www.producthunt.com/products/cosine?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 69,
+      "commentsCount": 1,
+      "createdAt": "2025-10-23T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/9b0963f3-4de4-4646-ab35-40089b68189d.jpeg?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "Vibe coding"
             }
           }
         ]
@@ -213,7 +244,7 @@
       "name": "Free Web Analytics by Crazy Egg",
       "tagline": "Real-time traffic reporting with proactive AI analysis",
       "url": "https://www.producthunt.com/products/crazy-egg?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 67,
+      "votesCount": 70,
       "commentsCount": 1,
       "createdAt": "2025-10-23T07:01:00Z",
       "thumbnail": {
@@ -244,7 +275,7 @@
       "name": "FinKitty",
       "tagline": " Your finance pet that cheers every smart money move",
       "url": "https://www.producthunt.com/products/finkitty?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 66,
+      "votesCount": 68,
       "commentsCount": 3,
       "createdAt": "2025-10-23T07:01:00Z",
       "thumbnail": {
@@ -271,18 +302,23 @@
       }
     },
     {
-      "id": "1028798",
-      "name": "Cosine VS Code Extension",
-      "tagline": "The AI teammate for your editor",
-      "url": "https://www.producthunt.com/products/cosine?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 66,
+      "id": "1025201",
+      "name": "Plexe",
+      "tagline": "Build and deploy ML models in English",
+      "url": "https://www.producthunt.com/products/plexe?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 64,
       "commentsCount": 1,
       "createdAt": "2025-10-23T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/9b0963f3-4de4-4646-ab35-40089b68189d.jpeg?auto=format"
+        "url": "https://ph-files.imgix.net/2dea3ade-17f9-4d38-8110-e701b9cca5eb.jpeg?auto=format"
       },
       "topics": {
         "edges": [
+          {
+            "node": {
+              "name": "Analytics"
+            }
+          },
           {
             "node": {
               "name": "Developer Tools"
@@ -292,10 +328,67 @@
             "node": {
               "name": "Artificial Intelligence"
             }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1029364",
+      "name": "Soul Couple Game",
+      "tagline": "Strengthen your bond with fun, deep & playful questions",
+      "url": "https://www.producthunt.com/products/soul-couple-game-fun-questions?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 65,
+      "commentsCount": 1,
+      "createdAt": "2025-10-23T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/11697133-7c05-4d90-88d2-f0a87422d4e8.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "iOS"
+            }
           },
           {
             "node": {
-              "name": "Vibe coding"
+              "name": "Games"
+            }
+          },
+          {
+            "node": {
+              "name": "Lifestyle"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1029784",
+      "name": "Twigg",
+      "tagline": "Git for LLMs - a Context Management Tool",
+      "url": "https://www.producthunt.com/products/twigg?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 64,
+      "commentsCount": 1,
+      "createdAt": "2025-10-23T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/15380eb1-8f43-4fc5-b750-e5ba3727df36.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
             }
           }
         ]
@@ -338,15 +431,15 @@
       }
     },
     {
-      "id": "1029364",
-      "name": "Soul Couple Game",
-      "tagline": "Strengthen your bond with fun, deep & playful questions",
-      "url": "https://www.producthunt.com/products/soul-couple-game-fun-questions?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 62,
-      "commentsCount": 1,
+      "id": "1029482",
+      "name": "Hacktivate",
+      "tagline": "A capture-the-flag game teaching real cybersecurity skills",
+      "url": "https://www.producthunt.com/products/hacktivate?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 66,
+      "commentsCount": 3,
       "createdAt": "2025-10-23T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/11697133-7c05-4d90-88d2-f0a87422d4e8.png?auto=format"
+        "url": "https://ph-files.imgix.net/ca906723-eca8-479d-9673-f5de479f534f.png?auto=format"
       },
       "topics": {
         "edges": [
@@ -357,74 +450,12 @@
           },
           {
             "node": {
-              "name": "Games"
+              "name": "Education"
             }
           },
           {
             "node": {
-              "name": "Lifestyle"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1029784",
-      "name": "Twigg",
-      "tagline": "Git for LLMs - a Context Management Tool",
-      "url": "https://www.producthunt.com/products/twigg?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 61,
-      "commentsCount": 1,
-      "createdAt": "2025-10-23T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/15380eb1-8f43-4fc5-b750-e5ba3727df36.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1025201",
-      "name": "Plexe",
-      "tagline": "Build and deploy ML models in English",
-      "url": "https://www.producthunt.com/products/plexe?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 61,
-      "commentsCount": 1,
-      "createdAt": "2025-10-23T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/2dea3ade-17f9-4d38-8110-e701b9cca5eb.jpeg?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Analytics"
-            }
-          },
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
+              "name": "Security"
             }
           }
         ]
@@ -456,37 +487,6 @@
           {
             "node": {
               "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1029482",
-      "name": "Hacktivate",
-      "tagline": "A capture-the-flag game teaching real cybersecurity skills",
-      "url": "https://www.producthunt.com/products/hacktivate?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 55,
-      "commentsCount": 1,
-      "createdAt": "2025-10-23T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/ca906723-eca8-479d-9673-f5de479f534f.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "iOS"
-            }
-          },
-          {
-            "node": {
-              "name": "Education"
-            }
-          },
-          {
-            "node": {
-              "name": "Security"
             }
           }
         ]
@@ -560,6 +560,37 @@
       }
     },
     {
+      "id": "1028994",
+      "name": "Lead Magnet Pilot",
+      "tagline": "Automate lead magnets on LinkedIn",
+      "url": "https://www.producthunt.com/products/lead-magnet-pilot?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 14,
+      "commentsCount": 1,
+      "createdAt": "2025-10-23T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/62d6c10e-c87c-4d0d-9a51-db06c3e858c5.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Sales"
+            }
+          },
+          {
+            "node": {
+              "name": "Marketing"
+            }
+          },
+          {
+            "node": {
+              "name": "LinkedIn"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1027704",
       "name": "mia",
       "tagline": "Your AI agent for growth, insights, and strategy",
@@ -585,32 +616,6 @@
           {
             "node": {
               "name": "Business Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1028537",
-      "name": "PostFast",
-      "tagline": "Your social media assistant for growth. Schedule everywhere!",
-      "url": "https://www.producthunt.com/products/postfast-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 7,
-      "commentsCount": 1,
-      "createdAt": "2025-10-23T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/27dc4518-891a-41bb-9439-7cbf62cf2147.jpeg?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Social Media"
-            }
-          },
-          {
-            "node": {
-              "name": "Social media marketing"
             }
           }
         ]
