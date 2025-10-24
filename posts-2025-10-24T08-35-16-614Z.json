@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2025-10-24T07:58:45.118Z",
+  "fetchedAt": "2025-10-24T08:35:16.614Z",
   "posts": [
     {
       "id": "1027370",
       "name": "HakkoAI",
       "tagline": "Your best friend and advisor in PC games",
       "url": "https://www.producthunt.com/products/hakkoai-1-0-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 103,
-      "commentsCount": 15,
+      "votesCount": 125,
+      "commentsCount": 22,
       "createdAt": "2025-10-24T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/ab700578-643c-45d3-b373-44f5e4e93c1b.png?auto=format"
@@ -27,7 +27,7 @@
       "name": "Google Skills",
       "tagline": "Build AI skills for tomorrow, today",
       "url": "https://www.producthunt.com/products/google?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 98,
+      "votesCount": 105,
       "commentsCount": 2,
       "createdAt": "2025-10-24T07:01:00Z",
       "thumbnail": {
@@ -58,8 +58,8 @@
       "name": "Gelt.dev",
       "tagline": "AI agents build, run, & deploy your next full-stack app",
       "url": "https://www.producthunt.com/products/gelt-dev?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 93,
-      "commentsCount": 3,
+      "votesCount": 104,
+      "commentsCount": 6,
       "createdAt": "2025-10-24T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/cabfccd3-644e-438e-9c55-d3a1c262b45b.png?auto=format"
@@ -85,11 +85,42 @@
       }
     },
     {
+      "id": "1027404",
+      "name": "Next.js 16",
+      "tagline": "The React Framework for the Web",
+      "url": "https://www.producthunt.com/products/nextjs?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 104,
+      "commentsCount": 3,
+      "createdAt": "2025-10-24T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/76710619-0e0c-4456-918d-f5f2cb58e1cc.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Open Source"
+            }
+          },
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "GitHub"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1025924",
       "name": "Tailkits UI",
       "tagline": "200 tailwind CSS components",
       "url": "https://www.producthunt.com/products/tailkits?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 79,
+      "votesCount": 91,
       "commentsCount": 1,
       "createdAt": "2025-10-24T07:01:00Z",
       "thumbnail": {
@@ -116,114 +147,31 @@
       }
     },
     {
-      "id": "1027404",
-      "name": "Next.js 16",
-      "tagline": "The React Framework for the Web",
-      "url": "https://www.producthunt.com/products/nextjs?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 79,
-      "commentsCount": 2,
-      "createdAt": "2025-10-24T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/76710619-0e0c-4456-918d-f5f2cb58e1cc.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Open Source"
-            }
-          },
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "GitHub"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1029899",
-      "name": "HabitForge",
-      "tagline": "Build lasting habits with friends & real accountability",
-      "url": "https://www.producthunt.com/products/habitforge?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 75,
-      "commentsCount": 9,
-      "createdAt": "2025-10-24T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/22099b5b-dcda-4e9b-8dd1-770bed7202e8.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "User Experience"
-            }
-          },
-          {
-            "node": {
-              "name": "Social Media"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1027593",
-      "name": "Reflex",
-      "tagline": "Prompt to production app, in Pure Python",
-      "url": "https://www.producthunt.com/products/reflex-5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 74,
+      "id": "1029413",
+      "name": "Grain",
+      "tagline": "Map user journeys in real time and tune with remote config",
+      "url": "https://www.producthunt.com/products/grain-5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 85,
       "commentsCount": 3,
       "createdAt": "2025-10-24T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/7c7490e3-9a8d-4bb8-9809-995a6c10c2a8.png?auto=format"
+        "url": "https://ph-files.imgix.net/bc207281-9582-4d0b-a4fe-44f518253d2b.png?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "Developer Tools"
+              "name": "Analytics"
             }
           },
           {
             "node": {
-              "name": "Vibe coding"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1029910",
-      "name": "Notilus",
-      "tagline": "A super simple note taker that focuses on voice to paper",
-      "url": "https://www.producthunt.com/products/notilus-super-simple-notes?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 74,
-      "commentsCount": 2,
-      "createdAt": "2025-10-24T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/4fdee2c0-f3c3-4ebf-801f-c49fc4241e29.jpeg?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Writing"
+              "name": "Database"
             }
           },
           {
             "node": {
-              "name": "Notes"
+              "name": "Business Intelligence"
             }
           }
         ]
@@ -234,8 +182,8 @@
       "name": "Peek-a-Doodle for iOS & iPadOS",
       "tagline": "Send doodles that pop up on your friends’ home screen",
       "url": "https://www.producthunt.com/products/peek-a-doodle-for-ios-ipados?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 73,
-      "commentsCount": 3,
+      "votesCount": 85,
+      "commentsCount": 5,
       "createdAt": "2025-10-24T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/80175ff5-9940-4bf2-a5ab-9fb08c3edba1.png?auto=format"
@@ -261,12 +209,38 @@
       }
     },
     {
+      "id": "1029910",
+      "name": "Notilus",
+      "tagline": "A super simple note taker that focuses on voice to paper",
+      "url": "https://www.producthunt.com/products/notilus-super-simple-notes?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 83,
+      "commentsCount": 2,
+      "createdAt": "2025-10-24T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/4fdee2c0-f3c3-4ebf-801f-c49fc4241e29.jpeg?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Writing"
+            }
+          },
+          {
+            "node": {
+              "name": "Notes"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1030214",
       "name": "DoDot",
       "tagline": "Daily prompt-based social media",
       "url": "https://www.producthunt.com/products/dodot?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 73,
-      "commentsCount": 2,
+      "votesCount": 83,
+      "commentsCount": 3,
       "createdAt": "2025-10-24T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/60b0a5e0-f20c-4c18-9210-05b951a92510.png?auto=format"
@@ -296,7 +270,7 @@
       "name": "Tiny A/B Test",
       "tagline": "Lightweight a/b testing for saas founders",
       "url": "https://www.producthunt.com/products/tiny-a-b-test?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 71,
+      "votesCount": 80,
       "commentsCount": 1,
       "createdAt": "2025-10-24T07:01:00Z",
       "thumbnail": {
@@ -323,31 +297,57 @@
       }
     },
     {
-      "id": "1029413",
-      "name": "Grain",
-      "tagline": "Map user journeys in real time and tune with remote config",
-      "url": "https://www.producthunt.com/products/grain-5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 68,
-      "commentsCount": 1,
+      "id": "1027593",
+      "name": "Reflex",
+      "tagline": "Prompt to production app, in Pure Python",
+      "url": "https://www.producthunt.com/products/reflex-5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 80,
+      "commentsCount": 3,
       "createdAt": "2025-10-24T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/bc207281-9582-4d0b-a4fe-44f518253d2b.png?auto=format"
+        "url": "https://ph-files.imgix.net/7c7490e3-9a8d-4bb8-9809-995a6c10c2a8.png?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "Analytics"
+              "name": "Developer Tools"
             }
           },
           {
             "node": {
-              "name": "Database"
+              "name": "Vibe coding"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1029899",
+      "name": "HabitForge",
+      "tagline": "Build lasting habits with friends & real accountability",
+      "url": "https://www.producthunt.com/products/habitforge?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 78,
+      "commentsCount": 9,
+      "createdAt": "2025-10-24T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/22099b5b-dcda-4e9b-8dd1-770bed7202e8.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Productivity"
             }
           },
           {
             "node": {
-              "name": "Business Intelligence"
+              "name": "User Experience"
+            }
+          },
+          {
+            "node": {
+              "name": "Social Media"
             }
           }
         ]
@@ -358,7 +358,7 @@
       "name": "TalkFlow",
       "tagline": "Speak English Naturally with Human-Like AI Tutors.",
       "url": "https://www.producthunt.com/products/talkflow-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 24,
+      "votesCount": 25,
       "commentsCount": 2,
       "createdAt": "2025-10-24T07:01:00Z",
       "thumbnail": {
@@ -385,42 +385,11 @@
       }
     },
     {
-      "id": "1029866",
-      "name": "Socialwiz Ad Analyzer",
-      "tagline": "Checks Your Ad Before You Hit Publish.",
-      "url": "https://www.producthunt.com/products/ad-analyzer?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 12,
-      "commentsCount": 1,
-      "createdAt": "2025-10-24T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/614e0005-c19b-4ad8-9b8b-8657e77ff30b.gif?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Analytics"
-            }
-          },
-          {
-            "node": {
-              "name": "Marketing"
-            }
-          },
-          {
-            "node": {
-              "name": "Advertising"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1030215",
       "name": "StickrSnap",
       "tagline": "AI Sticker Maker & Remixer",
       "url": "https://www.producthunt.com/products/stickrsnap?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 7,
+      "votesCount": 16,
       "commentsCount": 1,
       "createdAt": "2025-10-24T07:01:00Z",
       "thumbnail": {
@@ -447,11 +416,73 @@
       }
     },
     {
+      "id": "1029866",
+      "name": "Socialwiz Ad Analyzer",
+      "tagline": "Checks Your Ad Before You Hit Publish.",
+      "url": "https://www.producthunt.com/products/ad-analyzer?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 15,
+      "commentsCount": 1,
+      "createdAt": "2025-10-24T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/614e0005-c19b-4ad8-9b8b-8657e77ff30b.gif?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Analytics"
+            }
+          },
+          {
+            "node": {
+              "name": "Marketing"
+            }
+          },
+          {
+            "node": {
+              "name": "Advertising"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1030074",
+      "name": "Clocks Dash",
+      "tagline": "A visual board of your remote team’s times",
+      "url": "https://www.producthunt.com/products/clocks-dash?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 8,
+      "commentsCount": 2,
+      "createdAt": "2025-10-24T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/83b4e7a1-6e1f-4cc8-aa00-fb6a0a050bad.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Time Tracking"
+            }
+          },
+          {
+            "node": {
+              "name": "Meetings"
+            }
+          },
+          {
+            "node": {
+              "name": "Remote Work"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1029059",
       "name": "AppLayoutsUI 2.0",
       "tagline": "SwiftUI components library for iOS and macOS",
       "url": "https://www.producthunt.com/products/applayouts?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 6,
+      "votesCount": 7,
       "commentsCount": 1,
       "createdAt": "2025-10-24T07:01:00Z",
       "thumbnail": {
@@ -482,7 +513,7 @@
       "name": "DoItAgain.app",
       "tagline": "Discover activities you'll want to do again and again.",
       "url": "https://www.producthunt.com/products/doitagain-app?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 4,
+      "votesCount": 5,
       "commentsCount": 2,
       "createdAt": "2025-10-24T07:01:00Z",
       "thumbnail": {
@@ -509,42 +540,11 @@
       }
     },
     {
-      "id": "1027454",
-      "name": "Smartfin",
-      "tagline": "The stock analysis platform you'll actually enjoy using",
-      "url": "https://www.producthunt.com/products/smartfin?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 4,
-      "commentsCount": 2,
-      "createdAt": "2025-10-24T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/6de9ac0d-1807-4369-9c6e-f0bf01751e86.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Fintech"
-            }
-          },
-          {
-            "node": {
-              "name": "Investing"
-            }
-          },
-          {
-            "node": {
-              "name": "SaaS"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1030125",
       "name": "Combine PDF",
       "tagline": "Merge pdf files instantly — private & offline",
       "url": "https://www.producthunt.com/products/combine-pdf-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 3,
+      "votesCount": 5,
       "commentsCount": 1,
       "createdAt": "2025-10-24T07:01:00Z",
       "thumbnail": {
@@ -576,21 +576,31 @@
       }
     },
     {
-      "id": "1029934",
-      "name": "Zenlink",
-      "tagline": "A calm page to drop links you want to read later",
-      "url": "https://www.producthunt.com/products/zenlink?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 3,
-      "commentsCount": 1,
+      "id": "1027454",
+      "name": "Smartfin",
+      "tagline": "The stock analysis platform you'll actually enjoy using",
+      "url": "https://www.producthunt.com/products/smartfin?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 4,
+      "commentsCount": 2,
       "createdAt": "2025-10-24T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/faf74e1c-febe-4765-a292-f8c7ee137fd8.png?auto=format"
+        "url": "https://ph-files.imgix.net/6de9ac0d-1807-4369-9c6e-f0bf01751e86.png?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "Productivity"
+              "name": "Fintech"
+            }
+          },
+          {
+            "node": {
+              "name": "Investing"
+            }
+          },
+          {
+            "node": {
+              "name": "SaaS"
             }
           }
         ]
