@@ -1,12 +1,43 @@
 {
-  "fetchedAt": "2025-10-25T08:21:03.896Z",
+  "fetchedAt": "2025-10-25T08:40:27.536Z",
   "posts": [
+    {
+      "id": "1030320",
+      "name": "Friday",
+      "tagline": "AI that calls you for self-reflection",
+      "url": "https://www.producthunt.com/products/friday-8?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 82,
+      "commentsCount": 5,
+      "createdAt": "2025-10-25T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/9193f5a0-bbfc-460b-9145-3ed48beb0ebf.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Health & Fitness"
+            }
+          },
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
     {
       "id": "1029816",
       "name": "TheBoringNotch",
       "tagline": "Open source Dynamic Island for your Mac's Notch",
       "url": "https://www.producthunt.com/products/theboringnotch?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 77,
+      "votesCount": 79,
       "commentsCount": 2,
       "createdAt": "2025-10-25T07:01:00Z",
       "thumbnail": {
@@ -33,43 +64,12 @@
       }
     },
     {
-      "id": "1030320",
-      "name": "Friday",
-      "tagline": "AI that calls you for self-reflection",
-      "url": "https://www.producthunt.com/products/friday-8?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 74,
-      "commentsCount": 1,
-      "createdAt": "2025-10-25T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/9193f5a0-bbfc-460b-9145-3ed48beb0ebf.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Health & Fitness"
-            }
-          },
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1026757",
       "name": "Send/Share Files by Couchdrop",
       "tagline": "Send encrypted file links instead of email attachments",
       "url": "https://www.producthunt.com/products/couchdrop?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 72,
-      "commentsCount": 1,
+      "votesCount": 75,
+      "commentsCount": 2,
       "createdAt": "2025-10-25T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/7c653a4b-0256-49c3-8b57-b05eb0d9e1fa.jpeg?auto=format"
@@ -89,6 +89,37 @@
           {
             "node": {
               "name": "Operations"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1026901",
+      "name": "Flipt v2",
+      "tagline": "Feature flags for safe deployments, git-native & self-hosted",
+      "url": "https://www.producthunt.com/products/flipt-cloud?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 72,
+      "commentsCount": 2,
+      "createdAt": "2025-10-25T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/a7565e6f-2639-4880-b363-d5324dbbda2d.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Open Source"
+            }
+          },
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "GitHub"
             }
           }
         ]
@@ -126,26 +157,21 @@
       }
     },
     {
-      "id": "1026901",
-      "name": "Flipt v2",
-      "tagline": "Feature flags for safe deployments, git-native & self-hosted",
-      "url": "https://www.producthunt.com/products/flipt-cloud?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 71,
-      "commentsCount": 2,
+      "id": "1028413",
+      "name": "DeepShare",
+      "tagline": "AI Chats to Word Documents",
+      "url": "https://www.producthunt.com/products/deepshare-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 68,
+      "commentsCount": 1,
       "createdAt": "2025-10-25T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/a7565e6f-2639-4880-b363-d5324dbbda2d.png?auto=format"
+        "url": "https://ph-files.imgix.net/6de95b31-ad73-4e3c-a7a6-3ea62d0bad6c.svg?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "Open Source"
-            }
-          },
-          {
-            "node": {
-              "name": "Developer Tools"
+              "name": "Productivity"
             }
           },
           {
@@ -161,7 +187,7 @@
       "name": "Updog by Datadog",
       "tagline": "Don't Wait for Status Page Updates",
       "url": "https://www.producthunt.com/products/updog-by-datadog?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 65,
+      "votesCount": 67,
       "commentsCount": 1,
       "createdAt": "2025-10-25T07:01:00Z",
       "thumbnail": {
@@ -188,68 +214,11 @@
       }
     },
     {
-      "id": "1028413",
-      "name": "DeepShare",
-      "tagline": "AI Chats to Word Documents",
-      "url": "https://www.producthunt.com/products/deepshare-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 65,
-      "commentsCount": 1,
-      "createdAt": "2025-10-25T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/6de95b31-ad73-4e3c-a7a6-3ea62d0bad6c.svg?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "GitHub"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1030389",
-      "name": "AI Cleaner by Lilucat",
-      "tagline": "Free up space instantly with AI. Simple, fast, and private.",
-      "url": "https://www.producthunt.com/products/ai-cleaner-by-lilucat?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 63,
-      "commentsCount": 1,
-      "createdAt": "2025-10-25T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/af4f3a47-0024-4631-abb8-d3d0893eadab.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "iOS"
-            }
-          },
-          {
-            "node": {
-              "name": "Storage"
-            }
-          },
-          {
-            "node": {
-              "name": "Photography"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1030331",
       "name": "Keepsake",
       "tagline": "Collaboratively write and print stories",
       "url": "https://www.producthunt.com/products/keepsake-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 61,
+      "votesCount": 66,
       "commentsCount": 1,
       "createdAt": "2025-10-25T07:01:00Z",
       "thumbnail": {
@@ -270,6 +239,37 @@
           {
             "node": {
               "name": "Family"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1030389",
+      "name": "AI Cleaner by Lilucat",
+      "tagline": "Free up space instantly with AI. Simple, fast, and private.",
+      "url": "https://www.producthunt.com/products/ai-cleaner-by-lilucat?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 64,
+      "commentsCount": 1,
+      "createdAt": "2025-10-25T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/af4f3a47-0024-4631-abb8-d3d0893eadab.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "iOS"
+            }
+          },
+          {
+            "node": {
+              "name": "Storage"
+            }
+          },
+          {
+            "node": {
+              "name": "Photography"
             }
           }
         ]
@@ -328,11 +328,42 @@
       }
     },
     {
+      "id": "1026311",
+      "name": "Drynosaur",
+      "tagline": "Make hangovers go extinct, one day at a time",
+      "url": "https://www.producthunt.com/products/drynosaur?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 60,
+      "commentsCount": 1,
+      "createdAt": "2025-10-25T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/7245984e-b47f-4232-86a3-b8eda2f3408d.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "iOS"
+            }
+          },
+          {
+            "node": {
+              "name": "Health & Fitness"
+            }
+          },
+          {
+            "node": {
+              "name": "Drinking"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1028407",
       "name": "Picser",
       "tagline": "A native, powerful, elegant image viewer designed for macOS.",
       "url": "https://www.producthunt.com/products/picser-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 58,
+      "votesCount": 59,
       "commentsCount": 1,
       "createdAt": "2025-10-25T07:01:00Z",
       "thumbnail": {
@@ -353,6 +384,32 @@
           {
             "node": {
               "name": "Apple"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1028078",
+      "name": "uLuup",
+      "tagline": "Mindful habits building for imperfect progress",
+      "url": "https://www.producthunt.com/products/uluup?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 58,
+      "commentsCount": 1,
+      "createdAt": "2025-10-25T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/6d9ca492-9a0d-4386-86d5-433071c83ea7.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Health & Fitness"
+            }
+          },
+          {
+            "node": {
+              "name": "Productivity"
             }
           }
         ]
@@ -384,63 +441,6 @@
           {
             "node": {
               "name": "Video"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1026311",
-      "name": "Drynosaur",
-      "tagline": "Make hangovers go extinct, one day at a time",
-      "url": "https://www.producthunt.com/products/drynosaur?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 56,
-      "commentsCount": 1,
-      "createdAt": "2025-10-25T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/7245984e-b47f-4232-86a3-b8eda2f3408d.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "iOS"
-            }
-          },
-          {
-            "node": {
-              "name": "Health & Fitness"
-            }
-          },
-          {
-            "node": {
-              "name": "Drinking"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1028078",
-      "name": "uLuup",
-      "tagline": "Mindful habits building for imperfect progress",
-      "url": "https://www.producthunt.com/products/uluup?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 54,
-      "commentsCount": 1,
-      "createdAt": "2025-10-25T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/6d9ca492-9a0d-4386-86d5-433071c83ea7.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Health & Fitness"
-            }
-          },
-          {
-            "node": {
-              "name": "Productivity"
             }
           }
         ]
@@ -482,7 +482,7 @@
       "name": "RYPL",
       "tagline": "Turn Facebook ad comments into automated sales with AI",
       "url": "https://www.producthunt.com/products/rypl?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 4,
+      "votesCount": 5,
       "commentsCount": 3,
       "createdAt": "2025-10-25T07:01:00Z",
       "thumbnail": {
