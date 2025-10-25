@@ -1,12 +1,12 @@
 {
-  "fetchedAt": "2025-10-25T07:40:23.592Z",
+  "fetchedAt": "2025-10-25T07:52:53.288Z",
   "posts": [
     {
       "id": "1029816",
       "name": "TheBoringNotch",
       "tagline": "Open source Dynamic Island for your Mac's Notch",
       "url": "https://www.producthunt.com/products/theboringnotch?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 73,
+      "votesCount": 76,
       "commentsCount": 2,
       "createdAt": "2025-10-25T07:01:00Z",
       "thumbnail": {
@@ -37,7 +37,7 @@
       "name": "Flipt v2",
       "tagline": "Feature flags for safe deployments, git-native & self-hosted",
       "url": "https://www.producthunt.com/products/flipt-cloud?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 69,
+      "votesCount": 70,
       "commentsCount": 2,
       "createdAt": "2025-10-25T07:01:00Z",
       "thumbnail": {
@@ -68,7 +68,7 @@
       "name": "Amigo AI",
       "tagline": "AI-powered personal finance agent",
       "url": "https://www.producthunt.com/products/amigo-ai-going-deeper-in-transactions?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 65,
+      "votesCount": 66,
       "commentsCount": 1,
       "createdAt": "2025-10-25T07:01:00Z",
       "thumbnail": {
@@ -99,7 +99,7 @@
       "name": "Send/Share Files by Couchdrop",
       "tagline": "Send encrypted file links instead of email attachments",
       "url": "https://www.producthunt.com/products/couchdrop?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 62,
+      "votesCount": 64,
       "commentsCount": 1,
       "createdAt": "2025-10-25T07:01:00Z",
       "thumbnail": {
@@ -120,6 +120,68 @@
           {
             "node": {
               "name": "Operations"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1030320",
+      "name": "Friday",
+      "tagline": "AI that calls you for self-reflection",
+      "url": "https://www.producthunt.com/products/friday-8?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 63,
+      "commentsCount": 1,
+      "createdAt": "2025-10-25T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/9193f5a0-bbfc-460b-9145-3ed48beb0ebf.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Health & Fitness"
+            }
+          },
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1030389",
+      "name": "AI Cleaner by Lilucat",
+      "tagline": "Free up space instantly with AI. Simple, fast, and private.",
+      "url": "https://www.producthunt.com/products/ai-cleaner-by-lilucat?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 62,
+      "commentsCount": 1,
+      "createdAt": "2025-10-25T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/af4f3a47-0024-4631-abb8-d3d0893eadab.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "iOS"
+            }
+          },
+          {
+            "node": {
+              "name": "Storage"
+            }
+          },
+          {
+            "node": {
+              "name": "Photography"
             }
           }
         ]
@@ -157,73 +219,11 @@
       }
     },
     {
-      "id": "1030389",
-      "name": "AI Cleaner by Lilucat",
-      "tagline": "Free up space instantly with AI. Simple, fast, and private.",
-      "url": "https://www.producthunt.com/products/ai-cleaner-by-lilucat?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 61,
-      "commentsCount": 1,
-      "createdAt": "2025-10-25T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/af4f3a47-0024-4631-abb8-d3d0893eadab.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "iOS"
-            }
-          },
-          {
-            "node": {
-              "name": "Storage"
-            }
-          },
-          {
-            "node": {
-              "name": "Photography"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1030320",
-      "name": "Friday",
-      "tagline": "AI that calls you for self-reflection",
-      "url": "https://www.producthunt.com/products/friday-8?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 60,
-      "commentsCount": 1,
-      "createdAt": "2025-10-25T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/9193f5a0-bbfc-460b-9145-3ed48beb0ebf.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Health & Fitness"
-            }
-          },
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1028413",
       "name": "DeepShare",
       "tagline": "AI Chats to Word Documents",
       "url": "https://www.producthunt.com/products/deepshare-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 60,
+      "votesCount": 61,
       "commentsCount": 1,
       "createdAt": "2025-10-25T07:01:00Z",
       "thumbnail": {
@@ -239,6 +239,27 @@
           {
             "node": {
               "name": "GitHub"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1027877",
+      "name": "PokeScope",
+      "tagline": "Pokemon card price checker & recent eBay sales",
+      "url": "https://www.producthunt.com/products/pokescope?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 60,
+      "commentsCount": 1,
+      "createdAt": "2025-10-25T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/804123c5-7701-42a1-bd9d-9872b8071ea0.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Pokemon"
             }
           }
         ]
@@ -276,32 +297,11 @@
       }
     },
     {
-      "id": "1027877",
-      "name": "PokeScope",
-      "tagline": "Pokemon card price checker & recent eBay sales",
-      "url": "https://www.producthunt.com/products/pokescope?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 56,
-      "commentsCount": 1,
-      "createdAt": "2025-10-25T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/804123c5-7701-42a1-bd9d-9872b8071ea0.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Pokemon"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1029484",
       "name": "Flowdrop",
       "tagline": "Cursor for workflows, automate anything with chat",
       "url": "https://www.producthunt.com/products/flowdrop?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 56,
+      "votesCount": 57,
       "commentsCount": 2,
       "createdAt": "2025-10-25T07:01:00Z",
       "thumbnail": {
@@ -359,11 +359,42 @@
       }
     },
     {
+      "id": "1028518",
+      "name": "Slowed Enchanced",
+      "tagline": "Stupid Simple Audio Controls",
+      "url": "https://www.producthunt.com/products/slowed-enchanced?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 56,
+      "commentsCount": 1,
+      "createdAt": "2025-10-25T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/61caea2c-9b4a-4c3d-b671-6c848eb78e0c.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Chrome Extensions"
+            }
+          },
+          {
+            "node": {
+              "name": "Audio"
+            }
+          },
+          {
+            "node": {
+              "name": "Video"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1026311",
       "name": "Drynosaur",
       "tagline": "Make hangovers go extinct, one day at a time",
       "url": "https://www.producthunt.com/products/drynosaur?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 54,
+      "votesCount": 55,
       "commentsCount": 1,
       "createdAt": "2025-10-25T07:01:00Z",
       "thumbnail": {
@@ -416,37 +447,6 @@
       }
     },
     {
-      "id": "1028518",
-      "name": "Slowed Enchanced",
-      "tagline": "Stupid Simple Audio Controls",
-      "url": "https://www.producthunt.com/products/slowed-enchanced?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 53,
-      "commentsCount": 1,
-      "createdAt": "2025-10-25T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/61caea2c-9b4a-4c3d-b671-6c848eb78e0c.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Chrome Extensions"
-            }
-          },
-          {
-            "node": {
-              "name": "Audio"
-            }
-          },
-          {
-            "node": {
-              "name": "Video"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1030407",
       "name": "Sprout Video Downloader",
       "tagline": "Download Sprout Hosted or embedded videos from SproutVideo",
@@ -472,6 +472,37 @@
           {
             "node": {
               "name": "Developer Tools"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1027425",
+      "name": "RYPL",
+      "tagline": "Turn Facebook ad comments into automated sales with AI",
+      "url": "https://www.producthunt.com/products/rypl?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 4,
+      "commentsCount": 2,
+      "createdAt": "2025-10-25T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/0defc29c-2402-445f-acd8-f392d54cdf16.gif?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Social Media"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "Social media marketing"
             }
           }
         ]
@@ -565,37 +596,6 @@
           {
             "node": {
               "name": "Developer Tools"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1030363",
-      "name": "Vitrin",
-      "tagline": "Transform your products with AI,v2 brings sleek new UI & UX!",
-      "url": "https://www.producthunt.com/products/vitrin?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 2,
-      "commentsCount": 1,
-      "createdAt": "2025-10-25T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/baff75ae-78df-482c-9ce2-7fa80fac5a30.x-icon?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Marketing"
-            }
-          },
-          {
-            "node": {
-              "name": "Photography"
-            }
-          },
-          {
-            "node": {
-              "name": "E-Commerce"
             }
           }
         ]
