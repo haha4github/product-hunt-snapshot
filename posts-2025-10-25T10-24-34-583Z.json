@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2025-10-25T09:55:58.825Z",
+  "fetchedAt": "2025-10-25T10:24:34.583Z",
   "posts": [
     {
       "id": "1030320",
       "name": "Friday",
       "tagline": "AI that calls you for self-reflection",
       "url": "https://www.producthunt.com/products/friday-8?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 94,
-      "commentsCount": 8,
+      "votesCount": 97,
+      "commentsCount": 11,
       "createdAt": "2025-10-25T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/9193f5a0-bbfc-460b-9145-3ed48beb0ebf.png?auto=format"
@@ -37,7 +37,7 @@
       "name": "TheBoringNotch",
       "tagline": "Open source Dynamic Island for your Mac's Notch",
       "url": "https://www.producthunt.com/products/theboringnotch?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 87,
+      "votesCount": 89,
       "commentsCount": 3,
       "createdAt": "2025-10-25T07:01:00Z",
       "thumbnail": {
@@ -58,6 +58,37 @@
           {
             "node": {
               "name": "Apple"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1026901",
+      "name": "Flipt v2",
+      "tagline": "Feature flags for safe deployments, git-native & self-hosted",
+      "url": "https://www.producthunt.com/products/flipt-cloud?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 88,
+      "commentsCount": 2,
+      "createdAt": "2025-10-25T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/a7565e6f-2639-4880-b363-d5324dbbda2d.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Open Source"
+            }
+          },
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "GitHub"
             }
           }
         ]
@@ -95,31 +126,31 @@
       }
     },
     {
-      "id": "1026901",
-      "name": "Flipt v2",
-      "tagline": "Feature flags for safe deployments, git-native & self-hosted",
-      "url": "https://www.producthunt.com/products/flipt-cloud?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 80,
-      "commentsCount": 2,
+      "id": "1026960",
+      "name": "Amigo AI",
+      "tagline": "AI-powered personal finance agent",
+      "url": "https://www.producthunt.com/products/amigo-ai-going-deeper-in-transactions?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 82,
+      "commentsCount": 3,
       "createdAt": "2025-10-25T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/a7565e6f-2639-4880-b363-d5324dbbda2d.png?auto=format"
+        "url": "https://ph-files.imgix.net/c76e895d-7062-4073-9adb-bb32efd52c1a.png?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "Open Source"
+              "name": "Fintech"
             }
           },
           {
             "node": {
-              "name": "Developer Tools"
+              "name": "Artificial Intelligence"
             }
           },
           {
             "node": {
-              "name": "GitHub"
+              "name": "Personal Finance"
             }
           }
         ]
@@ -156,7 +187,7 @@
       "name": "Updog by Datadog",
       "tagline": "Don't Wait for Status Page Updates",
       "url": "https://www.producthunt.com/products/updog-by-datadog?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 78,
+      "votesCount": 79,
       "commentsCount": 1,
       "createdAt": "2025-10-25T07:01:00Z",
       "thumbnail": {
@@ -183,73 +214,11 @@
       }
     },
     {
-      "id": "1026960",
-      "name": "Amigo AI",
-      "tagline": "AI-powered personal finance agent",
-      "url": "https://www.producthunt.com/products/amigo-ai-going-deeper-in-transactions?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 78,
-      "commentsCount": 2,
-      "createdAt": "2025-10-25T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/c76e895d-7062-4073-9adb-bb32efd52c1a.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Fintech"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          },
-          {
-            "node": {
-              "name": "Personal Finance"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1030389",
-      "name": "AI Cleaner by Lilucat",
-      "tagline": "Free up space instantly with AI. Simple, fast, and private.",
-      "url": "https://www.producthunt.com/products/ai-cleaner-by-lilucat?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 75,
-      "commentsCount": 2,
-      "createdAt": "2025-10-25T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/af4f3a47-0024-4631-abb8-d3d0893eadab.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "iOS"
-            }
-          },
-          {
-            "node": {
-              "name": "Storage"
-            }
-          },
-          {
-            "node": {
-              "name": "Photography"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1028407",
       "name": "Picser",
       "tagline": "A native, powerful, elegant image viewer designed for macOS.",
       "url": "https://www.producthunt.com/products/picser-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 74,
+      "votesCount": 77,
       "commentsCount": 1,
       "createdAt": "2025-10-25T07:01:00Z",
       "thumbnail": {
@@ -276,11 +245,42 @@
       }
     },
     {
+      "id": "1030389",
+      "name": "AI Cleaner by Lilucat",
+      "tagline": "Free up space instantly with AI. Simple, fast, and private.",
+      "url": "https://www.producthunt.com/products/ai-cleaner-by-lilucat?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 77,
+      "commentsCount": 2,
+      "createdAt": "2025-10-25T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/af4f3a47-0024-4631-abb8-d3d0893eadab.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "iOS"
+            }
+          },
+          {
+            "node": {
+              "name": "Storage"
+            }
+          },
+          {
+            "node": {
+              "name": "Photography"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1030331",
       "name": "Keepsake",
       "tagline": "Collaboratively write and print stories",
       "url": "https://www.producthunt.com/products/keepsake-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 74,
+      "votesCount": 75,
       "commentsCount": 2,
       "createdAt": "2025-10-25T07:01:00Z",
       "thumbnail": {
@@ -307,11 +307,68 @@
       }
     },
     {
+      "id": "1028518",
+      "name": "Slowed Enchanced",
+      "tagline": "Stupid Simple Audio Controls",
+      "url": "https://www.producthunt.com/products/slowed-enchanced?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 73,
+      "commentsCount": 2,
+      "createdAt": "2025-10-25T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/61caea2c-9b4a-4c3d-b671-6c848eb78e0c.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Chrome Extensions"
+            }
+          },
+          {
+            "node": {
+              "name": "Audio"
+            }
+          },
+          {
+            "node": {
+              "name": "Video"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1028078",
+      "name": "uLuup",
+      "tagline": "Mindful habits building for imperfect progress",
+      "url": "https://www.producthunt.com/products/uluup?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 72,
+      "commentsCount": 1,
+      "createdAt": "2025-10-25T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/6d9ca492-9a0d-4386-86d5-433071c83ea7.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Health & Fitness"
+            }
+          },
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1026311",
       "name": "Drynosaur",
       "tagline": "Make hangovers go extinct, one day at a time",
       "url": "https://www.producthunt.com/products/drynosaur?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 68,
+      "votesCount": 72,
       "commentsCount": 1,
       "createdAt": "2025-10-25T07:01:00Z",
       "thumbnail": {
@@ -342,7 +399,7 @@
       "name": "Flowdrop",
       "tagline": "Cursor for workflows, automate anything with chat",
       "url": "https://www.producthunt.com/products/flowdrop?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 68,
+      "votesCount": 69,
       "commentsCount": 4,
       "createdAt": "2025-10-25T07:01:00Z",
       "thumbnail": {
@@ -363,37 +420,6 @@
           {
             "node": {
               "name": "No-Code"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1028518",
-      "name": "Slowed Enchanced",
-      "tagline": "Stupid Simple Audio Controls",
-      "url": "https://www.producthunt.com/products/slowed-enchanced?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 67,
-      "commentsCount": 2,
-      "createdAt": "2025-10-25T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/61caea2c-9b4a-4c3d-b671-6c848eb78e0c.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Chrome Extensions"
-            }
-          },
-          {
-            "node": {
-              "name": "Audio"
-            }
-          },
-          {
-            "node": {
-              "name": "Video"
             }
           }
         ]
@@ -421,38 +447,12 @@
       }
     },
     {
-      "id": "1028078",
-      "name": "uLuup",
-      "tagline": "Mindful habits building for imperfect progress",
-      "url": "https://www.producthunt.com/products/uluup?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 66,
-      "commentsCount": 1,
-      "createdAt": "2025-10-25T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/6d9ca492-9a0d-4386-86d5-433071c83ea7.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Health & Fitness"
-            }
-          },
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1027425",
       "name": "RYPL",
       "tagline": "Turn Facebook ad comments into automated sales with AI",
       "url": "https://www.producthunt.com/products/rypl?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 13,
-      "commentsCount": 5,
+      "votesCount": 14,
+      "commentsCount": 9,
       "createdAt": "2025-10-25T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/0defc29c-2402-445f-acd8-f392d54cdf16.gif?auto=format"
@@ -513,7 +513,7 @@
       "name": "Global Business Toolkit",
       "tagline": "Free business tools & calculators",
       "url": "https://www.producthunt.com/products/global-business-toolkit?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 9,
+      "votesCount": 10,
       "commentsCount": 1,
       "createdAt": "2025-10-25T07:01:00Z",
       "thumbnail": {
@@ -571,31 +571,31 @@
       }
     },
     {
-      "id": "1030378",
-      "name": "KPI BOARD - Business intelligence team",
-      "tagline": "Automate dashboards, all data sources, insights in minutes",
-      "url": "https://www.producthunt.com/products/kpi-board-business-intelligence-team?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "id": "1030431",
+      "name": "FreeToolFor",
+      "tagline": "Find free tools for any task instantly",
+      "url": "https://www.producthunt.com/products/freetoolfor?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 8,
       "commentsCount": 1,
       "createdAt": "2025-10-25T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/85302ae7-eeca-463b-bb33-d151dc89be85.png?auto=format"
+        "url": "https://ph-files.imgix.net/a50a043f-e837-4c2a-bfa9-4c279272e91c.x-icon?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "Analytics"
+              "name": "Design Tools"
             }
           },
           {
             "node": {
-              "name": "Data & Analytics"
+              "name": "Productivity"
             }
           },
           {
             "node": {
-              "name": "Business Intelligence"
+              "name": "Developer Tools"
             }
           }
         ]
