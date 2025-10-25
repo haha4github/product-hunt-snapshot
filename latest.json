@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2025-10-25T10:53:00.543Z",
+  "fetchedAt": "2025-10-25T11:13:46.564Z",
   "posts": [
     {
       "id": "1030320",
@@ -7,7 +7,7 @@
       "tagline": "AI that calls you for self-reflection",
       "url": "https://www.producthunt.com/products/friday-8?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 99,
-      "commentsCount": 12,
+      "commentsCount": 13,
       "createdAt": "2025-10-25T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/9193f5a0-bbfc-460b-9145-3ed48beb0ebf.png?auto=format"
@@ -33,11 +33,42 @@
       }
     },
     {
+      "id": "1026960",
+      "name": "Amigo AI",
+      "tagline": "AI-powered personal finance agent",
+      "url": "https://www.producthunt.com/products/amigo-ai-going-deeper-in-transactions?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 92,
+      "commentsCount": 3,
+      "createdAt": "2025-10-25T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/c76e895d-7062-4073-9adb-bb32efd52c1a.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Fintech"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "Personal Finance"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1029816",
       "name": "TheBoringNotch",
       "tagline": "Open source Dynamic Island for your Mac's Notch",
       "url": "https://www.producthunt.com/products/theboringnotch?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 90,
+      "votesCount": 91,
       "commentsCount": 3,
       "createdAt": "2025-10-25T07:01:00Z",
       "thumbnail": {
@@ -68,7 +99,7 @@
       "name": "Flipt v2",
       "tagline": "Feature flags for safe deployments, git-native & self-hosted",
       "url": "https://www.producthunt.com/products/flipt-cloud?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 88,
+      "votesCount": 90,
       "commentsCount": 2,
       "createdAt": "2025-10-25T07:01:00Z",
       "thumbnail": {
@@ -89,6 +120,37 @@
           {
             "node": {
               "name": "GitHub"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1030061",
+      "name": "Updog by Datadog",
+      "tagline": "Don't Wait for Status Page Updates",
+      "url": "https://www.producthunt.com/products/updog-by-datadog?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 87,
+      "commentsCount": 1,
+      "createdAt": "2025-10-25T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/cce1ed22-1dc4-4a9a-9e51-71fbe27104bf.vnd.microsoft.icon?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Analytics"
+            }
+          },
+          {
+            "node": {
+              "name": "Data & Analytics"
+            }
+          },
+          {
+            "node": {
+              "name": "Data"
             }
           }
         ]
@@ -126,73 +188,11 @@
       }
     },
     {
-      "id": "1026960",
-      "name": "Amigo AI",
-      "tagline": "AI-powered personal finance agent",
-      "url": "https://www.producthunt.com/products/amigo-ai-going-deeper-in-transactions?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 90,
-      "commentsCount": 3,
-      "createdAt": "2025-10-25T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/c76e895d-7062-4073-9adb-bb32efd52c1a.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Fintech"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          },
-          {
-            "node": {
-              "name": "Personal Finance"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1030061",
-      "name": "Updog by Datadog",
-      "tagline": "Don't Wait for Status Page Updates",
-      "url": "https://www.producthunt.com/products/updog-by-datadog?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 86,
-      "commentsCount": 1,
-      "createdAt": "2025-10-25T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/cce1ed22-1dc4-4a9a-9e51-71fbe27104bf.vnd.microsoft.icon?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Analytics"
-            }
-          },
-          {
-            "node": {
-              "name": "Data & Analytics"
-            }
-          },
-          {
-            "node": {
-              "name": "Data"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1028413",
       "name": "DeepShare",
       "tagline": "AI Chats to Word Documents",
       "url": "https://www.producthunt.com/products/deepshare-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 81,
+      "votesCount": 82,
       "commentsCount": 2,
       "createdAt": "2025-10-25T07:01:00Z",
       "thumbnail": {
@@ -208,68 +208,6 @@
           {
             "node": {
               "name": "GitHub"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1028407",
-      "name": "Picser",
-      "tagline": "A native, powerful, elegant image viewer designed for macOS.",
-      "url": "https://www.producthunt.com/products/picser-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 79,
-      "commentsCount": 1,
-      "createdAt": "2025-10-25T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/b78f83ec-8c7b-4a26-818b-1a2a77d7c0ec.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "User Experience"
-            }
-          },
-          {
-            "node": {
-              "name": "Apple"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1030389",
-      "name": "AI Cleaner by Lilucat",
-      "tagline": "Free up space instantly with AI. Simple, fast, and private.",
-      "url": "https://www.producthunt.com/products/ai-cleaner-by-lilucat?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 77,
-      "commentsCount": 2,
-      "createdAt": "2025-10-25T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/af4f3a47-0024-4631-abb8-d3d0893eadab.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "iOS"
-            }
-          },
-          {
-            "node": {
-              "name": "Storage"
-            }
-          },
-          {
-            "node": {
-              "name": "Photography"
             }
           }
         ]
@@ -332,6 +270,68 @@
           {
             "node": {
               "name": "Video"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1028407",
+      "name": "Picser",
+      "tagline": "A native, powerful, elegant image viewer designed for macOS.",
+      "url": "https://www.producthunt.com/products/picser-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 79,
+      "commentsCount": 1,
+      "createdAt": "2025-10-25T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/b78f83ec-8c7b-4a26-818b-1a2a77d7c0ec.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "User Experience"
+            }
+          },
+          {
+            "node": {
+              "name": "Apple"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1030389",
+      "name": "AI Cleaner by Lilucat",
+      "tagline": "Free up space instantly with AI. Simple, fast, and private.",
+      "url": "https://www.producthunt.com/products/ai-cleaner-by-lilucat?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 78,
+      "commentsCount": 2,
+      "createdAt": "2025-10-25T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/af4f3a47-0024-4631-abb8-d3d0893eadab.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "iOS"
+            }
+          },
+          {
+            "node": {
+              "name": "Storage"
+            }
+          },
+          {
+            "node": {
+              "name": "Photography"
             }
           }
         ]
@@ -451,7 +451,7 @@
       "name": "RYPL",
       "tagline": "Turn Facebook ad comments into automated sales with AI",
       "url": "https://www.producthunt.com/products/rypl?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 18,
+      "votesCount": 19,
       "commentsCount": 9,
       "createdAt": "2025-10-25T07:01:00Z",
       "thumbnail": {
