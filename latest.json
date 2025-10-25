@@ -1,12 +1,12 @@
 {
-  "fetchedAt": "2025-10-25T11:13:46.564Z",
+  "fetchedAt": "2025-10-25T11:26:57.812Z",
   "posts": [
     {
       "id": "1030320",
       "name": "Friday",
       "tagline": "AI that calls you for self-reflection",
       "url": "https://www.producthunt.com/products/friday-8?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 99,
+      "votesCount": 104,
       "commentsCount": 13,
       "createdAt": "2025-10-25T07:01:00Z",
       "thumbnail": {
@@ -37,7 +37,7 @@
       "name": "Amigo AI",
       "tagline": "AI-powered personal finance agent",
       "url": "https://www.producthunt.com/products/amigo-ai-going-deeper-in-transactions?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 92,
+      "votesCount": 94,
       "commentsCount": 3,
       "createdAt": "2025-10-25T07:01:00Z",
       "thumbnail": {
@@ -68,7 +68,7 @@
       "name": "TheBoringNotch",
       "tagline": "Open source Dynamic Island for your Mac's Notch",
       "url": "https://www.producthunt.com/products/theboringnotch?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 91,
+      "votesCount": 93,
       "commentsCount": 3,
       "createdAt": "2025-10-25T07:01:00Z",
       "thumbnail": {
@@ -99,7 +99,7 @@
       "name": "Flipt v2",
       "tagline": "Feature flags for safe deployments, git-native & self-hosted",
       "url": "https://www.producthunt.com/products/flipt-cloud?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 90,
+      "votesCount": 92,
       "commentsCount": 2,
       "createdAt": "2025-10-25T07:01:00Z",
       "thumbnail": {
@@ -130,7 +130,7 @@
       "name": "Updog by Datadog",
       "tagline": "Don't Wait for Status Page Updates",
       "url": "https://www.producthunt.com/products/updog-by-datadog?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 87,
+      "votesCount": 92,
       "commentsCount": 1,
       "createdAt": "2025-10-25T07:01:00Z",
       "thumbnail": {
@@ -161,7 +161,7 @@
       "name": "Send/Share Files by Couchdrop",
       "tagline": "Send encrypted file links instead of email attachments",
       "url": "https://www.producthunt.com/products/couchdrop?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 86,
+      "votesCount": 87,
       "commentsCount": 2,
       "createdAt": "2025-10-25T07:01:00Z",
       "thumbnail": {
@@ -245,37 +245,6 @@
       }
     },
     {
-      "id": "1028518",
-      "name": "Slowed Enchanced",
-      "tagline": "Stupid Simple Audio Controls",
-      "url": "https://www.producthunt.com/products/slowed-enchanced?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 79,
-      "commentsCount": 2,
-      "createdAt": "2025-10-25T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/61caea2c-9b4a-4c3d-b671-6c848eb78e0c.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Chrome Extensions"
-            }
-          },
-          {
-            "node": {
-              "name": "Audio"
-            }
-          },
-          {
-            "node": {
-              "name": "Video"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1028407",
       "name": "Picser",
       "tagline": "A native, powerful, elegant image viewer designed for macOS.",
@@ -301,6 +270,37 @@
           {
             "node": {
               "name": "Apple"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1028518",
+      "name": "Slowed Enchanced",
+      "tagline": "Stupid Simple Audio Controls",
+      "url": "https://www.producthunt.com/products/slowed-enchanced?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 79,
+      "commentsCount": 2,
+      "createdAt": "2025-10-25T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/61caea2c-9b4a-4c3d-b671-6c848eb78e0c.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Chrome Extensions"
+            }
+          },
+          {
+            "node": {
+              "name": "Audio"
+            }
+          },
+          {
+            "node": {
+              "name": "Video"
             }
           }
         ]
