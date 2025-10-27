@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2025-10-27T23:38:11.345Z",
+  "fetchedAt": "2025-10-27T23:50:45.257Z",
   "posts": [
     {
       "id": "1030536",
@@ -37,7 +37,7 @@
       "name": "Alai",
       "tagline": "Create high quality presentations using AI",
       "url": "https://www.producthunt.com/products/alai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 322,
+      "votesCount": 323,
       "commentsCount": 58,
       "createdAt": "2025-10-27T07:01:00Z",
       "thumbnail": {
@@ -68,8 +68,8 @@
       "name": "AI CMO by Lindy",
       "tagline": "Launch 1000s of marketing experiments in minutes",
       "url": "https://www.producthunt.com/products/lindy?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 285,
-      "commentsCount": 32,
+      "votesCount": 290,
+      "commentsCount": 33,
       "createdAt": "2025-10-27T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/a65ea8f1-d290-4252-9ec3-0e378c559d17.jpeg?auto=format"
@@ -166,7 +166,7 @@
       "name": "Mico",
       "tagline": "A vibrant new way to talk with Copilot",
       "url": "https://www.producthunt.com/products/the-new-microsoft-copilot?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 176,
+      "votesCount": 177,
       "commentsCount": 5,
       "createdAt": "2025-10-27T07:01:00Z",
       "thumbnail": {
@@ -462,37 +462,6 @@
       }
     },
     {
-      "id": "1027585",
-      "name": "JekyllPad",
-      "tagline": "Static Sites Content Made Easy. Zero Markdown or Code.",
-      "url": "https://www.producthunt.com/products/jekyllpad?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 15,
-      "commentsCount": 3,
-      "createdAt": "2025-10-27T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/4c808f87-2992-473b-afa8-21b17c851c71.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "GitHub"
-            }
-          },
-          {
-            "node": {
-              "name": "CRM"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1031294",
       "name": "Uplift UI",
       "tagline": "Component library",
@@ -518,6 +487,37 @@
           {
             "node": {
               "name": "Development"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1027585",
+      "name": "JekyllPad",
+      "tagline": "Static Sites Content Made Easy. Zero Markdown or Code.",
+      "url": "https://www.producthunt.com/products/jekyllpad?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 15,
+      "commentsCount": 3,
+      "createdAt": "2025-10-27T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/4c808f87-2992-473b-afa8-21b17c851c71.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "GitHub"
+            }
+          },
+          {
+            "node": {
+              "name": "CRM"
             }
           }
         ]
