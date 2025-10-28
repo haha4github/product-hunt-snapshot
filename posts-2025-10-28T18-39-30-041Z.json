@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2025-10-28T17:56:31.316Z",
+  "fetchedAt": "2025-10-28T18:39:30.041Z",
   "posts": [
     {
       "id": "1031174",
       "name": "Dynal.AI",
       "tagline": "Your LinkedIn post studio from sources to impact",
       "url": "https://www.producthunt.com/products/dynal-ai-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 347,
-      "commentsCount": 47,
+      "votesCount": 355,
+      "commentsCount": 48,
       "createdAt": "2025-10-28T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/b5f76e2b-a8cf-40d1-a7f3-01cef764f220.svg?auto=format"
@@ -37,8 +37,8 @@
       "name": "Pinch to Build by Vibecode App",
       "tagline": "The most powerful way to build professional mobile apps.",
       "url": "https://www.producthunt.com/products/vibecode-app?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 276,
-      "commentsCount": 27,
+      "votesCount": 290,
+      "commentsCount": 42,
       "createdAt": "2025-10-28T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/e4a1336e-dd8e-45c8-b396-419fe4de70a8.png?auto=format"
@@ -73,7 +73,7 @@
       "name": "Pokee AI",
       "tagline": "Vibe Your Agentic Workflows",
       "url": "https://www.producthunt.com/products/pokee-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 261,
+      "votesCount": 267,
       "commentsCount": 33,
       "createdAt": "2025-10-28T07:01:00Z",
       "thumbnail": {
@@ -104,8 +104,8 @@
       "name": "LLM Stats",
       "tagline": "Compare API models by benchmarks, cost & capabilities",
       "url": "https://www.producthunt.com/products/llm-stats?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 224,
-      "commentsCount": 14,
+      "votesCount": 231,
+      "commentsCount": 15,
       "createdAt": "2025-10-28T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/df1f8052-79ad-4b86-a341-d03dfa2ebbb2.x-icon?auto=format"
@@ -130,7 +130,7 @@
       "name": "Grokipedia",
       "tagline": "Elon's answer to Wikipedia",
       "url": "https://www.producthunt.com/products/grokipedia?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 206,
+      "votesCount": 213,
       "commentsCount": 14,
       "createdAt": "2025-10-28T07:01:00Z",
       "thumbnail": {
@@ -156,7 +156,7 @@
       "name": "Fitbit Enterprise",
       "tagline": "Personal health coach built with Gemini",
       "url": "https://www.producthunt.com/products/fitbit-enterprise?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 146,
+      "votesCount": 149,
       "commentsCount": 3,
       "createdAt": "2025-10-28T07:01:00Z",
       "thumbnail": {
@@ -167,6 +167,37 @@
           {
             "node": {
               "name": "Health & Fitness"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1027567",
+      "name": "chaos",
+      "tagline": "The workspace for music creators",
+      "url": "https://www.producthunt.com/products/chaos-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 132,
+      "commentsCount": 3,
+      "createdAt": "2025-10-28T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/97725a8d-6a5e-4337-9180-0da07279bd0f.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Music"
+            }
+          },
+          {
+            "node": {
+              "name": "Tech"
             }
           }
         ]
@@ -198,37 +229,6 @@
           {
             "node": {
               "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1027567",
-      "name": "chaos",
-      "tagline": "The workspace for music creators",
-      "url": "https://www.producthunt.com/products/chaos-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 131,
-      "commentsCount": 2,
-      "createdAt": "2025-10-28T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/97725a8d-6a5e-4337-9180-0da07279bd0f.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Music"
-            }
-          },
-          {
-            "node": {
-              "name": "Tech"
             }
           }
         ]
@@ -337,7 +337,7 @@
       "name": "Aurely",
       "tagline": "Private voice reminders for Mac with no cloud or accounts",
       "url": "https://www.producthunt.com/products/auraly?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 95,
+      "votesCount": 98,
       "commentsCount": 4,
       "createdAt": "2025-10-28T07:01:00Z",
       "thumbnail": {
@@ -390,7 +390,7 @@
       "tagline": "Discover topics that rank and write content that wins",
       "url": "https://www.producthunt.com/products/rankdots-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 42,
-      "commentsCount": 30,
+      "commentsCount": 32,
       "createdAt": "2025-10-28T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/81f73734-8d7b-4029-8901-5e9e9a1bb729.png?auto=format"
@@ -441,6 +441,37 @@
           {
             "node": {
               "name": "Marketing automation"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1029798",
+      "name": "Next Mile",
+      "tagline": "Track your milestones & celebrate in community",
+      "url": "https://www.producthunt.com/products/next-mile?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 21,
+      "commentsCount": 7,
+      "createdAt": "2025-10-28T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/328de043-d4d8-4018-a6c1-1bac0565e401.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Marketing"
+            }
+          },
+          {
+            "node": {
+              "name": "SaaS"
+            }
+          },
+          {
+            "node": {
+              "name": "Money"
             }
           }
         ]
@@ -509,15 +540,15 @@
       }
     },
     {
-      "id": "1029798",
-      "name": "Next Mile",
-      "tagline": "Track your milestones & celebrate in community",
-      "url": "https://www.producthunt.com/products/next-mile?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 20,
-      "commentsCount": 7,
+      "id": "1029328",
+      "name": "Vortex, 10X your k-factor for free.",
+      "tagline": "Turn invitations into your fastest growth channel",
+      "url": "https://www.producthunt.com/products/vortex-10x-your-k-factor-for-free?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 19,
+      "commentsCount": 3,
       "createdAt": "2025-10-28T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/328de043-d4d8-4018-a6c1-1bac0565e401.png?auto=format"
+        "url": "https://ph-files.imgix.net/178ad8ca-bd64-424a-bd2e-b4e3154ca509.webp?auto=format"
       },
       "topics": {
         "edges": [
@@ -528,12 +559,12 @@
           },
           {
             "node": {
-              "name": "SaaS"
+              "name": "Growth Hacking"
             }
           },
           {
             "node": {
-              "name": "Money"
+              "name": "Growth Hacks "
             }
           }
         ]
@@ -565,27 +596,6 @@
           {
             "node": {
               "name": "NFT"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1031381",
-      "name": "Multi-AI Chat Hub",
-      "tagline": "Every AI Model. Switch models without losing context",
-      "url": "https://www.producthunt.com/products/multi-ai-chat-hub?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 12,
-      "commentsCount": 4,
-      "createdAt": "2025-10-28T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/c75d34c6-ea54-49dd-940f-c15e2896b8bb.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Artificial Intelligence"
             }
           }
         ]
