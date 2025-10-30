@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2025-10-30T23:24:40.873Z",
+  "fetchedAt": "2025-10-30T23:39:03.413Z",
   "posts": [
     {
       "id": "1032171",
@@ -359,6 +359,37 @@
       }
     },
     {
+      "id": "1031907",
+      "name": "BookGraph",
+      "tagline": "Visualize your reading network",
+      "url": "https://www.producthunt.com/products/bookgraph?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 111,
+      "commentsCount": 7,
+      "createdAt": "2025-10-30T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/9f67f682-8089-44eb-b6a1-aad3f5c1e52f.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Tech"
+            }
+          },
+          {
+            "node": {
+              "name": "Books"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1032422",
       "name": "gpt-oss-safeguard",
       "tagline": "Open safety reasoning models with custom safety policies",
@@ -384,37 +415,6 @@
           {
             "node": {
               "name": "Development"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1031907",
-      "name": "BookGraph",
-      "tagline": "Visualize your reading network",
-      "url": "https://www.producthunt.com/products/bookgraph?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 109,
-      "commentsCount": 7,
-      "createdAt": "2025-10-30T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/9f67f682-8089-44eb-b6a1-aad3f5c1e52f.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Tech"
-            }
-          },
-          {
-            "node": {
-              "name": "Books"
             }
           }
         ]
