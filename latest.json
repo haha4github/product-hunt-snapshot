@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2025-11-01T21:52:20.611Z",
+  "fetchedAt": "2025-11-01T22:14:54.498Z",
   "posts": [
     {
       "id": "1030751",
@@ -63,7 +63,7 @@
       "name": "Swetrix",
       "tagline": "Open source, cookieless Google Analytics alternative",
       "url": "https://www.producthunt.com/products/swetrix-analytics?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 173,
+      "votesCount": 180,
       "commentsCount": 7,
       "createdAt": "2025-11-01T07:01:00Z",
       "thumbnail": {
@@ -147,6 +147,32 @@
       }
     },
     {
+      "id": "1032230",
+      "name": "Blixy",
+      "tagline": "Fonts & Themes Keyboard",
+      "url": "https://www.producthunt.com/products/blixy-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 110,
+      "commentsCount": 1,
+      "createdAt": "2025-11-01T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/764bb649-a4bd-46a3-921a-b9161f4a9216.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "iOS"
+            }
+          },
+          {
+            "node": {
+              "name": "Custom Keyboards"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1026211",
       "name": "Screen Ruler",
       "tagline": "Made to measure. Built for everything else.",
@@ -172,32 +198,6 @@
           {
             "node": {
               "name": "Developer Tools"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1032230",
-      "name": "Blixy",
-      "tagline": "Fonts & Themes Keyboard",
-      "url": "https://www.producthunt.com/products/blixy-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 103,
-      "commentsCount": 1,
-      "createdAt": "2025-11-01T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/764bb649-a4bd-46a3-921a-b9161f4a9216.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "iOS"
-            }
-          },
-          {
-            "node": {
-              "name": "Custom Keyboards"
             }
           }
         ]
@@ -266,6 +266,37 @@
       }
     },
     {
+      "id": "1032989",
+      "name": "Gatsbi",
+      "tagline": "AI Co-Scientist for Research and Writing",
+      "url": "https://www.producthunt.com/products/gatsbi?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 15,
+      "commentsCount": 1,
+      "createdAt": "2025-11-01T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/888ae672-18bb-4d62-9b50-be1ce55e4ecd.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Writing"
+            }
+          },
+          {
+            "node": {
+              "name": "Education"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1033190",
       "name": "Retro App Icons - by Iconcraft",
       "tagline": "Create 2010s skeuomorphic app icons for your next project",
@@ -297,58 +328,6 @@
       }
     },
     {
-      "id": "1032989",
-      "name": "Gatsbi",
-      "tagline": "AI Co-Scientist for Research and Writing",
-      "url": "https://www.producthunt.com/products/gatsbi?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 14,
-      "commentsCount": 1,
-      "createdAt": "2025-11-01T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/888ae672-18bb-4d62-9b50-be1ce55e4ecd.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Writing"
-            }
-          },
-          {
-            "node": {
-              "name": "Education"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1027559",
-      "name": "PFPMaker",
-      "tagline": "Your personal AI profile picture studio",
-      "url": "https://www.producthunt.com/products/pfpmaker?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 12,
-      "commentsCount": 1,
-      "createdAt": "2025-11-01T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/be774404-89d3-427a-a48c-662ee375942e.gif?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1021138",
       "name": "Voicely: AI Notes and Reminders",
       "tagline": "Turn Your Voice into Notes and  Smart Reminders",
@@ -374,6 +353,27 @@
           {
             "node": {
               "name": "Calendar"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1027559",
+      "name": "PFPMaker",
+      "tagline": "Your personal AI profile picture studio",
+      "url": "https://www.producthunt.com/products/pfpmaker?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 12,
+      "commentsCount": 1,
+      "createdAt": "2025-11-01T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/be774404-89d3-427a-a48c-662ee375942e.gif?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Artificial Intelligence"
             }
           }
         ]
@@ -535,21 +535,26 @@
       }
     },
     {
-      "id": "1033011",
-      "name": "UGCAlchemist – AI UGC Ads in Minutes",
-      "tagline": "Create TikTok UGC ads without hiring creators, in a minute",
-      "url": "https://www.producthunt.com/products/ugcalchemist?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 8,
+      "id": "1032892",
+      "name": "CommentRocket - LinkedIn Comments",
+      "tagline": "AI that helps founders sell through LinkedIn comments",
+      "url": "https://www.producthunt.com/products/commentrocket-linkedin-comments?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 9,
       "commentsCount": 1,
       "createdAt": "2025-11-01T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/28deb3b9-1580-4564-87b1-3404ae2031c6.png?auto=format"
+        "url": "https://ph-files.imgix.net/e5a0ad45-5b87-4ff4-a2f2-d6363f721539.png?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "Social Media"
+              "name": "Chrome Extensions"
+            }
+          },
+          {
+            "node": {
+              "name": "Sales"
             }
           },
           {
@@ -559,38 +564,33 @@
           },
           {
             "node": {
-              "name": "Social media marketing"
+              "name": "LinkedIn"
             }
           }
         ]
       }
     },
     {
-      "id": "1033059",
-      "name": "Eclipse Technology",
-      "tagline": "The intelligent platform that unifies all your work apps.",
-      "url": "https://www.producthunt.com/products/eclipse-technology?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 8,
-      "commentsCount": 1,
+      "id": "1032896",
+      "name": "Zap For Laravel",
+      "tagline": "The Missing Calendar Management System For Laravel",
+      "url": "https://www.producthunt.com/products/zap-for-laravel?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 9,
+      "commentsCount": 3,
       "createdAt": "2025-11-01T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/99206bfc-b735-4376-9c66-40f62e0949a2.png?auto=format"
+        "url": "https://ph-files.imgix.net/d6b1d45a-22f2-424c-9503-1a63db2172e9.png?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "SaaS"
+              "name": "Software Engineering"
             }
           },
           {
             "node": {
-              "name": "Artificial Intelligence"
-            }
-          },
-          {
-            "node": {
-              "name": "Tech"
+              "name": "GitHub"
             }
           }
         ]
