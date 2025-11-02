@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2025-11-02T05:28:08.360Z",
+  "fetchedAt": "2025-11-02T05:43:33.972Z",
   "posts": [
     {
       "id": "1030751",
@@ -7,7 +7,7 @@
       "tagline": "The first add-on to manage Google Sheets tabs efficiently",
       "url": "https://www.producthunt.com/products/sheets-organizer?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 277,
-      "commentsCount": 15,
+      "commentsCount": 16,
       "createdAt": "2025-11-01T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/f7f1d5a3-b4d1-4f00-b118-a30d40e4b42d.png?auto=format"
@@ -99,7 +99,7 @@
       "name": "SnapDraw",
       "tagline": "Keep Screenshots Always on Top",
       "url": "https://www.producthunt.com/products/snapdraw?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 144,
+      "votesCount": 145,
       "commentsCount": 5,
       "createdAt": "2025-11-01T07:01:00Z",
       "thumbnail": {
@@ -208,7 +208,7 @@
       "name": "PRs MenuBar",
       "tagline": "Stay on top of your pull requests from your Mac menu bar",
       "url": "https://www.producthunt.com/products/prs-menubar?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 106,
+      "votesCount": 107,
       "commentsCount": 2,
       "createdAt": "2025-11-01T07:01:00Z",
       "thumbnail": {
@@ -271,7 +271,7 @@
       "tagline": "Turn Your Voice into Notes and  Smart Reminders",
       "url": "https://www.producthunt.com/products/voicely-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 18,
-      "commentsCount": 15,
+      "commentsCount": 16,
       "createdAt": "2025-11-01T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/288b0cdf-2a22-4996-b9b2-66f9488758e3.png?auto=format"
@@ -291,6 +291,37 @@
           {
             "node": {
               "name": "Calendar"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1032989",
+      "name": "Gatsbi",
+      "tagline": "AI Co-Scientist for Research and Writing",
+      "url": "https://www.producthunt.com/products/gatsbi?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 18,
+      "commentsCount": 1,
+      "createdAt": "2025-11-01T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/888ae672-18bb-4d62-9b50-be1ce55e4ecd.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Writing"
+            }
+          },
+          {
+            "node": {
+              "name": "Education"
             }
           }
         ]
@@ -322,37 +353,6 @@
           {
             "node": {
               "name": "Logo Design"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1032989",
-      "name": "Gatsbi",
-      "tagline": "AI Co-Scientist for Research and Writing",
-      "url": "https://www.producthunt.com/products/gatsbi?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 16,
-      "commentsCount": 1,
-      "createdAt": "2025-11-01T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/888ae672-18bb-4d62-9b50-be1ce55e4ecd.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Writing"
-            }
-          },
-          {
-            "node": {
-              "name": "Education"
             }
           }
         ]
