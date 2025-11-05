@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2025-11-05T13:36:09.984Z",
+  "fetchedAt": "2025-11-05T13:53:01.567Z",
   "posts": [
     {
       "id": "1034256",
       "name": "MeDo by Baidu",
       "tagline": "Build full-stack apps with AI at a fraction of the cost",
       "url": "https://www.producthunt.com/products/medo-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 267,
-      "commentsCount": 72,
+      "votesCount": 271,
+      "commentsCount": 73,
       "createdAt": "2025-11-05T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/4593ff55-1605-484d-a7be-5c4c4d5f463e.png?auto=format"
@@ -37,7 +37,7 @@
       "name": "Blindspot",
       "tagline": "Book 2.5M+ billboards worldwide like you book an Uber",
       "url": "https://www.producthunt.com/products/seeblindspot?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 167,
+      "votesCount": 171,
       "commentsCount": 20,
       "createdAt": "2025-11-05T08:01:00Z",
       "thumbnail": {
@@ -68,7 +68,7 @@
       "name": "Context Link",
       "tagline": "Personal URLs for sharing context with AI",
       "url": "https://www.producthunt.com/products/context-link?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 158,
+      "votesCount": 159,
       "commentsCount": 9,
       "createdAt": "2025-11-05T08:01:00Z",
       "thumbnail": {
@@ -99,7 +99,7 @@
       "name": "Extra Thursday",
       "tagline": "Chat with your inbox. Ask questions, draft, summarize – fast",
       "url": "https://www.producthunt.com/products/extra-thursday?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 148,
+      "votesCount": 150,
       "commentsCount": 10,
       "createdAt": "2025-11-05T08:01:00Z",
       "thumbnail": {
@@ -130,8 +130,8 @@
       "name": "GitLaw Agent",
       "tagline": "AI that drafts and reviews legal documents for free",
       "url": "https://www.producthunt.com/products/gitlaw?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 139,
-      "commentsCount": 15,
+      "votesCount": 144,
+      "commentsCount": 18,
       "createdAt": "2025-11-05T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/60f72116-5e5b-4adc-aa87-17c29188dfab.png?auto=format"
@@ -161,8 +161,8 @@
       "name": "Snyk Studio",
       "tagline": "Real-time security guardrails for your AI code assistant",
       "url": "https://www.producthunt.com/products/snyk?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 135,
-      "commentsCount": 9,
+      "votesCount": 137,
+      "commentsCount": 10,
       "createdAt": "2025-11-05T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/0faa5f4c-3b0b-4737-861b-ad2204f71826.jpeg?auto=format"
@@ -219,6 +219,37 @@
       }
     },
     {
+      "id": "1030158",
+      "name": "Arcitext.com",
+      "tagline": "Write in your voice. Perfect it with AI.",
+      "url": "https://www.producthunt.com/products/arcitext?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 123,
+      "commentsCount": 18,
+      "createdAt": "2025-11-05T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/da9db865-dfb2-4a99-877a-96ae4687fb0b.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Writing"
+            }
+          },
+          {
+            "node": {
+              "name": "Marketing"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1034442",
       "name": "ROAARRR",
       "tagline": "Simple growth analytics. Know your funnel.",
@@ -250,42 +281,11 @@
       }
     },
     {
-      "id": "1030158",
-      "name": "Arcitext.com",
-      "tagline": "Write in your voice. Perfect it with AI.",
-      "url": "https://www.producthunt.com/products/arcitext?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 121,
-      "commentsCount": 18,
-      "createdAt": "2025-11-05T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/da9db865-dfb2-4a99-877a-96ae4687fb0b.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Writing"
-            }
-          },
-          {
-            "node": {
-              "name": "Marketing"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1033913",
       "name": "Perch",
       "tagline": "Dynamic Island for Mac Notch",
       "url": "https://www.producthunt.com/products/perch-7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 117,
+      "votesCount": 119,
       "commentsCount": 11,
       "createdAt": "2025-11-05T08:01:00Z",
       "thumbnail": {
@@ -471,8 +471,8 @@
       "name": "Modular DS",
       "tagline": "A smarter way to manage all your WordPress websites",
       "url": "https://www.producthunt.com/products/modular-ds?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 33,
-      "commentsCount": 19,
+      "votesCount": 34,
+      "commentsCount": 20,
       "createdAt": "2025-11-05T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/7cc6f55f-5e0d-4bfd-94bf-58b333fed76a.png?auto=format"
@@ -596,7 +596,7 @@
       "tagline": "See what AI models understand about your business",
       "url": "https://www.producthunt.com/products/visibility-by-causo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 16,
-      "commentsCount": 9,
+      "commentsCount": 11,
       "createdAt": "2025-11-05T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/d259c5ee-6e4f-4e55-b669-fea3eb472e21.png?auto=format"
