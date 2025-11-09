@@ -1,12 +1,12 @@
 {
-  "fetchedAt": "2025-11-09T09:10:56.359Z",
+  "fetchedAt": "2025-11-09T09:29:30.642Z",
   "posts": [
     {
       "id": "1033543",
       "name": "The Map of Human Ideas",
       "tagline": "Discover where the world’s greatest ideas were born",
       "url": "https://www.producthunt.com/products/the-map-of-human-ideas?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 116,
+      "votesCount": 121,
       "commentsCount": 7,
       "createdAt": "2025-11-09T08:01:00Z",
       "thumbnail": {
@@ -33,12 +33,38 @@
       }
     },
     {
+      "id": "1035919",
+      "name": "Chatter",
+      "tagline": "Discover which reddit investors make it big — and how often",
+      "url": "https://www.producthunt.com/products/chatter-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 89,
+      "commentsCount": 2,
+      "createdAt": "2025-11-09T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/838e080f-2a01-4998-81ec-e253502714f3.jpeg?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Investing"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1024329",
       "name": "Noro ADHD Planner",
       "tagline": "Turn a briandump and wordvomit into a structured plan",
       "url": "https://www.producthunt.com/products/noro-adhd-planner?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 82,
-      "commentsCount": 1,
+      "votesCount": 85,
+      "commentsCount": 2,
       "createdAt": "2025-11-09T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/3aa41089-b609-4fb7-a415-937404afe33c.png?auto=format"
@@ -64,68 +90,11 @@
       }
     },
     {
-      "id": "1035919",
-      "name": "Chatter",
-      "tagline": "Discover which reddit investors make it big — and how often",
-      "url": "https://www.producthunt.com/products/chatter-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 82,
-      "commentsCount": 2,
-      "createdAt": "2025-11-09T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/838e080f-2a01-4998-81ec-e253502714f3.jpeg?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Investing"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1027739",
-      "name": "WordFlippin - Vocabulary that lasts",
-      "tagline": "Flip new words into lasting knowledge daily!!!",
-      "url": "https://www.producthunt.com/products/wordflippin-vocabulary-that-lasts?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 80,
-      "commentsCount": 1,
-      "createdAt": "2025-11-09T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/05017103-a6a3-43d6-bca7-f9d4490d600a.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Education"
-            }
-          },
-          {
-            "node": {
-              "name": "Languages"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1035508",
       "name": "JDoodle.ai",
       "tagline": "Vibe app builder with free bug fixes, db and PAYG credits",
       "url": "https://www.producthunt.com/products/jdoodle-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 79,
+      "votesCount": 84,
       "commentsCount": 1,
       "createdAt": "2025-11-09T08:01:00Z",
       "thumbnail": {
@@ -156,7 +125,7 @@
       "name": "Customer Feedback Portal for Jira",
       "tagline": "Build what matters, with customer feedback in Jira",
       "url": "https://www.producthunt.com/products/released-ffb3f8e8-315c-4569-bc4c-9b666d43cd8e?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 77,
+      "votesCount": 84,
       "commentsCount": 1,
       "createdAt": "2025-11-09T08:01:00Z",
       "thumbnail": {
@@ -177,6 +146,37 @@
           {
             "node": {
               "name": "SaaS"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1027739",
+      "name": "WordFlippin - Vocabulary that lasts",
+      "tagline": "Flip new words into lasting knowledge daily!!!",
+      "url": "https://www.producthunt.com/products/wordflippin-vocabulary-that-lasts?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 81,
+      "commentsCount": 1,
+      "createdAt": "2025-11-09T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/05017103-a6a3-43d6-bca7-f9d4490d600a.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Education"
+            }
+          },
+          {
+            "node": {
+              "name": "Languages"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
             }
           }
         ]
@@ -218,7 +218,7 @@
       "name": "Astrolid",
       "tagline": "Because progress shouldn't be difficult",
       "url": "https://www.producthunt.com/products/astrolid?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 71,
+      "votesCount": 73,
       "commentsCount": 1,
       "createdAt": "2025-11-09T08:01:00Z",
       "thumbnail": {
@@ -249,7 +249,7 @@
       "name": "Epismo: Kickoff Agent",
       "tagline": "Build your human-AI team. Assign the right AI to each task.",
       "url": "https://www.producthunt.com/products/epismo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 68,
+      "votesCount": 69,
       "commentsCount": 1,
       "createdAt": "2025-11-09T08:01:00Z",
       "thumbnail": {
@@ -265,6 +265,37 @@
           {
             "node": {
               "name": "Task Management"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1034119",
+      "name": "Teda.dev - AI app builder",
+      "tagline": "Generates web applications that don't need a server to run",
+      "url": "https://www.producthunt.com/products/teda-dev-ai-app-builder?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 4,
+      "commentsCount": 1,
+      "createdAt": "2025-11-09T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/c929ebb9-c013-4e58-8b8a-e596f86ddeb3.webp?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Design Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Developer Tools"
             }
           },
           {
@@ -338,31 +369,93 @@
       }
     },
     {
-      "id": "1034119",
-      "name": "Teda.dev - AI app builder",
-      "tagline": "Generates web applications that don't need a server to run",
-      "url": "https://www.producthunt.com/products/teda-dev-ai-app-builder?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "id": "1035920",
+      "name": "Akii AI Visibility Score",
+      "tagline": "See how AI models understand and rank your brand - 100% free",
+      "url": "https://www.producthunt.com/products/akii-ai-visibility-score?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 3,
       "commentsCount": 1,
       "createdAt": "2025-11-09T08:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/c929ebb9-c013-4e58-8b8a-e596f86ddeb3.webp?auto=format"
+        "url": "https://ph-files.imgix.net/42b3748a-f9e4-427e-842c-7abbb78a8391.png?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "Design Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Developer Tools"
+              "name": "Productivity"
             }
           },
           {
             "node": {
               "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "Search"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1035828",
+      "name": "CMPKit",
+      "tagline": "Cookie management platform | cmpkit",
+      "url": "https://www.producthunt.com/products/cmpkit?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 3,
+      "commentsCount": 1,
+      "createdAt": "2025-11-09T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/8ae847e3-d59e-4984-80ef-296c04945c85.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Analytics"
+            }
+          },
+          {
+            "node": {
+              "name": "Marketing"
+            }
+          },
+          {
+            "node": {
+              "name": "Privacy"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1035851",
+      "name": "Buildsheet",
+      "tagline": "Create beautiful cheatsheets",
+      "url": "https://www.producthunt.com/products/buildsheet?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 2,
+      "commentsCount": 0,
+      "createdAt": "2025-11-09T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/392a0e6d-449f-499e-ad22-878ad898f940.svg?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Writing"
+            }
+          },
+          {
+            "node": {
+              "name": "Notes"
             }
           }
         ]
@@ -394,6 +487,37 @@
           {
             "node": {
               "name": "Career"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1035942",
+      "name": "Benji — Emotional Intelligence API",
+      "tagline": "Bring emotional understanding to any app.",
+      "url": "https://www.producthunt.com/products/benji-emotional-intelligence-api?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 2,
+      "commentsCount": 1,
+      "createdAt": "2025-11-09T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/d0858e78-66b3-488a-ae4b-fc1293f625e8.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "API"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "Health"
             }
           }
         ]
@@ -487,110 +611,6 @@
           {
             "node": {
               "name": "Games"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1035939",
-      "name": "CertifyMeUA. Free maker of certificates",
-      "tagline": "Free online badges & certificate maker for events",
-      "url": "https://www.producthunt.com/products/certifymeua-free-maker-of-certificates?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 2,
-      "commentsCount": 1,
-      "createdAt": "2025-11-09T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/c78f4d97-cf07-48b8-9411-8c64f7f31a51.jpeg?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Events"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1035790",
-      "name": "PNG to PDF Online",
-      "tagline": "Png to pdf — free online converter",
-      "url": "https://www.producthunt.com/products/png-to-pdf-online?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 1,
-      "commentsCount": 1,
-      "createdAt": "2025-11-09T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/424636ac-7133-48be-9002-864009218f09.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Design Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Tech"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1035808",
-      "name": "Sleke",
-      "tagline": "Sleep with Sleep Cycles",
-      "url": "https://www.producthunt.com/products/sleke?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 1,
-      "commentsCount": 1,
-      "createdAt": "2025-11-09T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/8b3bcbf7-54ae-43e4-b944-a1595b65fe15.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Health & Fitness"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1035976",
-      "name": "Capto: AI photo stories for IG",
-      "tagline": "Turn moment into stories by Al",
-      "url": "https://www.producthunt.com/products/capto-ai-photo-stories-for-ig-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 1,
-      "commentsCount": 1,
-      "createdAt": "2025-11-09T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/cd83a4ad-005f-48eb-a822-2c98d64d6cf7.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Design Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          },
-          {
-            "node": {
-              "name": "Photo & Video"
             }
           }
         ]
