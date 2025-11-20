@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2025-11-20T11:28:29.667Z",
+  "fetchedAt": "2025-11-20T11:42:12.107Z",
   "posts": [
     {
       "id": "1040214",
       "name": "Guideflow",
       "tagline": "The AI Demo Automation platform for SaaS",
       "url": "https://www.producthunt.com/products/guideflow?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 163,
-      "commentsCount": 36,
+      "votesCount": 169,
+      "commentsCount": 38,
       "createdAt": "2025-11-20T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/62088539-989a-4dbd-98f8-8e64cd75bb11.png?auto=format"
@@ -16,17 +16,17 @@
         "edges": [
           {
             "node": {
-              "name": "Design Tools"
-            }
-          },
-          {
-            "node": {
               "name": "Sales"
             }
           },
           {
             "node": {
               "name": "Marketing"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
             }
           }
         ]
@@ -37,7 +37,7 @@
       "name": "Ramble by Todoist",
       "tagline": "Capture tasks by speaking, wherever you use Todoist",
       "url": "https://www.producthunt.com/products/todoist?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 127,
+      "votesCount": 128,
       "commentsCount": 5,
       "createdAt": "2025-11-20T08:01:00Z",
       "thumbnail": {
@@ -63,7 +63,7 @@
       "name": "Dimension",
       "tagline": "AI that connects with your tools and automates the busywork",
       "url": "https://www.producthunt.com/products/dimension-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 122,
+      "votesCount": 125,
       "commentsCount": 9,
       "createdAt": "2025-11-20T08:01:00Z",
       "thumbnail": {
@@ -90,11 +90,42 @@
       }
     },
     {
+      "id": "1040114",
+      "name": "Gemini 3 Brand Audit",
+      "tagline": "Find out what Gemini 3 knows about your brand",
+      "url": "https://www.producthunt.com/products/gemini-3-brand-audit?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 113,
+      "commentsCount": 6,
+      "createdAt": "2025-11-20T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/bf75d3af-d096-4a74-b757-3b4a2a7eae9d.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Analytics"
+            }
+          },
+          {
+            "node": {
+              "name": "Marketing"
+            }
+          },
+          {
+            "node": {
+              "name": "SEO"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1040173",
       "name": "Spine Canvas",
       "tagline": "Go beyond chat & collaborate visually across 300+ AI models",
       "url": "https://www.producthunt.com/products/spine-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 104,
+      "votesCount": 106,
       "commentsCount": 13,
       "createdAt": "2025-11-20T08:01:00Z",
       "thumbnail": {
@@ -125,8 +156,8 @@
       "name": "Refbox",
       "tagline": "Your floating workspace for inspiration.",
       "url": "https://www.producthunt.com/products/refbox?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 104,
-      "commentsCount": 1,
+      "votesCount": 106,
+      "commentsCount": 2,
       "createdAt": "2025-11-20T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/4bd1add5-e78e-4340-9d46-5e52622bddd0.png?auto=format"
@@ -152,42 +183,11 @@
       }
     },
     {
-      "id": "1040114",
-      "name": "Gemini 3 Brand Audit",
-      "tagline": "Find out what Gemini 3 knows about your brand",
-      "url": "https://www.producthunt.com/products/gemini-3-brand-audit?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 102,
-      "commentsCount": 3,
-      "createdAt": "2025-11-20T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/bf75d3af-d096-4a74-b757-3b4a2a7eae9d.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Analytics"
-            }
-          },
-          {
-            "node": {
-              "name": "Marketing"
-            }
-          },
-          {
-            "node": {
-              "name": "SEO"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1039913",
       "name": "ReadMeeting",
       "tagline": "AI that summarizes your meetings with a single click",
       "url": "https://www.producthunt.com/products/readmeeting?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 101,
+      "votesCount": 104,
       "commentsCount": 1,
       "createdAt": "2025-11-20T08:01:00Z",
       "thumbnail": {
@@ -218,7 +218,7 @@
       "name": "Magic Mango",
       "tagline": "The only ad-library marketing teams need",
       "url": "https://www.producthunt.com/products/magic-mango?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 98,
+      "votesCount": 100,
       "commentsCount": 5,
       "createdAt": "2025-11-20T08:01:00Z",
       "thumbnail": {
@@ -245,31 +245,21 @@
       }
     },
     {
-      "id": "1039765",
-      "name": "Karumi",
-      "tagline": "AI agents that deliver personalized product demos, 24/7. ",
-      "url": "https://www.producthunt.com/products/your-ai-demo-agent-24-7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 93,
-      "commentsCount": 3,
+      "id": "1040169",
+      "name": "Color Palette Pro",
+      "tagline": "A synthesizer for colours",
+      "url": "https://www.producthunt.com/products/color-palette-pro?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 97,
+      "commentsCount": 1,
       "createdAt": "2025-11-20T08:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/c3dfd0f3-0cae-41b3-8068-e03440edc6e3.png?auto=format"
+        "url": "https://ph-files.imgix.net/e4cbce39-cc6f-4457-98f7-999a0953c2a6.png?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "Sales"
-            }
-          },
-          {
-            "node": {
-              "name": "SaaS"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
+              "name": "Design Tools"
             }
           }
         ]
@@ -280,7 +270,7 @@
       "name": "Manus Browser Operator",
       "tagline": "Any browser can now become an AI browser",
       "url": "https://www.producthunt.com/products/manus?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 92,
+      "votesCount": 95,
       "commentsCount": 2,
       "createdAt": "2025-11-20T08:01:00Z",
       "thumbnail": {
@@ -316,7 +306,7 @@
       "name": "Read AI for Desktop",
       "tagline": "Capture conversations wherever they occur",
       "url": "https://www.producthunt.com/products/read-ai-for-desktop?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 92,
+      "votesCount": 94,
       "commentsCount": 2,
       "createdAt": "2025-11-20T08:01:00Z",
       "thumbnail": {
@@ -343,21 +333,31 @@
       }
     },
     {
-      "id": "1040169",
-      "name": "Color Palette Pro",
-      "tagline": "A synthesizer for colours",
-      "url": "https://www.producthunt.com/products/color-palette-pro?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 88,
-      "commentsCount": 1,
+      "id": "1039765",
+      "name": "Karumi",
+      "tagline": "AI agents that deliver personalized product demos, 24/7. ",
+      "url": "https://www.producthunt.com/products/your-ai-demo-agent-24-7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 94,
+      "commentsCount": 3,
       "createdAt": "2025-11-20T08:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/e4cbce39-cc6f-4457-98f7-999a0953c2a6.png?auto=format"
+        "url": "https://ph-files.imgix.net/c3dfd0f3-0cae-41b3-8068-e03440edc6e3.png?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "Design Tools"
+              "name": "Sales"
+            }
+          },
+          {
+            "node": {
+              "name": "SaaS"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
             }
           }
         ]
@@ -368,7 +368,7 @@
       "name": "Credyt",
       "tagline": "Real-time billing built for AI",
       "url": "https://www.producthunt.com/products/credyt?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 87,
+      "votesCount": 88,
       "commentsCount": 10,
       "createdAt": "2025-11-20T08:01:00Z",
       "thumbnail": {
@@ -399,7 +399,7 @@
       "name": "Pavis",
       "tagline": "Real-time fact-checking, and manipulation spotting on calls ",
       "url": "https://www.producthunt.com/products/pavis?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 85,
+      "votesCount": 87,
       "commentsCount": 3,
       "createdAt": "2025-11-20T08:01:00Z",
       "thumbnail": {
@@ -430,7 +430,7 @@
       "name": "Flex AI: Your AI Personal Trainer",
       "tagline": "Introducing AI form feedback and AI-powered training coach.",
       "url": "https://www.producthunt.com/products/flex-ai-your-ai-personal-trainer?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 77,
+      "votesCount": 78,
       "commentsCount": 7,
       "createdAt": "2025-11-20T08:01:00Z",
       "thumbnail": {
@@ -466,7 +466,7 @@
       "name": "WordWise for iOS",
       "tagline": "Your personal word journal app, with smart flashcards",
       "url": "https://www.producthunt.com/products/wordwise?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 76,
+      "votesCount": 77,
       "commentsCount": 1,
       "createdAt": "2025-11-20T08:01:00Z",
       "thumbnail": {
@@ -498,6 +498,37 @@
       }
     },
     {
+      "id": "1039806",
+      "name": "Baselight AI",
+      "tagline": "AI that knows the facts",
+      "url": "https://www.producthunt.com/products/baselight?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 75,
+      "commentsCount": 3,
+      "createdAt": "2025-11-20T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/2f68c332-95b2-4387-b8cf-8ddaf3baec59.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "Data Science"
+            }
+          },
+          {
+            "node": {
+              "name": "Data Visualization"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1040147",
       "name": "Signadot Local",
       "tagline": " Code and debug microservices locally with live traffic",
@@ -523,37 +554,6 @@
           {
             "node": {
               "name": "Developer Tools"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1039806",
-      "name": "Baselight AI",
-      "tagline": "AI that knows the facts",
-      "url": "https://www.producthunt.com/products/baselight?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 74,
-      "commentsCount": 3,
-      "createdAt": "2025-11-20T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/2f68c332-95b2-4387-b8cf-8ddaf3baec59.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          },
-          {
-            "node": {
-              "name": "Data Science"
-            }
-          },
-          {
-            "node": {
-              "name": "Data Visualization"
             }
           }
         ]
