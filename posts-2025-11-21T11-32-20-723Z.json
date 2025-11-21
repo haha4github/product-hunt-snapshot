@@ -1,12 +1,12 @@
 {
-  "fetchedAt": "2025-11-21T11:18:44.729Z",
+  "fetchedAt": "2025-11-21T11:32:20.723Z",
   "posts": [
     {
       "id": "711168",
       "name": "Raycast for Windows",
       "tagline": "Your shortcut to everything on Windows.",
       "url": "https://www.producthunt.com/products/raycast?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 143,
+      "votesCount": 150,
       "commentsCount": 5,
       "createdAt": "2025-11-21T08:01:00Z",
       "thumbnail": {
@@ -37,8 +37,8 @@
       "name": "Audience Loop",
       "tagline": "Build smarter audiences before launching ads ",
       "url": "https://www.producthunt.com/products/audience-loop?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 121,
-      "commentsCount": 9,
+      "votesCount": 125,
+      "commentsCount": 11,
       "createdAt": "2025-11-21T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/37a8ee52-7290-4513-8180-eb1d8d3587c3.png?auto=format"
@@ -95,11 +95,42 @@
       }
     },
     {
+      "id": "1039779",
+      "name": "Browser Cash",
+      "tagline": "The stealthiest browser automation platform for web scraping",
+      "url": "https://www.producthunt.com/products/browser-cash?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 107,
+      "commentsCount": 1,
+      "createdAt": "2025-11-21T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/c139a78e-b248-4d2f-9274-f874e0706611.svg?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "API"
+            }
+          },
+          {
+            "node": {
+              "name": "SaaS"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1040217",
       "name": "Antigravity for Raycast",
       "tagline": "Keyboard-first control for Google Antigravity IDE",
       "url": "https://www.producthunt.com/products/antigravity-for-raycast?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 104,
+      "votesCount": 105,
       "commentsCount": 2,
       "createdAt": "2025-11-21T08:01:00Z",
       "thumbnail": {
@@ -125,6 +156,37 @@
           {
             "node": {
               "name": "Social Impact"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1040725",
+      "name": "Globe of History",
+      "tagline": "Interactive 3D globe visualizing 6,000 years of history.",
+      "url": "https://www.producthunt.com/products/globe-of-history?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 99,
+      "commentsCount": 10,
+      "createdAt": "2025-11-21T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/f5535e0b-ea06-415c-b089-426269f8b9c8.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Education"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "Maps"
             }
           }
         ]
@@ -157,73 +219,11 @@
       }
     },
     {
-      "id": "1040725",
-      "name": "Globe of History",
-      "tagline": "Interactive 3D globe visualizing 6,000 years of history.",
-      "url": "https://www.producthunt.com/products/globe-of-history?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 98,
-      "commentsCount": 9,
-      "createdAt": "2025-11-21T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/f5535e0b-ea06-415c-b089-426269f8b9c8.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Education"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          },
-          {
-            "node": {
-              "name": "Maps"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1039779",
-      "name": "Browser Cash",
-      "tagline": "The stealthiest browser automation platform for web scraping",
-      "url": "https://www.producthunt.com/products/browser-cash?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 98,
-      "commentsCount": 1,
-      "createdAt": "2025-11-21T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/c139a78e-b248-4d2f-9274-f874e0706611.svg?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "API"
-            }
-          },
-          {
-            "node": {
-              "name": "SaaS"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1039945",
       "name": "TurtleBar - Smart Battery Saver for Mac",
       "tagline": "Extend your Mac's battery life with one click.",
       "url": "https://www.producthunt.com/products/turtlebar-smart-battery-saver-for-mac?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 96,
+      "votesCount": 99,
       "commentsCount": 1,
       "createdAt": "2025-11-21T08:01:00Z",
       "thumbnail": {
@@ -254,7 +254,7 @@
       "name": "Twogether",
       "tagline": "A shared & synced date idea list for you and your partner",
       "url": "https://www.producthunt.com/products/twogether?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 94,
+      "votesCount": 95,
       "commentsCount": 5,
       "createdAt": "2025-11-21T08:01:00Z",
       "thumbnail": {
@@ -275,6 +275,37 @@
           {
             "node": {
               "name": "Lifestyle"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1040541",
+      "name": "Comet for Android ",
+      "tagline": "Comet is the first agentic AI browser built for mobile.",
+      "url": "https://www.producthunt.com/products/perplexity-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 90,
+      "commentsCount": 2,
+      "createdAt": "2025-11-21T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/d900c0d4-510d-44bc-bb6e-8bb0d8f03199.jpeg?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Android"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "Search"
             }
           }
         ]
@@ -312,42 +343,11 @@
       }
     },
     {
-      "id": "1040541",
-      "name": "Comet for Android ",
-      "tagline": "Comet is the first agentic AI browser built for mobile.",
-      "url": "https://www.producthunt.com/products/perplexity-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 89,
-      "commentsCount": 2,
-      "createdAt": "2025-11-21T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/d900c0d4-510d-44bc-bb6e-8bb0d8f03199.jpeg?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Android"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          },
-          {
-            "node": {
-              "name": "Search"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1031969",
       "name": "elfmonn ",
       "tagline": "Ar storytime & vr games for kids",
       "url": "https://www.producthunt.com/products/elfmonn?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 82,
+      "votesCount": 83,
       "commentsCount": 1,
       "createdAt": "2025-11-21T08:01:00Z",
       "thumbnail": {
@@ -405,37 +405,6 @@
       }
     },
     {
-      "id": "1040732",
-      "name": "SAM 3 & 3D",
-      "tagline": "Segment anything in images & video. Reconstruct 3D objects.",
-      "url": "https://www.producthunt.com/products/meta?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 80,
-      "commentsCount": 1,
-      "createdAt": "2025-11-21T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/a9508686-0808-485a-b445-37f2661fa549.avif?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          },
-          {
-            "node": {
-              "name": "Development"
-            }
-          },
-          {
-            "node": {
-              "name": "Photo & Video"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1034837",
       "name": "1UP",
       "tagline": "Build better habits with your friends",
@@ -461,6 +430,37 @@
           {
             "node": {
               "name": "Social Networking"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1040732",
+      "name": "SAM 3 & 3D",
+      "tagline": "Segment anything in images & video. Reconstruct 3D objects.",
+      "url": "https://www.producthunt.com/products/meta?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 80,
+      "commentsCount": 1,
+      "createdAt": "2025-11-21T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/a9508686-0808-485a-b445-37f2661fa549.avif?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "Development"
+            }
+          },
+          {
+            "node": {
+              "name": "Photo & Video"
             }
           }
         ]
@@ -502,7 +502,7 @@
       "name": "Good Dad",
       "tagline": "Daily mindful parenting reminders for iOS & Android",
       "url": "https://www.producthunt.com/products/good-dad?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 78,
+      "votesCount": 77,
       "commentsCount": 3,
       "createdAt": "2025-11-21T08:01:00Z",
       "thumbnail": {
@@ -559,7 +559,7 @@
       "name": "Mixup",
       "tagline": "creative photo magic",
       "url": "https://www.producthunt.com/products/mixup?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 74,
+      "votesCount": 75,
       "commentsCount": 1,
       "createdAt": "2025-11-21T08:01:00Z",
       "thumbnail": {
@@ -590,7 +590,7 @@
       "name": "Storiara",
       "tagline": "AI Coordination and Budgeting for Indie Filmmakers",
       "url": "https://www.producthunt.com/products/storiara?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 70,
+      "votesCount": 72,
       "commentsCount": 1,
       "createdAt": "2025-11-21T08:01:00Z",
       "thumbnail": {
