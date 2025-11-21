@@ -1,12 +1,12 @@
 {
-  "fetchedAt": "2025-11-21T19:40:21.933Z",
+  "fetchedAt": "2025-11-21T19:52:54.729Z",
   "posts": [
     {
       "id": "711168",
       "name": "Raycast for Windows",
       "tagline": "Your shortcut to everything on Windows.",
       "url": "https://www.producthunt.com/products/raycast?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 320,
+      "votesCount": 322,
       "commentsCount": 24,
       "createdAt": "2025-11-21T08:01:00Z",
       "thumbnail": {
@@ -37,7 +37,7 @@
       "name": "Audience Loop",
       "tagline": "Build smarter audiences before launching ads ",
       "url": "https://www.producthunt.com/products/audience-loop?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 258,
+      "votesCount": 259,
       "commentsCount": 51,
       "createdAt": "2025-11-21T08:01:00Z",
       "thumbnail": {
@@ -99,7 +99,7 @@
       "name": "Browser Cash",
       "tagline": "The stealthiest browser automation platform for web scraping",
       "url": "https://www.producthunt.com/products/browser-cash?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 198,
+      "votesCount": 200,
       "commentsCount": 16,
       "createdAt": "2025-11-21T08:01:00Z",
       "thumbnail": {
@@ -374,6 +374,37 @@
       }
     },
     {
+      "id": "1040590",
+      "name": "Instant Heatmaps by Crazy Egg",
+      "tagline": "See where users click across your website, 100% free",
+      "url": "https://www.producthunt.com/products/crazy-egg?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 102,
+      "commentsCount": 9,
+      "createdAt": "2025-11-21T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/f633fbd5-b0ff-4387-8fd1-12efc4b7f59a.webp?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Analytics"
+            }
+          },
+          {
+            "node": {
+              "name": "Marketing"
+            }
+          },
+          {
+            "node": {
+              "name": "SaaS"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1040732",
       "name": "SAM 3 & 3D",
       "tagline": "Segment anything in images & video. Reconstruct 3D objects.",
@@ -399,37 +430,6 @@
           {
             "node": {
               "name": "Photo & Video"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1040590",
-      "name": "Instant Heatmaps by Crazy Egg",
-      "tagline": "See where users click across your website, 100% free",
-      "url": "https://www.producthunt.com/products/crazy-egg?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 101,
-      "commentsCount": 8,
-      "createdAt": "2025-11-21T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/f633fbd5-b0ff-4387-8fd1-12efc4b7f59a.webp?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Analytics"
-            }
-          },
-          {
-            "node": {
-              "name": "Marketing"
-            }
-          },
-          {
-            "node": {
-              "name": "SaaS"
             }
           }
         ]
