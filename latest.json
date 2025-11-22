@@ -1,12 +1,12 @@
 {
-  "fetchedAt": "2025-11-22T12:48:41.560Z",
+  "fetchedAt": "2025-11-22T13:15:43.696Z",
   "posts": [
     {
       "id": "1039243",
       "name": "Lila by Zivy",
       "tagline": "Turn every new tab into a 30-second energy reset",
       "url": "https://www.producthunt.com/products/zivy?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 175,
+      "votesCount": 177,
       "commentsCount": 27,
       "createdAt": "2025-11-22T08:01:00Z",
       "thumbnail": {
@@ -37,7 +37,7 @@
       "name": "Bookmarkjar ®",
       "tagline": "AI-powered bookmark manager for everything you save",
       "url": "https://www.producthunt.com/products/bookmarkjar?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 122,
+      "votesCount": 129,
       "commentsCount": 11,
       "createdAt": "2025-11-22T08:01:00Z",
       "thumbnail": {
@@ -68,7 +68,7 @@
       "name": "Side Space 2.0",
       "tagline": "#1 AI Assistant for Your Tabs",
       "url": "https://www.producthunt.com/products/side-space?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 110,
+      "votesCount": 114,
       "commentsCount": 10,
       "createdAt": "2025-11-22T08:01:00Z",
       "thumbnail": {
@@ -99,7 +99,7 @@
       "name": "SynthID by Google DeepMind",
       "tagline": "Detect AI-generated content with Google’s new watermark tool",
       "url": "https://www.producthunt.com/products/gemini-1-5-pro?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 108,
+      "votesCount": 111,
       "commentsCount": 1,
       "createdAt": "2025-11-22T08:01:00Z",
       "thumbnail": {
@@ -130,7 +130,7 @@
       "name": "AI Browser",
       "tagline": "Automate anything online with a single prompt.",
       "url": "https://www.producthunt.com/products/ai-browser?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 97,
+      "votesCount": 99,
       "commentsCount": 5,
       "createdAt": "2025-11-22T08:01:00Z",
       "thumbnail": {
@@ -162,7 +162,7 @@
       "tagline": "Lovable, but Teletext. A full channel from a single prompt.",
       "url": "https://www.producthunt.com/products/textable-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 93,
-      "commentsCount": 5,
+      "commentsCount": 6,
       "createdAt": "2025-11-22T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/19f872ee-1ad0-49d0-9802-c030f9f4ec83.x-icon?auto=format"
@@ -192,7 +192,7 @@
       "name": "Hargun's MacOS",
       "tagline": "A fully interactive, Mac-like experience directly in browser",
       "url": "https://www.producthunt.com/products/hargun-s-macos?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 92,
+      "votesCount": 93,
       "commentsCount": 3,
       "createdAt": "2025-11-22T08:01:00Z",
       "thumbnail": {
@@ -245,6 +245,32 @@
       }
     },
     {
+      "id": "1040957",
+      "name": "Onyx",
+      "tagline": "Free, local-first 4K screen recorder",
+      "url": "https://www.producthunt.com/products/onyx-free-screen-recorder?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 89,
+      "commentsCount": 5,
+      "createdAt": "2025-11-22T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/03fc2b64-f547-4d58-b3d8-f18e0c060279.jpeg?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1040628",
       "name": "Auto Shutdown",
       "tagline": "Make Mommy proud, never miss bedtime.",
@@ -271,37 +297,11 @@
       }
     },
     {
-      "id": "1040957",
-      "name": "Onyx",
-      "tagline": "Free, local-first 4K screen recorder",
-      "url": "https://www.producthunt.com/products/onyx-free-screen-recorder?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 88,
-      "commentsCount": 5,
-      "createdAt": "2025-11-22T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/03fc2b64-f547-4d58-b3d8-f18e0c060279.jpeg?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1037264",
       "name": "npm.bet",
       "tagline": "Beautiful, interactive npm trends visualizer",
       "url": "https://www.producthunt.com/products/npm-bet?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 86,
+      "votesCount": 87,
       "commentsCount": 3,
       "createdAt": "2025-11-22T08:01:00Z",
       "thumbnail": {
@@ -404,8 +404,8 @@
       "name": "Noxs AI",
       "tagline": "Virtual Project Manager for Tech Teams",
       "url": "https://www.producthunt.com/products/noxs-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 39,
-      "commentsCount": 11,
+      "votesCount": 40,
+      "commentsCount": 13,
       "createdAt": "2025-11-22T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/556f4089-44bc-4943-8951-91f7ce9b74ed.png?auto=format"
@@ -435,11 +435,11 @@
       "name": "AI-Researched Social Media Post Ideas",
       "tagline": "Fill the Content Gap between You and Your Audience",
       "url": "https://www.producthunt.com/products/ai-researched-social-media-post-ideas?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 17,
-      "commentsCount": 4,
+      "votesCount": 18,
+      "commentsCount": 5,
       "createdAt": "2025-11-22T08:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/b8857428-d279-462c-bd4e-3bfe6bf951f7.vnd.microsoft.icon?auto=format"
+        "url": "https://ph-files.imgix.net/9e7d5a76-bf69-4d64-bfcb-db308b471aa3.png?auto=format"
       },
       "topics": {
         "edges": [
@@ -467,7 +467,7 @@
       "tagline": "SEMrush, but designed for the Chrome Web Store",
       "url": "https://www.producthunt.com/products/extension-ranker?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 12,
-      "commentsCount": 5,
+      "commentsCount": 6,
       "createdAt": "2025-11-22T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/1d463dd2-724e-46a5-bc9a-a34eada2f352.vnd.microsoft.icon?auto=format"
@@ -586,31 +586,31 @@
       }
     },
     {
-      "id": "1041027",
-      "name": "textytools.dev",
-      "tagline": "Free browser tools for developers",
-      "url": "https://www.producthunt.com/products/textytools-dev?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "id": "1040832",
+      "name": "GitPulse",
+      "tagline": "Discover the perfect open-source project to contribute to ",
+      "url": "https://www.producthunt.com/products/gitpulse?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 9,
       "commentsCount": 1,
       "createdAt": "2025-11-22T08:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/7b8e66bb-ed69-4df7-a056-a09c381032c3.x-icon?auto=format"
+        "url": "https://ph-files.imgix.net/efc03be6-fe8c-49d8-b039-01ff9be6f51d.png?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "Productivity"
+              "name": "Task Management"
             }
           },
           {
             "node": {
-              "name": "Software Engineering"
+              "name": "Open Source"
             }
           },
           {
             "node": {
-              "name": "Development"
+              "name": "GitHub"
             }
           }
         ]
