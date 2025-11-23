@@ -1,12 +1,12 @@
 {
-  "fetchedAt": "2025-11-23T08:50:38.669Z",
+  "fetchedAt": "2025-11-23T09:13:20.499Z",
   "posts": [
     {
       "id": "1022954",
       "name": "DesignLumo",
       "tagline": "Generate editable designs and ads in seconds",
       "url": "https://www.producthunt.com/products/designlumo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 105,
+      "votesCount": 107,
       "commentsCount": 15,
       "createdAt": "2025-11-23T08:01:00Z",
       "thumbnail": {
@@ -37,8 +37,8 @@
       "name": "ProspectEcho",
       "tagline": "Talk to companies running Facebook ads",
       "url": "https://www.producthunt.com/products/prospectecho?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 87,
-      "commentsCount": 15,
+      "votesCount": 90,
+      "commentsCount": 17,
       "createdAt": "2025-11-23T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/cbea0e73-e75d-4ab7-8854-255df0c9b578.png?auto=format"
@@ -64,43 +64,12 @@
       }
     },
     {
-      "id": "1040729",
-      "name": "Dim Notes",
-      "tagline": "Auto-tags your thoughts",
-      "url": "https://www.producthunt.com/products/dim-notes?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 76,
-      "commentsCount": 4,
-      "createdAt": "2025-11-23T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/c76e1e36-8a74-45e3-9d9d-a0b0552358be.jpeg?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Notes"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1037529",
       "name": "Felo",
       "tagline": "The New Work: Visual collaboration workspace with AI agents",
       "url": "https://www.producthunt.com/products/felo-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 74,
-      "commentsCount": 3,
+      "votesCount": 85,
+      "commentsCount": 4,
       "createdAt": "2025-11-23T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/fbd580a6-0093-464b-b8af-253027905e7e.png?auto=format"
@@ -126,11 +95,42 @@
       }
     },
     {
+      "id": "1040729",
+      "name": "Dim Notes",
+      "tagline": "Auto-tags your thoughts",
+      "url": "https://www.producthunt.com/products/dim-notes?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 82,
+      "commentsCount": 7,
+      "createdAt": "2025-11-23T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/c76e1e36-8a74-45e3-9d9d-a0b0552358be.jpeg?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Notes"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1041118",
       "name": "Google Nano Banana Pro",
       "tagline": "Gemini 3 Pro Image Generator based on Google Nano Banana",
       "url": "https://www.producthunt.com/products/google-nano-banana-pro?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 66,
+      "votesCount": 70,
       "commentsCount": 1,
       "createdAt": "2025-11-23T08:01:00Z",
       "thumbnail": {
@@ -157,38 +157,12 @@
       }
     },
     {
-      "id": "1038439",
-      "name": "Ember",
-      "tagline": "Describe your meals, track your calories",
-      "url": "https://www.producthunt.com/products/ember-104?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 60,
-      "commentsCount": 1,
-      "createdAt": "2025-11-23T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/62059de7-c988-4725-8c8a-a3f4e7b63a60.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Health & Fitness"
-            }
-          },
-          {
-            "node": {
-              "name": "Nutrition"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1039289",
       "name": "Code Mode",
-      "tagline": "Let agents call MCP & UTCP tools via code execution",
+      "tagline": "Let AI agents call MCP & UTCP tools via code execution",
       "url": "https://www.producthunt.com/products/utcp?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 60,
-      "commentsCount": 2,
+      "votesCount": 65,
+      "commentsCount": 4,
       "createdAt": "2025-11-23T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/0710a380-08af-4ce5-a266-d1ec1a6966c5.png?auto=format"
@@ -223,7 +197,7 @@
       "name": "BrandJet AI",
       "tagline": "Turn brand insights into outreach that moves fast",
       "url": "https://www.producthunt.com/products/brandjet-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 59,
+      "votesCount": 62,
       "commentsCount": 4,
       "createdAt": "2025-11-23T08:01:00Z",
       "thumbnail": {
@@ -244,6 +218,63 @@
           {
             "node": {
               "name": "Data & Analytics"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1040722",
+      "name": "Next3 Offload",
+      "tagline": "Reduce image loading time by offloading media to the cloud.",
+      "url": "https://www.producthunt.com/products/next3-offload?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 61,
+      "commentsCount": 1,
+      "createdAt": "2025-11-23T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/55f1575f-697a-4cec-9720-0f822aac23eb.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "SEO"
+            }
+          },
+          {
+            "node": {
+              "name": "WordPress"
+            }
+          },
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1038439",
+      "name": "Ember",
+      "tagline": "Describe your meals, track your calories",
+      "url": "https://www.producthunt.com/products/ember-104?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 61,
+      "commentsCount": 1,
+      "createdAt": "2025-11-23T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/62059de7-c988-4725-8c8a-a3f4e7b63a60.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Health & Fitness"
+            }
+          },
+          {
+            "node": {
+              "name": "Nutrition"
             }
           }
         ]
@@ -281,6 +312,37 @@
       }
     },
     {
+      "id": "1039838",
+      "name": "ThreadSignals",
+      "tagline": "Warm leads from real conversations—not cold outreach",
+      "url": "https://www.producthunt.com/products/threadsignals-real-buyer-intent?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 59,
+      "commentsCount": 1,
+      "createdAt": "2025-11-23T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/4b83d22e-314b-4217-8dc1-85ea0c5aa48c.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Sales"
+            }
+          },
+          {
+            "node": {
+              "name": "Marketing"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1041079",
       "name": "SuperIntern Translation",
       "tagline": "Real-time Translation AI, Live Notes & Instant Answers",
@@ -306,68 +368,6 @@
           {
             "node": {
               "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1040722",
-      "name": "Next3 Offload",
-      "tagline": "Reduce image loading time by offloading media to the cloud.",
-      "url": "https://www.producthunt.com/products/next3-offload?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 57,
-      "commentsCount": 1,
-      "createdAt": "2025-11-23T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/55f1575f-697a-4cec-9720-0f822aac23eb.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "SEO"
-            }
-          },
-          {
-            "node": {
-              "name": "WordPress"
-            }
-          },
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1039838",
-      "name": "ThreadSignals",
-      "tagline": "Warm leads from real conversations—not cold outreach",
-      "url": "https://www.producthunt.com/products/threadsignals-real-buyer-intent?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 55,
-      "commentsCount": 1,
-      "createdAt": "2025-11-23T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/4b83d22e-314b-4217-8dc1-85ea0c5aa48c.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Sales"
-            }
-          },
-          {
-            "node": {
-              "name": "Marketing"
             }
           }
         ]
@@ -472,6 +472,37 @@
       }
     },
     {
+      "id": "1040340",
+      "name": "Picbolt",
+      "tagline": "Screenshot editor & design tool for mockups",
+      "url": "https://www.producthunt.com/products/picbolt?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 3,
+      "commentsCount": 0,
+      "createdAt": "2025-11-23T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/29df56c0-a3b8-4296-b3be-b4f3a84f3d4b.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Design Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Social Media"
+            }
+          },
+          {
+            "node": {
+              "name": "SaaS"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1041095",
       "name": "DataSet toolset",
       "tagline": "Set of tools to work with data, lists and code",
@@ -503,62 +534,31 @@
       }
     },
     {
-      "id": "1041267",
-      "name": "Chini.Fit - Find Hidden Sugar in Meals",
-      "tagline": "Your Personalized AI Meal Analyzer for Sugar & Health 🥘 ",
-      "url": "https://www.producthunt.com/products/chini-fit?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 2,
-      "commentsCount": 3,
-      "createdAt": "2025-11-23T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/6abd8056-e2b2-46df-bcdb-be603b632f0d.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Health & Fitness"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          },
-          {
-            "node": {
-              "name": "Food & Drink"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1041348",
-      "name": "ProBoard",
-      "tagline": "All projects. One board.",
-      "url": "https://www.producthunt.com/products/proboard-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 2,
+      "id": "1041254",
+      "name": "watercooler.market",
+      "tagline": "Turning office small talk into a competitive sport",
+      "url": "https://www.producthunt.com/products/watercooler-market?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 3,
       "commentsCount": 1,
       "createdAt": "2025-11-23T08:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/e7fe8c3e-6e10-4e53-bcd4-ed6aafc77e88.png?auto=format"
+        "url": "https://ph-files.imgix.net/962658c1-62e3-48bf-8882-cdd4708708f8.png?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "Productivity"
+              "name": "Web App"
             }
           },
           {
             "node": {
-              "name": "Task Management"
+              "name": "Entertainment"
             }
           },
           {
             "node": {
-              "name": "Work In Progress "
+              "name": "Pop culture"
             }
           }
         ]
