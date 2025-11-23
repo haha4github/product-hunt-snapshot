@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2025-11-23T19:52:50.665Z",
+  "fetchedAt": "2025-11-23T20:20:35.355Z",
   "posts": [
     {
       "id": "1041118",
       "name": "Google Nano Banana Pro",
       "tagline": "Gemini 3 Pro Image Generator based on Google Nano Banana",
       "url": "https://www.producthunt.com/products/google-nano-banana-pro?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 298,
-      "commentsCount": 5,
+      "votesCount": 310,
+      "commentsCount": 6,
       "createdAt": "2025-11-23T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/c8edc9c3-90ff-4708-83fc-80f7555adf8a.png?auto=format"
@@ -37,7 +37,7 @@
       "name": "Dim Notes",
       "tagline": "Auto-tags your thoughts",
       "url": "https://www.producthunt.com/products/dim-notes?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 229,
+      "votesCount": 231,
       "commentsCount": 19,
       "createdAt": "2025-11-23T08:01:00Z",
       "thumbnail": {
@@ -68,8 +68,8 @@
       "name": "BrandJet AI",
       "tagline": "Turn brand insights into outreach that moves fast",
       "url": "https://www.producthunt.com/products/brandjet-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 217,
-      "commentsCount": 19,
+      "votesCount": 221,
+      "commentsCount": 25,
       "createdAt": "2025-11-23T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/5c9b1391-9822-4df8-8ac7-bc66d97daa04.jpeg?auto=format"
@@ -99,7 +99,7 @@
       "name": "ProspectEcho",
       "tagline": "Talk to companies running Facebook ads",
       "url": "https://www.producthunt.com/products/prospectecho?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 180,
+      "votesCount": 182,
       "commentsCount": 32,
       "createdAt": "2025-11-23T08:01:00Z",
       "thumbnail": {
@@ -130,7 +130,7 @@
       "name": "DesignLumo",
       "tagline": "Generate editable designs & ads using gemini 3",
       "url": "https://www.producthunt.com/products/designlumo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 158,
+      "votesCount": 160,
       "commentsCount": 22,
       "createdAt": "2025-11-23T08:01:00Z",
       "thumbnail": {
@@ -192,7 +192,7 @@
       "name": "Next3 Offload",
       "tagline": "Reduce image loading time by offloading media to the cloud.",
       "url": "https://www.producthunt.com/products/next3-offload?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 129,
+      "votesCount": 130,
       "commentsCount": 7,
       "createdAt": "2025-11-23T08:01:00Z",
       "thumbnail": {
@@ -280,7 +280,7 @@
       "name": "Code Mode",
       "tagline": "Slash MCP token usage by 68%",
       "url": "https://www.producthunt.com/products/utcp?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 107,
+      "votesCount": 109,
       "commentsCount": 5,
       "createdAt": "2025-11-23T08:01:00Z",
       "thumbnail": {
@@ -316,7 +316,7 @@
       "name": "SuperIntern Translation",
       "tagline": "Real-time Translation AI, Live Notes & Instant Answers",
       "url": "https://www.producthunt.com/products/superintern?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 98,
+      "votesCount": 99,
       "commentsCount": 7,
       "createdAt": "2025-11-23T08:01:00Z",
       "thumbnail": {
@@ -498,6 +498,37 @@
       }
     },
     {
+      "id": "1041321",
+      "name": "duration.ai",
+      "tagline": "Turn anything into a fun, adaptive learning plan",
+      "url": "https://www.producthunt.com/products/duration-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 13,
+      "commentsCount": 8,
+      "createdAt": "2025-11-23T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/91d95fae-e6d9-42eb-9ab1-d9e060c85ccf.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Education"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "Online Learning"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1041295",
       "name": "better-env",
       "tagline": "A Secure, Developer-Friendly Alternative to .env",
@@ -528,37 +559,6 @@
           {
             "node": {
               "name": "Development"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1041321",
-      "name": "duration.ai",
-      "tagline": "Turn anything into a fun, adaptive learning plan",
-      "url": "https://www.producthunt.com/products/duration-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 12,
-      "commentsCount": 8,
-      "createdAt": "2025-11-23T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/91d95fae-e6d9-42eb-9ab1-d9e060c85ccf.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Education"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          },
-          {
-            "node": {
-              "name": "Online Learning"
             }
           }
         ]
