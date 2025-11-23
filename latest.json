@@ -1,12 +1,12 @@
 {
-  "fetchedAt": "2025-11-23T13:49:14.163Z",
+  "fetchedAt": "2025-11-23T14:08:59.312Z",
   "posts": [
     {
       "id": "1041118",
       "name": "Google Nano Banana Pro",
       "tagline": "Gemini 3 Pro Image Generator based on Google Nano Banana",
       "url": "https://www.producthunt.com/products/google-nano-banana-pro?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 170,
+      "votesCount": 174,
       "commentsCount": 4,
       "createdAt": "2025-11-23T08:01:00Z",
       "thumbnail": {
@@ -37,7 +37,7 @@
       "name": "Dim Notes",
       "tagline": "Auto-tags your thoughts",
       "url": "https://www.producthunt.com/products/dim-notes?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 164,
+      "votesCount": 171,
       "commentsCount": 15,
       "createdAt": "2025-11-23T08:01:00Z",
       "thumbnail": {
@@ -68,8 +68,8 @@
       "name": "BrandJet AI",
       "tagline": "Turn brand insights into outreach that moves fast",
       "url": "https://www.producthunt.com/products/brandjet-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 142,
-      "commentsCount": 12,
+      "votesCount": 144,
+      "commentsCount": 13,
       "createdAt": "2025-11-23T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/5c9b1391-9822-4df8-8ac7-bc66d97daa04.jpeg?auto=format"
@@ -99,8 +99,8 @@
       "name": "ProspectEcho",
       "tagline": "Talk to companies running Facebook ads",
       "url": "https://www.producthunt.com/products/prospectecho?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 135,
-      "commentsCount": 24,
+      "votesCount": 136,
+      "commentsCount": 25,
       "createdAt": "2025-11-23T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/cbea0e73-e75d-4ab7-8854-255df0c9b578.png?auto=format"
@@ -193,7 +193,7 @@
       "tagline": "Reduce image loading time by offloading media to the cloud.",
       "url": "https://www.producthunt.com/products/next3-offload?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 113,
-      "commentsCount": 7,
+      "commentsCount": 8,
       "createdAt": "2025-11-23T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/55f1575f-697a-4cec-9720-0f822aac23eb.png?auto=format"
@@ -223,7 +223,7 @@
       "name": "Ember",
       "tagline": "Describe your meals, track your calories",
       "url": "https://www.producthunt.com/products/ember-104?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 93,
+      "votesCount": 95,
       "commentsCount": 3,
       "createdAt": "2025-11-23T08:01:00Z",
       "thumbnail": {
@@ -239,6 +239,37 @@
           {
             "node": {
               "name": "Nutrition"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1038661",
+      "name": "Yaranga",
+      "tagline": "Turn your WhatsApp voice messages into notes and tasks",
+      "url": "https://www.producthunt.com/products/yaranga?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 93,
+      "commentsCount": 1,
+      "createdAt": "2025-11-23T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/240a4b9a-86ab-4ddd-bf98-fa5529ae4790.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Task Management"
+            }
+          },
+          {
+            "node": {
+              "name": "Messaging"
+            }
+          },
+          {
+            "node": {
+              "name": "Notes"
             }
           }
         ]
@@ -270,37 +301,6 @@
           {
             "node": {
               "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1038661",
-      "name": "Yaranga",
-      "tagline": "Turn your WhatsApp voice messages into notes and tasks",
-      "url": "https://www.producthunt.com/products/yaranga?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 92,
-      "commentsCount": 1,
-      "createdAt": "2025-11-23T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/240a4b9a-86ab-4ddd-bf98-fa5529ae4790.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Task Management"
-            }
-          },
-          {
-            "node": {
-              "name": "Messaging"
-            }
-          },
-          {
-            "node": {
-              "name": "Notes"
             }
           }
         ]
@@ -374,6 +374,37 @@
       }
     },
     {
+      "id": "1041254",
+      "name": "watercooler.market",
+      "tagline": "Polymarket for your slack channel",
+      "url": "https://www.producthunt.com/products/watercooler-market?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 15,
+      "commentsCount": 5,
+      "createdAt": "2025-11-23T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/962658c1-62e3-48bf-8882-cdd4708708f8.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Web App"
+            }
+          },
+          {
+            "node": {
+              "name": "Entertainment"
+            }
+          },
+          {
+            "node": {
+              "name": "Pop culture"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1041267",
       "name": "Chini.Fit - Find Hidden Sugar in Meals",
       "tagline": "Your Personalized AI Meal Analyzer for Sugar & Health 🥘 ",
@@ -399,37 +430,6 @@
           {
             "node": {
               "name": "Food & Drink"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1041254",
-      "name": "watercooler.market",
-      "tagline": "Polymarket for your slack channel",
-      "url": "https://www.producthunt.com/products/watercooler-market?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 13,
-      "commentsCount": 3,
-      "createdAt": "2025-11-23T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/962658c1-62e3-48bf-8882-cdd4708708f8.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Web App"
-            }
-          },
-          {
-            "node": {
-              "name": "Entertainment"
-            }
-          },
-          {
-            "node": {
-              "name": "Pop culture"
             }
           }
         ]
