@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2025-11-25T08:34:45.048Z",
+  "fetchedAt": "2025-11-25T08:56:30.291Z",
   "posts": [
     {
       "id": "1039276",
       "name": "nao",
       "tagline": "AI data IDE for 10x faster data work",
       "url": "https://www.producthunt.com/products/nao-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 89,
-      "commentsCount": 7,
+      "votesCount": 106,
+      "commentsCount": 14,
       "createdAt": "2025-11-25T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/cd1094e8-6250-4e0d-bbfd-6b30feb97744.png?auto=format"
@@ -37,8 +37,8 @@
       "name": "Klariqo AI Voice Assistants",
       "tagline": "AI Voice assistant in 3 minutes. Built for non-developers",
       "url": "https://www.producthunt.com/products/klariqo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 79,
-      "commentsCount": 4,
+      "votesCount": 89,
+      "commentsCount": 6,
       "createdAt": "2025-11-25T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/a92fd88d-cb2c-4dfb-b74c-d7a02850f1f6.png?auto=format"
@@ -64,11 +64,73 @@
       }
     },
     {
+      "id": "1039553",
+      "name": "Hatable",
+      "tagline": "Are you sure it's l*vable 👀?",
+      "url": "https://www.producthunt.com/products/hatable?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 77,
+      "commentsCount": 5,
+      "createdAt": "2025-11-25T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/90ef3604-d551-4c26-9ed6-acb0afea2ef2.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Chrome Extensions"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "Web Design"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1040907",
+      "name": "CatDoes v3",
+      "tagline": "Team of AI agents build mobile apps for you & your business",
+      "url": "https://www.producthunt.com/products/catdoes-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 75,
+      "commentsCount": 0,
+      "createdAt": "2025-11-25T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/26608e77-ab5a-41f0-90bb-28f9ae15b833.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "No-Code"
+            }
+          },
+          {
+            "node": {
+              "name": "Vibe coding"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1041826",
       "name": "Speakmac",
       "tagline": "The offline dictation macOS should have had",
       "url": "https://www.producthunt.com/products/speakmac?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 71,
+      "votesCount": 74,
       "commentsCount": 1,
       "createdAt": "2025-11-25T08:01:00Z",
       "thumbnail": {
@@ -99,7 +161,7 @@
       "name": "Hirecarta",
       "tagline": "Complete job search.  Completely personal.",
       "url": "https://www.producthunt.com/products/hirecarta?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 70,
+      "votesCount": 72,
       "commentsCount": 2,
       "createdAt": "2025-11-25T08:01:00Z",
       "thumbnail": {
@@ -126,42 +188,11 @@
       }
     },
     {
-      "id": "1039553",
-      "name": "Hatable",
-      "tagline": "Are you sure it's l*vable 👀?",
-      "url": "https://www.producthunt.com/products/hatable?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 70,
-      "commentsCount": 1,
-      "createdAt": "2025-11-25T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/90ef3604-d551-4c26-9ed6-acb0afea2ef2.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Chrome Extensions"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          },
-          {
-            "node": {
-              "name": "Web Design"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1042107",
-      "name": "Sketch Copenhagen (2025.3)",
+      "name": "Sketch Copenhagen",
       "tagline": "Liquid Glass redesign, an all-new Inspector, and more",
       "url": "https://www.producthunt.com/products/sketch?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 68,
+      "votesCount": 71,
       "commentsCount": 1,
       "createdAt": "2025-11-25T08:01:00Z",
       "thumbnail": {
@@ -188,31 +219,31 @@
       }
     },
     {
-      "id": "1040907",
-      "name": "CatDoes v3",
-      "tagline": "Team of AI agents build mobile apps for you & your business",
-      "url": "https://www.producthunt.com/products/catdoes-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "id": "1039510",
+      "name": "FlickNote",
+      "tagline": "Speak your thoughts, sync everywhere.",
+      "url": "https://www.producthunt.com/products/flicknote?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 68,
-      "commentsCount": 0,
+      "commentsCount": 2,
       "createdAt": "2025-11-25T08:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/26608e77-ab5a-41f0-90bb-28f9ae15b833.png?auto=format"
+        "url": "https://ph-files.imgix.net/41ca8bee-c799-4578-bc84-1661db7bcdf8.png?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "Artificial Intelligence"
+              "name": "Productivity"
             }
           },
           {
             "node": {
-              "name": "No-Code"
+              "name": "Notes"
             }
           },
           {
             "node": {
-              "name": "Vibe coding"
+              "name": "Notion"
             }
           }
         ]
@@ -223,8 +254,8 @@
       "name": "Haxiom",
       "tagline": "The Online MD Editor for Collaborative Teams",
       "url": "https://www.producthunt.com/products/haxiom?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 64,
-      "commentsCount": 2,
+      "votesCount": 68,
+      "commentsCount": 3,
       "createdAt": "2025-11-25T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/78c4ed25-cba9-462b-9647-dd5c35a5db86.png?auto=format"
@@ -254,7 +285,7 @@
       "name": "Product Huntr",
       "tagline": "Use product hunt data to find ideas and opportunities",
       "url": "https://www.producthunt.com/products/product-huntr?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 62,
+      "votesCount": 64,
       "commentsCount": 0,
       "createdAt": "2025-11-25T08:01:00Z",
       "thumbnail": {
@@ -285,8 +316,8 @@
       "name": "Raydian",
       "tagline": "The next frontier of AI product builders",
       "url": "https://www.producthunt.com/products/raydian?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 61,
-      "commentsCount": 4,
+      "votesCount": 63,
+      "commentsCount": 5,
       "createdAt": "2025-11-25T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/7d0dcec1-174d-4906-8808-4b2abd434f7e.png?auto=format"
@@ -312,42 +343,11 @@
       }
     },
     {
-      "id": "1039510",
-      "name": "FlickNote",
-      "tagline": "Speak your thoughts, sync everywhere.",
-      "url": "https://www.producthunt.com/products/flicknote?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 61,
-      "commentsCount": 1,
-      "createdAt": "2025-11-25T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/41ca8bee-c799-4578-bc84-1661db7bcdf8.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Notes"
-            }
-          },
-          {
-            "node": {
-              "name": "Notion"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1040653",
       "name": "Aden",
       "tagline": "Project Management for Real Work with AI ",
       "url": "https://www.producthunt.com/products/ai-powered-form-that-fills-itself?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 61,
+      "votesCount": 62,
       "commentsCount": 1,
       "createdAt": "2025-11-25T08:01:00Z",
       "thumbnail": {
@@ -368,6 +368,68 @@
           {
             "node": {
               "name": "Tech"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1041570",
+      "name": "Shinkansen Fuji Seat Finder",
+      "tagline": "Stop staring at walls. Get the Mt. Fuji seat.",
+      "url": "https://www.producthunt.com/products/shinkansen-fuji-seat-finder?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 61,
+      "commentsCount": 1,
+      "createdAt": "2025-11-25T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/7009b7de-ad6d-431f-a8cc-6a52047beeaf.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Travel"
+            }
+          },
+          {
+            "node": {
+              "name": "Maps"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1009077",
+      "name": "Inbox Agents AI",
+      "tagline": "The intelligent unified inbox for creators & builders.",
+      "url": "https://www.producthunt.com/products/inboxagents?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 60,
+      "commentsCount": 1,
+      "createdAt": "2025-11-25T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/12325290-08fc-46ff-bb2a-2eeb70398cba.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Email"
+            }
+          },
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Messaging"
             }
           }
         ]
@@ -405,74 +467,12 @@
       }
     },
     {
-      "id": "1041570",
-      "name": "Shinkansen Fuji Seat Finder",
-      "tagline": "Stop staring at walls. Get the Mt. Fuji seat.",
-      "url": "https://www.producthunt.com/products/shinkansen-fuji-seat-finder?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 59,
-      "commentsCount": 1,
-      "createdAt": "2025-11-25T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/7009b7de-ad6d-431f-a8cc-6a52047beeaf.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Travel"
-            }
-          },
-          {
-            "node": {
-              "name": "Maps"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1009077",
-      "name": "Inbox Agents AI",
-      "tagline": "The intelligent unified inbox for creators & builders.",
-      "url": "https://www.producthunt.com/products/inboxagents?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 59,
-      "commentsCount": 1,
-      "createdAt": "2025-11-25T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/12325290-08fc-46ff-bb2a-2eeb70398cba.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Email"
-            }
-          },
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Messaging"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1040745",
-      "name": "Xplorer - API Client, Done Right",
+      "name": "Xplorer",
       "tagline": "A Secure, 100% Local API Client",
       "url": "https://www.producthunt.com/products/xplorer-api-client-done-right?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 55,
-      "commentsCount": 1,
+      "votesCount": 58,
+      "commentsCount": 2,
       "createdAt": "2025-11-25T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/cb3a955e-6e6e-48b8-aa86-a8bfd1ade7f6.vnd.microsoft.icon?auto=format"
@@ -498,31 +498,31 @@
       }
     },
     {
-      "id": "1042141",
-      "name": "Growfund",
-      "tagline": "The Ultimate Donation & Crowdfunding Solution for WordPress",
-      "url": "https://www.producthunt.com/products/growfund?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 12,
-      "commentsCount": 5,
+      "id": "1042072",
+      "name": "Loomoz",
+      "tagline": "Effortless visual feedback & collaboration platform",
+      "url": "https://www.producthunt.com/products/loomoz?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 51,
+      "commentsCount": 1,
       "createdAt": "2025-11-25T08:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/f73d8ebe-e1a4-4feb-9756-27c82411cd47.webp?auto=format"
+        "url": "https://ph-files.imgix.net/e20e2985-6250-4ec5-9cc7-887dcd489734.png?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "Charity & Giving"
+              "name": "Design Tools"
             }
           },
           {
             "node": {
-              "name": "Crowdfunding"
+              "name": "Productivity"
             }
           },
           {
             "node": {
-              "name": "WordPress"
+              "name": "SaaS"
             }
           }
         ]
@@ -533,8 +533,8 @@
       "name": "Wepost",
       "tagline": "Generate your army of personal brands",
       "url": "https://www.producthunt.com/products/wepost?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 12,
-      "commentsCount": 6,
+      "votesCount": 17,
+      "commentsCount": 7,
       "createdAt": "2025-11-25T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/446abc4d-75b7-489f-9459-70188574df5e.gif?auto=format"
@@ -560,57 +560,62 @@
       }
     },
     {
-      "id": "1042093",
-      "name": "Claude Opus 4.5",
-      "tagline": "The best model for coding, agents, and computer use",
-      "url": "https://www.producthunt.com/products/claude?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 8,
-      "commentsCount": 2,
+      "id": "1042141",
+      "name": "Growfund",
+      "tagline": "The Ultimate Donation & Crowdfunding Solution for WordPress",
+      "url": "https://www.producthunt.com/products/growfund?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 14,
+      "commentsCount": 6,
       "createdAt": "2025-11-25T08:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/ae49ce7d-30a4-457b-823a-2e1ee8d44dbb.png?auto=format"
+        "url": "https://ph-files.imgix.net/f73d8ebe-e1a4-4feb-9756-27c82411cd47.webp?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "Artificial Intelligence"
+              "name": "Charity & Giving"
             }
           },
           {
             "node": {
-              "name": "Development"
+              "name": "Crowdfunding"
+            }
+          },
+          {
+            "node": {
+              "name": "WordPress"
             }
           }
         ]
       }
     },
     {
-      "id": "1042122",
-      "name": "aDirectory",
-      "tagline": "Create Directory and Classified Listing Websites in Minutes",
-      "url": "https://www.producthunt.com/products/adirectory?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 7,
-      "commentsCount": 3,
+      "id": "1040864",
+      "name": "Echosnap Ai",
+      "tagline": "Record, transcribe, and organize",
+      "url": "https://www.producthunt.com/products/echosnap-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 14,
+      "commentsCount": 2,
       "createdAt": "2025-11-25T08:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/1a52449a-bc88-4537-9542-8772e3261fb1.jpeg?auto=format"
+        "url": "https://ph-files.imgix.net/5e78bca0-83f7-47e2-be6c-58810907385b.png?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "WordPress"
+              "name": "Productivity"
             }
           },
           {
             "node": {
-              "name": "Developer Tools"
+              "name": "Notes"
             }
           },
           {
             "node": {
-              "name": "Development"
+              "name": "Artificial Intelligence"
             }
           }
         ]
