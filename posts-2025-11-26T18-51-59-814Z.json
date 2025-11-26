@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2025-11-26T18:33:43.083Z",
+  "fetchedAt": "2025-11-26T18:51:59.814Z",
   "posts": [
     {
       "id": "1041854",
       "name": "Questas",
       "tagline": "Build interactive stories with AI images and videos",
       "url": "https://www.producthunt.com/products/questas?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 301,
-      "commentsCount": 33,
+      "votesCount": 302,
+      "commentsCount": 34,
       "createdAt": "2025-11-26T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/706e189a-4e2a-4a76-bcaa-09ce9cb55f5d.png?auto=format"
@@ -37,7 +37,7 @@
       "name": "FireCut for DaVinci Resolve",
       "tagline": "Your lightning-fast AI video editor",
       "url": "https://www.producthunt.com/products/firecut-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 256,
+      "votesCount": 257,
       "commentsCount": 25,
       "createdAt": "2025-11-26T08:01:00Z",
       "thumbnail": {
@@ -244,7 +244,7 @@
       "name": "ツSupercut for Windows",
       "tagline": "The Windows Screen Recorder that won't make you sweat. ",
       "url": "https://www.producthunt.com/products/supercut?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 110,
+      "votesCount": 112,
       "commentsCount": 5,
       "createdAt": "2025-11-26T08:01:00Z",
       "thumbnail": {
@@ -275,7 +275,7 @@
       "name": "SlopCollector",
       "tagline": "Find the slop in your supabase",
       "url": "https://www.producthunt.com/products/slopcollector?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 97,
+      "votesCount": 98,
       "commentsCount": 7,
       "createdAt": "2025-11-26T08:01:00Z",
       "thumbnail": {
@@ -457,6 +457,32 @@
       }
     },
     {
+      "id": "1037373",
+      "name": "AskAI by Ordemio",
+      "tagline": "Free Ask AI Agent for tech products and dev docs",
+      "url": "https://www.producthunt.com/products/askai-by-ordemio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 27,
+      "commentsCount": 11,
+      "createdAt": "2025-11-26T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/216a54bf-c1e2-4370-9043-1a63a0ba3dfe.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "User Experience"
+            }
+          },
+          {
+            "node": {
+              "name": "Customer Communication"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1042279",
       "name": "Crux Legacy",
       "tagline": "Organise your life!",
@@ -482,32 +508,6 @@
           {
             "node": {
               "name": "Tech"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1037373",
-      "name": "AskAI by Ordemio",
-      "tagline": "Free Ask AI Agent for tech products and dev docs",
-      "url": "https://www.producthunt.com/products/askai-by-ordemio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 26,
-      "commentsCount": 11,
-      "createdAt": "2025-11-26T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/216a54bf-c1e2-4370-9043-1a63a0ba3dfe.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "User Experience"
-            }
-          },
-          {
-            "node": {
-              "name": "Customer Communication"
             }
           }
         ]
