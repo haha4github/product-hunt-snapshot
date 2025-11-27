@@ -1,12 +1,12 @@
 {
-  "fetchedAt": "2025-11-27T11:56:57.377Z",
+  "fetchedAt": "2025-11-27T12:58:03.362Z",
   "posts": [
     {
       "id": "1042194",
       "name": "Links 2.0",
       "tagline": "Save, organize and find your links faster than ever",
       "url": "https://www.producthunt.com/products/links-save-all-your-links?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 169,
+      "votesCount": 188,
       "commentsCount": 10,
       "createdAt": "2025-11-27T08:01:00Z",
       "thumbnail": {
@@ -37,7 +37,7 @@
       "name": "Craft Thanksgiving Release",
       "tagline": "Revamped Assistant with MCP, Al, an API and Android Beta",
       "url": "https://www.producthunt.com/products/craft-do?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 124,
+      "votesCount": 147,
       "commentsCount": 11,
       "createdAt": "2025-11-27T08:01:00Z",
       "thumbnail": {
@@ -68,8 +68,8 @@
       "name": "NoSho.app",
       "tagline": "Grow your waitlist and fill availability fast with deposits",
       "url": "https://www.producthunt.com/products/nosho-app?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 86,
-      "commentsCount": 4,
+      "votesCount": 100,
+      "commentsCount": 5,
       "createdAt": "2025-11-27T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/ed6eb616-2117-4a08-993f-8cb899da0708.png?auto=format"
@@ -99,7 +99,7 @@
       "name": "InsightTube",
       "tagline": "AI insights from YouTube — fast, clear, effortless.",
       "url": "https://www.producthunt.com/products/insighttube?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 80,
+      "votesCount": 90,
       "commentsCount": 5,
       "createdAt": "2025-11-27T08:01:00Z",
       "thumbnail": {
@@ -130,7 +130,7 @@
       "name": "Interachat",
       "tagline": "The future of messaging  - Powered by AI",
       "url": "https://www.producthunt.com/products/interachat?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 77,
+      "votesCount": 82,
       "commentsCount": 1,
       "createdAt": "2025-11-27T08:01:00Z",
       "thumbnail": {
@@ -162,11 +162,42 @@
       }
     },
     {
+      "id": "1042981",
+      "name": "Live Resume",
+      "tagline": "The Resume That Never Gets Old",
+      "url": "https://www.producthunt.com/products/live-resume?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 79,
+      "commentsCount": 1,
+      "createdAt": "2025-11-27T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/a4c81f5b-ae82-4335-b849-1ecfba451681.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Hiring"
+            }
+          },
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "SaaS"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1042646",
       "name": "AstroAlert",
       "tagline": "Know exactly when satellites pass above you.",
       "url": "https://www.producthunt.com/products/astroalert-sky-events-in-your-pocket?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 75,
+      "votesCount": 79,
       "commentsCount": 5,
       "createdAt": "2025-11-27T08:01:00Z",
       "thumbnail": {
@@ -197,7 +228,7 @@
       "name": "Get Trippy Home",
       "tagline": "Save a turkey this Thanksgiving!",
       "url": "https://www.producthunt.com/products/get-trippy-home?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 74,
+      "votesCount": 78,
       "commentsCount": 3,
       "createdAt": "2025-11-27T08:01:00Z",
       "thumbnail": {
@@ -224,11 +255,37 @@
       }
     },
     {
+      "id": "1042992",
+      "name": "Shop with Copilot",
+      "tagline": "Your AI shopping assistant in Edge",
+      "url": "https://www.producthunt.com/products/the-new-microsoft-copilot?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 74,
+      "commentsCount": 1,
+      "createdAt": "2025-11-27T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/cbebee18-42cb-4998-bcbb-9c90fb7e2d20.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "E-Commerce"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1042886",
       "name": "AbleMouse",
       "tagline": "Now works everywhere + MouseCommander: a gesture-driven tool",
       "url": "https://www.producthunt.com/products/ablemouse-control-with-tongue-or-touch?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 70,
+      "votesCount": 72,
       "commentsCount": 2,
       "createdAt": "2025-11-27T08:01:00Z",
       "thumbnail": {
@@ -255,42 +312,11 @@
       }
     },
     {
-      "id": "1042981",
-      "name": "Live Resume",
-      "tagline": "The Resume That Never Gets Old",
-      "url": "https://www.producthunt.com/products/live-resume?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 70,
-      "commentsCount": 1,
-      "createdAt": "2025-11-27T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/a4c81f5b-ae82-4335-b849-1ecfba451681.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Hiring"
-            }
-          },
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "SaaS"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1042776",
       "name": "Elder Care Check",
       "tagline": "Seniors verify online health claims using AI",
       "url": "https://www.producthunt.com/products/elder-care-check?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 69,
+      "votesCount": 70,
       "commentsCount": 3,
       "createdAt": "2025-11-27T08:01:00Z",
       "thumbnail": {
@@ -317,37 +343,11 @@
       }
     },
     {
-      "id": "1042992",
-      "name": "Shop with Copilot",
-      "tagline": "Your AI shopping assistant in Edge",
-      "url": "https://www.producthunt.com/products/the-new-microsoft-copilot?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 69,
-      "commentsCount": 1,
-      "createdAt": "2025-11-27T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/cbebee18-42cb-4998-bcbb-9c90fb7e2d20.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          },
-          {
-            "node": {
-              "name": "E-Commerce"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1042024",
       "name": "GLITCHGUESS",
       "tagline": "20 questions in a broken reality.",
       "url": "https://www.producthunt.com/products/glitchguess?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 66,
+      "votesCount": 69,
       "commentsCount": 1,
       "createdAt": "2025-11-27T08:01:00Z",
       "thumbnail": {
@@ -378,7 +378,7 @@
       "name": "GitHub",
       "tagline": "SpacePigeon: Saved Workspaces for macOS",
       "url": "https://www.producthunt.com/products/github-228?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 60,
+      "votesCount": 64,
       "commentsCount": 1,
       "createdAt": "2025-11-27T08:01:00Z",
       "thumbnail": {
@@ -409,7 +409,7 @@
       "name": "Threat Road",
       "tagline": "A daily cybersecurity newsletter that’s actually fun to read",
       "url": "https://www.producthunt.com/products/threat-road?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 116,
+      "votesCount": 58,
       "commentsCount": 1,
       "createdAt": "2025-11-27T08:01:00Z",
       "thumbnail": {
@@ -440,8 +440,8 @@
       "name": "SERPView",
       "tagline": "Search Console Dashboard, Without the Limitations",
       "url": "https://www.producthunt.com/products/serpview?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 45,
-      "commentsCount": 10,
+      "votesCount": 50,
+      "commentsCount": 14,
       "createdAt": "2025-11-27T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/99bc42f4-5dd9-43f7-a3fa-88c2c4c5b37f.svg?auto=format"
@@ -471,8 +471,8 @@
       "name": "Vibe Coding Academy V2",
       "tagline": "The Future Belongs To Product Builders",
       "url": "https://www.producthunt.com/products/vibe-coding-academy?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 33,
-      "commentsCount": 6,
+      "votesCount": 35,
+      "commentsCount": 11,
       "createdAt": "2025-11-27T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/718d0a95-3f91-4f0e-8197-5dd4e52fea96.png?auto=format"
@@ -492,6 +492,32 @@
           {
             "node": {
               "name": "Vibe coding"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1042989",
+      "name": "Showcase - A Social News App",
+      "tagline": "News is Finally Social",
+      "url": "https://www.producthunt.com/products/the-modern-news-feed?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 24,
+      "commentsCount": 5,
+      "createdAt": "2025-11-27T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/687b4a08-f6ca-4973-847b-1eb7d553622a.jpeg?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "News"
+            }
+          },
+          {
+            "node": {
+              "name": "Social Media"
             }
           }
         ]
@@ -529,32 +555,6 @@
       }
     },
     {
-      "id": "1042989",
-      "name": "Showcase - A Social News App",
-      "tagline": "News is Finally Social",
-      "url": "https://www.producthunt.com/products/the-modern-news-feed?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 18,
-      "commentsCount": 5,
-      "createdAt": "2025-11-27T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/687b4a08-f6ca-4973-847b-1eb7d553622a.jpeg?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "News"
-            }
-          },
-          {
-            "node": {
-              "name": "Social Media"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1042701",
       "name": "TinyDebt",
       "tagline": "Your debt tracker",
@@ -586,23 +586,18 @@
       }
     },
     {
-      "id": "1043025",
-      "name": "SEOsolved",
-      "tagline": "Automate your SEO strategy with AI",
-      "url": "https://www.producthunt.com/products/seosolved?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 12,
-      "commentsCount": 2,
+      "id": "1042662",
+      "name": "LLM Query Builder By Wellows",
+      "tagline": "Find exact queries to track AI search visibility",
+      "url": "https://www.producthunt.com/products/llm-query-builder-by-wellows?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 13,
+      "commentsCount": 1,
       "createdAt": "2025-11-27T08:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/533aa2e5-31af-49ed-9ce4-0b5b7bc807d2.png?auto=format"
+        "url": "https://ph-files.imgix.net/e8478c5e-496f-48ea-baf7-4d6cd2a5e9d1.gif?auto=format"
       },
       "topics": {
         "edges": [
-          {
-            "node": {
-              "name": "Writing"
-            }
-          },
           {
             "node": {
               "name": "Marketing"
@@ -610,7 +605,12 @@
           },
           {
             "node": {
-              "name": "SEO"
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "Growth Hacks "
             }
           }
         ]
