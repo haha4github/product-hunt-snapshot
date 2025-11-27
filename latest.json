@@ -1,12 +1,12 @@
 {
-  "fetchedAt": "2025-11-27T07:26:12.486Z",
+  "fetchedAt": "2025-11-27T07:42:13.065Z",
   "posts": [
     {
       "id": "1041854",
       "name": "Questas",
       "tagline": "Build interactive stories with AI images and videos",
       "url": "https://www.producthunt.com/products/questas?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 382,
+      "votesCount": 384,
       "commentsCount": 41,
       "createdAt": "2025-11-26T08:01:00Z",
       "thumbnail": {
@@ -37,7 +37,7 @@
       "name": "FireCut for DaVinci Resolve",
       "tagline": "Your lightning-fast AI video editor",
       "url": "https://www.producthunt.com/products/firecut-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 340,
+      "votesCount": 342,
       "commentsCount": 34,
       "createdAt": "2025-11-26T08:01:00Z",
       "thumbnail": {
@@ -68,8 +68,8 @@
       "name": "Rubber Duck",
       "tagline": "Catch App Store rejection issues before Apple does.",
       "url": "https://www.producthunt.com/products/rubber-duck?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 326,
-      "commentsCount": 27,
+      "votesCount": 327,
+      "commentsCount": 28,
       "createdAt": "2025-11-26T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/345bb682-8354-4a47-8061-9a74ac4ce720.svg?auto=format"
@@ -120,8 +120,8 @@
       "name": "AskCodi",
       "tagline": "Custom LLMs, without training. Use via openai compatible api",
       "url": "https://www.producthunt.com/products/askcodi?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 192,
-      "commentsCount": 20,
+      "votesCount": 197,
+      "commentsCount": 22,
       "createdAt": "2025-11-26T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/982268ed-3d47-4936-92ff-96892a2a841c.png?auto=format"
@@ -426,6 +426,37 @@
       }
     },
     {
+      "id": "1042279",
+      "name": "Crux Legacy",
+      "tagline": "Organise your life!",
+      "url": "https://www.producthunt.com/products/crux-legacy?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 32,
+      "commentsCount": 2,
+      "createdAt": "2025-11-26T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/05b92a64-eead-42ff-b6e9-ba9f8e7cc290.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Legal"
+            }
+          },
+          {
+            "node": {
+              "name": "Tech"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1027046",
       "name": "Noise & Texture 2.0",
       "tagline": "A Figma plugin to add textures and shader effects. ",
@@ -451,37 +482,6 @@
           {
             "node": {
               "name": "Web Design"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1042279",
-      "name": "Crux Legacy",
-      "tagline": "Organise your life!",
-      "url": "https://www.producthunt.com/products/crux-legacy?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 31,
-      "commentsCount": 2,
-      "createdAt": "2025-11-26T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/05b92a64-eead-42ff-b6e9-ba9f8e7cc290.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Legal"
-            }
-          },
-          {
-            "node": {
-              "name": "Tech"
             }
           }
         ]
