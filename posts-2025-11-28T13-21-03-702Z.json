@@ -1,12 +1,12 @@
 {
-  "fetchedAt": "2025-11-28T12:42:27.339Z",
+  "fetchedAt": "2025-11-28T13:21:03.702Z",
   "posts": [
     {
       "id": "1042085",
       "name": "Qoder JetBrains Plugin",
       "tagline": "Understands your backend's real complexity, not just syntax",
       "url": "https://www.producthunt.com/products/qoder?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 208,
+      "votesCount": 218,
       "commentsCount": 29,
       "createdAt": "2025-11-28T08:01:00Z",
       "thumbnail": {
@@ -37,7 +37,7 @@
       "name": "Agenta",
       "tagline": "Open-source prompt management & evals for AI teams",
       "url": "https://www.producthunt.com/products/agenta?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 154,
+      "votesCount": 170,
       "commentsCount": 16,
       "createdAt": "2025-11-28T08:01:00Z",
       "thumbnail": {
@@ -68,7 +68,7 @@
       "name": "Gedd.it",
       "tagline": "Find Verified Promo Codes for Products You Want",
       "url": "https://www.producthunt.com/products/gedd-it?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 133,
+      "votesCount": 142,
       "commentsCount": 6,
       "createdAt": "2025-11-28T08:01:00Z",
       "thumbnail": {
@@ -99,7 +99,7 @@
       "name": "hera",
       "tagline": "track your period safely",
       "url": "https://www.producthunt.com/products/hera-period-tracker?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 131,
+      "votesCount": 132,
       "commentsCount": 6,
       "createdAt": "2025-11-28T08:01:00Z",
       "thumbnail": {
@@ -130,7 +130,7 @@
       "name": "Calk AI 1.0",
       "tagline": "AI Agents without nodes headaches",
       "url": "https://www.producthunt.com/products/calk-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 120,
+      "votesCount": 122,
       "commentsCount": 19,
       "createdAt": "2025-11-28T08:01:00Z",
       "thumbnail": {
@@ -192,8 +192,8 @@
       "name": "Product Huntr",
       "tagline": "Data analysis platform for Product hunt",
       "url": "https://www.producthunt.com/products/product-huntr-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 101,
-      "commentsCount": 4,
+      "votesCount": 104,
+      "commentsCount": 5,
       "createdAt": "2025-11-28T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/863f42ac-57f2-4273-a0e1-65e0d685657d.png?auto=format"
@@ -254,7 +254,7 @@
       "name": "Livespace.ai",
       "tagline": " Get paid for your designs Every time they’re tried",
       "url": "https://www.producthunt.com/products/livespace-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 88,
+      "votesCount": 90,
       "commentsCount": 0,
       "createdAt": "2025-11-28T08:01:00Z",
       "thumbnail": {
@@ -275,6 +275,37 @@
           {
             "node": {
               "name": "Interior design"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1041957",
+      "name": "Stac",
+      "tagline": "Open-source Server-Driven UI framework for Flutter",
+      "url": "https://www.producthunt.com/products/stac?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 47,
+      "commentsCount": 8,
+      "createdAt": "2025-11-28T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/83b9f9a0-b2eb-4aac-a78c-a7072f8a3f5e.svg?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Open Source"
+            }
+          },
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "GitHub"
             }
           }
         ]
@@ -312,42 +343,11 @@
       }
     },
     {
-      "id": "1041957",
-      "name": "Stac",
-      "tagline": "Open-source Server-Driven UI framework for Flutter",
-      "url": "https://www.producthunt.com/products/stac?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 40,
-      "commentsCount": 7,
-      "createdAt": "2025-11-28T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/83b9f9a0-b2eb-4aac-a78c-a7072f8a3f5e.svg?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Open Source"
-            }
-          },
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "GitHub"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1043387",
       "name": "Parlay Research",
       "tagline": "Smart sports betting insights, served with a pinch of AI ",
       "url": "https://www.producthunt.com/products/parlay-research?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 34,
+      "votesCount": 35,
       "commentsCount": 4,
       "createdAt": "2025-11-28T08:01:00Z",
       "thumbnail": {
@@ -404,8 +404,8 @@
       "name": "Consistrack",
       "tagline": "GitHub for your life goals",
       "url": "https://www.producthunt.com/products/consistrack?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 24,
-      "commentsCount": 1,
+      "votesCount": 25,
+      "commentsCount": 3,
       "createdAt": "2025-11-28T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/6a3be008-6c13-4de2-bb54-89555ae83d3a.png?auto=format"
@@ -430,8 +430,8 @@
       "name": "Stack Friday by Prime Club",
       "tagline": "The cleanest list of the best SaaS Black Friday Deals ",
       "url": "https://www.producthunt.com/products/stack-friday-2025?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 19,
-      "commentsCount": 4,
+      "votesCount": 20,
+      "commentsCount": 7,
       "createdAt": "2025-11-28T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/557c89a3-1ebc-49c9-88a1-9d8a23217feb.gif?auto=format"
@@ -493,7 +493,7 @@
       "tagline": "Turn your top 5 subreddits into real connections.",
       "url": "https://www.producthunt.com/products/synchat-the-native-reddit-matchmaker?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 18,
-      "commentsCount": 2,
+      "commentsCount": 3,
       "createdAt": "2025-11-28T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/34caed4d-bf87-4c17-a32d-bb90d72e46c8.png?auto=format"
@@ -523,8 +523,8 @@
       "name": "SwatchMaker",
       "tagline": "See any paints together before you buy",
       "url": "https://www.producthunt.com/products/swatchmaker?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 15,
-      "commentsCount": 8,
+      "votesCount": 17,
+      "commentsCount": 9,
       "createdAt": "2025-11-28T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/a4403881-6fc8-48fe-8276-172d4e343687.png?auto=format"
