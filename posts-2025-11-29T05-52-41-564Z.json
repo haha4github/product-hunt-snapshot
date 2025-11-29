@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2025-11-29T05:40:08.885Z",
+  "fetchedAt": "2025-11-29T05:52:41.564Z",
   "posts": [
     {
       "id": "1042085",
@@ -254,7 +254,7 @@
       "name": "Livespace.ai",
       "tagline": " Get paid for your designs Every time they’re tried",
       "url": "https://www.producthunt.com/products/livespace-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 109,
+      "votesCount": 110,
       "commentsCount": 3,
       "createdAt": "2025-11-28T08:01:00Z",
       "thumbnail": {
@@ -312,6 +312,32 @@
       }
     },
     {
+      "id": "1043387",
+      "name": "Parlay Research",
+      "tagline": "Smart sports betting insights, served with a pinch of AI ",
+      "url": "https://www.producthunt.com/products/parlay-research?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 57,
+      "commentsCount": 6,
+      "createdAt": "2025-11-28T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/aeb4bf3b-38b5-415d-aa5f-233c7c95ad47.webp?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Analytics"
+            }
+          },
+          {
+            "node": {
+              "name": "Sports"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1041957",
       "name": "Stac",
       "tagline": "Open-source Server-Driven UI framework for Flutter",
@@ -337,32 +363,6 @@
           {
             "node": {
               "name": "GitHub"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1043387",
-      "name": "Parlay Research",
-      "tagline": "Smart sports betting insights, served with a pinch of AI ",
-      "url": "https://www.producthunt.com/products/parlay-research?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 56,
-      "commentsCount": 6,
-      "createdAt": "2025-11-28T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/aeb4bf3b-38b5-415d-aa5f-233c7c95ad47.webp?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Analytics"
-            }
-          },
-          {
-            "node": {
-              "name": "Sports"
             }
           }
         ]
