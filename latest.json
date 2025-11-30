@@ -1,44 +1,13 @@
 {
-  "fetchedAt": "2025-11-30T08:28:10.254Z",
+  "fetchedAt": "2025-11-30T08:46:37.782Z",
   "posts": [
-    {
-      "id": "1042639",
-      "name": "Unfold",
-      "tagline": "Generate interactive courses on any topic. Ft. Gemini 3",
-      "url": "https://www.producthunt.com/products/unfold-6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 67,
-      "commentsCount": 2,
-      "createdAt": "2025-11-30T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/7d2fec10-6c69-4a21-8730-e6b1a472e7da.webp?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Education"
-            }
-          },
-          {
-            "node": {
-              "name": "Tech"
-            }
-          }
-        ]
-      }
-    },
     {
       "id": "1041136",
       "name": "Seefy",
       "tagline": "AI event intelligence for real-world revenue pipeline",
       "url": "https://www.producthunt.com/products/seefy?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 67,
-      "commentsCount": 2,
+      "votesCount": 74,
+      "commentsCount": 3,
       "createdAt": "2025-11-30T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/b8385ff7-ae96-49b5-b4a1-253672de39dc.png?auto=format"
@@ -64,11 +33,73 @@
       }
     },
     {
+      "id": "1042639",
+      "name": "Unfold",
+      "tagline": "Generate interactive courses on any topic. Ft. Gemini 3",
+      "url": "https://www.producthunt.com/products/unfold-6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 71,
+      "commentsCount": 4,
+      "createdAt": "2025-11-30T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/7d2fec10-6c69-4a21-8730-e6b1a472e7da.webp?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Education"
+            }
+          },
+          {
+            "node": {
+              "name": "Tech"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1043528",
+      "name": "Tag my Tab",
+      "tagline": "Organize your browser tabs with tags and comments",
+      "url": "https://www.producthunt.com/products/tag-my-tab?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 69,
+      "commentsCount": 1,
+      "createdAt": "2025-11-30T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/f44dbc88-297f-42d1-8c06-f4d8fb879077.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Browser Extensions"
+            }
+          },
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Notes"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "942358",
       "name": "Bookingbird.io",
       "tagline": "The adaptable booking OS for services, resources & events.",
       "url": "https://www.producthunt.com/products/bookingbird-smart-booking?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 63,
+      "votesCount": 65,
       "commentsCount": 3,
       "createdAt": "2025-11-30T08:01:00Z",
       "thumbnail": {
@@ -89,6 +120,68 @@
           {
             "node": {
               "name": "Calendar"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1043291",
+      "name": "Waylight",
+      "tagline": "ChatGPT, but with context from your tabs, meetings, and docs",
+      "url": "https://www.producthunt.com/products/waylight?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 65,
+      "commentsCount": 1,
+      "createdAt": "2025-11-30T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/45ef6c79-3480-4a88-af1f-c43eb96e3fb5.svg?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "SaaS"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1043830",
+      "name": "plok.sh",
+      "tagline": "Github to blog. Instantly. Free forever.",
+      "url": "https://www.producthunt.com/products/plok-sh?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 64,
+      "commentsCount": 1,
+      "createdAt": "2025-11-30T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/ad4c7ac2-6979-4250-82c8-cd21ce1aebc1.svg?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Open Source"
+            }
+          },
+          {
+            "node": {
+              "name": "Writing"
+            }
+          },
+          {
+            "node": {
+              "name": "GitHub"
             }
           }
         ]
@@ -126,11 +219,32 @@
       }
     },
     {
+      "id": "1034699",
+      "name": "Formly 2.0",
+      "tagline": "Create lead gen quizzes with instant visual results",
+      "url": "https://www.producthunt.com/products/formly?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 64,
+      "commentsCount": 3,
+      "createdAt": "2025-11-30T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/df599144-3602-49bc-a786-9b8f891d5480.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Marketing"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1042656",
       "name": "VibeJar-Mood Tracker and Journal",
       "tagline": "Simple, offline-first, mood tracking",
       "url": "https://www.producthunt.com/products/vibejar-mood-tracker-and-journal?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 61,
+      "votesCount": 62,
       "commentsCount": 1,
       "createdAt": "2025-11-30T08:01:00Z",
       "thumbnail": {
@@ -162,42 +276,11 @@
       }
     },
     {
-      "id": "1043291",
-      "name": "Waylight",
-      "tagline": "ChatGPT, but with context from your tabs, meetings, and docs",
-      "url": "https://www.producthunt.com/products/waylight?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 60,
-      "commentsCount": 1,
-      "createdAt": "2025-11-30T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/45ef6c79-3480-4a88-af1f-c43eb96e3fb5.svg?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "SaaS"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1043981",
       "name": "RightNow CUDA Editor",
       "tagline": "AI code editor for GPU development",
       "url": "https://www.producthunt.com/products/rightnow-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 60,
+      "votesCount": 62,
       "commentsCount": 1,
       "createdAt": "2025-11-30T08:01:00Z",
       "thumbnail": {
@@ -224,94 +307,11 @@
       }
     },
     {
-      "id": "1043830",
-      "name": "plok.sh",
-      "tagline": "Github to blog. Instantly. Free forever.",
-      "url": "https://www.producthunt.com/products/plok-sh?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 61,
-      "commentsCount": 1,
-      "createdAt": "2025-11-30T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/ad4c7ac2-6979-4250-82c8-cd21ce1aebc1.svg?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Open Source"
-            }
-          },
-          {
-            "node": {
-              "name": "Writing"
-            }
-          },
-          {
-            "node": {
-              "name": "GitHub"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1043528",
-      "name": "Tag my Tab",
-      "tagline": "Organize your browser tabs with tags and comments",
-      "url": "https://www.producthunt.com/products/tag-my-tab?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 64,
-      "commentsCount": 1,
-      "createdAt": "2025-11-30T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/f44dbc88-297f-42d1-8c06-f4d8fb879077.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Browser Extensions"
-            }
-          },
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Notes"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1034699",
-      "name": "Formly 2.0",
-      "tagline": "Create lead gen quizzes with instant visual results",
-      "url": "https://www.producthunt.com/products/formly?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 57,
-      "commentsCount": 3,
-      "createdAt": "2025-11-30T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/df599144-3602-49bc-a786-9b8f891d5480.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Marketing"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1029986",
       "name": "TinyCommand",
       "tagline": "Stop duct-taping tools. Run everything with one command.",
       "url": "https://www.producthunt.com/products/tinycommand?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 60,
+      "votesCount": 61,
       "commentsCount": 1,
       "createdAt": "2025-11-30T08:01:00Z",
       "thumbnail": {
@@ -332,7 +332,7 @@
       "name": "Spacer",
       "tagline": "Tag-based File Explorer",
       "url": "https://www.producthunt.com/products/spacer-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 54,
+      "votesCount": 55,
       "commentsCount": 1,
       "createdAt": "2025-11-30T08:01:00Z",
       "thumbnail": {
@@ -363,7 +363,7 @@
       "name": "Ripplica",
       "tagline": "Automate any web task with just a simple video.",
       "url": "https://www.producthunt.com/products/ripplica?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 9,
+      "votesCount": 13,
       "commentsCount": 3,
       "createdAt": "2025-11-30T08:01:00Z",
       "thumbnail": {
@@ -421,69 +421,12 @@
       }
     },
     {
-      "id": "1044060",
-      "name": "Lynksurf",
-      "tagline": "The Ultimate Linkedin Tool ",
-      "url": "https://www.producthunt.com/products/lynksurf?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 2,
-      "commentsCount": 0,
-      "createdAt": "2025-11-30T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/935b7c9e-c8da-4dfb-bb02-8fdb2c96191e.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Tech"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1041454",
-      "name": "Formbot",
-      "tagline": "Allow your users to chat with your online forms using AI",
-      "url": "https://www.producthunt.com/products/formbot?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 2,
-      "commentsCount": 1,
-      "createdAt": "2025-11-30T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/33093459-1ea8-4f2a-ba4a-afc4e1075daa.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "SaaS"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          },
-          {
-            "node": {
-              "name": "Tech"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1036174",
       "name": "Codesi",
       "tagline": "Generate websites with AI in minutes",
       "url": "https://www.producthunt.com/products/codesi-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 2,
-      "commentsCount": 4,
+      "votesCount": 5,
+      "commentsCount": 6,
       "createdAt": "2025-11-30T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/adf8ec35-d564-480b-882b-4d54c2b941d6.png?auto=format"
@@ -509,46 +452,46 @@
       }
     },
     {
-      "id": "1043996",
-      "name": "EagleBirth QR API",
-      "tagline": "50+ Styles. Functional QR Codes. 1000 Free/Month.",
-      "url": "https://www.producthunt.com/products/eaglebirth-qr-api?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 2,
-      "commentsCount": 2,
+      "id": "1044044",
+      "name": "Hinoun AI",
+      "tagline": "Your personal english speaking partner",
+      "url": "https://www.producthunt.com/products/hinoun-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 3,
+      "commentsCount": 1,
       "createdAt": "2025-11-30T08:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/3c01a483-97f6-4a23-9970-9d97fe499ace.x-icon?auto=format"
+        "url": "https://ph-files.imgix.net/58305ee3-e8bc-4548-802e-9f36bccb0738.png?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "API"
+              "name": "Education"
             }
           },
           {
             "node": {
-              "name": "Marketing"
+              "name": "Languages"
             }
           },
           {
             "node": {
-              "name": "Developer Tools"
+              "name": "Online Learning"
             }
           }
         ]
       }
     },
     {
-      "id": "1043722",
-      "name": "Lumberjack: micro vlogs",
-      "tagline": "Lowkey social to show up, not off",
-      "url": "https://www.producthunt.com/products/lumberjack-micro-vlogs?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 2,
-      "commentsCount": 1,
+      "id": "1044060",
+      "name": "Lynksurf",
+      "tagline": "The Ultimate Linkedin Tool ",
+      "url": "https://www.producthunt.com/products/lynksurf?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 3,
+      "commentsCount": 0,
       "createdAt": "2025-11-30T08:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/a7314c10-7389-4464-9a06-c0aca6b4b71c.png?auto=format"
+        "url": "https://ph-files.imgix.net/935b7c9e-c8da-4dfb-bb02-8fdb2c96191e.png?auto=format"
       },
       "topics": {
         "edges": [
@@ -559,33 +502,59 @@
           },
           {
             "node": {
-              "name": "Social Media"
+              "name": "Tech"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1041454",
+      "name": "Formbot",
+      "tagline": "Allow your users to chat with your online forms using AI",
+      "url": "https://www.producthunt.com/products/formbot?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 3,
+      "commentsCount": 2,
+      "createdAt": "2025-11-30T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/33093459-1ea8-4f2a-ba4a-afc4e1075daa.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "SaaS"
             }
           },
           {
             "node": {
               "name": "Artificial Intelligence"
             }
+          },
+          {
+            "node": {
+              "name": "Tech"
+            }
           }
         ]
       }
     },
     {
-      "id": "1043999",
-      "name": "We Make Stupid",
-      "tagline": "Marketing made stupid simple.",
-      "url": "https://www.producthunt.com/products/we-make-stupid?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 1,
+      "id": "1043787",
+      "name": "Design Rocket",
+      "tagline": "World’s first end‑to‑end AI Design learning system.",
+      "url": "https://www.producthunt.com/products/design-rocket?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 2,
       "commentsCount": 1,
       "createdAt": "2025-11-30T08:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/99b8db2f-5417-4b9e-a904-73e4769f8b67.png?auto=format"
+        "url": "https://ph-files.imgix.net/21b8f250-db83-4159-8394-d993be0d753c.jpeg?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "Productivity"
+              "name": "Design Tools"
             }
           },
           {
@@ -595,7 +564,43 @@
           },
           {
             "node": {
-              "name": "E-Commerce"
+              "name": "Vibe coding"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1043960",
+      "name": "Portfolioly",
+      "tagline": "Turn your LinkedIn into an AI chat portfolio in two clicks",
+      "url": "https://www.producthunt.com/products/portfolioly?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 2,
+      "commentsCount": 1,
+      "createdAt": "2025-11-30T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/a7308e3b-dc5e-42f6-8720-83de093c8414.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Hiring"
+            }
+          },
+          {
+            "node": {
+              "name": "Open Source"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "GitHub"
             }
           }
         ]
