@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2025-11-30T15:41:20.155Z",
+  "fetchedAt": "2025-11-30T15:54:05.728Z",
   "posts": [
     {
       "id": "1043491",
       "name": "Ripplica",
       "tagline": "Automate any web task with just a simple video.",
       "url": "https://www.producthunt.com/products/ripplica?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 252,
-      "commentsCount": 50,
+      "votesCount": 257,
+      "commentsCount": 51,
       "createdAt": "2025-11-30T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/26e615fc-7596-40d0-b268-4d327d37715c.png?auto=format"
@@ -37,7 +37,7 @@
       "name": "TinyCommand",
       "tagline": "Stop duct-taping tools. Run everything with one command.",
       "url": "https://www.producthunt.com/products/tinycommand?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 194,
+      "votesCount": 201,
       "commentsCount": 21,
       "createdAt": "2025-11-30T08:01:00Z",
       "thumbnail": {
@@ -58,7 +58,7 @@
       "name": "plok.sh",
       "tagline": "Github to blog. Instantly. Free forever.",
       "url": "https://www.producthunt.com/products/plok-sh?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 188,
+      "votesCount": 194,
       "commentsCount": 18,
       "createdAt": "2025-11-30T08:01:00Z",
       "thumbnail": {
@@ -89,7 +89,7 @@
       "name": "Seefy",
       "tagline": "AI event intelligence for real-world revenue pipeline",
       "url": "https://www.producthunt.com/products/seefy?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 135,
+      "votesCount": 136,
       "commentsCount": 16,
       "createdAt": "2025-11-30T08:01:00Z",
       "thumbnail": {
@@ -120,8 +120,8 @@
       "name": "Unfold",
       "tagline": "Generate interactive courses on any topic. Ft. Gemini 3",
       "url": "https://www.producthunt.com/products/unfold-6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 129,
-      "commentsCount": 17,
+      "votesCount": 131,
+      "commentsCount": 19,
       "createdAt": "2025-11-30T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/e6535b11-5bf5-4ba0-a4bb-e7b6dad241f4.png?auto=format"
@@ -230,42 +230,11 @@
       }
     },
     {
-      "id": "1043291",
-      "name": "Waylight",
-      "tagline": "ChatGPT, but with context from your tabs, meetings, and docs",
-      "url": "https://www.producthunt.com/products/waylight?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 95,
-      "commentsCount": 3,
-      "createdAt": "2025-11-30T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/45ef6c79-3480-4a88-af1f-c43eb96e3fb5.svg?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "SaaS"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1043981",
       "name": "RightNow CUDA Editor",
       "tagline": "AI code editor for GPU development",
       "url": "https://www.producthunt.com/products/rightnow-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 94,
+      "votesCount": 99,
       "commentsCount": 6,
       "createdAt": "2025-11-30T08:01:00Z",
       "thumbnail": {
@@ -281,6 +250,37 @@
           {
             "node": {
               "name": "Developer Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1043291",
+      "name": "Waylight",
+      "tagline": "ChatGPT, but with context from your tabs, meetings, and docs",
+      "url": "https://www.producthunt.com/products/waylight?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 96,
+      "commentsCount": 3,
+      "createdAt": "2025-11-30T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/45ef6c79-3480-4a88-af1f-c43eb96e3fb5.svg?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "SaaS"
             }
           },
           {
@@ -394,7 +394,7 @@
       "name": "Formbot",
       "tagline": "Allow your users to chat with your online forms using AI",
       "url": "https://www.producthunt.com/products/formbot?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 20,
+      "votesCount": 21,
       "commentsCount": 4,
       "createdAt": "2025-11-30T08:01:00Z",
       "thumbnail": {
