@@ -1,12 +1,12 @@
 {
-  "fetchedAt": "2025-12-02T10:28:00.555Z",
+  "fetchedAt": "2025-12-02T10:50:24.669Z",
   "posts": [
     {
       "id": "1044188",
       "name": "X-Design 2.0",
       "tagline": "Your creative AI agent for generating branded assets",
       "url": "https://www.producthunt.com/products/x-design?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 130,
+      "votesCount": 135,
       "commentsCount": 21,
       "createdAt": "2025-12-02T08:01:00Z",
       "thumbnail": {
@@ -37,7 +37,7 @@
       "name": "Stickerbox",
       "tagline": "Kid-safe, AI-powered voice-to-sticker printer",
       "url": "https://www.producthunt.com/products/stickerbox?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 113,
+      "votesCount": 115,
       "commentsCount": 9,
       "createdAt": "2025-12-02T08:01:00Z",
       "thumbnail": {
@@ -68,7 +68,7 @@
       "name": "Runway Gen-4.5",
       "tagline": "A new frontier for video generation",
       "url": "https://www.producthunt.com/products/runwayml?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 104,
+      "votesCount": 106,
       "commentsCount": 2,
       "createdAt": "2025-12-02T08:01:00Z",
       "thumbnail": {
@@ -89,6 +89,37 @@
           {
             "node": {
               "name": "Video Art"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1044241",
+      "name": "ZapDigits",
+      "tagline": "Marketing dashboards made effortless.",
+      "url": "https://www.producthunt.com/products/zapdigits?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 103,
+      "commentsCount": 8,
+      "createdAt": "2025-12-02T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/448cb82a-bb1f-4351-8b8a-f167a2b540f3.gif?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Analytics"
+            }
+          },
+          {
+            "node": {
+              "name": "Marketing"
+            }
+          },
+          {
+            "node": {
+              "name": "SaaS"
             }
           }
         ]
@@ -135,7 +166,7 @@
       "name": "DeepSeek-V3.2",
       "tagline": "Reasoning-first models built for agents",
       "url": "https://www.producthunt.com/products/deepseek?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 99,
+      "votesCount": 100,
       "commentsCount": 2,
       "createdAt": "2025-12-02T08:01:00Z",
       "thumbnail": {
@@ -157,42 +188,11 @@
       }
     },
     {
-      "id": "1044241",
-      "name": "ZapDigits",
-      "tagline": "Marketing dashboards made effortless.",
-      "url": "https://www.producthunt.com/products/zapdigits?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 99,
-      "commentsCount": 6,
-      "createdAt": "2025-12-02T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/448cb82a-bb1f-4351-8b8a-f167a2b540f3.gif?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Analytics"
-            }
-          },
-          {
-            "node": {
-              "name": "Marketing"
-            }
-          },
-          {
-            "node": {
-              "name": "SaaS"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1043185",
       "name": "Once UI 1.5",
       "tagline": "Open-source designs for interactive + animated interactions",
       "url": "https://www.producthunt.com/products/once-ui-for-figma?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 94,
+      "votesCount": 97,
       "commentsCount": 6,
       "createdAt": "2025-12-02T08:01:00Z",
       "thumbnail": {
@@ -228,7 +228,7 @@
       "name": "Vibecode DB",
       "tagline": "The Frontend Database API Gateway",
       "url": "https://www.producthunt.com/products/vibecode-db?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 88,
+      "votesCount": 91,
       "commentsCount": 2,
       "createdAt": "2025-12-02T08:01:00Z",
       "thumbnail": {
@@ -264,8 +264,8 @@
       "name": "Shipper Advisor",
       "tagline": "Build apps with AI - now with an AI cofounder by your side",
       "url": "https://www.producthunt.com/products/shipper-now?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 88,
-      "commentsCount": 1,
+      "votesCount": 89,
+      "commentsCount": 2,
       "createdAt": "2025-12-02T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/d7330bed-332b-47f4-af45-cf3ac62d62a5.png?auto=format"
@@ -295,7 +295,7 @@
       "name": "Buglet",
       "tagline": "Turn customer frustration into actionable feedback",
       "url": "https://www.producthunt.com/products/buglet?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 87,
+      "votesCount": 88,
       "commentsCount": 1,
       "createdAt": "2025-12-02T08:01:00Z",
       "thumbnail": {
@@ -326,7 +326,7 @@
       "name": "Clipse",
       "tagline": "Synchronized availability anytime, anywhere",
       "url": "https://www.producthunt.com/products/clipse-add-in-for-outlook?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 87,
+      "votesCount": 89,
       "commentsCount": 1,
       "createdAt": "2025-12-02T08:01:00Z",
       "thumbnail": {
@@ -348,11 +348,42 @@
       }
     },
     {
+      "id": "1044300",
+      "name": "FocusRoom",
+      "tagline": "Turn your tasks into calming space missions",
+      "url": "https://www.producthunt.com/products/focusroom?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 84,
+      "commentsCount": 2,
+      "createdAt": "2025-12-02T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/0f6619ee-3972-40eb-ab4f-ef16c256c40c.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Task Management"
+            }
+          },
+          {
+            "node": {
+              "name": "Time Tracking"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1044175",
       "name": "AroCrypt v0.10.0",
       "tagline": "Now with KYBER quantum safe keys + AES CTR encryption ",
       "url": "https://www.producthunt.com/products/arocrypt-file-encryption-stegography?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 81,
+      "votesCount": 83,
       "commentsCount": 1,
       "createdAt": "2025-12-02T08:01:00Z",
       "thumbnail": {
@@ -384,42 +415,11 @@
       }
     },
     {
-      "id": "1044300",
-      "name": "FocusRoom",
-      "tagline": "Turn your tasks into calming space missions",
-      "url": "https://www.producthunt.com/products/focusroom?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 80,
-      "commentsCount": 2,
-      "createdAt": "2025-12-02T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/0f6619ee-3972-40eb-ab4f-ef16c256c40c.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Task Management"
-            }
-          },
-          {
-            "node": {
-              "name": "Time Tracking"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1042821",
       "name": "Markdown Studio",
       "tagline": "Markdown editor built for the AI workflow era",
       "url": "https://www.producthunt.com/products/markdown-studio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 78,
+      "votesCount": 80,
       "commentsCount": 1,
       "createdAt": "2025-12-02T08:01:00Z",
       "thumbnail": {
@@ -450,7 +450,7 @@
       "name": "SimCockpit",
       "tagline": "Xcode Simulator Supercharged",
       "url": "https://www.producthunt.com/products/simcockpit?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 75,
+      "votesCount": 76,
       "commentsCount": 1,
       "createdAt": "2025-12-02T08:01:00Z",
       "thumbnail": {
@@ -481,7 +481,7 @@
       "name": "Cleva.io",
       "tagline": "Conversational AI guidance inside your creative tools.",
       "url": "https://www.producthunt.com/products/cleva-io?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 66,
+      "votesCount": 67,
       "commentsCount": 1,
       "createdAt": "2025-12-02T08:01:00Z",
       "thumbnail": {
@@ -553,7 +553,7 @@
       "name": "Aikido Attack",
       "tagline": "Get a pentest done, today.",
       "url": "https://www.producthunt.com/products/aikido-attack?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 68,
+      "votesCount": 73,
       "commentsCount": 18,
       "createdAt": "2025-12-02T08:01:00Z",
       "thumbnail": {
@@ -579,7 +579,7 @@
       "name": "InfiniChat AI",
       "tagline": "Unlimited AI Chat Assistant, Blazing-fast & Private",
       "url": "https://www.producthunt.com/products/infinichat-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 34,
+      "votesCount": 35,
       "commentsCount": 4,
       "createdAt": "2025-12-02T08:01:00Z",
       "thumbnail": {
