@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2025-12-05T17:00:14.796Z",
+  "fetchedAt": "2025-12-05T17:29:05.106Z",
   "posts": [
     {
       "id": "1015226",
       "name": "Documentation.AI",
       "tagline": "Build and update product documentation effortlessly with AI",
       "url": "https://www.producthunt.com/products/documentation-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 377,
-      "commentsCount": 51,
+      "votesCount": 384,
+      "commentsCount": 52,
       "createdAt": "2025-12-05T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/7ff346cb-bf3d-4f11-a711-c21553c616c3.png?auto=format"
@@ -32,8 +32,8 @@
       "name": "8bitcn/ui",
       "tagline": "8‑bit UI components that work in any framework",
       "url": "https://www.producthunt.com/products/8bitcn?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 260,
-      "commentsCount": 18,
+      "votesCount": 264,
+      "commentsCount": 21,
       "createdAt": "2025-12-05T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/f1e4eff9-b4db-44d8-a8e2-a34456e10b29.png?auto=format"
@@ -63,7 +63,7 @@
       "name": "Gemini 3 Deep Think by Google",
       "tagline": "Google’s best model for logical thinking and understanding",
       "url": "https://www.producthunt.com/products/gemini-3-deep-think-by-google?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 204,
+      "votesCount": 213,
       "commentsCount": 10,
       "createdAt": "2025-12-05T08:01:00Z",
       "thumbnail": {
@@ -94,7 +94,7 @@
       "name": "Bun",
       "tagline": "A fast JS runtime Node.js replacement with built‑in tools",
       "url": "https://www.producthunt.com/products/bun-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 194,
+      "votesCount": 201,
       "commentsCount": 7,
       "createdAt": "2025-12-05T08:01:00Z",
       "thumbnail": {
@@ -125,7 +125,7 @@
       "name": "Google Workspace Studio",
       "tagline": "Build your AI agent in minutes to delegate the daily grind",
       "url": "https://www.producthunt.com/products/google?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 160,
+      "votesCount": 166,
       "commentsCount": 4,
       "createdAt": "2025-12-05T08:01:00Z",
       "thumbnail": {
@@ -156,7 +156,7 @@
       "name": "Orca",
       "tagline": "AI Agent for Game Development",
       "url": "https://www.producthunt.com/products/orca-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 122,
+      "votesCount": 124,
       "commentsCount": 14,
       "createdAt": "2025-12-05T08:01:00Z",
       "thumbnail": {
@@ -177,6 +177,37 @@
           {
             "node": {
               "name": "Games"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1046304",
+      "name": "Antigravity",
+      "tagline": "The world's first 8K 360° drone",
+      "url": "https://www.producthunt.com/products/antigravity?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 119,
+      "commentsCount": 5,
+      "createdAt": "2025-12-05T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/baab1cf7-7d74-4beb-9569-a85b9d55b855.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Drones"
+            }
+          },
+          {
+            "node": {
+              "name": "Hardware"
+            }
+          },
+          {
+            "node": {
+              "name": "Photo & Video"
             }
           }
         ]
@@ -209,42 +240,11 @@
       }
     },
     {
-      "id": "1046304",
-      "name": "Antigravity",
-      "tagline": "The world's first 8K 360° drone",
-      "url": "https://www.producthunt.com/products/antigravity?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 118,
-      "commentsCount": 5,
-      "createdAt": "2025-12-05T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/baab1cf7-7d74-4beb-9569-a85b9d55b855.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Drones"
-            }
-          },
-          {
-            "node": {
-              "name": "Hardware"
-            }
-          },
-          {
-            "node": {
-              "name": "Photo & Video"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1046057",
       "name": "Index for ChatGPT",
       "tagline": "Auto table of contents for long ChatGPT conversations",
       "url": "https://www.producthunt.com/products/index-for-chatgpt?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 113,
+      "votesCount": 114,
       "commentsCount": 8,
       "createdAt": "2025-12-05T08:01:00Z",
       "thumbnail": {
@@ -265,7 +265,7 @@
       "name": "Kalycs",
       "tagline": "AI File Search & Organization on mac (local-first)",
       "url": "https://www.producthunt.com/products/kalycs?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 109,
+      "votesCount": 110,
       "commentsCount": 9,
       "createdAt": "2025-12-05T08:01:00Z",
       "thumbnail": {
@@ -327,7 +327,7 @@
       "name": "EaseMaster",
       "tagline": "A bezier curves & spring motion editor + code exporter",
       "url": "https://www.producthunt.com/products/easemaster?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 99,
+      "votesCount": 101,
       "commentsCount": 3,
       "createdAt": "2025-12-05T08:01:00Z",
       "thumbnail": {
@@ -363,7 +363,7 @@
       "name": "DockBuddy Organizer",
       "tagline": "Drag & Drop, Organize Photos & Video Assets in Seconds.",
       "url": "https://www.producthunt.com/products/dockbuddy-organizer?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 95,
+      "votesCount": 96,
       "commentsCount": 3,
       "createdAt": "2025-12-05T08:01:00Z",
       "thumbnail": {
@@ -487,7 +487,7 @@
       "name": "Quicklogo",
       "tagline": "Professional logos in seconds, not weeks",
       "url": "https://www.producthunt.com/products/quicklogo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 51,
+      "votesCount": 52,
       "commentsCount": 2,
       "createdAt": "2025-12-05T08:01:00Z",
       "thumbnail": {
