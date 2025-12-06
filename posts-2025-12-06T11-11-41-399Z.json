@@ -1,12 +1,12 @@
 {
-  "fetchedAt": "2025-12-06T10:50:52.328Z",
+  "fetchedAt": "2025-12-06T11:11:41.399Z",
   "posts": [
     {
       "id": "1045270",
       "name": "Walk Mate",
       "tagline": "Discover new walk paths while staying active.",
       "url": "https://www.producthunt.com/products/walk-mate-daily-walk-routes?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 124,
+      "votesCount": 126,
       "commentsCount": 4,
       "createdAt": "2025-12-06T08:01:00Z",
       "thumbnail": {
@@ -37,7 +37,7 @@
       "name": "Bean Recipe Adapt",
       "tagline": "Tell Bean what to change and it updates recipe in realtime",
       "url": "https://www.producthunt.com/products/bean-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 101,
+      "votesCount": 102,
       "commentsCount": 1,
       "createdAt": "2025-12-06T08:01:00Z",
       "thumbnail": {
@@ -64,11 +64,42 @@
       }
     },
     {
+      "id": "1046648",
+      "name": "Eureka",
+      "tagline": "Turn any knowledge into an explorable visual map, AI-powered",
+      "url": "https://www.producthunt.com/products/eureka-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 95,
+      "commentsCount": 2,
+      "createdAt": "2025-12-06T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/54f06793-9f1e-468a-99d1-c0d7e3a1bfd9.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "School"
+            }
+          },
+          {
+            "node": {
+              "name": "Online Learning"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1046514",
       "name": "Browser Use Skills",
       "tagline": "Turn any website into an reliable API with 1 prompt",
       "url": "https://www.producthunt.com/products/browser-use?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 88,
+      "votesCount": 90,
       "commentsCount": 5,
       "createdAt": "2025-12-06T08:01:00Z",
       "thumbnail": {
@@ -95,31 +126,88 @@
       }
     },
     {
-      "id": "1046704",
-      "name": "Linkie",
-      "tagline": "Your link-in-bio platform",
-      "url": "https://www.producthunt.com/products/linkie-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 75,
-      "commentsCount": 1,
+      "id": "1044498",
+      "name": "SpendLog",
+      "tagline": "See exactly what you bought, not just what you spent.",
+      "url": "https://www.producthunt.com/products/spendlog?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 86,
+      "commentsCount": 3,
       "createdAt": "2025-12-06T08:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/0fa2a07b-e051-4487-9c2d-3adf81126eba.png?auto=format"
+        "url": "https://ph-files.imgix.net/dd0e35f5-a2d2-47d6-8b4c-a320b2f822be.png?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "Social Media"
+              "name": "Fintech"
             }
           },
           {
             "node": {
-              "name": "Marketing"
+              "name": "Cooking"
             }
           },
           {
             "node": {
-              "name": "Influencer marketing"
+              "name": "Personal Finance"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1044069",
+      "name": "Ariel AI by Roamcalm",
+      "tagline": "Turn your booking emails into travel itineraries",
+      "url": "https://www.producthunt.com/products/roamcalm?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 84,
+      "commentsCount": 1,
+      "createdAt": "2025-12-06T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/678d07e2-76bd-4792-a13c-ba5a7332b044.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Travel"
+            }
+          },
+          {
+            "node": {
+              "name": "Business Travel"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1040179",
+      "name": "Haven",
+      "tagline": "Start with Haven. Bank with Confidence",
+      "url": "https://www.producthunt.com/products/haven-8?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 81,
+      "commentsCount": 1,
+      "createdAt": "2025-12-06T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/ce33f040-9af4-4bfe-9eb7-847f4233a8a5.svg?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Chrome Extensions"
+            }
+          },
+          {
+            "node": {
+              "name": "Banking"
+            }
+          },
+          {
+            "node": {
+              "name": "Security"
             }
           }
         ]
@@ -162,119 +250,31 @@
       }
     },
     {
-      "id": "1040179",
-      "name": "Haven",
-      "tagline": "Start with Haven. Bank with Confidence",
-      "url": "https://www.producthunt.com/products/haven-8?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 80,
+      "id": "1046704",
+      "name": "Linkie",
+      "tagline": "Your link-in-bio platform",
+      "url": "https://www.producthunt.com/products/linkie-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 75,
       "commentsCount": 1,
       "createdAt": "2025-12-06T08:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/ce33f040-9af4-4bfe-9eb7-847f4233a8a5.svg?auto=format"
+        "url": "https://ph-files.imgix.net/0fa2a07b-e051-4487-9c2d-3adf81126eba.png?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "Chrome Extensions"
+              "name": "Social Media"
             }
           },
           {
             "node": {
-              "name": "Banking"
+              "name": "Marketing"
             }
           },
           {
             "node": {
-              "name": "Security"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1044069",
-      "name": "Ariel",
-      "tagline": "Turn your booking emails into travel itineraries",
-      "url": "https://www.producthunt.com/products/roamcalm?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 84,
-      "commentsCount": 1,
-      "createdAt": "2025-12-06T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/678d07e2-76bd-4792-a13c-ba5a7332b044.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Travel"
-            }
-          },
-          {
-            "node": {
-              "name": "Business Travel"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1044498",
-      "name": "SpendLog",
-      "tagline": "See exactly what you bought, not just what you spent.",
-      "url": "https://www.producthunt.com/products/spendlog?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 85,
-      "commentsCount": 3,
-      "createdAt": "2025-12-06T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/dd0e35f5-a2d2-47d6-8b4c-a320b2f822be.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Fintech"
-            }
-          },
-          {
-            "node": {
-              "name": "Cooking"
-            }
-          },
-          {
-            "node": {
-              "name": "Personal Finance"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1046648",
-      "name": "Eureka",
-      "tagline": "Turn any knowledge into an explorable visual map, AI-powered",
-      "url": "https://www.producthunt.com/products/eureka-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 94,
-      "commentsCount": 2,
-      "createdAt": "2025-12-06T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/54f06793-9f1e-468a-99d1-c0d7e3a1bfd9.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "School"
-            }
-          },
-          {
-            "node": {
-              "name": "Online Learning"
+              "name": "Influencer marketing"
             }
           }
         ]
@@ -285,7 +285,7 @@
       "name": "Cravit",
       "tagline": "Discover new places through food missions with friends",
       "url": "https://www.producthunt.com/products/cravit?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 70,
+      "votesCount": 72,
       "commentsCount": 1,
       "createdAt": "2025-12-06T08:01:00Z",
       "thumbnail": {
@@ -316,7 +316,7 @@
       "name": "TruGen AI",
       "tagline": "Bringing AI to Life with Human-Like Video Agents.",
       "url": "https://www.producthunt.com/products/trugen-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 57,
+      "votesCount": 59,
       "commentsCount": 15,
       "createdAt": "2025-12-06T08:01:00Z",
       "thumbnail": {
@@ -374,37 +374,6 @@
       }
     },
     {
-      "id": "1046703",
-      "name": "ClipNotebook",
-      "tagline": "Free link organizer and shareable research playlists",
-      "url": "https://www.producthunt.com/products/clipnotebook?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 3,
-      "commentsCount": 1,
-      "createdAt": "2025-12-06T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/f5cc2da4-d887-4ac7-92aa-595078331ed5.svg?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Tech"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1046432",
       "name": "144 Archetypes",
       "tagline": "Discover your true self beyond 16 types. ",
@@ -436,31 +405,31 @@
       }
     },
     {
-      "id": "1046677",
-      "name": "raptor77",
-      "tagline": "From idea to deploy, instantly.",
-      "url": "https://www.producthunt.com/products/raptor77?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 2,
+      "id": "1046703",
+      "name": "ClipNotebook",
+      "tagline": "Free link organizer and shareable research playlists",
+      "url": "https://www.producthunt.com/products/clipnotebook?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 3,
       "commentsCount": 1,
       "createdAt": "2025-12-06T08:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/c52231fd-1102-45bf-b2c4-33ef4ed101b1.png?auto=format"
+        "url": "https://ph-files.imgix.net/f5cc2da4-d887-4ac7-92aa-595078331ed5.svg?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "Website Builder"
+              "name": "Productivity"
             }
           },
           {
             "node": {
-              "name": "No-Code"
+              "name": "Developer Tools"
             }
           },
           {
             "node": {
-              "name": "Vibe coding"
+              "name": "Tech"
             }
           }
         ]
@@ -493,54 +462,127 @@
       }
     },
     {
-      "id": "1046471",
-      "name": "KeepPushing - Running Coach",
-      "tagline": "The TrainingPeaks killer for normal runners",
-      "url": "https://www.producthunt.com/products/keeppushing-running-coach?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 2,
+      "id": "1046531",
+      "name": "Lux et Ars",
+      "tagline": "exclusive AI Fine-art prints with drops and auctions",
+      "url": "https://www.producthunt.com/products/lux-et-ars?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 3,
       "commentsCount": 1,
       "createdAt": "2025-12-06T08:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/cb04c05f-ebda-43e1-b960-fee93af4eef6.jpeg?auto=format"
+        "url": "https://ph-files.imgix.net/6c3e7a80-5071-41f7-bf96-89b676616432.png?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "Health & Fitness"
+              "name": "Art"
             }
           },
           {
             "node": {
-              "name": "Analytics"
+              "name": "Artificial Intelligence"
             }
           },
           {
             "node": {
-              "name": "Running"
+              "name": "Shopping"
             }
           }
         ]
       }
     },
     {
-      "id": "1046417",
-      "name": "deOptimize.me",
-      "tagline": "The world's first human-as-a-service to de-optimize AI text",
-      "url": "https://www.producthunt.com/products/deoptimize-me?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 2,
+      "id": "1046749",
+      "name": "Quizly",
+      "tagline": "Generate quizzes on any topic in seconds ",
+      "url": "https://www.producthunt.com/products/quizly-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 3,
       "commentsCount": 1,
       "createdAt": "2025-12-06T08:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/cc8642b9-01da-4503-ac66-af2a4bc46fb1.png?auto=format"
+        "url": "https://ph-files.imgix.net/98bc3172-960c-4f4f-a44a-87eafd513237.png?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "Funny"
+              "name": "Education"
             }
           },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "Comedy"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1046463",
+      "name": "Liquid Glass Emojis – iMessage Pack",
+      "tagline": "100+ ultra-glossy 3D emojis made for the new iOS Liquid UI",
+      "url": "https://www.producthunt.com/products/liquid-glass-emojis-imessage-pack?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 3,
+      "commentsCount": 1,
+      "createdAt": "2025-12-06T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/de366e50-9511-4919-804c-d5818de3e0ed.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Emoji"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1046611",
+      "name": "extFast",
+      "tagline": "Launch your extension in days, not weeks",
+      "url": "https://www.producthunt.com/products/extfast?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 3,
+      "commentsCount": 1,
+      "createdAt": "2025-12-06T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/d7b3ac5e-e8ea-450d-b2c0-ea0c33d6fe0a.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Chrome Extensions"
+            }
+          },
+          {
+            "node": {
+              "name": "User Experience"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1046242",
+      "name": "SpikApp",
+      "tagline": "Your personal AI coach for public speaking.",
+      "url": "https://www.producthunt.com/products/spikapp?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 3,
+      "commentsCount": 1,
+      "createdAt": "2025-12-06T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/bb9c8d94-5ba1-4d92-a0ea-202ab73380e9.svg?auto=format"
+      },
+      "topics": {
+        "edges": [
           {
             "node": {
               "name": "Productivity"
@@ -550,67 +592,10 @@
             "node": {
               "name": "Education"
             }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1046581",
-      "name": "Sebastian - Vibe Coding",
-      "tagline": "Create full mobile apps from a simple prompt.",
-      "url": "https://www.producthunt.com/products/sebastian?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 3,
-      "commentsCount": 1,
-      "createdAt": "2025-12-06T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/cd24b26c-0f1e-4e76-a844-6c3dbbe546d3.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
           },
           {
             "node": {
               "name": "Artificial Intelligence"
-            }
-          },
-          {
-            "node": {
-              "name": "No-Code"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1046530",
-      "name": "MentionRank",
-      "tagline": "Track How AI Recommends Your Brand",
-      "url": "https://www.producthunt.com/products/mentionrank?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 3,
-      "commentsCount": 1,
-      "createdAt": "2025-12-06T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/0e885158-09c3-46bc-97dd-f7fce7722ab9.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Marketing"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          },
-          {
-            "node": {
-              "name": "Search"
             }
           }
         ]
