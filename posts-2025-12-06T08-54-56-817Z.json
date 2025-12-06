@@ -1,12 +1,12 @@
 {
-  "fetchedAt": "2025-12-06T08:40:45.721Z",
+  "fetchedAt": "2025-12-06T08:54:56.817Z",
   "posts": [
     {
       "id": "1045270",
       "name": "Walk Mate",
       "tagline": "Discover new walk paths while staying active.",
       "url": "https://www.producthunt.com/products/walk-mate-daily-walk-routes?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 89,
+      "votesCount": 95,
       "commentsCount": 2,
       "createdAt": "2025-12-06T08:01:00Z",
       "thumbnail": {
@@ -37,7 +37,7 @@
       "name": "Bean Recipe Adapt",
       "tagline": "Tell Bean what to change and it updates recipe in realtime",
       "url": "https://www.producthunt.com/products/bean-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 77,
+      "votesCount": 82,
       "commentsCount": 1,
       "createdAt": "2025-12-06T08:01:00Z",
       "thumbnail": {
@@ -64,42 +64,11 @@
       }
     },
     {
-      "id": "1040179",
-      "name": "Haven",
-      "tagline": "Start with Haven. Bank with Confidence",
-      "url": "https://www.producthunt.com/products/haven-8?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 63,
-      "commentsCount": 1,
-      "createdAt": "2025-12-06T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/ce33f040-9af4-4bfe-9eb7-847f4233a8a5.svg?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Chrome Extensions"
-            }
-          },
-          {
-            "node": {
-              "name": "Banking"
-            }
-          },
-          {
-            "node": {
-              "name": "Security"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1046514",
       "name": "Browser Use Skills",
-      "tagline": "Turn any website into an API in under 5 minutes",
+      "tagline": "Turn any website into an reliable API with 1 prompt",
       "url": "https://www.producthunt.com/products/browser-use?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 63,
+      "votesCount": 66,
       "commentsCount": 1,
       "createdAt": "2025-12-06T08:01:00Z",
       "thumbnail": {
@@ -126,12 +95,43 @@
       }
     },
     {
+      "id": "1040179",
+      "name": "Haven",
+      "tagline": "Start with Haven. Bank with Confidence",
+      "url": "https://www.producthunt.com/products/haven-8?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 64,
+      "commentsCount": 1,
+      "createdAt": "2025-12-06T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/ce33f040-9af4-4bfe-9eb7-847f4233a8a5.svg?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Chrome Extensions"
+            }
+          },
+          {
+            "node": {
+              "name": "Banking"
+            }
+          },
+          {
+            "node": {
+              "name": "Security"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1046434",
       "name": "Proofly ",
       "tagline": "Private AI proofreading that runs 100% on your device",
       "url": "https://www.producthunt.com/products/proofly-on-device-ai-proofreader?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 62,
-      "commentsCount": 1,
+      "votesCount": 63,
+      "commentsCount": 2,
       "createdAt": "2025-12-06T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/06178ebb-f3ba-489e-a848-0fb5b7b0ddf2.png?auto=format"
@@ -156,6 +156,32 @@
           {
             "node": {
               "name": "GitHub"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1044069",
+      "name": "Ariel",
+      "tagline": "Turn your booking emails into travel itineraries",
+      "url": "https://www.producthunt.com/products/roamcalm?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 62,
+      "commentsCount": 1,
+      "createdAt": "2025-12-06T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/678d07e2-76bd-4792-a13c-ba5a7332b044.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Travel"
+            }
+          },
+          {
+            "node": {
+              "name": "Business Travel"
             }
           }
         ]
@@ -187,32 +213,6 @@
           {
             "node": {
               "name": "Influencer marketing"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1044069",
-      "name": "Ariel",
-      "tagline": "Turn your booking emails into travel itineraries",
-      "url": "https://www.producthunt.com/products/roamcalm?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 62,
-      "commentsCount": 1,
-      "createdAt": "2025-12-06T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/678d07e2-76bd-4792-a13c-ba5a7332b044.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Travel"
-            }
-          },
-          {
-            "node": {
-              "name": "Business Travel"
             }
           }
         ]
@@ -285,8 +285,8 @@
       "name": "SpendLog",
       "tagline": "See exactly what you bought, not just what you spent.",
       "url": "https://www.producthunt.com/products/spendlog?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 56,
-      "commentsCount": 1,
+      "votesCount": 57,
+      "commentsCount": 2,
       "createdAt": "2025-12-06T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/dd0e35f5-a2d2-47d6-8b4c-a320b2f822be.png?auto=format"
@@ -316,8 +316,8 @@
       "name": "TruGen AI",
       "tagline": "Bringing AI to Life with Human-Like Video Agents.",
       "url": "https://www.producthunt.com/products/trugen-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 6,
-      "commentsCount": 2,
+      "votesCount": 8,
+      "commentsCount": 5,
       "createdAt": "2025-12-06T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/f8a81ba7-af33-4e44-ad4b-949e6280ec13.gif?auto=format"
@@ -374,31 +374,31 @@
       }
     },
     {
-      "id": "1046417",
-      "name": "deOptimize.me",
-      "tagline": "The world's first human-as-a-service to de-optimize AI text",
-      "url": "https://www.producthunt.com/products/deoptimize-me?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "id": "1046173",
+      "name": "Waymate - Step Counter",
+      "tagline": "A minimalist step tracker for daily walks",
+      "url": "https://www.producthunt.com/products/waymate-step-counter?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 2,
       "commentsCount": 1,
       "createdAt": "2025-12-06T08:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/cc8642b9-01da-4503-ac66-af2a4bc46fb1.png?auto=format"
+        "url": "https://ph-files.imgix.net/28bf670f-e27a-459c-aca1-b2919ab5fd62.png?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "Funny"
+              "name": "iOS"
+            }
+          },
+          {
+            "node": {
+              "name": "Health & Fitness"
             }
           },
           {
             "node": {
               "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Education"
             }
           }
         ]
@@ -436,134 +436,46 @@
       }
     },
     {
-      "id": "1045069",
-      "name": "Colority",
-      "tagline": "Extract colors from images",
-      "url": "https://www.producthunt.com/products/colority-net?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 1,
+      "id": "1046417",
+      "name": "deOptimize.me",
+      "tagline": "The world's first human-as-a-service to de-optimize AI text",
+      "url": "https://www.producthunt.com/products/deoptimize-me?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 2,
       "commentsCount": 1,
       "createdAt": "2025-12-06T08:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/a7fd064b-3b45-47ad-b0d0-7546009a315b.png?auto=format"
+        "url": "https://ph-files.imgix.net/cc8642b9-01da-4503-ac66-af2a4bc46fb1.png?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "Design Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "User Experience"
-            }
-          },
-          {
-            "node": {
-              "name": "Photo editing"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1046173",
-      "name": "Waymate - Step Counter",
-      "tagline": "A minimalist step tracker for daily walks",
-      "url": "https://www.producthunt.com/products/waymate-step-counter?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 1,
-      "commentsCount": 1,
-      "createdAt": "2025-12-06T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/28bf670f-e27a-459c-aca1-b2919ab5fd62.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "iOS"
-            }
-          },
-          {
-            "node": {
-              "name": "Health & Fitness"
+              "name": "Funny"
             }
           },
           {
             "node": {
               "name": "Productivity"
             }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1046582",
-      "name": "Pricing Analysis Tool",
-      "tagline": "Increase conversions fast",
-      "url": "https://www.producthunt.com/products/pricing-analysis-tool?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 1,
-      "commentsCount": 1,
-      "createdAt": "2025-12-06T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/d9b4382d-720b-4c0b-80e9-1f79bb293d0c.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Sales"
-            }
           },
           {
             "node": {
-              "name": "Marketing"
+              "name": "Education"
             }
           }
         ]
       }
     },
     {
-      "id": "1046581",
-      "name": "Sebastian - Vibe Coding",
-      "tagline": "Create full mobile apps from a simple prompt.",
-      "url": "https://www.producthunt.com/products/sebastian?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "id": "1046647",
+      "name": "Mock Social",
+      "tagline": "Create fake chat screenshots for free",
+      "url": "https://www.producthunt.com/products/mock-social?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 1,
       "commentsCount": 1,
       "createdAt": "2025-12-06T08:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/cd24b26c-0f1e-4e76-a844-6c3dbbe546d3.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          },
-          {
-            "node": {
-              "name": "No-Code"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1046583",
-      "name": "Z-Image-Edit",
-      "tagline": "Professional image editing and generation by Alibaba Tongyi",
-      "url": "https://www.producthunt.com/products/z-image-edit?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 1,
-      "commentsCount": 1,
-      "createdAt": "2025-12-06T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/dda84fd7-4ea3-4130-a69e-b7c9e41528e2.vnd.microsoft.icon?auto=format"
+        "url": "https://ph-files.imgix.net/cfac1d49-d561-49ac-8a5f-ebbd2a59b45d.png?auto=format"
       },
       "topics": {
         "edges": [
@@ -572,6 +484,58 @@
               "name": "Design Tools"
             }
           },
+          {
+            "node": {
+              "name": "Memes"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1038680",
+      "name": "Loverzz",
+      "tagline": "Couple app for daily connection & widgets",
+      "url": "https://www.producthunt.com/products/loverzz?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 1,
+      "commentsCount": 1,
+      "createdAt": "2025-12-06T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/c73d6d25-647d-4f49-9072-32490c694ca4.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Couples"
+            }
+          },
+          {
+            "node": {
+              "name": "Lifestyle"
+            }
+          },
+          {
+            "node": {
+              "name": "Intimacy"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1046546",
+      "name": "Quevio",
+      "tagline": "Understand video like a human!",
+      "url": "https://www.producthunt.com/products/quevio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 1,
+      "commentsCount": 1,
+      "createdAt": "2025-12-06T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/6a5e5d0e-a1ce-4868-aaf5-0d0bec938c56.png?auto=format"
+      },
+      "topics": {
+        "edges": [
           {
             "node": {
               "name": "Artificial Intelligence"
@@ -580,6 +544,11 @@
           {
             "node": {
               "name": "Tech"
+            }
+          },
+          {
+            "node": {
+              "name": "Video"
             }
           }
         ]
@@ -611,6 +580,37 @@
           {
             "node": {
               "name": "Career"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1046242",
+      "name": "SpikApp",
+      "tagline": "Your personal AI coach for public speaking.",
+      "url": "https://www.producthunt.com/products/spikapp?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 1,
+      "commentsCount": 1,
+      "createdAt": "2025-12-06T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/bb9c8d94-5ba1-4d92-a0ea-202ab73380e9.svg?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Education"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
             }
           }
         ]
