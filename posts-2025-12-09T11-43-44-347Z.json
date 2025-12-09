@@ -1,12 +1,12 @@
 {
-  "fetchedAt": "2025-12-09T11:27:09.070Z",
+  "fetchedAt": "2025-12-09T11:43:44.347Z",
   "posts": [
     {
       "id": "1037493",
       "name": "BON Credit",
       "tagline": "Reduce your debt with AI",
       "url": "https://www.producthunt.com/products/bon-credit?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 119,
+      "votesCount": 121,
       "commentsCount": 11,
       "createdAt": "2025-12-09T08:01:00Z",
       "thumbnail": {
@@ -27,7 +27,7 @@
       "name": "Dapple",
       "tagline": "A smart platform to manage awards, contests and applications",
       "url": "https://www.producthunt.com/products/dapple-smart-submission-management?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 116,
+      "votesCount": 121,
       "commentsCount": 5,
       "createdAt": "2025-12-09T08:01:00Z",
       "thumbnail": {
@@ -49,11 +49,42 @@
       }
     },
     {
+      "id": "1047750",
+      "name": "TubeGuide",
+      "tagline": "Convert YouTube to step-by-step notes",
+      "url": "https://www.producthunt.com/products/tubeguide?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 112,
+      "commentsCount": 11,
+      "createdAt": "2025-12-09T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/995cbd35-91d3-437f-8c44-39db9b7b24cc.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Notes"
+            }
+          },
+          {
+            "node": {
+              "name": "YouTube"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1047931",
       "name": "GLM-4.6V",
       "tagline": "Open-source multimodal model with native tool use",
       "url": "https://www.producthunt.com/products/z-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 110,
+      "votesCount": 111,
       "commentsCount": 5,
       "createdAt": "2025-12-09T08:01:00Z",
       "thumbnail": {
@@ -80,42 +111,11 @@
       }
     },
     {
-      "id": "1047750",
-      "name": "TubeGuide",
-      "tagline": "Convert YouTube to step-by-step notes",
-      "url": "https://www.producthunt.com/products/tubeguide?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 108,
-      "commentsCount": 10,
-      "createdAt": "2025-12-09T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/995cbd35-91d3-437f-8c44-39db9b7b24cc.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Notes"
-            }
-          },
-          {
-            "node": {
-              "name": "YouTube"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1047925",
       "name": "Kortex",
       "tagline": "Organize, import + export NotebookLM sources with a click",
       "url": "https://www.producthunt.com/products/kortex-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 101,
+      "votesCount": 103,
       "commentsCount": 4,
       "createdAt": "2025-12-09T08:01:00Z",
       "thumbnail": {
@@ -151,7 +151,7 @@
       "name": "Lyria Camera by Google DeepMind",
       "tagline": "Turn your camera into a musical instrument",
       "url": "https://www.producthunt.com/products/lyria-camera-by-google-deepmind?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 94,
+      "votesCount": 96,
       "commentsCount": 3,
       "createdAt": "2025-12-09T08:01:00Z",
       "thumbnail": {
@@ -182,7 +182,7 @@
       "name": "Kerno",
       "tagline": "Testing Co-Pilot for Backend Engineers",
       "url": "https://www.producthunt.com/products/kerno?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 92,
+      "votesCount": 94,
       "commentsCount": 5,
       "createdAt": "2025-12-09T08:01:00Z",
       "thumbnail": {
@@ -240,74 +240,12 @@
       }
     },
     {
-      "id": "1038780",
-      "name": "taag.app",
-      "tagline": "Share all product links on your image, powered by Vision AI",
-      "url": "https://www.producthunt.com/products/taag-app?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 88,
-      "commentsCount": 1,
-      "createdAt": "2025-12-09T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/2f18e2f7-3ed9-4ba3-8041-00cde768b031.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "SaaS"
-            }
-          },
-          {
-            "node": {
-              "name": "Influencer marketing"
-            }
-          },
-          {
-            "node": {
-              "name": "Affiliate marketing"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1047871",
-      "name": "Cosmic AI Agents",
-      "tagline": "Autonomous AI that builds, writes, and ships for you.",
-      "url": "https://www.producthunt.com/products/cosmic?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 88,
-      "commentsCount": 5,
-      "createdAt": "2025-12-09T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/6ba3ccdb-b319-4dba-9d57-4a9282d5b6da.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "API"
-            }
-          },
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1047892",
       "name": "WarpGrep",
       "tagline": "Remove context rot + improve code search ",
       "url": "https://www.producthunt.com/products/morph-apply-ai-edits-to-files-fast?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 87,
-      "commentsCount": 5,
+      "votesCount": 90,
+      "commentsCount": 6,
       "createdAt": "2025-12-09T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/a2145245-aa24-45b7-b0fe-fbd0cd671aa2.png?auto=format"
@@ -332,7 +270,7 @@
       "name": "thefrontkit",
       "tagline": "Design + Code UI kits for AI & SaaS",
       "url": "https://www.producthunt.com/products/thefrontkit?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 89,
+      "votesCount": 90,
       "commentsCount": 4,
       "createdAt": "2025-12-09T08:01:00Z",
       "thumbnail": {
@@ -359,12 +297,74 @@
       }
     },
     {
+      "id": "1047871",
+      "name": "Cosmic AI Agents",
+      "tagline": "Autonomous AI that builds, writes, and ships for you.",
+      "url": "https://www.producthunt.com/products/cosmic?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 91,
+      "commentsCount": 5,
+      "createdAt": "2025-12-09T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/6ba3ccdb-b319-4dba-9d57-4a9282d5b6da.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "API"
+            }
+          },
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1038780",
+      "name": "taag.app",
+      "tagline": "Share all product links on your image, powered by Vision AI",
+      "url": "https://www.producthunt.com/products/taag-app?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 89,
+      "commentsCount": 1,
+      "createdAt": "2025-12-09T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/2f18e2f7-3ed9-4ba3-8041-00cde768b031.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "SaaS"
+            }
+          },
+          {
+            "node": {
+              "name": "Influencer marketing"
+            }
+          },
+          {
+            "node": {
+              "name": "Affiliate marketing"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1047910",
       "name": "EpsteinGPT",
       "tagline": "ChatGPT connected to the Epstein Files",
       "url": "https://www.producthunt.com/products/epsteingpt?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 80,
-      "commentsCount": 2,
+      "votesCount": 82,
+      "commentsCount": 3,
       "createdAt": "2025-12-09T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/5ab57725-5531-4db0-9e5b-9b06f357445d.jpeg?auto=format"
@@ -394,7 +394,7 @@
       "name": "Crowdstake",
       "tagline": "AI landing pages for waitlists, preorders & A/B testing",
       "url": "https://www.producthunt.com/products/crowdstake?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 36,
+      "votesCount": 42,
       "commentsCount": 9,
       "createdAt": "2025-12-09T08:01:00Z",
       "thumbnail": {
@@ -425,7 +425,7 @@
       "name": "Fastbreak Video",
       "tagline": "Polished product marketing videos. Zero learning curve.",
       "url": "https://www.producthunt.com/products/fastbreak-video?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 21,
+      "votesCount": 27,
       "commentsCount": 9,
       "createdAt": "2025-12-09T08:01:00Z",
       "thumbnail": {
@@ -483,6 +483,32 @@
       }
     },
     {
+      "id": "1047386",
+      "name": "Teardown",
+      "tagline": "Kill outdated app versions instantly",
+      "url": "https://www.producthunt.com/products/teardown?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 20,
+      "commentsCount": 7,
+      "createdAt": "2025-12-09T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/30ace16f-0385-4b79-9fb1-4662ad7373b6.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Analytics"
+            }
+          },
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1047587",
       "name": "SBIX Certify",
       "tagline": "✨ Instant legal proof-of-existence for any document.",
@@ -514,38 +540,12 @@
       }
     },
     {
-      "id": "1047386",
-      "name": "Teardown",
-      "tagline": "Kill outdated app versions instantly",
-      "url": "https://www.producthunt.com/products/teardown?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 16,
-      "commentsCount": 6,
-      "createdAt": "2025-12-09T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/30ace16f-0385-4b79-9fb1-4662ad7373b6.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Analytics"
-            }
-          },
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1048010",
       "name": "Ark Empowerment",
       "tagline": "The Dream Co-Captain for Navigating Your Business",
       "url": "https://www.producthunt.com/products/ark-empowerment?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 16,
-      "commentsCount": 5,
+      "commentsCount": 7,
       "createdAt": "2025-12-09T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/63e751be-50fd-40c4-b073-c327851f270a.x-icon?auto=format"
