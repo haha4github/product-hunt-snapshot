@@ -1,12 +1,12 @@
 {
-  "fetchedAt": "2025-12-10T17:56:19.628Z",
+  "fetchedAt": "2025-12-10T18:40:35.437Z",
   "posts": [
     {
       "id": "1044643",
       "name": "Incredible",
       "tagline": "Deep Work AI Agents - powered by Agent MAX",
       "url": "https://www.producthunt.com/products/incredible?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 362,
+      "votesCount": 375,
       "commentsCount": 64,
       "createdAt": "2025-12-10T08:01:00Z",
       "thumbnail": {
@@ -37,7 +37,7 @@
       "name": "SnapTodo",
       "tagline": "A weekly planner that automatically schedules your todos",
       "url": "https://www.producthunt.com/products/snaptodo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 348,
+      "votesCount": 374,
       "commentsCount": 40,
       "createdAt": "2025-12-10T08:01:00Z",
       "thumbnail": {
@@ -68,8 +68,8 @@
       "name": "HERO",
       "tagline": "Notion-like editor for formal business documents",
       "url": "https://www.producthunt.com/products/hero-11?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 247,
-      "commentsCount": 42,
+      "votesCount": 256,
+      "commentsCount": 40,
       "createdAt": "2025-12-10T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/4e917013-0e6c-44b1-b24a-ac12119fe606.png?auto=format"
@@ -99,7 +99,7 @@
       "name": "Anytype Chats",
       "tagline": "A privacy focused team workspace",
       "url": "https://www.producthunt.com/products/anytype?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 202,
+      "votesCount": 222,
       "commentsCount": 54,
       "createdAt": "2025-12-10T08:01:00Z",
       "thumbnail": {
@@ -135,7 +135,7 @@
       "name": "Vybe",
       "tagline": "Lovable for internal apps",
       "url": "https://www.producthunt.com/products/vybe-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 198,
+      "votesCount": 199,
       "commentsCount": 41,
       "createdAt": "2025-12-10T08:01:00Z",
       "thumbnail": {
@@ -166,7 +166,7 @@
       "name": "Yolk",
       "tagline": "From call analysis to roleplay coaching, automated by AI.",
       "url": "https://www.producthunt.com/products/yolk-the-ai-sales-coach?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 170,
+      "votesCount": 172,
       "commentsCount": 25,
       "createdAt": "2025-12-10T08:01:00Z",
       "thumbnail": {
@@ -187,6 +187,37 @@
           {
             "node": {
               "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1048487",
+      "name": "Devstral 2",
+      "tagline": "SOTA open-source agentic coding models and CLI agent",
+      "url": "https://www.producthunt.com/products/mistral-7b?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 155,
+      "commentsCount": 7,
+      "createdAt": "2025-12-10T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/d4a1df7d-3e6e-4c59-bb8c-e815e018756c.x-icon?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Open Source"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "Development"
             }
           }
         ]
@@ -228,7 +259,7 @@
       "name": "Rep by Clarify",
       "tagline": "A personal sales agent that helps you close more deals",
       "url": "https://www.producthunt.com/products/clarify-6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 140,
+      "votesCount": 143,
       "commentsCount": 12,
       "createdAt": "2025-12-10T08:01:00Z",
       "thumbnail": {
@@ -255,42 +286,11 @@
       }
     },
     {
-      "id": "1048487",
-      "name": "Devstral 2",
-      "tagline": "SOTA open-source agentic coding models and CLI agent",
-      "url": "https://www.producthunt.com/products/mistral-7b?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 144,
-      "commentsCount": 7,
-      "createdAt": "2025-12-10T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/d4a1df7d-3e6e-4c59-bb8c-e815e018756c.x-icon?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Open Source"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          },
-          {
-            "node": {
-              "name": "Development"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1037890",
       "name": "Scouts by Yutori",
       "tagline": "Agents that monitor the web for you.",
       "url": "https://www.producthunt.com/products/scouts-by-yutori?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 129,
+      "votesCount": 138,
       "commentsCount": 8,
       "createdAt": "2025-12-10T08:01:00Z",
       "thumbnail": {
@@ -321,8 +321,8 @@
       "name": "Tactiq 3.0 ",
       "tagline": "AI Notetaker that summarizes meetings in real time",
       "url": "https://www.producthunt.com/products/tactiq?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 114,
-      "commentsCount": 13,
+      "votesCount": 118,
+      "commentsCount": 14,
       "createdAt": "2025-12-10T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/004e72fb-e5e3-4b1e-86c6-2d6cbcf8cbbc.jpeg?auto=format"
@@ -342,6 +342,37 @@
           {
             "node": {
               "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1048391",
+      "name": "Basedash Autopilot",
+      "tagline": "AI agent that acts like a superhuman PM",
+      "url": "https://www.producthunt.com/products/basedash?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 116,
+      "commentsCount": 11,
+      "createdAt": "2025-12-10T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/71904071-f19e-4fc9-b2e1-38d6d3f7c648.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "Data & Analytics"
+            }
+          },
+          {
+            "node": {
+              "name": "Data"
             }
           }
         ]
@@ -373,37 +404,6 @@
           {
             "node": {
               "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1048391",
-      "name": "Basedash Autopilot",
-      "tagline": "AI agent that acts like a superhuman PM",
-      "url": "https://www.producthunt.com/products/basedash?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 105,
-      "commentsCount": 11,
-      "createdAt": "2025-12-10T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/71904071-f19e-4fc9-b2e1-38d6d3f7c648.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          },
-          {
-            "node": {
-              "name": "Data & Analytics"
-            }
-          },
-          {
-            "node": {
-              "name": "Data"
             }
           }
         ]
@@ -471,7 +471,7 @@
       "name": "Vectorly",
       "tagline": "Get web data behind clicks, searches, user interactions",
       "url": "https://www.producthunt.com/products/vectorly-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 82,
+      "votesCount": 84,
       "commentsCount": 6,
       "createdAt": "2025-12-10T08:01:00Z",
       "thumbnail": {
@@ -538,7 +538,7 @@
       "name": "ZeroHz",
       "tagline": "Lofi music + ambient sounds + timer that lives on your Mac",
       "url": "https://www.producthunt.com/products/zerohz-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 67,
+      "votesCount": 68,
       "commentsCount": 2,
       "createdAt": "2025-12-10T08:01:00Z",
       "thumbnail": {
@@ -570,7 +570,7 @@
       "tagline": "Upload a problem, get a handwritten solution",
       "url": "https://www.producthunt.com/products/showyourwork?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 64,
-      "commentsCount": 2,
+      "commentsCount": 3,
       "createdAt": "2025-12-10T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/b8b9aa0e-22e0-42a7-9367-4923b961b2a9.svg?auto=format"
@@ -600,7 +600,7 @@
       "name": "Ama",
       "tagline": "build your startup without burning out",
       "url": "https://www.producthunt.com/products/ama-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 84,
+      "votesCount": 85,
       "commentsCount": 21,
       "createdAt": "2025-12-10T08:01:00Z",
       "thumbnail": {
