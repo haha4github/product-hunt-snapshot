@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2025-12-12T07:32:11.901Z",
+  "fetchedAt": "2025-12-12T07:47:22.433Z",
   "posts": [
     {
       "id": "1047423",
       "name": "ClickUp 4.0",
       "tagline": "All your work: tasks, docs, chat, and AI with 100% context",
       "url": "https://www.producthunt.com/products/clickup?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 551,
-      "commentsCount": 97,
+      "votesCount": 553,
+      "commentsCount": 99,
       "createdAt": "2025-12-11T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/c25d0c57-222f-489e-81bd-9d2439f189c1.jpeg?auto=format"
@@ -32,7 +32,7 @@
       "name": "Finesse by Skippr AI",
       "tagline": "AI Product Refinement, Right in Your Browser",
       "url": "https://www.producthunt.com/products/skippr-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 374,
+      "votesCount": 376,
       "commentsCount": 44,
       "createdAt": "2025-12-11T08:01:00Z",
       "thumbnail": {
@@ -68,8 +68,8 @@
       "name": "echo",
       "tagline": "847 emails → one dashboard with key data from your inbox",
       "url": "https://www.producthunt.com/products/echo-33?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 300,
-      "commentsCount": 21,
+      "votesCount": 301,
+      "commentsCount": 22,
       "createdAt": "2025-12-11T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/9f91947a-ee15-4c94-809c-b15ed74bbadd.png?auto=format"
@@ -89,7 +89,7 @@
       "name": "Signal by Vouch",
       "tagline": "Modern landing pages with a short video for you to stand out",
       "url": "https://www.producthunt.com/products/vouch-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 235,
+      "votesCount": 236,
       "commentsCount": 18,
       "createdAt": "2025-12-11T08:01:00Z",
       "thumbnail": {
@@ -151,7 +151,7 @@
       "name": "Macaly 3.0",
       "tagline": "The best editing experience in vibe-coding",
       "url": "https://www.producthunt.com/products/macaly?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 215,
+      "votesCount": 217,
       "commentsCount": 25,
       "createdAt": "2025-12-11T08:01:00Z",
       "thumbnail": {
@@ -364,37 +364,6 @@
       }
     },
     {
-      "id": "1048530",
-      "name": "The Almanac",
-      "tagline": "Look up people and how they connect",
-      "url": "https://www.producthunt.com/products/the-almanac?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 104,
-      "commentsCount": 10,
-      "createdAt": "2025-12-11T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/808ca1fc-deb8-4201-9213-b8a8398f83f7.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Social Media"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          },
-          {
-            "node": {
-              "name": "LinkedIn"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1048878",
       "name": "FixBot by iFixit",
       "tagline": "Diagnose problems from pics & receive voice guidance to fix",
@@ -420,6 +389,37 @@
           {
             "node": {
               "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1048530",
+      "name": "The Almanac",
+      "tagline": "Look up people and how they connect",
+      "url": "https://www.producthunt.com/products/the-almanac?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 104,
+      "commentsCount": 10,
+      "createdAt": "2025-12-11T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/808ca1fc-deb8-4201-9213-b8a8398f83f7.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Social Media"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "LinkedIn"
             }
           }
         ]
