@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2025-12-13T09:32:24.356Z",
+  "fetchedAt": "2025-12-13T09:45:00.755Z",
   "posts": [
     {
       "id": "1048157",
       "name": "PlanEat AI",
       "tagline": "AI turns your health goals into a 7-day menu & grocery list",
       "url": "https://www.producthunt.com/products/planeat-ai-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 137,
-      "commentsCount": 18,
+      "votesCount": 150,
+      "commentsCount": 30,
       "createdAt": "2025-12-13T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/daa0b338-3150-4341-af7f-954fe89015bb.png?auto=format"
@@ -37,8 +37,8 @@
       "name": "PocketCorder",
       "tagline": "Remote control your mac from smartphone",
       "url": "https://www.producthunt.com/products/pocketcorder-code-on-the-go?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 100,
-      "commentsCount": 1,
+      "votesCount": 101,
+      "commentsCount": 2,
       "createdAt": "2025-12-13T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/0c925cd3-70bb-4a22-9af7-6833658d8797.png?auto=format"
@@ -94,7 +94,7 @@
       "name": "Enhanced Image Viewer",
       "tagline": "Chrome's image viewer, but with zoom, pan, and more",
       "url": "https://www.producthunt.com/products/enhanced-image-viewer?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 68,
+      "votesCount": 69,
       "commentsCount": 1,
       "createdAt": "2025-12-13T08:01:00Z",
       "thumbnail": {
@@ -156,8 +156,8 @@
       "name": "Momotaro",
       "tagline": "Minimal, calm timer for iOS that invites you to focus.",
       "url": "https://www.producthunt.com/products/momotaro-build-better-focus-habits?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 88,
-      "commentsCount": 3,
+      "votesCount": 90,
+      "commentsCount": 5,
       "createdAt": "2025-12-13T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/62dfc6e9-3f58-4b42-ad83-c679b5beb9c6.png?auto=format"
@@ -270,7 +270,7 @@
       "name": "prompts.chat",
       "tagline": "Collect, organize, and share AI prompts. Free & Open Source.",
       "url": "https://www.producthunt.com/products/prompts-chat?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 21,
+      "votesCount": 22,
       "commentsCount": 4,
       "createdAt": "2025-12-13T08:01:00Z",
       "thumbnail": {
@@ -328,6 +328,68 @@
       }
     },
     {
+      "id": "1049385",
+      "name": "CitiScene",
+      "tagline": "See your weather come alive",
+      "url": "https://www.producthunt.com/products/citiscene?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 3,
+      "commentsCount": 2,
+      "createdAt": "2025-12-13T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/eb5eac8a-cf9c-44d3-ba0c-b737c1c05413.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Weather"
+            }
+          },
+          {
+            "node": {
+              "name": "User Experience"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1049536",
+      "name": "Brainotes",
+      "tagline": "One inbox for every idea—email, voice, or text",
+      "url": "https://www.producthunt.com/products/brainotes?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 3,
+      "commentsCount": 1,
+      "createdAt": "2025-12-13T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/509f2957-2be0-4471-ae14-fd44a1742680.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Task Management"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1049668",
       "name": "PetMeme: Make Your Pet Talk",
       "tagline": "Turn your pet photos into hilarious memes instantly with AI.",
@@ -353,63 +415,6 @@
           {
             "node": {
               "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1047318",
-      "name": "AbbyTerm",
-      "tagline": "AbbyTerm: A decent terminal for linux",
-      "url": "https://www.producthunt.com/products/abbyterm?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 1,
-      "commentsCount": 2,
-      "createdAt": "2025-12-13T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/4b0f8584-35cf-40b5-bea2-720f582d9af0.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Linux"
-            }
-          },
-          {
-            "node": {
-              "name": "GitHub"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1049478",
-      "name": "FilesTalk",
-      "tagline": "Professional file processing tools | image resizer & more",
-      "url": "https://www.producthunt.com/products/filestalk?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 1,
-      "commentsCount": 1,
-      "createdAt": "2025-12-13T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/acb0a757-d14b-4966-8723-b762aff264b0.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Design Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Photography"
-            }
-          },
-          {
-            "node": {
-              "name": "Photo editing"
             }
           }
         ]
@@ -447,6 +452,37 @@
       }
     },
     {
+      "id": "1049478",
+      "name": "FilesTalk",
+      "tagline": "Professional file processing tools | image resizer & more",
+      "url": "https://www.producthunt.com/products/filestalk?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 1,
+      "commentsCount": 1,
+      "createdAt": "2025-12-13T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/acb0a757-d14b-4966-8723-b762aff264b0.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Design Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Photography"
+            }
+          },
+          {
+            "node": {
+              "name": "Photo editing"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1049444",
       "name": "VIBBBES: \"AI SLOP\" KILLER",
       "tagline": "Generate design systems instantly from screenshots or text",
@@ -472,37 +508,6 @@
           {
             "node": {
               "name": "Vibe coding"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1049385",
-      "name": "CitiScene",
-      "tagline": "See your weather come alive",
-      "url": "https://www.producthunt.com/products/citiscene?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 1,
-      "commentsCount": 1,
-      "createdAt": "2025-12-13T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/eb5eac8a-cf9c-44d3-ba0c-b737c1c05413.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Weather"
-            }
-          },
-          {
-            "node": {
-              "name": "User Experience"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
             }
           }
         ]
@@ -540,6 +545,37 @@
       }
     },
     {
+      "id": "1048418",
+      "name": "SimpleClean",
+      "tagline": "Remove background noise from any audio or video file",
+      "url": "https://www.producthunt.com/products/simpleclean?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 1,
+      "commentsCount": 1,
+      "createdAt": "2025-12-13T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/666eebbe-3954-4efc-a029-e0525facc815.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "Audio"
+            }
+          },
+          {
+            "node": {
+              "name": "Video"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1049322",
       "name": "Clarity OS | Second Brain for Notion",
       "tagline": "Your Whole Life. Organized.",
@@ -565,27 +601,6 @@
           {
             "node": {
               "name": "Notion"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1049598",
-      "name": "Blupe",
-      "tagline": "Automate any process in one workflow",
-      "url": "https://www.producthunt.com/products/blupe?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 1,
-      "commentsCount": 1,
-      "createdAt": "2025-12-13T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/e4151855-1c05-4018-8151-c59771652365.svg?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "SaaS"
             }
           }
         ]
