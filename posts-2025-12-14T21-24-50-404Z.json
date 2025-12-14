@@ -1,12 +1,12 @@
 {
-  "fetchedAt": "2025-12-14T20:56:10.181Z",
+  "fetchedAt": "2025-12-14T21:24:50.404Z",
   "posts": [
     {
       "id": "1048636",
       "name": "Google Vids",
       "tagline": "AI-powered video creation for work",
       "url": "https://www.producthunt.com/products/google?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 337,
+      "votesCount": 345,
       "commentsCount": 15,
       "createdAt": "2025-12-14T08:01:00Z",
       "thumbnail": {
@@ -73,7 +73,7 @@
       "name": "BlazorOcticons",
       "tagline": "The easiest way to use GitHub Octicons in your Blazor apps",
       "url": "https://www.producthunt.com/products/blazorocticons?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 158,
+      "votesCount": 159,
       "commentsCount": 2,
       "createdAt": "2025-12-14T08:01:00Z",
       "thumbnail": {
@@ -104,7 +104,7 @@
       "name": "Flowglad",
       "tagline": "Open source, webhook-free payments that AI can one-shot",
       "url": "https://www.producthunt.com/products/flowglad?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 139,
+      "votesCount": 140,
       "commentsCount": 4,
       "createdAt": "2025-12-14T08:01:00Z",
       "thumbnail": {
@@ -141,7 +141,7 @@
       "tagline": "Let AI agents write & manage your SaaS emails",
       "url": "https://www.producthunt.com/products/sidemail-io?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 117,
-      "commentsCount": 2,
+      "commentsCount": 3,
       "createdAt": "2025-12-14T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/703ddeb7-c14a-496a-92e5-9e596d5ff4f1.png?auto=format"
@@ -239,12 +239,38 @@
       }
     },
     {
+      "id": "1049925",
+      "name": "Movyo",
+      "tagline": "Generate great AI videos even without knowing how to prompt",
+      "url": "https://www.producthunt.com/products/movyo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 11,
+      "commentsCount": 1,
+      "createdAt": "2025-12-14T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/5144b99e-ea50-49e2-897d-4393b615e6d4.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "Video"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1049806",
       "name": "OOTD.io",
       "tagline": "The AI Personal Stylist",
       "url": "https://www.producthunt.com/products/ootd-io-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 10,
-      "commentsCount": 2,
+      "commentsCount": 3,
       "createdAt": "2025-12-14T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/043db5dd-78c6-4a6f-ae14-5b86eb484fe6.png?auto=format"
@@ -269,32 +295,6 @@
           {
             "node": {
               "name": "Shopping"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1049925",
-      "name": "Movyo",
-      "tagline": "Generate great AI videos even without knowing how to prompt",
-      "url": "https://www.producthunt.com/products/movyo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 10,
-      "commentsCount": 1,
-      "createdAt": "2025-12-14T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/5144b99e-ea50-49e2-897d-4393b615e6d4.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          },
-          {
-            "node": {
-              "name": "Video"
             }
           }
         ]
@@ -508,6 +508,37 @@
       }
     },
     {
+      "id": "1049913",
+      "name": "Voces Mágicas",
+      "tagline": "Create magical AI audio messages for Christmas ✨",
+      "url": "https://www.producthunt.com/products/voces-magicas?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 5,
+      "commentsCount": 1,
+      "createdAt": "2025-12-14T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/1ae28a74-a561-4c3f-a7ed-ac0674878e88.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Kids"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "Audio"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1049834",
       "name": "ScrollBump: Reduce Screen Time v1.2",
       "tagline": "Your Cat = Your Scrolling Accountability Partner",
@@ -565,62 +596,31 @@
       }
     },
     {
-      "id": "1049957",
-      "name": "Paper Sudoku",
-      "tagline": "Draw numbers, Solve faster",
-      "url": "https://www.producthunt.com/products/paper-sudoku-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 3,
+      "id": "1049464",
+      "name": "indexy.dev",
+      "tagline": "Automated indexing after every deployment | indexy.dev",
+      "url": "https://www.producthunt.com/products/indexy-dev?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 4,
       "commentsCount": 1,
       "createdAt": "2025-12-14T08:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/0181ef45-0317-49f6-95ef-2173092165cc.png?auto=format"
+        "url": "https://ph-files.imgix.net/7404d9b2-d170-4d6a-ade4-f1423ee4d586.png?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "iOS"
+              "name": "API"
             }
           },
           {
             "node": {
-              "name": "Puzzle Games"
+              "name": "SEO"
             }
           },
           {
             "node": {
-              "name": "Free Games"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1049913",
-      "name": "Voces Mágicas",
-      "tagline": "Create magical AI audio messages for Christmas ✨",
-      "url": "https://www.producthunt.com/products/voces-magicas?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 3,
-      "commentsCount": 1,
-      "createdAt": "2025-12-14T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/1ae28a74-a561-4c3f-a7ed-ac0674878e88.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Kids"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          },
-          {
-            "node": {
-              "name": "Audio"
+              "name": "SaaS"
             }
           }
         ]
