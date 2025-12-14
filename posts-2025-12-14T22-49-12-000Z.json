@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2025-12-14T22:36:33.023Z",
+  "fetchedAt": "2025-12-14T22:49:12.000Z",
   "posts": [
     {
       "id": "1048636",
@@ -7,7 +7,7 @@
       "tagline": "AI-powered video creation for work",
       "url": "https://www.producthunt.com/products/google?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 350,
-      "commentsCount": 15,
+      "commentsCount": 16,
       "createdAt": "2025-12-14T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/f27f20c5-816f-4210-bbfa-8bdf797ffa3b.jpeg?auto=format"
@@ -104,7 +104,7 @@
       "name": "Flowglad",
       "tagline": "Open source, webhook-free payments that AI can one-shot",
       "url": "https://www.producthunt.com/products/flowglad?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 140,
+      "votesCount": 141,
       "commentsCount": 4,
       "createdAt": "2025-12-14T08:01:00Z",
       "thumbnail": {
@@ -140,7 +140,7 @@
       "name": "Sidemail MCP",
       "tagline": "Let AI agents write & manage your SaaS emails",
       "url": "https://www.producthunt.com/products/sidemail-io?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 120,
+      "votesCount": 121,
       "commentsCount": 4,
       "createdAt": "2025-12-14T08:01:00Z",
       "thumbnail": {
@@ -570,6 +570,37 @@
       }
     },
     {
+      "id": "1049625",
+      "name": "Social chat buttons",
+      "tagline": "Free multi-channel floating chat for your WordPress site",
+      "url": "https://www.producthunt.com/products/social-chat-buttons?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 4,
+      "commentsCount": 1,
+      "createdAt": "2025-12-14T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/53953a88-d3c8-409c-a759-4713a7032cf3.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Messaging"
+            }
+          },
+          {
+            "node": {
+              "name": "WordPress"
+            }
+          },
+          {
+            "node": {
+              "name": "GitHub"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1049919",
       "name": "Iconiy Studio",
       "tagline": "300,000+ free professional vector icons - focused SVG icons",
@@ -590,37 +621,6 @@
           {
             "node": {
               "name": "Icons"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1049464",
-      "name": "indexy.dev",
-      "tagline": "Automated indexing after every deployment | indexy.dev",
-      "url": "https://www.producthunt.com/products/indexy-dev?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 4,
-      "commentsCount": 1,
-      "createdAt": "2025-12-14T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/7404d9b2-d170-4d6a-ade4-f1423ee4d586.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "API"
-            }
-          },
-          {
-            "node": {
-              "name": "SEO"
-            }
-          },
-          {
-            "node": {
-              "name": "SaaS"
             }
           }
         ]
