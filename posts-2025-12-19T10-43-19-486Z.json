@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2025-12-19T10:16:45.512Z",
+  "fetchedAt": "2025-12-19T10:43:19.486Z",
   "posts": [
     {
       "id": "1050863",
       "name": "Loki.Build",
       "tagline": "Design and ship studio-grade landing pages with AI",
       "url": "https://www.producthunt.com/products/loki-build-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 166,
-      "commentsCount": 24,
+      "votesCount": 179,
+      "commentsCount": 28,
       "createdAt": "2025-12-19T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/31190e29-2efa-4b81-aea0-dd95b5087344.png?auto=format"
@@ -37,7 +37,7 @@
       "name": "Userology AI",
       "tagline": "The AI user research agent for busy product teams",
       "url": "https://www.producthunt.com/products/userology-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 131,
+      "votesCount": 139,
       "commentsCount": 13,
       "createdAt": "2025-12-19T08:01:00Z",
       "thumbnail": {
@@ -64,11 +64,42 @@
       }
     },
     {
+      "id": "1037026",
+      "name": "KnockKnock!",
+      "tagline": "Minimal circular video calls that start with a \"door\" knock",
+      "url": "https://www.producthunt.com/products/knockknock?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 99,
+      "commentsCount": 9,
+      "createdAt": "2025-12-19T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/566bd22e-4cef-4a30-84ba-fb29a02cc5c2.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Meetings"
+            }
+          },
+          {
+            "node": {
+              "name": "Remote Work"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1051707",
       "name": "GitStory",
       "tagline": "Turn your GitHub commits into a cinematic story",
       "url": "https://www.producthunt.com/products/gitstory-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 96,
+      "votesCount": 99,
       "commentsCount": 7,
       "createdAt": "2025-12-19T08:01:00Z",
       "thumbnail": {
@@ -100,42 +131,11 @@
       }
     },
     {
-      "id": "1037026",
-      "name": "KnockKnock!",
-      "tagline": "Minimal circular video calls that start with a \"door\" knock",
-      "url": "https://www.producthunt.com/products/knockknock?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 94,
-      "commentsCount": 4,
-      "createdAt": "2025-12-19T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/566bd22e-4cef-4a30-84ba-fb29a02cc5c2.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Meetings"
-            }
-          },
-          {
-            "node": {
-              "name": "Remote Work"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1051912",
       "name": "Vurge",
       "tagline": "It's like Clay but in Google Sheets",
       "url": "https://www.producthunt.com/products/vurge-ai-data-extraction?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 91,
+      "votesCount": 94,
       "commentsCount": 5,
       "createdAt": "2025-12-19T08:01:00Z",
       "thumbnail": {
@@ -166,7 +166,7 @@
       "name": "SAM Audio",
       "tagline": "Segment any sound with text, visual, or time prompts",
       "url": "https://www.producthunt.com/products/meta?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 83,
+      "votesCount": 85,
       "commentsCount": 3,
       "createdAt": "2025-12-19T08:01:00Z",
       "thumbnail": {
@@ -193,12 +193,43 @@
       }
     },
     {
+      "id": "1052003",
+      "name": "Evidence",
+      "tagline": "A modern dev workflow for your most important data products",
+      "url": "https://www.producthunt.com/products/evidence?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 84,
+      "commentsCount": 3,
+      "createdAt": "2025-12-19T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/3fa979f8-029b-4c4c-a529-1b7dd257e924.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Analytics"
+            }
+          },
+          {
+            "node": {
+              "name": "Data & Analytics"
+            }
+          },
+          {
+            "node": {
+              "name": "Data Visualization"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1051811",
       "name": "LocaleX",
       "tagline": "Localize your apps with AI-powered auto translation",
       "url": "https://www.producthunt.com/products/localex-app-localizer?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 81,
-      "commentsCount": 2,
+      "votesCount": 83,
+      "commentsCount": 3,
       "createdAt": "2025-12-19T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/bf6cc80e-25a3-42b3-a78c-fe877e694cbf.png?auto=format"
@@ -229,42 +260,11 @@
       }
     },
     {
-      "id": "1052003",
-      "name": "Evidence",
-      "tagline": "A modern dev workflow for your most important data products",
-      "url": "https://www.producthunt.com/products/evidence?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 81,
-      "commentsCount": 3,
-      "createdAt": "2025-12-19T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/3fa979f8-029b-4c4c-a529-1b7dd257e924.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Analytics"
-            }
-          },
-          {
-            "node": {
-              "name": "Data & Analytics"
-            }
-          },
-          {
-            "node": {
-              "name": "Data Visualization"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1051680",
       "name": "VoiceNotes",
       "tagline": "One tap record with live transcription + automatic cleanup",
       "url": "https://www.producthunt.com/products/voicenotes-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 79,
+      "votesCount": 81,
       "commentsCount": 5,
       "createdAt": "2025-12-19T08:01:00Z",
       "thumbnail": {
@@ -295,7 +295,7 @@
       "name": "Quickleap",
       "tagline": "Domain redirecting service without hassle.",
       "url": "https://www.producthunt.com/products/quickleap?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 76,
+      "votesCount": 79,
       "commentsCount": 4,
       "createdAt": "2025-12-19T08:01:00Z",
       "thumbnail": {
@@ -326,7 +326,7 @@
       "name": "ZoneShare",
       "tagline": "Perfect screen sharing for ultrawide monitors | macos app",
       "url": "https://www.producthunt.com/products/zone-share-mirror-you-screen?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 73,
+      "votesCount": 76,
       "commentsCount": 4,
       "createdAt": "2025-12-19T08:01:00Z",
       "thumbnail": {
@@ -357,7 +357,7 @@
       "name": "EduRev (Education Revolution)",
       "tagline": "Netflix for Education",
       "url": "https://www.producthunt.com/products/edurev-education-revolution?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 72,
+      "votesCount": 74,
       "commentsCount": 3,
       "createdAt": "2025-12-19T08:01:00Z",
       "thumbnail": {
@@ -393,7 +393,7 @@
       "name": "Genviral",
       "tagline": "Content creation & posting made easy",
       "url": "https://www.producthunt.com/products/genviral?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 20,
+      "votesCount": 23,
       "commentsCount": 6,
       "createdAt": "2025-12-19T08:01:00Z",
       "thumbnail": {
@@ -424,8 +424,8 @@
       "name": "isla",
       "tagline": "Build a powerful personal brand in just 20 minutes a day",
       "url": "https://www.producthunt.com/products/isla-to?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 17,
-      "commentsCount": 2,
+      "votesCount": 21,
+      "commentsCount": 3,
       "createdAt": "2025-12-19T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/36c33fac-f5f8-4bdf-91cc-4bf5280bf49f.png?auto=format"
@@ -455,7 +455,7 @@
       "name": "Notch Cinematic Shorts",
       "tagline": "Create viral video ads that perform while being on-brand.",
       "url": "https://www.producthunt.com/products/notch-5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 14,
+      "votesCount": 15,
       "commentsCount": 1,
       "createdAt": "2025-12-19T08:01:00Z",
       "thumbnail": {
@@ -482,11 +482,42 @@
       }
     },
     {
+      "id": "1051694",
+      "name": "MCP Bundles",
+      "tagline": "Your tools, bundled for AI",
+      "url": "https://www.producthunt.com/products/mcp-bundles?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 14,
+      "commentsCount": 4,
+      "createdAt": "2025-12-19T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/06455eae-ab76-4074-a04e-47cad4a70426.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Marketing"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1050493",
       "name": "Knowledge Painter",
       "tagline": "Visualize the knowledge in your textbooks",
       "url": "https://www.producthunt.com/products/knowledge-painter-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 12,
+      "votesCount": 13,
       "commentsCount": 3,
       "createdAt": "2025-12-19T08:01:00Z",
       "thumbnail": {
@@ -513,11 +544,42 @@
       }
     },
     {
+      "id": "1051960",
+      "name": "AI Selfie Studio",
+      "tagline": "Professional AI Headshot with a single selfie in 1 minute",
+      "url": "https://www.producthunt.com/products/ai-selfie-studio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 12,
+      "commentsCount": 1,
+      "createdAt": "2025-12-19T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/fdc93c79-533d-4d0a-b967-30d257c9176f.gif?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Social Media"
+            }
+          },
+          {
+            "node": {
+              "name": "Photography"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1051930",
       "name": "Press Subject Line Generator",
       "tagline": "Write newsroom-style subject lines journalists open",
       "url": "https://www.producthunt.com/products/press-subject-line-generator?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 7,
+      "votesCount": 8,
       "commentsCount": 1,
       "createdAt": "2025-12-19T08:01:00Z",
       "thumbnail": {
@@ -548,7 +610,7 @@
       "name": "ScreenWith.me",
       "tagline": "AI-powered interview pre-screening for faster hiring",
       "url": "https://www.producthunt.com/products/screenwith-me?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 7,
+      "votesCount": 8,
       "commentsCount": 1,
       "createdAt": "2025-12-19T08:01:00Z",
       "thumbnail": {
@@ -569,68 +631,6 @@
           {
             "node": {
               "name": "Human Resources"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1051694",
-      "name": "MCP Bundles",
-      "tagline": "Your tools, bundled for AI",
-      "url": "https://www.producthunt.com/products/mcp-bundles?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 7,
-      "commentsCount": 3,
-      "createdAt": "2025-12-19T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/06455eae-ab76-4074-a04e-47cad4a70426.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Marketing"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1051702",
-      "name": "MyYear.Review",
-      "tagline": "Create a shareable recap of the year for your family & team.",
-      "url": "https://www.producthunt.com/products/myyear-review?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 6,
-      "commentsCount": 1,
-      "createdAt": "2025-12-19T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/1f4bad01-e705-4a50-8482-bcfe356ab8a0.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Design Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Lifestyle"
-            }
-          },
-          {
-            "node": {
-              "name": "Family"
             }
           }
         ]
