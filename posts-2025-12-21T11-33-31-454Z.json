@@ -1,12 +1,12 @@
 {
-  "fetchedAt": "2025-12-21T11:19:24.065Z",
+  "fetchedAt": "2025-12-21T11:33:31.454Z",
   "posts": [
     {
       "id": "1052608",
       "name": "MyLens for Chrome",
       "tagline": " Your AI visualization partner, right in your browser.",
       "url": "https://www.producthunt.com/products/mylensai-chrome?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 139,
+      "votesCount": 145,
       "commentsCount": 7,
       "createdAt": "2025-12-21T08:01:00Z",
       "thumbnail": {
@@ -37,7 +37,7 @@
       "name": "Touched Grass",
       "tagline": "Show the world you’ve touched grass",
       "url": "https://www.producthunt.com/products/touched-grass?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 119,
+      "votesCount": 127,
       "commentsCount": 9,
       "createdAt": "2025-12-21T08:01:00Z",
       "thumbnail": {
@@ -64,11 +64,42 @@
       }
     },
     {
+      "id": "1051098",
+      "name": "MiMo-V2-Flash",
+      "tagline": "Ultra-fast 309B MoE model for coding & agents",
+      "url": "https://www.producthunt.com/products/mimo-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 121,
+      "commentsCount": 2,
+      "createdAt": "2025-12-21T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/c743b64f-42a9-4fe2-bd7e-765d49412bb2.jpeg?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Open Source"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "Development"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "489259",
       "name": "Sparkle",
       "tagline": "Simplified cold email outreach",
       "url": "https://www.producthunt.com/products/sparkleio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 113,
+      "votesCount": 116,
       "commentsCount": 1,
       "createdAt": "2025-12-21T08:01:00Z",
       "thumbnail": {
@@ -99,7 +130,7 @@
       "name": "GetProfile",
       "tagline": "User profiles and long-term memory for your AI agents",
       "url": "https://www.producthunt.com/products/getprofile-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 108,
+      "votesCount": 110,
       "commentsCount": 5,
       "createdAt": "2025-12-21T08:01:00Z",
       "thumbnail": {
@@ -126,42 +157,11 @@
       }
     },
     {
-      "id": "1051098",
-      "name": "MiMo-V2-Flash",
-      "tagline": "Ultra-fast 309B MoE model for coding & agents",
-      "url": "https://www.producthunt.com/products/mimo-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 116,
-      "commentsCount": 2,
-      "createdAt": "2025-12-21T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/c743b64f-42a9-4fe2-bd7e-765d49412bb2.jpeg?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Open Source"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          },
-          {
-            "node": {
-              "name": "Development"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1052689",
       "name": "MARINOVA",
       "tagline": "See the Ocean in Real Time",
       "url": "https://www.producthunt.com/products/marinova?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 53,
+      "votesCount": 54,
       "commentsCount": 2,
       "createdAt": "2025-12-21T08:01:00Z",
       "thumbnail": {
@@ -182,7 +182,7 @@
       "name": "Domain Rank App",
       "tagline": "AI-Powered Domain Rank & Traffic Growth",
       "url": "https://www.producthunt.com/products/domain-rank-app?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 15,
+      "votesCount": 18,
       "commentsCount": 2,
       "createdAt": "2025-12-21T08:01:00Z",
       "thumbnail": {
@@ -291,7 +291,7 @@
       "name": "Journal it! - All-in-one Life Organizer",
       "tagline": "Personal productivity. Offline-first. E2E encryption.",
       "url": "https://www.producthunt.com/products/journal-it-all-in-one-life-organizer?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 6,
+      "votesCount": 8,
       "commentsCount": 1,
       "createdAt": "2025-12-21T08:01:00Z",
       "thumbnail": {
@@ -447,6 +447,130 @@
       }
     },
     {
+      "id": "1052635",
+      "name": "Daylight Goals",
+      "tagline": "Track your sunlight, now with a 2025 Daylight Recap",
+      "url": "https://www.producthunt.com/products/daylight-goals?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 3,
+      "commentsCount": 1,
+      "createdAt": "2025-12-21T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/95e01fec-9607-4f0c-b7c8-b50c794ab5c0.svg?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "iOS"
+            }
+          },
+          {
+            "node": {
+              "name": "Apple Watch"
+            }
+          },
+          {
+            "node": {
+              "name": "Health & Fitness"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1052520",
+      "name": "CFAI — Cognitive Flow AI",
+      "tagline": "A real-time cognitive AI system for your thinking",
+      "url": "https://www.producthunt.com/products/cfai-cognitive-flow-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 3,
+      "commentsCount": 1,
+      "createdAt": "2025-12-21T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/c684d707-79bb-4761-986f-fd82055b0d92.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1052600",
+      "name": "Takomi",
+      "tagline": "Your mind, your space.",
+      "url": "https://www.producthunt.com/products/takomi?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 3,
+      "commentsCount": 1,
+      "createdAt": "2025-12-21T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/51a1afc4-4880-464e-9789-9386128d4438.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "iOS"
+            }
+          },
+          {
+            "node": {
+              "name": "Health & Fitness"
+            }
+          },
+          {
+            "node": {
+              "name": "Privacy"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1052506",
+      "name": "Patent AI Lab",
+      "tagline": "A resource hub for AI patent trends & legal tools.",
+      "url": "https://www.producthunt.com/products/patent-ai-lab?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 3,
+      "commentsCount": 1,
+      "createdAt": "2025-12-21T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/a8aa0e24-6acf-483e-a842-1e4c0926d34d.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Legal"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "Tech"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1051774",
       "name": "CargoLab",
       "tagline": "Free 3d cargo load planner & optimizer",
@@ -472,125 +596,6 @@
           {
             "node": {
               "name": "E-Commerce"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1052620",
-      "name": "Name Generator Pro",
-      "tagline": "Smart, private AI name generator for anything",
-      "url": "https://www.producthunt.com/products/name-generator-pro-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 3,
-      "commentsCount": 1,
-      "createdAt": "2025-12-21T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/b235c8fe-a543-4e90-84bc-c5646163e3a9.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Marketing"
-            }
-          },
-          {
-            "node": {
-              "name": "Lifestyle"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1052449",
-      "name": "Scaloom",
-      "tagline": "The AI agent that earns Reddit trust before promotion",
-      "url": "https://www.producthunt.com/products/scaloom-8?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 3,
-      "commentsCount": 1,
-      "createdAt": "2025-12-21T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/0cf2e8c6-4d0e-4181-808b-e71987cab49a.x-icon?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Social Media"
-            }
-          },
-          {
-            "node": {
-              "name": "Marketing"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1052493",
-      "name": "pcparts.build",
-      "tagline": "The \"Frames per Rupee\" price comparison tool for PC builders",
-      "url": "https://www.producthunt.com/products/pcparts-build?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 3,
-      "commentsCount": 1,
-      "createdAt": "2025-12-21T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/28fc81b1-926e-4460-b26f-77b2f98d3457.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "PC"
-            }
-          },
-          {
-            "node": {
-              "name": "Games"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1052654",
-      "name": "RackRat",
-      "tagline": "Find the best eBay server deals",
-      "url": "https://www.producthunt.com/products/rackrat?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 3,
-      "commentsCount": 0,
-      "createdAt": "2025-12-21T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/c0dcd06d-1484-4f61-b20b-df8c98185c43.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "E-Commerce"
-            }
-          },
-          {
-            "node": {
-              "name": "Home Automation"
-            }
-          },
-          {
-            "node": {
-              "name": "Computers"
             }
           }
         ]
