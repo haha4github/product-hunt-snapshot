@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2025-12-21T11:45:41.070Z",
+  "fetchedAt": "2025-12-21T11:58:01.220Z",
   "posts": [
     {
       "id": "1052608",
@@ -37,7 +37,7 @@
       "name": "Touched Grass",
       "tagline": "Show the world you’ve touched grass",
       "url": "https://www.producthunt.com/products/touched-grass?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 135,
+      "votesCount": 136,
       "commentsCount": 9,
       "createdAt": "2025-12-21T08:01:00Z",
       "thumbnail": {
@@ -68,7 +68,7 @@
       "name": "MiMo-V2-Flash",
       "tagline": "Ultra-fast 309B MoE model for coding & agents",
       "url": "https://www.producthunt.com/products/mimo-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 126,
+      "votesCount": 127,
       "commentsCount": 2,
       "createdAt": "2025-12-21T08:01:00Z",
       "thumbnail": {
@@ -182,7 +182,7 @@
       "name": "Domain Rank App",
       "tagline": "AI-Powered Domain Rank & Traffic Growth",
       "url": "https://www.producthunt.com/products/domain-rank-app?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 18,
+      "votesCount": 19,
       "commentsCount": 2,
       "createdAt": "2025-12-21T08:01:00Z",
       "thumbnail": {
@@ -478,31 +478,62 @@
       }
     },
     {
-      "id": "1052600",
-      "name": "Takomi",
-      "tagline": "Your mind, your space.",
-      "url": "https://www.producthunt.com/products/takomi?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "id": "1052654",
+      "name": "RackRat",
+      "tagline": "Find the best eBay server deals",
+      "url": "https://www.producthunt.com/products/rackrat?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 3,
-      "commentsCount": 1,
+      "commentsCount": 0,
       "createdAt": "2025-12-21T08:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/51a1afc4-4880-464e-9789-9386128d4438.png?auto=format"
+        "url": "https://ph-files.imgix.net/c0dcd06d-1484-4f61-b20b-df8c98185c43.png?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "iOS"
+              "name": "E-Commerce"
             }
           },
           {
             "node": {
-              "name": "Health & Fitness"
+              "name": "Home Automation"
             }
           },
           {
             "node": {
-              "name": "Privacy"
+              "name": "Computers"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1052482",
+      "name": "Local Gallery",
+      "tagline": "Make image galleries and turn your screen into a photo frame",
+      "url": "https://www.producthunt.com/products/local-gallery?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 3,
+      "commentsCount": 1,
+      "createdAt": "2025-12-21T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/80d2ee64-0f53-4c15-be22-c6622e6dde06.x-icon?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Photography"
+            }
+          },
+          {
+            "node": {
+              "name": "Wallpaper"
+            }
+          },
+          {
+            "node": {
+              "name": "Digital Art"
             }
           }
         ]
@@ -534,37 +565,6 @@
           {
             "node": {
               "name": "E-Commerce"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1052506",
-      "name": "Patent AI Lab",
-      "tagline": "A resource hub for AI patent trends & legal tools.",
-      "url": "https://www.producthunt.com/products/patent-ai-lab?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 3,
-      "commentsCount": 1,
-      "createdAt": "2025-12-21T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/a8aa0e24-6acf-483e-a842-1e4c0926d34d.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Legal"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          },
-          {
-            "node": {
-              "name": "Tech"
             }
           }
         ]
