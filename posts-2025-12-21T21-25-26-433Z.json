@@ -1,12 +1,12 @@
 {
-  "fetchedAt": "2025-12-21T20:58:40.464Z",
+  "fetchedAt": "2025-12-21T21:25:26.433Z",
   "posts": [
     {
       "id": "1050878",
       "name": "Touched Grass",
       "tagline": "Show the world you’ve touched grass",
       "url": "https://www.producthunt.com/products/touched-grass?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 278,
+      "votesCount": 280,
       "commentsCount": 23,
       "createdAt": "2025-12-21T08:01:00Z",
       "thumbnail": {
@@ -99,7 +99,7 @@
       "name": "Sparkle",
       "tagline": "Simplified cold email outreach",
       "url": "https://www.producthunt.com/products/sparkleio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 185,
+      "votesCount": 186,
       "commentsCount": 3,
       "createdAt": "2025-12-21T08:01:00Z",
       "thumbnail": {
@@ -240,7 +240,7 @@
       "tagline": "Personal productivity. Offline-first. E2E encryption.",
       "url": "https://www.producthunt.com/products/journal-it-all-in-one-life-organizer?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 20,
-      "commentsCount": 24,
+      "commentsCount": 25,
       "createdAt": "2025-12-21T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/27fac21a-62ee-40ca-a431-68a0bcaf4976.png?auto=format"
@@ -540,6 +540,37 @@
       }
     },
     {
+      "id": "1052587",
+      "name": "Earthquakes Today",
+      "tagline": "Real-time location based earthquake track with maps, stats",
+      "url": "https://www.producthunt.com/products/earthquakes-today?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 4,
+      "commentsCount": 2,
+      "createdAt": "2025-12-21T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/cdd9ed90-f10c-4ac7-b80a-f8e11cadfa70.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Maps"
+            }
+          },
+          {
+            "node": {
+              "name": "Science"
+            }
+          },
+          {
+            "node": {
+              "name": "Data Visualization"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1052559",
       "name": "GitHub Pull Request Notifier",
       "tagline": "Extension that notifies you when PRs need your attention",
@@ -565,37 +596,6 @@
           {
             "node": {
               "name": "Developer Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "GitHub"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1052585",
-      "name": "RepoDoc",
-      "tagline": "Github repository documentation generator",
-      "url": "https://www.producthunt.com/products/repodoc?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 3,
-      "commentsCount": 2,
-      "createdAt": "2025-12-21T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/2f30dc59-dc1b-44e5-bcc0-4b1bce95a44e.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
             }
           },
           {
