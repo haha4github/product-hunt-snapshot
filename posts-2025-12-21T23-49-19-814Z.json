@@ -1,12 +1,12 @@
 {
-  "fetchedAt": "2025-12-21T23:36:47.528Z",
+  "fetchedAt": "2025-12-21T23:49:19.814Z",
   "posts": [
     {
       "id": "1050878",
       "name": "Touched Grass",
       "tagline": "Show the world you’ve touched grass",
       "url": "https://www.producthunt.com/products/touched-grass?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 299,
+      "votesCount": 300,
       "commentsCount": 26,
       "createdAt": "2025-12-21T08:01:00Z",
       "thumbnail": {
@@ -354,6 +354,42 @@
       }
     },
     {
+      "id": "1052559",
+      "name": "GitHub Pull Request Notifier",
+      "tagline": "Extension that notifies you when PRs need your attention",
+      "url": "https://www.producthunt.com/products/github-pull-request-notifier?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 9,
+      "commentsCount": 1,
+      "createdAt": "2025-12-21T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/54fc5d90-163c-4b84-8ccb-9714928b0666.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Chrome Extensions"
+            }
+          },
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "GitHub"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1052629",
       "name": "Life Compass",
       "tagline": "Your personal habit tracker",
@@ -565,42 +601,6 @@
           {
             "node": {
               "name": "Data Visualization"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1052559",
-      "name": "GitHub Pull Request Notifier",
-      "tagline": "Extension that notifies you when PRs need your attention",
-      "url": "https://www.producthunt.com/products/github-pull-request-notifier?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 4,
-      "commentsCount": 1,
-      "createdAt": "2025-12-21T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/54fc5d90-163c-4b84-8ccb-9714928b0666.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Chrome Extensions"
-            }
-          },
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "GitHub"
             }
           }
         ]
