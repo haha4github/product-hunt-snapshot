@@ -1,13 +1,44 @@
 {
-  "fetchedAt": "2025-12-22T10:50:15.095Z",
+  "fetchedAt": "2025-12-22T11:12:37.602Z",
   "posts": [
+    {
+      "id": "1052680",
+      "name": "ConnectMachine",
+      "tagline": "A private AI agent that manages your network and connections",
+      "url": "https://www.producthunt.com/products/connectmachine-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 180,
+      "commentsCount": 18,
+      "createdAt": "2025-12-22T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/42c81dc5-4763-4387-81c8-d40527b0f769.svg?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Android"
+            }
+          },
+          {
+            "node": {
+              "name": "iOS"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
     {
       "id": "1044433",
       "name": "Surgeflow",
       "tagline": "Automate your browser tasks with a single command",
       "url": "https://www.producthunt.com/products/surgeflow?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 175,
-      "commentsCount": 43,
+      "votesCount": 179,
+      "commentsCount": 51,
       "createdAt": "2025-12-22T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/693e29bb-1997-4aa3-9121-a622e856ffab.png?auto=format"
@@ -38,73 +69,11 @@
       }
     },
     {
-      "id": "1052680",
-      "name": "ConnectMachine",
-      "tagline": "A private AI agent that manages your network and connections",
-      "url": "https://www.producthunt.com/products/connectmachine-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 170,
-      "commentsCount": 18,
-      "createdAt": "2025-12-22T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/42c81dc5-4763-4387-81c8-d40527b0f769.svg?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Android"
-            }
-          },
-          {
-            "node": {
-              "name": "iOS"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1053083",
-      "name": "Qwen-Image-Layered",
-      "tagline": "Turn flat images into multi-layer editable assets",
-      "url": "https://www.producthunt.com/products/qwen3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 113,
-      "commentsCount": 3,
-      "createdAt": "2025-12-22T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/e0810112-e937-4ac5-b0ae-914e50761b75.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Open Source"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          },
-          {
-            "node": {
-              "name": "Photo editing"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1052376",
       "name": "Claude in Chrome",
       "tagline": "Let Claude see, click, type, and navigate in your browser",
       "url": "https://www.producthunt.com/products/claude?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 138,
+      "votesCount": 145,
       "commentsCount": 2,
       "createdAt": "2025-12-22T08:01:00Z",
       "thumbnail": {
@@ -131,21 +100,21 @@
       }
     },
     {
-      "id": "1053097",
-      "name": "Mistral OCR 3",
-      "tagline": "Accurate OCR for notes, forms, tables and handwriting",
-      "url": "https://www.producthunt.com/products/mistral-7b?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 99,
-      "commentsCount": 2,
+      "id": "1053083",
+      "name": "Qwen-Image-Layered",
+      "tagline": "Turn flat images into multi-layer editable assets",
+      "url": "https://www.producthunt.com/products/qwen3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 114,
+      "commentsCount": 3,
       "createdAt": "2025-12-22T08:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/c6045f35-6533-476e-9df0-2324b72d0de1.png?auto=format"
+        "url": "https://ph-files.imgix.net/e0810112-e937-4ac5-b0ae-914e50761b75.png?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "API"
+              "name": "Open Source"
             }
           },
           {
@@ -155,7 +124,7 @@
           },
           {
             "node": {
-              "name": "Development"
+              "name": "Photo editing"
             }
           }
         ]
@@ -166,7 +135,7 @@
       "name": "Routine Android",
       "tagline": "Tasks, calendars, notes & AI; all in a single app",
       "url": "https://www.producthunt.com/products/routine?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 101,
+      "votesCount": 106,
       "commentsCount": 19,
       "createdAt": "2025-12-22T08:01:00Z",
       "thumbnail": {
@@ -198,11 +167,42 @@
       }
     },
     {
+      "id": "1053097",
+      "name": "Mistral OCR 3",
+      "tagline": "Accurate OCR for notes, forms, tables and handwriting",
+      "url": "https://www.producthunt.com/products/mistral-7b?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 100,
+      "commentsCount": 2,
+      "createdAt": "2025-12-22T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/c6045f35-6533-476e-9df0-2324b72d0de1.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "API"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "Development"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1051026",
       "name": "Flowdrop V1.1",
       "tagline": "Turn plain English into working automations & workflows",
       "url": "https://www.producthunt.com/products/flowdrop?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 85,
+      "votesCount": 86,
       "commentsCount": 3,
       "createdAt": "2025-12-22T08:01:00Z",
       "thumbnail": {
@@ -233,7 +233,7 @@
       "name": "Whisper Snapper for Mac",
       "tagline": "Local transcripts with speaker labels, timestamps, + export",
       "url": "https://www.producthunt.com/products/whisper-snapper?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 83,
+      "votesCount": 85,
       "commentsCount": 2,
       "createdAt": "2025-12-22T08:01:00Z",
       "thumbnail": {
@@ -264,7 +264,7 @@
       "name": "wafer",
       "tagline": "Wafer is the GPU dev stack that lives inside your IDE",
       "url": "https://www.producthunt.com/products/wafer?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 67,
+      "votesCount": 70,
       "commentsCount": 1,
       "createdAt": "2025-12-22T08:01:00Z",
       "thumbnail": {
@@ -291,11 +291,68 @@
       }
     },
     {
+      "id": "1052773",
+      "name": "Tessera Designer",
+      "tagline": "Make seamless pattern tiles to download and use",
+      "url": "https://www.producthunt.com/products/tessera-designer?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 69,
+      "commentsCount": 3,
+      "createdAt": "2025-12-22T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/33e6a390-7c60-4165-9abd-339f46cb5321.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Design Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1052666",
+      "name": "ArkTabs",
+      "tagline": "Spotlight style tab manager with fuzzy search & live preview",
+      "url": "https://www.producthunt.com/products/arktabs-spotlight-tabs-manager-browser?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 67,
+      "commentsCount": 2,
+      "createdAt": "2025-12-22T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/48686724-21b5-4898-a4e8-9c69deb189f9.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Chrome Extensions"
+            }
+          },
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Search"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1052544",
       "name": "Sprout",
       "tagline": "A kanban board that feels at home on your Mac",
       "url": "https://www.producthunt.com/products/sprout-76?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 64,
+      "votesCount": 65,
       "commentsCount": 3,
       "createdAt": "2025-12-22T08:01:00Z",
       "thumbnail": {
@@ -316,32 +373,6 @@
           {
             "node": {
               "name": "SaaS"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1052773",
-      "name": "Tessera Designer",
-      "tagline": "Make seamless pattern tiles to download and use",
-      "url": "https://www.producthunt.com/products/tessera-designer?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 63,
-      "commentsCount": 3,
-      "createdAt": "2025-12-22T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/33e6a390-7c60-4165-9abd-339f46cb5321.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Design Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Developer Tools"
             }
           }
         ]
@@ -379,42 +410,11 @@
       }
     },
     {
-      "id": "1052666",
-      "name": "ArkTabs",
-      "tagline": "Spotlight style tab manager with fuzzy search & live preview",
-      "url": "https://www.producthunt.com/products/arktabs-spotlight-tabs-manager-browser?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 66,
-      "commentsCount": 2,
-      "createdAt": "2025-12-22T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/48686724-21b5-4898-a4e8-9c69deb189f9.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Chrome Extensions"
-            }
-          },
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Search"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1052420",
       "name": "Track Link",
       "tagline": "Link tracking & analytics platform",
       "url": "https://www.producthunt.com/products/track-link?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 6,
+      "votesCount": 7,
       "commentsCount": 1,
       "createdAt": "2025-12-22T08:01:00Z",
       "thumbnail": {
@@ -435,6 +435,63 @@
           {
             "node": {
               "name": "SaaS"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1052707",
+      "name": "Show My Build",
+      "tagline": "Share your project car in one place and earn $ on autopilot",
+      "url": "https://www.producthunt.com/products/show-my-build?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 6,
+      "commentsCount": 2,
+      "createdAt": "2025-12-22T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/8f1247aa-9c45-4afc-bf85-9247e8ab7bde.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Cars"
+            }
+          },
+          {
+            "node": {
+              "name": "SaaS"
+            }
+          },
+          {
+            "node": {
+              "name": "Monetization"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1052612",
+      "name": "Shopie",
+      "tagline": "Create Wishlists. Track Prices.",
+      "url": "https://www.producthunt.com/products/shopie-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 5,
+      "commentsCount": 3,
+      "createdAt": "2025-12-22T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/5ec716dd-b81f-47a6-8980-a66df2214cc4.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Lifestyle"
+            }
+          },
+          {
+            "node": {
+              "name": "Shopping"
             }
           }
         ]
@@ -472,139 +529,15 @@
       }
     },
     {
-      "id": "1052837",
-      "name": "Cenphi",
-      "tagline": "Your Story Amplified",
-      "url": "https://www.producthunt.com/products/cenphi?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 1,
+      "id": "1052542",
+      "name": "ShipLaunch",
+      "tagline": "Launch-ready posts for Product Hunt, HN & BetaList in 60s",
+      "url": "https://www.producthunt.com/products/shiplaunch?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 3,
       "commentsCount": 3,
       "createdAt": "2025-12-22T08:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/b64ede04-1b98-4532-92fe-7a1f0855fa1d.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Marketing"
-            }
-          },
-          {
-            "node": {
-              "name": "SaaS"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1052530",
-      "name": "Model Diplomat",
-      "tagline": "AI-powered research & feedback for Model UN",
-      "url": "https://www.producthunt.com/products/model-diplomat?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 1,
-      "commentsCount": 2,
-      "createdAt": "2025-12-22T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/9a4da572-d576-423f-8031-5402272c14e8.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Politics"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          },
-          {
-            "node": {
-              "name": "Online Learning"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1052888",
-      "name": "Social Post Studio",
-      "tagline": "Stunning visuals for Twitter, LinkedIn, Instagram and Thread",
-      "url": "https://www.producthunt.com/products/social-post-studio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 2,
-      "commentsCount": 1,
-      "createdAt": "2025-12-22T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/de2bf1eb-0e91-4131-84d7-456b59ee5bb3.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Design Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Social Media"
-            }
-          },
-          {
-            "node": {
-              "name": "No-Code"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1052705",
-      "name": "AppReviews",
-      "tagline": "Never miss an app review again.",
-      "url": "https://www.producthunt.com/products/appreviews?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 2,
-      "commentsCount": 1,
-      "createdAt": "2025-12-22T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/7945cafb-51ce-49d5-ac1a-375050e67bb3.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Android"
-            }
-          },
-          {
-            "node": {
-              "name": "iOS"
-            }
-          },
-          {
-            "node": {
-              "name": "Apple"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1052855",
-      "name": "Capty",
-      "tagline": "Screen capture app for Mac",
-      "url": "https://www.producthunt.com/products/capty?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 2,
-      "commentsCount": 1,
-      "createdAt": "2025-12-22T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/eb5b2f60-727c-4a22-b720-07f069fe925a.svg?auto=format"
+        "url": "https://ph-files.imgix.net/18897f31-091b-44c0-b24d-4e857c9c69e6.svg?auto=format"
       },
       "topics": {
         "edges": [
@@ -615,12 +548,74 @@
           },
           {
             "node": {
-              "name": "Menu Bar Apps"
+              "name": "Writing"
             }
           },
           {
             "node": {
-              "name": "Tech"
+              "name": "Developer Tools"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1053050",
+      "name": "TinkuGo",
+      "tagline": "Manage home and business finances in one collaborative hub.",
+      "url": "https://www.producthunt.com/products/tinkugo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 3,
+      "commentsCount": 1,
+      "createdAt": "2025-12-22T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/bcb9d62b-3f45-4394-8df3-0d6226c6b6cd.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "User Experience"
+            }
+          },
+          {
+            "node": {
+              "name": "Personal Finance"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1052807",
+      "name": "MockTalk",
+      "tagline": "Practice Spoken English with AI",
+      "url": "https://www.producthunt.com/products/mocktalk-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 3,
+      "commentsCount": 1,
+      "createdAt": "2025-12-22T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/86446550-a743-4d52-a568-09ad0cf763b5.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Education"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
             }
           }
         ]
