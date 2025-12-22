@@ -1,12 +1,12 @@
 {
-  "fetchedAt": "2025-12-22T05:25:03.540Z",
+  "fetchedAt": "2025-12-22T05:47:55.008Z",
   "posts": [
     {
       "id": "1050878",
       "name": "Touched Grass",
       "tagline": "Show the world you’ve touched grass",
       "url": "https://www.producthunt.com/products/touched-grass?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 351,
+      "votesCount": 354,
       "commentsCount": 28,
       "createdAt": "2025-12-21T08:01:00Z",
       "thumbnail": {
@@ -37,7 +37,7 @@
       "name": "MyLens for Chrome",
       "tagline": " Your AI visualization partner, right in your browser.",
       "url": "https://www.producthunt.com/products/mylensai-chrome?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 279,
+      "votesCount": 281,
       "commentsCount": 18,
       "createdAt": "2025-12-21T08:01:00Z",
       "thumbnail": {
@@ -68,7 +68,7 @@
       "name": "MiMo-V2-Flash",
       "tagline": "Ultra-fast 309B MoE model for coding & agents",
       "url": "https://www.producthunt.com/products/mimo-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 232,
+      "votesCount": 235,
       "commentsCount": 4,
       "createdAt": "2025-12-21T08:01:00Z",
       "thumbnail": {
@@ -99,7 +99,7 @@
       "name": "Sparkle",
       "tagline": "Simplified cold email outreach",
       "url": "https://www.producthunt.com/products/sparkleio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 213,
+      "votesCount": 215,
       "commentsCount": 4,
       "createdAt": "2025-12-21T08:01:00Z",
       "thumbnail": {
@@ -130,7 +130,7 @@
       "name": "GetProfile",
       "tagline": "User profiles and long-term memory for your AI agents",
       "url": "https://www.producthunt.com/products/getprofile-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 197,
+      "votesCount": 198,
       "commentsCount": 11,
       "createdAt": "2025-12-21T08:01:00Z",
       "thumbnail": {
@@ -161,7 +161,7 @@
       "name": "MARINOVA",
       "tagline": "See the Ocean in Real Time",
       "url": "https://www.producthunt.com/products/marinova?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 60,
+      "votesCount": 62,
       "commentsCount": 3,
       "createdAt": "2025-12-21T08:01:00Z",
       "thumbnail": {
@@ -182,7 +182,7 @@
       "name": "Talklet - Now live",
       "tagline": "A place for meaningful conversations, not endless noise",
       "url": "https://www.producthunt.com/products/talklet?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 44,
+      "votesCount": 45,
       "commentsCount": 1,
       "createdAt": "2025-12-21T08:01:00Z",
       "thumbnail": {
@@ -296,6 +296,27 @@
           {
             "node": {
               "name": "Quantified Self"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1052604",
+      "name": "Loopity Loops",
+      "tagline": "generate music loops on-demand",
+      "url": "https://www.producthunt.com/products/loopity-loops?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 11,
+      "commentsCount": 0,
+      "createdAt": "2025-12-21T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/6fc1219a-1e62-4f9d-9713-7a016816781e.jpeg?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Music"
             }
           }
         ]
@@ -570,37 +591,6 @@
           {
             "node": {
               "name": "Science"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1052660",
-      "name": "FeedbackGen",
-      "tagline": "Free feedback widget builder",
-      "url": "https://www.producthunt.com/products/feedbackgen?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 4,
-      "commentsCount": 1,
-      "createdAt": "2025-12-21T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/a6f75268-853a-4452-b59e-0b6297b1ef96.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "User Experience"
-            }
-          },
-          {
-            "node": {
-              "name": "Marketing"
-            }
-          },
-          {
-            "node": {
-              "name": "SaaS"
             }
           }
         ]
