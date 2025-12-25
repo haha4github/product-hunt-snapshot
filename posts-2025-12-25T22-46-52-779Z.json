@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2025-12-25T22:29:10.405Z",
+  "fetchedAt": "2025-12-25T22:46:52.779Z",
   "posts": [
     {
       "id": "1053209",
       "name": "DiffSense",
       "tagline": "Local AI git commit generator for Apple Silicon",
       "url": "https://www.producthunt.com/products/diffsense?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 269,
-      "commentsCount": 40,
+      "votesCount": 270,
+      "commentsCount": 45,
       "createdAt": "2025-12-25T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/b1635844-39c2-430e-a07b-7ddc4f4acc9e.png?auto=format"
@@ -73,8 +73,8 @@
       "name": "Reddit Summarizer",
       "tagline": "Summarize long Reddit threads with one click",
       "url": "https://www.producthunt.com/products/reddit-summarizer?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 189,
-      "commentsCount": 15,
+      "votesCount": 192,
+      "commentsCount": 18,
       "createdAt": "2025-12-25T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/7d5ed5c7-e43f-4b01-8f6f-b111b709c598.png?auto=format"
@@ -109,8 +109,8 @@
       "name": "Dvina",
       "tagline": "Private AI that connects 120+ apps and your live databases",
       "url": "https://www.producthunt.com/products/dvina-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 181,
-      "commentsCount": 10,
+      "votesCount": 188,
+      "commentsCount": 12,
       "createdAt": "2025-12-25T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/8a4f6a5d-c8fc-451c-8268-b4724e6d8807.png?auto=format"
@@ -140,7 +140,7 @@
       "name": "Press Pitch",
       "tagline": "Generate a ready-to-send pitch for journalists in seconds.",
       "url": "https://www.producthunt.com/products/press-pitch?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 166,
+      "votesCount": 168,
       "commentsCount": 6,
       "createdAt": "2025-12-25T08:01:00Z",
       "thumbnail": {
@@ -291,6 +291,37 @@
       }
     },
     {
+      "id": "1054182",
+      "name": "Calltuv",
+      "tagline": "Cheap international calls straight from your browser.",
+      "url": "https://www.producthunt.com/products/calltuv?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 18,
+      "commentsCount": 6,
+      "createdAt": "2025-12-25T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/eab00990-1117-44d3-91a0-f633b6ae076e.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Customer Communication"
+            }
+          },
+          {
+            "node": {
+              "name": "Global Nomad"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1052532",
       "name": "Shelfy",
       "tagline": "Smart reading tracker and fastest bookmarks",
@@ -316,37 +347,6 @@
           {
             "node": {
               "name": "Books"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1054182",
-      "name": "Calltuv",
-      "tagline": "Cheap international calls straight from your browser.",
-      "url": "https://www.producthunt.com/products/calltuv?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 17,
-      "commentsCount": 6,
-      "createdAt": "2025-12-25T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/eab00990-1117-44d3-91a0-f633b6ae076e.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Customer Communication"
-            }
-          },
-          {
-            "node": {
-              "name": "Global Nomad"
             }
           }
         ]
@@ -508,6 +508,37 @@
       }
     },
     {
+      "id": "1054222",
+      "name": "jot — a terminal notebook",
+      "tagline": "for thoughts you’re embarrassed to open Notion for.",
+      "url": "https://www.producthunt.com/products/jot-a-terminal-notebook-for-nonsense?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 13,
+      "commentsCount": 4,
+      "createdAt": "2025-12-25T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/5074bb13-3b6f-4f94-9a9d-d229588a4d09.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Open Source"
+            }
+          },
+          {
+            "node": {
+              "name": "Notes"
+            }
+          },
+          {
+            "node": {
+              "name": "GitHub"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1054316",
       "name": "Sukoon",
       "tagline": "Find your inner peace",
@@ -533,37 +564,6 @@
           {
             "node": {
               "name": "Time Tracking"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1054222",
-      "name": "jot — a terminal notebook",
-      "tagline": "for thoughts you’re embarrassed to open Notion for.",
-      "url": "https://www.producthunt.com/products/jot-a-terminal-notebook-for-nonsense?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 12,
-      "commentsCount": 3,
-      "createdAt": "2025-12-25T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/5074bb13-3b6f-4f94-9a9d-d229588a4d09.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Open Source"
-            }
-          },
-          {
-            "node": {
-              "name": "Notes"
-            }
-          },
-          {
-            "node": {
-              "name": "GitHub"
             }
           }
         ]
@@ -596,21 +596,26 @@
       }
     },
     {
-      "id": "1054126",
-      "name": "300aidirectories - DR 0 to 30+ Fast ",
-      "tagline": "Get Your AI Tool Listed in 300+ AI Directories",
-      "url": "https://www.producthunt.com/products/300aidirectories-dr-0-to-30-fast?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "id": "1054213",
+      "name": "Voklit",
+      "tagline": "International phone numbers for people across borders",
+      "url": "https://www.producthunt.com/products/voklit?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 10,
       "commentsCount": 1,
       "createdAt": "2025-12-25T08:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/2c07a94f-d91a-4890-8c50-1c3274f28465.png?auto=format"
+        "url": "https://ph-files.imgix.net/a10640ef-48e8-47f6-b133-22750768d4bb.png?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "SEO"
+              "name": "Customer Communication"
+            }
+          },
+          {
+            "node": {
+              "name": "SaaS"
             }
           }
         ]
