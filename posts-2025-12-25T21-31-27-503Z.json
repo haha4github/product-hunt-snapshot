@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2025-12-25T21:10:24.132Z",
+  "fetchedAt": "2025-12-25T21:31:27.503Z",
   "posts": [
     {
       "id": "1053209",
       "name": "DiffSense",
       "tagline": "Local AI git commit generator for Apple Silicon",
       "url": "https://www.producthunt.com/products/diffsense?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 260,
-      "commentsCount": 36,
+      "votesCount": 262,
+      "commentsCount": 37,
       "createdAt": "2025-12-25T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/b1635844-39c2-430e-a07b-7ddc4f4acc9e.png?auto=format"
@@ -37,7 +37,7 @@
       "name": "ScreenREC",
       "tagline": "Free online screen recorder | no download required",
       "url": "https://www.producthunt.com/products/screenrec?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 232,
+      "votesCount": 233,
       "commentsCount": 18,
       "createdAt": "2025-12-25T08:01:00Z",
       "thumbnail": {
@@ -73,7 +73,7 @@
       "name": "Reddit Summarizer",
       "tagline": "Summarize long Reddit threads with one click",
       "url": "https://www.producthunt.com/products/reddit-summarizer?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 180,
+      "votesCount": 185,
       "commentsCount": 13,
       "createdAt": "2025-12-25T08:01:00Z",
       "thumbnail": {
@@ -384,6 +384,37 @@
       }
     },
     {
+      "id": "1054259",
+      "name": "SantaSpoilers",
+      "tagline": "Keep the magic alive",
+      "url": "https://www.producthunt.com/products/santaspoilers?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 16,
+      "commentsCount": 3,
+      "createdAt": "2025-12-25T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/489b0e07-1c64-465f-9c49-86e74d99c5fe.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Parenting"
+            }
+          },
+          {
+            "node": {
+              "name": "Movies"
+            }
+          },
+          {
+            "node": {
+              "name": "Kids"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1054105",
       "name": "Screenshot Composer",
       "tagline": "Compose Beautiful Sceenshots",
@@ -414,37 +445,6 @@
           {
             "node": {
               "name": "GitHub"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1054259",
-      "name": "SantaSpoilers",
-      "tagline": "Keep the magic alive",
-      "url": "https://www.producthunt.com/products/santaspoilers?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 15,
-      "commentsCount": 2,
-      "createdAt": "2025-12-25T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/489b0e07-1c64-465f-9c49-86e74d99c5fe.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Parenting"
-            }
-          },
-          {
-            "node": {
-              "name": "Movies"
-            }
-          },
-          {
-            "node": {
-              "name": "Kids"
             }
           }
         ]
