@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2025-12-26T14:29:54.163Z",
+  "fetchedAt": "2025-12-26T14:48:41.203Z",
   "posts": [
     {
       "id": "1051344",
       "name": "NBot",
       "tagline": "Personalized curators that surface what you care about",
       "url": "https://www.producthunt.com/products/nbot?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 214,
-      "commentsCount": 49,
+      "votesCount": 216,
+      "commentsCount": 50,
       "createdAt": "2025-12-26T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/b794237f-5547-4e82-a76c-9022978286c1.png?auto=format"
@@ -37,8 +37,8 @@
       "name": "Thordata",
       "tagline": "Fuel AI training with high-quality, scaled data via proxies",
       "url": "https://www.producthunt.com/products/thordata?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 212,
-      "commentsCount": 41,
+      "votesCount": 214,
+      "commentsCount": 43,
       "createdAt": "2025-12-26T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/3402e7e8-b063-4cc0-a91b-560ce57d26bf.png?auto=format"
@@ -68,8 +68,8 @@
       "name": "Clarity",
       "tagline": "Caffeine tracking to optimize your intake",
       "url": "https://www.producthunt.com/products/clarity-17?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 154,
-      "commentsCount": 6,
+      "votesCount": 155,
+      "commentsCount": 7,
       "createdAt": "2025-12-26T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/00b8bf43-80e1-464c-9f6c-07d747ed363f.png?auto=format"
@@ -99,7 +99,7 @@
       "name": "Tubeletter",
       "tagline": "Turn Youtube vides into newsletters",
       "url": "https://www.producthunt.com/products/tubeletter?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 136,
+      "votesCount": 137,
       "commentsCount": 9,
       "createdAt": "2025-12-26T08:01:00Z",
       "thumbnail": {
@@ -130,7 +130,7 @@
       "name": "Erla",
       "tagline": "Improve the way you master and understand languages",
       "url": "https://www.producthunt.com/products/erla?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 114,
+      "votesCount": 115,
       "commentsCount": 15,
       "createdAt": "2025-12-26T08:01:00Z",
       "thumbnail": {
@@ -192,7 +192,7 @@
       "name": "VocalLab.ai",
       "tagline": "Unlimited Free AI Voice Cloning with MP3 + SRT Exports",
       "url": "https://www.producthunt.com/products/vocallab-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 15,
+      "votesCount": 18,
       "commentsCount": 4,
       "createdAt": "2025-12-26T08:01:00Z",
       "thumbnail": {
@@ -333,6 +333,37 @@
       }
     },
     {
+      "id": "1054330",
+      "name": "GitStory",
+      "tagline": "Your Github 2025 Cinematic Wrapped",
+      "url": "https://www.producthunt.com/products/gitstory-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 6,
+      "commentsCount": 3,
+      "createdAt": "2025-12-26T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/f42e89ca-4c7a-4b59-803f-aaca957ea990.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Open Source"
+            }
+          },
+          {
+            "node": {
+              "name": "GitHub"
+            }
+          },
+          {
+            "node": {
+              "name": "Tech"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1052800",
       "name": "Talent Score",
       "tagline": "AI-powered resume analysis platform",
@@ -447,37 +478,6 @@
       }
     },
     {
-      "id": "1054330",
-      "name": "GitStory",
-      "tagline": "Your Github 2025 Cinematic Wrapped",
-      "url": "https://www.producthunt.com/products/gitstory-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 5,
-      "commentsCount": 3,
-      "createdAt": "2025-12-26T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/f42e89ca-4c7a-4b59-803f-aaca957ea990.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Open Source"
-            }
-          },
-          {
-            "node": {
-              "name": "GitHub"
-            }
-          },
-          {
-            "node": {
-              "name": "Tech"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1054599",
       "name": "Co-finder",
       "tagline": "Find the right co-founder who actually wants to build.",
@@ -540,6 +540,37 @@
       }
     },
     {
+      "id": "1054436",
+      "name": "Lliben-Simple Screenshot Tool for Chrome",
+      "tagline": "Capture full page, region, or element. Save PNG, JPG, PDF.",
+      "url": "https://www.producthunt.com/products/lliben?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 4,
+      "commentsCount": 1,
+      "createdAt": "2025-12-26T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/2cedafc6-4269-4cdf-b11e-f3ef23261728.svg?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Chrome Extensions"
+            }
+          },
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1054513",
       "name": "UX Quotes",
       "tagline": "A fresh UX quote every time you open a new tab",
@@ -565,37 +596,6 @@
           {
             "node": {
               "name": "Productivity"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1054539",
-      "name": "SWE Resume",
-      "tagline": "Boost your ATS score in <30s, Make your resume FAANG ready.",
-      "url": "https://www.producthunt.com/products/swe-resume-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 4,
-      "commentsCount": 2,
-      "createdAt": "2025-12-26T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/880cd09c-990c-4d1e-9e28-bd440906fbef.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Hiring"
-            }
-          },
-          {
-            "node": {
-              "name": "Tech"
-            }
-          },
-          {
-            "node": {
-              "name": "Career"
             }
           }
         ]
