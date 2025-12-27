@@ -1,12 +1,12 @@
 {
-  "fetchedAt": "2025-12-27T23:27:09.299Z",
+  "fetchedAt": "2025-12-27T23:43:01.688Z",
   "posts": [
     {
       "id": "1054380",
       "name": "Product Hunt Wrapped 2025",
       "tagline": "Your 2025 maker journey, visualized.",
       "url": "https://www.producthunt.com/products/product-hunt-wrapped-2025?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 292,
+      "votesCount": 293,
       "commentsCount": 26,
       "createdAt": "2025-12-27T08:01:00Z",
       "thumbnail": {
@@ -445,37 +445,6 @@
       }
     },
     {
-      "id": "1054922",
-      "name": "Reader Directory",
-      "tagline": "Cut through the noise. Find newsletters that matter.",
-      "url": "https://www.producthunt.com/products/reader-directory?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 11,
-      "commentsCount": 3,
-      "createdAt": "2025-12-27T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/d185174f-9810-4936-b45e-cde32bd96e74.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Email"
-            }
-          },
-          {
-            "node": {
-              "name": "Newsletters"
-            }
-          },
-          {
-            "node": {
-              "name": "Marketing"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1054860",
       "name": "Blacksmith",
       "tagline": "AI powered penetration testing",
@@ -506,6 +475,37 @@
           {
             "node": {
               "name": "Security"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1054922",
+      "name": "Reader Directory",
+      "tagline": "Cut through the noise. Find newsletters that matter.",
+      "url": "https://www.producthunt.com/products/reader-directory?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 11,
+      "commentsCount": 3,
+      "createdAt": "2025-12-27T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/d185174f-9810-4936-b45e-cde32bd96e74.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Email"
+            }
+          },
+          {
+            "node": {
+              "name": "Newsletters"
+            }
+          },
+          {
+            "node": {
+              "name": "Marketing"
             }
           }
         ]
@@ -636,23 +636,18 @@
       }
     },
     {
-      "id": "1054857",
-      "name": "Portfolio Optimizer",
-      "tagline": "Build stock portfolios based on risk, not hype",
-      "url": "https://www.producthunt.com/products/portfolio-optimizer-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "id": "1054950",
+      "name": "Teromi",
+      "tagline": "Teromi - AI CFO",
+      "url": "https://www.producthunt.com/products/teromi?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 9,
-      "commentsCount": 1,
+      "commentsCount": 2,
       "createdAt": "2025-12-27T08:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/7246add0-1201-479e-8e64-22453683b27a.png?auto=format"
+        "url": "https://ph-files.imgix.net/ea45c406-2981-4a13-a191-df4df7193c03.jpeg?auto=format"
       },
       "topics": {
         "edges": [
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
           {
             "node": {
               "name": "Fintech"
@@ -660,7 +655,12 @@
           },
           {
             "node": {
-              "name": "Investing"
+              "name": "Tech"
+            }
+          },
+          {
+            "node": {
+              "name": "Finance"
             }
           }
         ]
