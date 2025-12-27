@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2025-12-27T02:11:11.169Z",
+  "fetchedAt": "2025-12-27T03:39:28.609Z",
   "posts": [
     {
       "id": "1048944",
       "name": "Thordata",
       "tagline": "Fuel AI training with high-quality, scaled data via proxies",
       "url": "https://www.producthunt.com/products/thordata?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 321,
-      "commentsCount": 44,
+      "votesCount": 328,
+      "commentsCount": 53,
       "createdAt": "2025-12-26T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/3402e7e8-b063-4cc0-a91b-560ce57d26bf.png?auto=format"
@@ -37,8 +37,8 @@
       "name": "NBot",
       "tagline": "Personalized curators that surface what you care about",
       "url": "https://www.producthunt.com/products/nbot?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 317,
-      "commentsCount": 62,
+      "votesCount": 327,
+      "commentsCount": 63,
       "createdAt": "2025-12-26T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/b794237f-5547-4e82-a76c-9022978286c1.png?auto=format"
@@ -99,7 +99,7 @@
       "name": "Tubeletter",
       "tagline": "Turn Youtube vides into newsletters",
       "url": "https://www.producthunt.com/products/tubeletter?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 181,
+      "votesCount": 183,
       "commentsCount": 11,
       "createdAt": "2025-12-26T08:01:00Z",
       "thumbnail": {
@@ -130,8 +130,8 @@
       "name": "Erla",
       "tagline": "Improve the way you master and understand languages",
       "url": "https://www.producthunt.com/products/erla?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 138,
-      "commentsCount": 5,
+      "votesCount": 139,
+      "commentsCount": 6,
       "createdAt": "2025-12-26T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/0aacd925-86d3-4a8b-85d3-7b8cc22d5c62.png?auto=format"
@@ -192,7 +192,7 @@
       "name": "VocalLab.ai",
       "tagline": "Unlimited Free AI Voice Cloning with MP3 + SRT Exports",
       "url": "https://www.producthunt.com/products/vocallab-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 53,
+      "votesCount": 55,
       "commentsCount": 8,
       "createdAt": "2025-12-26T08:01:00Z",
       "thumbnail": {
@@ -280,7 +280,7 @@
       "name": "Creator Finder Hub",
       "tagline": "Find creators by niche, metrics, and contact — in one place",
       "url": "https://www.producthunt.com/products/creator-finder-hub?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 12,
+      "votesCount": 13,
       "commentsCount": 3,
       "createdAt": "2025-12-26T08:01:00Z",
       "thumbnail": {
@@ -296,37 +296,6 @@
           {
             "node": {
               "name": "Influencer marketing"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1054330",
-      "name": "GitStory",
-      "tagline": "Your Github 2025 Cinematic Wrapped",
-      "url": "https://www.producthunt.com/products/gitstory-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 9,
-      "commentsCount": 5,
-      "createdAt": "2025-12-26T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/f42e89ca-4c7a-4b59-803f-aaca957ea990.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Open Source"
-            }
-          },
-          {
-            "node": {
-              "name": "GitHub"
-            }
-          },
-          {
-            "node": {
-              "name": "Tech"
             }
           }
         ]
@@ -364,11 +333,42 @@
       }
     },
     {
+      "id": "1054330",
+      "name": "GitStory",
+      "tagline": "Your Github 2025 Cinematic Wrapped",
+      "url": "https://www.producthunt.com/products/gitstory-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 9,
+      "commentsCount": 5,
+      "createdAt": "2025-12-26T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/f42e89ca-4c7a-4b59-803f-aaca957ea990.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Open Source"
+            }
+          },
+          {
+            "node": {
+              "name": "GitHub"
+            }
+          },
+          {
+            "node": {
+              "name": "Tech"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1054436",
       "name": "Lliben-Simple Screenshot Tool for Chrome",
       "tagline": "Capture full page, region, or element. Save PNG, JPG, PDF.",
       "url": "https://www.producthunt.com/products/lliben?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 8,
+      "votesCount": 9,
       "commentsCount": 1,
       "createdAt": "2025-12-26T08:01:00Z",
       "thumbnail": {
@@ -395,11 +395,32 @@
       }
     },
     {
+      "id": "1054526",
+      "name": "DocBuilder",
+      "tagline": "Build complete product specs by chatting with AI",
+      "url": "https://www.producthunt.com/products/docbuilder?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 8,
+      "commentsCount": 1,
+      "createdAt": "2025-12-26T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/0541afa2-a9d9-4973-92d5-fbe5e0c3fb48.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1052800",
       "name": "Talent Score",
       "tagline": "AI-powered resume analysis platform",
       "url": "https://www.producthunt.com/products/talent-score?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 7,
+      "votesCount": 8,
       "commentsCount": 5,
       "createdAt": "2025-12-26T08:01:00Z",
       "thumbnail": {
@@ -426,21 +447,31 @@
       }
     },
     {
-      "id": "1054526",
-      "name": "DocBuilder",
-      "tagline": "Build complete product specs by chatting with AI",
-      "url": "https://www.producthunt.com/products/docbuilder?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 7,
-      "commentsCount": 1,
+      "id": "1054534",
+      "name": "Style My Space",
+      "tagline": "Transform Your Living Spaces",
+      "url": "https://www.producthunt.com/products/style-my-space?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 6,
+      "commentsCount": 2,
       "createdAt": "2025-12-26T08:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/0541afa2-a9d9-4973-92d5-fbe5e0c3fb48.png?auto=format"
+        "url": "https://ph-files.imgix.net/ee3b2c6c-4202-4a6e-9ea9-ee5a754bef65.png?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "Developer Tools"
+              "name": "Design Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Home"
+            }
+          },
+          {
+            "node": {
+              "name": "Interior design"
             }
           }
         ]
@@ -472,6 +503,37 @@
           {
             "node": {
               "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1053277",
+      "name": "2025 Recap Maker",
+      "tagline": "Recap your year with a short highlight video",
+      "url": "https://www.producthunt.com/products/luxe-studio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 6,
+      "commentsCount": 1,
+      "createdAt": "2025-12-26T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/988d31e4-ce52-43dc-9bfa-987e25a82776.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Social Media"
+            }
+          },
+          {
+            "node": {
+              "name": "Lifestyle"
+            }
+          },
+          {
+            "node": {
+              "name": "Photo & Video"
             }
           }
         ]
@@ -514,15 +576,15 @@
       }
     },
     {
-      "id": "1054534",
-      "name": "Style My Space",
-      "tagline": "Transform Your Living Spaces",
-      "url": "https://www.producthunt.com/products/style-my-space?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "id": "1054600",
+      "name": "Nanosora",
+      "tagline": "Nanosora: Unified AI generation and editing.",
+      "url": "https://www.producthunt.com/products/nanosora?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 6,
-      "commentsCount": 2,
+      "commentsCount": 1,
       "createdAt": "2025-12-26T08:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/ee3b2c6c-4202-4a6e-9ea9-ee5a754bef65.png?auto=format"
+        "url": "https://ph-files.imgix.net/6a795ab9-05ea-4ade-96ae-f641b56906ef.vnd.microsoft.icon?auto=format"
       },
       "topics": {
         "edges": [
@@ -533,74 +595,12 @@
           },
           {
             "node": {
-              "name": "Home"
-            }
-          },
-          {
-            "node": {
-              "name": "Interior design"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1054599",
-      "name": "Co-finder",
-      "tagline": "Find the right co-founder who actually wants to build.",
-      "url": "https://www.producthunt.com/products/co-finder-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 6,
-      "commentsCount": 4,
-      "createdAt": "2025-12-26T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/c2bf52f4-b9a2-4a9a-b397-ccd88f632688.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Marketing"
-            }
-          },
-          {
-            "node": {
               "name": "SaaS"
             }
           },
           {
             "node": {
-              "name": "Startup Lessons"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1053277",
-      "name": "2025 Recap Maker",
-      "tagline": "Recap your year with a short highlight video",
-      "url": "https://www.producthunt.com/products/luxe-studio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 5,
-      "commentsCount": 1,
-      "createdAt": "2025-12-26T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/988d31e4-ce52-43dc-9bfa-987e25a82776.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Social Media"
-            }
-          },
-          {
-            "node": {
-              "name": "Lifestyle"
-            }
-          },
-          {
-            "node": {
-              "name": "Photo & Video"
+              "name": "Artificial Intelligence"
             }
           }
         ]
