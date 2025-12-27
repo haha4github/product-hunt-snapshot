@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2025-12-27T12:55:14.810Z",
+  "fetchedAt": "2025-12-27T13:32:27.840Z",
   "posts": [
     {
       "id": "1054380",
       "name": "Product Hunt Wrapped 2025",
       "tagline": "Your 2025 maker journey, visualized.",
       "url": "https://www.producthunt.com/products/product-hunt-wrapped-2025?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 159,
-      "commentsCount": 11,
+      "votesCount": 188,
+      "commentsCount": 12,
       "createdAt": "2025-12-27T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/356e0f01-273c-43ea-b14d-671f15fb8c39.jpeg?auto=format"
@@ -37,8 +37,8 @@
       "name": "ZapZipped",
       "tagline": "Your WhatsApp groups, wrapped - now with DNA & top moments",
       "url": "https://www.producthunt.com/products/zapzipped?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 137,
-      "commentsCount": 2,
+      "votesCount": 156,
+      "commentsCount": 3,
       "createdAt": "2025-12-27T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/ea2959e7-881f-4570-a3b4-80ea287a67e7.png?auto=format"
@@ -68,7 +68,7 @@
       "name": "Memingo",
       "tagline": "Let AI Make the Memes for You, Create & Share Instantly",
       "url": "https://www.producthunt.com/products/memingo-make-memes-fast?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 126,
+      "votesCount": 144,
       "commentsCount": 8,
       "createdAt": "2025-12-27T08:01:00Z",
       "thumbnail": {
@@ -104,7 +104,7 @@
       "name": "Alpie Core",
       "tagline": "A 4-bit reasoning model with frontier-level performance",
       "url": "https://www.producthunt.com/products/alpie-core?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 106,
+      "votesCount": 125,
       "commentsCount": 5,
       "createdAt": "2025-12-27T08:01:00Z",
       "thumbnail": {
@@ -140,7 +140,7 @@
       "name": "Xteink X4",
       "tagline": "Ultra light, magnetic E-reader that attaches to your phone",
       "url": "https://www.producthunt.com/products/xteink-x4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 99,
+      "votesCount": 114,
       "commentsCount": 1,
       "createdAt": "2025-12-27T08:01:00Z",
       "thumbnail": {
@@ -171,7 +171,7 @@
       "name": "IGC Loyalty, Create a treasure hunt",
       "tagline": "Place personalized digital hearts/ treasures via the APP map",
       "url": "https://www.producthunt.com/products/igc-loyalty-create-a-treasure-hunt?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 14,
+      "votesCount": 21,
       "commentsCount": 1,
       "createdAt": "2025-12-27T08:01:00Z",
       "thumbnail": {
@@ -207,8 +207,8 @@
       "name": "Kandle - Chart Insights",
       "tagline": "Technical analysis from a chart image—nothing else needed.",
       "url": "https://www.producthunt.com/products/kandle-chart-insights-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 10,
-      "commentsCount": 4,
+      "votesCount": 15,
+      "commentsCount": 5,
       "createdAt": "2025-12-27T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/fc1a1df6-9f24-4219-9ec0-0362717e8dc8.jpeg?auto=format"
@@ -243,7 +243,7 @@
       "name": "Year in Code",
       "tagline": "Spotify Wrapped for your claude coding year!",
       "url": "https://www.producthunt.com/products/year-in-code?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 6,
+      "votesCount": 11,
       "commentsCount": 1,
       "createdAt": "2025-12-27T08:01:00Z",
       "thumbnail": {
@@ -275,11 +275,68 @@
       }
     },
     {
+      "id": "1054922",
+      "name": "Reader Directory",
+      "tagline": "Cut through the noise. Find newsletters that matter.",
+      "url": "https://www.producthunt.com/products/reader-directory?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 10,
+      "commentsCount": 2,
+      "createdAt": "2025-12-27T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/d185174f-9810-4936-b45e-cde32bd96e74.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Email"
+            }
+          },
+          {
+            "node": {
+              "name": "Newsletters"
+            }
+          },
+          {
+            "node": {
+              "name": "Marketing"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1054872",
+      "name": "Prezz",
+      "tagline": "AI app that creates full presentations in seconds",
+      "url": "https://www.producthunt.com/products/prezz-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 10,
+      "commentsCount": 1,
+      "createdAt": "2025-12-27T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/a5ec9ec8-96e1-4d58-ae6c-0f3b5a8d0679.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Design Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Education"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1054640",
       "name": "rep+",
       "tagline": "Your AI security copilot for HTTP requests.",
       "url": "https://www.producthunt.com/products/rep-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 5,
+      "votesCount": 10,
       "commentsCount": 2,
       "createdAt": "2025-12-27T08:01:00Z",
       "thumbnail": {
@@ -316,73 +373,11 @@
       }
     },
     {
-      "id": "1054620",
-      "name": "CrackIt Ai",
-      "tagline": "Get Your Dream Job",
-      "url": "https://www.producthunt.com/products/crackit-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 4,
-      "commentsCount": 1,
-      "createdAt": "2025-12-27T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/b70c9fd4-f29f-48b0-a8e8-1f5d7ad634af.svg?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Education"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          },
-          {
-            "node": {
-              "name": "Career"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1054922",
-      "name": "Reader Directory",
-      "tagline": "Cut through the noise. Find newsletters that matter.",
-      "url": "https://www.producthunt.com/products/reader-directory?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 4,
-      "commentsCount": 1,
-      "createdAt": "2025-12-27T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/d185174f-9810-4936-b45e-cde32bd96e74.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Email"
-            }
-          },
-          {
-            "node": {
-              "name": "Newsletters"
-            }
-          },
-          {
-            "node": {
-              "name": "Marketing"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1054035",
       "name": "BloodMate",
       "tagline": "Request blood instantly from your contacts and nearby donors",
       "url": "https://www.producthunt.com/products/bloodmate?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 4,
+      "votesCount": 9,
       "commentsCount": 3,
       "createdAt": "2025-12-27T08:01:00Z",
       "thumbnail": {
@@ -414,26 +409,31 @@
       }
     },
     {
-      "id": "1054872",
-      "name": "Prezz",
-      "tagline": "AI app that creates full presentations in seconds",
-      "url": "https://www.producthunt.com/products/prezz-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 4,
+      "id": "1054620",
+      "name": "CrackIt Ai",
+      "tagline": "Get Your Dream Job",
+      "url": "https://www.producthunt.com/products/crackit-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 9,
       "commentsCount": 1,
       "createdAt": "2025-12-27T08:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/a5ec9ec8-96e1-4d58-ae6c-0f3b5a8d0679.png?auto=format"
+        "url": "https://ph-files.imgix.net/b70c9fd4-f29f-48b0-a8e8-1f5d7ad634af.svg?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "Design Tools"
+              "name": "Education"
             }
           },
           {
             "node": {
-              "name": "Education"
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "Career"
             }
           }
         ]
@@ -444,7 +444,7 @@
       "name": "YouFocus",
       "tagline": "Study on YouTube without falling into Shorts",
       "url": "https://www.producthunt.com/products/youfocus-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 4,
+      "votesCount": 8,
       "commentsCount": 1,
       "createdAt": "2025-12-27T08:01:00Z",
       "thumbnail": {
@@ -475,7 +475,7 @@
       "name": "PingChore",
       "tagline": "Warn customers before bad weather ruins the day",
       "url": "https://www.producthunt.com/products/pingchore?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 3,
+      "votesCount": 8,
       "commentsCount": 2,
       "createdAt": "2025-12-27T08:01:00Z",
       "thumbnail": {
@@ -506,7 +506,7 @@
       "name": "ReCall",
       "tagline": "Flashcards that speak your language",
       "url": "https://www.producthunt.com/products/recall-14?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 3,
+      "votesCount": 8,
       "commentsCount": 1,
       "createdAt": "2025-12-27T08:01:00Z",
       "thumbnail": {
@@ -527,7 +527,7 @@
       "name": "Contractra",
       "tagline": "AI‑powered contract analysis & risk detection",
       "url": "https://www.producthunt.com/products/contractra?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 2,
+      "votesCount": 7,
       "commentsCount": 1,
       "createdAt": "2025-12-27T08:01:00Z",
       "thumbnail": {
@@ -558,7 +558,7 @@
       "name": "Sidechat",
       "tagline": "Private Brainstorm Threads for Group AI Chats",
       "url": "https://www.producthunt.com/products/sidechat-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 2,
+      "votesCount": 7,
       "commentsCount": 1,
       "createdAt": "2025-12-27T08:01:00Z",
       "thumbnail": {
@@ -589,7 +589,7 @@
       "name": "Teromi",
       "tagline": "Teromi - AI CFO",
       "url": "https://www.producthunt.com/products/teromi?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 2,
+      "votesCount": 7,
       "commentsCount": 1,
       "createdAt": "2025-12-27T08:01:00Z",
       "thumbnail": {
@@ -620,7 +620,7 @@
       "name": "EmojiToPNG - Emoji to image converter",
       "tagline": "Convert any emoji to a high-resolution PNG",
       "url": "https://www.producthunt.com/products/emojitopng-emoji-to-image-converter?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 2,
+      "votesCount": 7,
       "commentsCount": 1,
       "createdAt": "2025-12-27T08:01:00Z",
       "thumbnail": {
