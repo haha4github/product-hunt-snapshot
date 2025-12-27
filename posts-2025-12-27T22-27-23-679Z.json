@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2025-12-27T21:56:51.084Z",
+  "fetchedAt": "2025-12-27T22:27:23.679Z",
   "posts": [
     {
       "id": "1054380",
       "name": "Product Hunt Wrapped 2025",
       "tagline": "Your 2025 maker journey, visualized.",
       "url": "https://www.producthunt.com/products/product-hunt-wrapped-2025?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 284,
-      "commentsCount": 24,
+      "votesCount": 286,
+      "commentsCount": 25,
       "createdAt": "2025-12-27T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/356e0f01-273c-43ea-b14d-671f15fb8c39.jpeg?auto=format"
@@ -37,8 +37,8 @@
       "name": "Memingo",
       "tagline": "Let AI Make the Memes for You, Create & Share Instantly",
       "url": "https://www.producthunt.com/products/memingo-make-memes-fast?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 219,
-      "commentsCount": 12,
+      "votesCount": 220,
+      "commentsCount": 13,
       "createdAt": "2025-12-27T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/8aa2f23f-091c-48a2-9516-163ec8c684f6.png?auto=format"
@@ -73,7 +73,7 @@
       "name": "ZapZipped",
       "tagline": "Your WhatsApp groups, wrapped - now with DNA & top moments",
       "url": "https://www.producthunt.com/products/zapzipped?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 193,
+      "votesCount": 194,
       "commentsCount": 6,
       "createdAt": "2025-12-27T08:01:00Z",
       "thumbnail": {
@@ -104,7 +104,7 @@
       "name": "Alpie Core",
       "tagline": "A 4-bit reasoning model with frontier-level performance",
       "url": "https://www.producthunt.com/products/alpie-core?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 157,
+      "votesCount": 158,
       "commentsCount": 7,
       "createdAt": "2025-12-27T08:01:00Z",
       "thumbnail": {
@@ -243,8 +243,8 @@
       "name": "Year in Code",
       "tagline": "Spotify Wrapped for your claude coding year!",
       "url": "https://www.producthunt.com/products/year-in-code?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 13,
-      "commentsCount": 1,
+      "votesCount": 14,
+      "commentsCount": 2,
       "createdAt": "2025-12-27T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/ab3856a8-e26c-42a4-bfc0-c690bed3f117.png?auto=format"
@@ -445,6 +445,37 @@
       }
     },
     {
+      "id": "1054922",
+      "name": "Reader Directory",
+      "tagline": "Cut through the noise. Find newsletters that matter.",
+      "url": "https://www.producthunt.com/products/reader-directory?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 11,
+      "commentsCount": 3,
+      "createdAt": "2025-12-27T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/d185174f-9810-4936-b45e-cde32bd96e74.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Email"
+            }
+          },
+          {
+            "node": {
+              "name": "Newsletters"
+            }
+          },
+          {
+            "node": {
+              "name": "Marketing"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1054860",
       "name": "Blacksmith",
       "tagline": "AI powered penetration testing",
@@ -475,37 +506,6 @@
           {
             "node": {
               "name": "Security"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1054922",
-      "name": "Reader Directory",
-      "tagline": "Cut through the noise. Find newsletters that matter.",
-      "url": "https://www.producthunt.com/products/reader-directory?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 11,
-      "commentsCount": 3,
-      "createdAt": "2025-12-27T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/d185174f-9810-4936-b45e-cde32bd96e74.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Email"
-            }
-          },
-          {
-            "node": {
-              "name": "Newsletters"
-            }
-          },
-          {
-            "node": {
-              "name": "Marketing"
             }
           }
         ]
@@ -636,18 +636,23 @@
       }
     },
     {
-      "id": "1054950",
-      "name": "Teromi",
-      "tagline": "Teromi - AI CFO",
-      "url": "https://www.producthunt.com/products/teromi?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "id": "1054857",
+      "name": "Portfolio Optimizer",
+      "tagline": "Build stock portfolios based on risk, not hype",
+      "url": "https://www.producthunt.com/products/portfolio-optimizer-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 9,
-      "commentsCount": 2,
+      "commentsCount": 1,
       "createdAt": "2025-12-27T08:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/ea45c406-2981-4a13-a191-df4df7193c03.jpeg?auto=format"
+        "url": "https://ph-files.imgix.net/7246add0-1201-479e-8e64-22453683b27a.png?auto=format"
       },
       "topics": {
         "edges": [
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
           {
             "node": {
               "name": "Fintech"
@@ -655,12 +660,7 @@
           },
           {
             "node": {
-              "name": "Tech"
-            }
-          },
-          {
-            "node": {
-              "name": "Finance"
+              "name": "Investing"
             }
           }
         ]
