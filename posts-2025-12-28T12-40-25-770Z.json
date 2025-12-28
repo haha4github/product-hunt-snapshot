@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2025-12-28T11:53:03.371Z",
+  "fetchedAt": "2025-12-28T12:40:25.770Z",
   "posts": [
     {
       "id": "1055027",
       "name": "VibrantSnap",
       "tagline": "Create & Share Videos That Convert",
       "url": "https://www.producthunt.com/products/vibrantsnap?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 123,
-      "commentsCount": 1,
+      "votesCount": 140,
+      "commentsCount": 2,
       "createdAt": "2025-12-28T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/b01bdbe9-1f7b-4c43-af63-1f326da2e0c4.jpeg?auto=format"
@@ -37,8 +37,8 @@
       "name": "Tweny",
       "tagline": "Focus timer that actually cares about your eyes",
       "url": "https://www.producthunt.com/products/tweny-eye-health-focus-timer?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 117,
-      "commentsCount": 1,
+      "votesCount": 125,
+      "commentsCount": 2,
       "createdAt": "2025-12-28T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/b261fabc-6b20-4da5-8724-2a799af6f96a.png?auto=format"
@@ -68,7 +68,7 @@
       "name": "Kardy",
       "tagline": "The most funnest group card eva (typos included)",
       "url": "https://www.producthunt.com/products/kardy?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 115,
+      "votesCount": 121,
       "commentsCount": 1,
       "createdAt": "2025-12-28T08:01:00Z",
       "thumbnail": {
@@ -99,7 +99,7 @@
       "name": "HMPL",
       "tagline": "Lightweight server-oriented template language for JavaScript",
       "url": "https://www.producthunt.com/products/hmpl-js?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 107,
+      "votesCount": 112,
       "commentsCount": 0,
       "createdAt": "2025-12-28T08:01:00Z",
       "thumbnail": {
@@ -130,8 +130,8 @@
       "name": "Meetings Wrapped",
       "tagline": "Meetings that could have been emails analyzed & visualized.",
       "url": "https://www.producthunt.com/products/meetings-wrapped?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 88,
-      "commentsCount": 1,
+      "votesCount": 94,
+      "commentsCount": 3,
       "createdAt": "2025-12-28T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/0aed0f16-2f41-43a0-b5b1-4d06be7545da.png?auto=format"
@@ -161,8 +161,8 @@
       "name": "Linkeddit",
       "tagline": "Find Your Next Customers on Reddit Who Are Ready To Buy Now",
       "url": "https://www.producthunt.com/products/linkeddit?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 11,
-      "commentsCount": 1,
+      "votesCount": 67,
+      "commentsCount": 2,
       "createdAt": "2025-12-28T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/18617b3a-0b92-436a-905e-c9955dd4d3d6.gif?auto=format"
@@ -188,11 +188,73 @@
       }
     },
     {
+      "id": "1055147",
+      "name": "StandBy Mode Pro",
+      "tagline": "Turn your Android into a Smart Display while charging",
+      "url": "https://www.producthunt.com/products/standby-mode-pro?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 57,
+      "commentsCount": 1,
+      "createdAt": "2025-12-28T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/7a634373-9490-494f-92ec-5f9a101a1e02.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Android"
+            }
+          },
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Tech"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1055022",
+      "name": "Optivault",
+      "tagline": "AI financial advisor that optimizes your money and budget.",
+      "url": "https://www.producthunt.com/products/optivault-ai-financial-advisor-app?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 57,
+      "commentsCount": 1,
+      "createdAt": "2025-12-28T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/3bd0208d-3870-4f9a-92e9-81eb27b35262.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Fintech"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "Personal Finance"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1044516",
       "name": "Monee",
       "tagline": "A beautifully simple way to manage your money",
       "url": "https://www.producthunt.com/products/monee?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 40,
+      "votesCount": 45,
       "commentsCount": 2,
       "createdAt": "2025-12-28T08:01:00Z",
       "thumbnail": {
@@ -228,7 +290,7 @@
       "name": "Photo Studio AI",
       "tagline": "Run your prompt through every top AI model at once ",
       "url": "https://www.producthunt.com/products/photo-studio-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 23,
+      "votesCount": 24,
       "commentsCount": 3,
       "createdAt": "2025-12-28T08:01:00Z",
       "thumbnail": {
@@ -259,7 +321,7 @@
       "name": "Kalpal",
       "tagline": "Make Your Meals 1% Better | Weight-loss App for Lazy People",
       "url": "https://www.producthunt.com/products/kalpal?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 21,
+      "votesCount": 22,
       "commentsCount": 1,
       "createdAt": "2025-12-28T08:01:00Z",
       "thumbnail": {
@@ -290,7 +352,7 @@
       "name": "Crypto Coffee",
       "tagline": "Buy someone a coffee using crypto ",
       "url": "https://www.producthunt.com/products/crypto-coffee-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 15,
+      "votesCount": 16,
       "commentsCount": 2,
       "createdAt": "2025-12-28T08:01:00Z",
       "thumbnail": {
@@ -321,7 +383,7 @@
       "name": "Capitall",
       "tagline": "AI Fundraising Copilot that helps founders raise 100x faster",
       "url": "https://www.producthunt.com/products/capitall?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 14,
+      "votesCount": 16,
       "commentsCount": 2,
       "createdAt": "2025-12-28T08:01:00Z",
       "thumbnail": {
@@ -347,7 +409,7 @@
       "name": "DeadLinkRadar",
       "tagline": "Find broken links before your users do",
       "url": "https://www.producthunt.com/products/deadlinkradar?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 13,
+      "votesCount": 15,
       "commentsCount": 2,
       "createdAt": "2025-12-28T08:01:00Z",
       "thumbnail": {
@@ -410,7 +472,7 @@
       "tagline": "Remove all your TikTok reposts in a tap",
       "url": "https://www.producthunt.com/products/remove-tiktok-reposts-unrepostify?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 12,
-      "commentsCount": 0,
+      "commentsCount": 1,
       "createdAt": "2025-12-28T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/1e5f5891-cf64-497c-a025-44e67f5ab379.png?auto=format"
@@ -539,68 +601,6 @@
           {
             "node": {
               "name": "Marketing"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1054545",
-      "name": "AppDelta",
-      "tagline": "Spy On Apps with App Store Data",
-      "url": "https://www.producthunt.com/products/appdelta?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 9,
-      "commentsCount": 1,
-      "createdAt": "2025-12-28T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/4fbddce9-0cc1-41d4-a4d5-a44836d16839.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "SaaS"
-            }
-          },
-          {
-            "node": {
-              "name": "Apple"
-            }
-          },
-          {
-            "node": {
-              "name": "Data & Analytics"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1055136",
-      "name": "LanzaBooster",
-      "tagline": "Get your first 100 backlinks & users without the grunt work",
-      "url": "https://www.producthunt.com/products/lanzabooster?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 9,
-      "commentsCount": 1,
-      "createdAt": "2025-12-28T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/05e60cd8-3680-4d22-bd6f-ce4d74d5355f.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Marketing"
-            }
-          },
-          {
-            "node": {
-              "name": "SEO"
             }
           }
         ]
