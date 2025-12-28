@@ -1,12 +1,12 @@
 {
-  "fetchedAt": "2025-12-28T08:35:52.103Z",
+  "fetchedAt": "2025-12-28T08:54:17.941Z",
   "posts": [
     {
       "id": "1054036",
       "name": "Kardy",
       "tagline": "The most funnest group card eva (typos included)",
       "url": "https://www.producthunt.com/products/kardy?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 74,
+      "votesCount": 80,
       "commentsCount": 1,
       "createdAt": "2025-12-28T08:01:00Z",
       "thumbnail": {
@@ -37,7 +37,7 @@
       "name": "Tweny",
       "tagline": "Focus timer that actually cares about your eyes",
       "url": "https://www.producthunt.com/products/tweny-eye-health-focus-timer?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 72,
+      "votesCount": 78,
       "commentsCount": 1,
       "createdAt": "2025-12-28T08:01:00Z",
       "thumbnail": {
@@ -68,7 +68,7 @@
       "name": "HMPL",
       "tagline": "Lightweight server-oriented template language for JavaScript",
       "url": "https://www.producthunt.com/products/hmpl-js?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 70,
+      "votesCount": 75,
       "commentsCount": 0,
       "createdAt": "2025-12-28T08:01:00Z",
       "thumbnail": {
@@ -95,11 +95,42 @@
       }
     },
     {
+      "id": "1054813",
+      "name": "Meetings Wrapped",
+      "tagline": "Meetings that could have been emails analyzed & visualized.",
+      "url": "https://www.producthunt.com/products/meetings-wrapped?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 71,
+      "commentsCount": 1,
+      "createdAt": "2025-12-28T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/0aed0f16-2f41-43a0-b5b1-4d06be7545da.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "API"
+            }
+          },
+          {
+            "node": {
+              "name": "Meetings"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1055027",
       "name": "VibrantSnap",
       "tagline": "Create & Share Videos That Convert",
       "url": "https://www.producthunt.com/products/vibrantsnap?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 67,
+      "votesCount": 71,
       "commentsCount": 1,
       "createdAt": "2025-12-28T08:01:00Z",
       "thumbnail": {
@@ -126,31 +157,36 @@
       }
     },
     {
-      "id": "1054813",
-      "name": "Meetings Wrapped",
-      "tagline": "Meetings that could have been emails analyzed & visualized.",
-      "url": "https://www.producthunt.com/products/meetings-wrapped?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 64,
+      "id": "1044516",
+      "name": "Monee",
+      "tagline": "A beautifully simple way to manage your money",
+      "url": "https://www.producthunt.com/products/monee?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 10,
       "commentsCount": 1,
       "createdAt": "2025-12-28T08:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/0aed0f16-2f41-43a0-b5b1-4d06be7545da.png?auto=format"
+        "url": "https://ph-files.imgix.net/2054bbae-3bc2-4f66-9b33-79e3575ba1d0.jpeg?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "API"
+              "name": "Android"
             }
           },
           {
             "node": {
-              "name": "Meetings"
+              "name": "Money"
             }
           },
           {
             "node": {
-              "name": "Artificial Intelligence"
+              "name": "Finance"
+            }
+          },
+          {
+            "node": {
+              "name": "Personal Finance"
             }
           }
         ]
@@ -209,37 +245,6 @@
       }
     },
     {
-      "id": "1055186",
-      "name": "Crypto Coffee",
-      "tagline": "Buy someone a coffee using crypto ",
-      "url": "https://www.producthunt.com/products/crypto-coffee-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 3,
-      "commentsCount": 1,
-      "createdAt": "2025-12-28T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/b49abd97-029e-44d0-afbd-8a11f9b7d211.svg?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Crypto"
-            }
-          },
-          {
-            "node": {
-              "name": "Social Impact"
-            }
-          },
-          {
-            "node": {
-              "name": "Web3"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1055055",
       "name": "Capitall",
       "tagline": "AI Fundraising Copilot that helps founders raise 100x faster",
@@ -260,37 +265,6 @@
           {
             "node": {
               "name": "Fundraising"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1055185",
-      "name": "Linkeddit",
-      "tagline": "Find Your Next Customers on Reddit Who Are Ready To Buy Now",
-      "url": "https://www.producthunt.com/products/linkeddit?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 3,
-      "commentsCount": 1,
-      "createdAt": "2025-12-28T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/18617b3a-0b92-436a-905e-c9955dd4d3d6.gif?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Sales"
-            }
-          },
-          {
-            "node": {
-              "name": "Marketing"
-            }
-          },
-          {
-            "node": {
-              "name": "reddit"
             }
           }
         ]
@@ -328,21 +302,21 @@
       }
     },
     {
-      "id": "1055175",
-      "name": "Kalpal",
-      "tagline": "Make Your Meals 1% Better | Weight-loss App for Lazy People",
-      "url": "https://www.producthunt.com/products/kalpal?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 2,
+      "id": "1053952",
+      "name": "Revlify for Shopify",
+      "tagline": "Turn any angled shot into a front-facing product photo.",
+      "url": "https://www.producthunt.com/products/revlify-for-shopify?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 3,
       "commentsCount": 1,
       "createdAt": "2025-12-28T08:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/031341aa-1b81-4cdf-9b46-dd303d6f61c1.png?auto=format"
+        "url": "https://ph-files.imgix.net/975e011d-a3ca-4ede-b60b-7604170afa54.png?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "Health & Fitness"
+              "name": "Photography"
             }
           },
           {
@@ -352,7 +326,219 @@
           },
           {
             "node": {
-              "name": "Tech"
+              "name": "E-Commerce"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1055186",
+      "name": "Crypto Coffee",
+      "tagline": "Buy someone a coffee using crypto ",
+      "url": "https://www.producthunt.com/products/crypto-coffee-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 3,
+      "commentsCount": 1,
+      "createdAt": "2025-12-28T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/b49abd97-029e-44d0-afbd-8a11f9b7d211.svg?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Crypto"
+            }
+          },
+          {
+            "node": {
+              "name": "Social Impact"
+            }
+          },
+          {
+            "node": {
+              "name": "Web3"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1055185",
+      "name": "Linkeddit",
+      "tagline": "Find Your Next Customers on Reddit Who Are Ready To Buy Now",
+      "url": "https://www.producthunt.com/products/linkeddit?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 3,
+      "commentsCount": 1,
+      "createdAt": "2025-12-28T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/18617b3a-0b92-436a-905e-c9955dd4d3d6.gif?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Sales"
+            }
+          },
+          {
+            "node": {
+              "name": "Marketing"
+            }
+          },
+          {
+            "node": {
+              "name": "reddit"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1055222",
+      "name": "Astra Launch",
+      "tagline": " Ship your SaaS this weekend with auth, payments, and UI",
+      "url": "https://www.producthunt.com/products/astra-launch?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 3,
+      "commentsCount": 1,
+      "createdAt": "2025-12-28T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/ffcc4cb2-cba6-4af2-a674-190d585f312c.vnd.microsoft.icon?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "User Experience"
+            }
+          },
+          {
+            "node": {
+              "name": "SaaS"
+            }
+          },
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1055003",
+      "name": "AIShortz",
+      "tagline": "AI Viral Short Videos",
+      "url": "https://www.producthunt.com/products/aishortz-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 2,
+      "commentsCount": 0,
+      "createdAt": "2025-12-28T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/80596ed8-814d-4209-8f3b-571fbd6aea94.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Social Media"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "Photo & Video"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1054483",
+      "name": "CloudaQube",
+      "tagline": "AI-Generated Labs for Skill-Up & Career Growth",
+      "url": "https://www.producthunt.com/products/cloudaqube?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 2,
+      "commentsCount": 1,
+      "createdAt": "2025-12-28T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/ce166426-2caf-49db-bc8a-c9b9607d062c.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "SaaS"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1055004",
+      "name": "NovaKit CLI",
+      "tagline": "AI coding agent in your terminal. Multi-model. Free.",
+      "url": "https://www.producthunt.com/products/novakit-cli?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 2,
+      "commentsCount": 1,
+      "createdAt": "2025-12-28T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/3993c50c-1419-4f7e-b4d2-05464f3144bb.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "SaaS"
+            }
+          },
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "GitHub"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1055128",
+      "name": "OneDollarAgent.ai",
+      "tagline": "Real AI workflows. $1 access. No subscriptions.",
+      "url": "https://www.producthunt.com/products/onedollaragent-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 2,
+      "commentsCount": 1,
+      "createdAt": "2025-12-28T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/2958d05b-ad2b-4fbd-9772-06e665fe3bf9.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "Marketing automation"
             }
           }
         ]
@@ -390,202 +576,31 @@
       }
     },
     {
-      "id": "1054871",
-      "name": "60 Seconds - Shooter Mode",
-      "tagline": "Now on Apple TV with new shooter mode!",
-      "url": "https://www.producthunt.com/products/60-seconds-mini-game-by-as?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "id": "1054980",
+      "name": "AI Clothes Changer",
+      "tagline": "Change outfits using AI with just one click.",
+      "url": "https://www.producthunt.com/products/ai-clothes-changer-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 2,
       "commentsCount": 1,
       "createdAt": "2025-12-28T08:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/a63961c9-d13c-4dca-a62f-96842aa8f211.png?auto=format"
+        "url": "https://ph-files.imgix.net/f205d3f4-5c0d-49f7-8e94-4e89ca815167.png?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "Retro Games"
+              "name": "Amazon"
             }
           },
           {
             "node": {
-              "name": "Games"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1055233",
-      "name": "Five Aggregates Are Empty",
-      "tagline": "Insight Meditation Timer",
-      "url": "https://www.producthunt.com/products/five-aggregates-are-empty?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 1,
-      "commentsCount": 1,
-      "createdAt": "2025-12-28T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/0b0768b3-63cf-4692-9031-53fa52c373d3.jpeg?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Meditation"
+              "name": "Fashion"
             }
           },
           {
             "node": {
-              "name": "Time Tracking"
-            }
-          },
-          {
-            "node": {
-              "name": "Health"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1055035",
-      "name": "Cubbbix Tools",
-      "tagline": "Fast, privacy-first tools for developers and SEO teams",
-      "url": "https://www.producthunt.com/products/cubbbix-tools?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 1,
-      "commentsCount": 1,
-      "createdAt": "2025-12-28T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/30b5df0a-2bf8-4887-9a3d-58a559535dfd.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "SEO"
-            }
-          },
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1051822",
-      "name": "Rozgar AI",
-      "tagline": "AI job search assistant that finds & scores jobs for you",
-      "url": "https://www.producthunt.com/products/rozgar-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 1,
-      "commentsCount": 1,
-      "createdAt": "2025-12-28T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/bf6f92da-6779-43ae-9f5d-9d6f11dcd0e9.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          },
-          {
-            "node": {
-              "name": "Career"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1054545",
-      "name": "AppDelta",
-      "tagline": "Spy On Apps with App Store Data",
-      "url": "https://www.producthunt.com/products/appdelta?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 1,
-      "commentsCount": 1,
-      "createdAt": "2025-12-28T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/4fbddce9-0cc1-41d4-a4d5-a44836d16839.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "SaaS"
-            }
-          },
-          {
-            "node": {
-              "name": "Apple"
-            }
-          },
-          {
-            "node": {
-              "name": "Data & Analytics"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1053697",
-      "name": "Santander Statement Converter",
-      "tagline": "Convert Santander statements to Excel in seconds",
-      "url": "https://www.producthunt.com/products/santander-statement-converter?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 1,
-      "commentsCount": 1,
-      "createdAt": "2025-12-28T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/c983b6a9-f154-4e37-b40b-68ad265467be.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Fintech"
-            }
-          },
-          {
-            "node": {
-              "name": "Banking"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1055252",
-      "name": "Coralflavor",
-      "tagline": "Unfiltered unsafe AI chat that doesn't reject any prompts",
-      "url": "https://www.producthunt.com/products/coralflavor?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 1,
-      "commentsCount": 1,
-      "createdAt": "2025-12-28T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/bdb9fabb-439e-4321-8d4d-0093d0e65f2d.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Anonymous"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
+              "name": "Photo editing"
             }
           }
         ]
