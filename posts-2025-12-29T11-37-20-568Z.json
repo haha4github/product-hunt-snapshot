@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2025-12-29T11:18:26.631Z",
+  "fetchedAt": "2025-12-29T11:37:20.568Z",
   "posts": [
     {
       "id": "924550",
@@ -37,7 +37,7 @@
       "name": "GitHub Wrapped 2025",
       "tagline": "Your Year in Code 2025",
       "url": "https://www.producthunt.com/products/github-wrapped-2024-your-year-in-code?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 139,
+      "votesCount": 140,
       "commentsCount": 2,
       "createdAt": "2025-12-29T08:01:00Z",
       "thumbnail": {
@@ -99,7 +99,7 @@
       "name": "Time",
       "tagline": "Time Zones and Meetings in your macOS menu bar",
       "url": "https://www.producthunt.com/products/time-time-zones-in-your-menu-bar?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 110,
+      "votesCount": 114,
       "commentsCount": 3,
       "createdAt": "2025-12-29T08:01:00Z",
       "thumbnail": {
@@ -130,7 +130,7 @@
       "name": "Dropstone",
       "tagline": "The Recursive Swarm IDE. 10,000 Agents in one tab",
       "url": "https://www.producthunt.com/products/dropstone-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 98,
+      "votesCount": 101,
       "commentsCount": 4,
       "createdAt": "2025-12-29T08:01:00Z",
       "thumbnail": {
@@ -193,6 +193,32 @@
       }
     },
     {
+      "id": "1055571",
+      "name": "Molmo 2",
+      "tagline": "SOTA video understanding, pointing, and tracking VLM",
+      "url": "https://www.producthunt.com/products/allen-institute-of-artificial-intelligence?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 81,
+      "commentsCount": 1,
+      "createdAt": "2025-12-29T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/6c41789d-5b5c-44b1-89ef-53df3daa52a9.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Open Source"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1055387",
       "name": "ExtraBar",
       "tagline": "Build precise Mac actions and trigger them from the bar",
@@ -218,32 +244,6 @@
           {
             "node": {
               "name": "Menu Bar Apps"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1055571",
-      "name": "Molmo 2",
-      "tagline": "SOTA video understanding, pointing, and tracking VLM",
-      "url": "https://www.producthunt.com/products/allen-institute-of-artificial-intelligence?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 80,
-      "commentsCount": 1,
-      "createdAt": "2025-12-29T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/6c41789d-5b5c-44b1-89ef-53df3daa52a9.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Open Source"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
             }
           }
         ]
@@ -306,7 +306,7 @@
       "name": "Plannotator",
       "tagline": "Annotate, review, and share Claude Code plans. (Plugin/Hook)",
       "url": "https://www.producthunt.com/products/plannotator?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 67,
+      "votesCount": 70,
       "commentsCount": 1,
       "createdAt": "2025-12-29T08:01:00Z",
       "thumbnail": {
@@ -342,7 +342,7 @@
       "name": "Sequenzy",
       "tagline": "Cursor for Marketing Emails",
       "url": "https://www.producthunt.com/products/sequenzy?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 37,
+      "votesCount": 40,
       "commentsCount": 9,
       "createdAt": "2025-12-29T08:01:00Z",
       "thumbnail": {
@@ -363,6 +363,37 @@
           {
             "node": {
               "name": "SaaS"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1055458",
+      "name": "BlueTickets",
+      "tagline": "Finally an easy and affordable tool for support tickets",
+      "url": "https://www.producthunt.com/products/bluetickets?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 28,
+      "commentsCount": 1,
+      "createdAt": "2025-12-29T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/57981f04-3594-42ef-b0a7-5320e2b67d2f.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "API"
+            }
+          },
+          {
+            "node": {
+              "name": "User Experience"
+            }
+          },
+          {
+            "node": {
+              "name": "Customer Communication"
             }
           }
         ]
@@ -394,37 +425,6 @@
           {
             "node": {
               "name": "Data Visualization"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1055458",
-      "name": "BlueTickets",
-      "tagline": "Finally an easy and affordable tool for support tickets",
-      "url": "https://www.producthunt.com/products/bluetickets?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 24,
-      "commentsCount": 1,
-      "createdAt": "2025-12-29T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/57981f04-3594-42ef-b0a7-5320e2b67d2f.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "API"
-            }
-          },
-          {
-            "node": {
-              "name": "User Experience"
-            }
-          },
-          {
-            "node": {
-              "name": "Customer Communication"
             }
           }
         ]
@@ -591,31 +591,31 @@
       }
     },
     {
-      "id": "1055478",
-      "name": "Eny",
-      "tagline": "Convert receipt images into JSON. REST API, Flow integration",
-      "url": "https://www.producthunt.com/products/eny?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 9,
+      "id": "1053970",
+      "name": "Last Notes",
+      "tagline": "Pass on what matters, when you no longer can",
+      "url": "https://www.producthunt.com/products/last-notes?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 10,
       "commentsCount": 1,
       "createdAt": "2025-12-29T08:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/567dda42-e9a8-4f15-8aaf-6829360ddb5e.png?auto=format"
+        "url": "https://ph-files.imgix.net/9248467c-506e-44f3-bfaa-206844264bd8.png?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "Productivity"
+              "name": "SaaS"
             }
           },
           {
             "node": {
-              "name": "Developer Tools"
+              "name": "Lifestyle"
             }
           },
           {
             "node": {
-              "name": "Personal Finance"
+              "name": "Family"
             }
           }
         ]
