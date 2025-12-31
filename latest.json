@@ -1,12 +1,12 @@
 {
-  "fetchedAt": "2025-12-31T22:30:15.464Z",
+  "fetchedAt": "2025-12-31T22:47:55.691Z",
   "posts": [
     {
       "id": "1048945",
       "name": "Creaibo",
       "tagline": "Create 10x better content that sounds like you, faster",
       "url": "https://www.producthunt.com/products/creaibo-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 318,
+      "votesCount": 319,
       "commentsCount": 50,
       "createdAt": "2025-12-31T08:01:00Z",
       "thumbnail": {
@@ -560,12 +560,43 @@
       }
     },
     {
+      "id": "1056409",
+      "name": "SaaSBox",
+      "tagline": "Ultimate toolkit for SaaS Developers",
+      "url": "https://www.producthunt.com/products/saasbox-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 11,
+      "commentsCount": 3,
+      "createdAt": "2025-12-31T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/171a0165-be40-4dd6-b4d6-1c19c1bd8832.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "SaaS"
+            }
+          },
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Tech"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1056380",
       "name": "Price Equalizer",
       "tagline": "Turn downloads into actual purchases. ",
       "url": "https://www.producthunt.com/products/price-equalizer?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 11,
-      "commentsCount": 1,
+      "commentsCount": 2,
       "createdAt": "2025-12-31T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/7b49a955-f4af-4679-ab0c-e4f5ffceb56f.png?auto=format"
@@ -590,37 +621,6 @@
           {
             "node": {
               "name": "Development"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1056344",
-      "name": "FileFast.",
-      "tagline": "🚀 Fast. Insightful. Simple.",
-      "url": "https://www.producthunt.com/products/filefast?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 11,
-      "commentsCount": 0,
-      "createdAt": "2025-12-31T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/eeeaf5c9-7cff-4d33-b34b-23dde3ada99b.jpeg?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Storage"
-            }
-          },
-          {
-            "node": {
-              "name": "SaaS"
             }
           }
         ]
