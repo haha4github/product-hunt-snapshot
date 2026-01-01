@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-01-01T10:18:18.357Z",
+  "fetchedAt": "2026-01-01T10:43:32.226Z",
   "posts": [
     {
       "id": "1055221",
       "name": "Mom Clock",
       "tagline": "You said you'd do it. So why didn't you?",
       "url": "https://www.producthunt.com/products/mom-clock?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 151,
-      "commentsCount": 12,
+      "votesCount": 159,
+      "commentsCount": 14,
       "createdAt": "2026-01-01T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/29d18c19-6d4f-4c7a-832f-3a8fb2498f37.png?auto=format"
@@ -37,7 +37,7 @@
       "name": "Qwen-Image-2512",
       "tagline": "SOTA open-source T2I model with even greater realism",
       "url": "https://www.producthunt.com/products/qwen3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 113,
+      "votesCount": 116,
       "commentsCount": 1,
       "createdAt": "2026-01-01T08:01:00Z",
       "thumbnail": {
@@ -69,11 +69,68 @@
       }
     },
     {
+      "id": "1056421",
+      "name": "Friendware",
+      "tagline": "Tab-to-complete everywhere on MacOS",
+      "url": "https://www.producthunt.com/products/friendware?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 85,
+      "commentsCount": 1,
+      "createdAt": "2026-01-01T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/30ab90e0-a222-44fc-9aad-6c66aece39f4.svg?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Mac"
+            }
+          },
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1056148",
+      "name": "intnt",
+      "tagline": "Your life visualized as 1080 months",
+      "url": "https://www.producthunt.com/products/intnt?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 83,
+      "commentsCount": 3,
+      "createdAt": "2026-01-01T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/5dbfe4a9-fb78-47fb-b5ce-73c03ad282c3.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Health & Fitness"
+            }
+          },
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1056670",
       "name": "Its Hover",
       "tagline": "Icons that move and react mirroring user intent",
       "url": "https://www.producthunt.com/products/its-hover?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 73,
+      "votesCount": 78,
       "commentsCount": 1,
       "createdAt": "2026-01-01T08:01:00Z",
       "thumbnail": {
@@ -141,57 +198,36 @@
       }
     },
     {
-      "id": "1056148",
-      "name": "intnt",
-      "tagline": "Your life visualized as 1080 months",
-      "url": "https://www.producthunt.com/products/intnt?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 72,
-      "commentsCount": 1,
+      "id": "1056612",
+      "name": "Co-Op",
+      "tagline": "AI-Powered Advisory Platform for Startups",
+      "url": "https://www.producthunt.com/products/co-op-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 17,
+      "commentsCount": 0,
       "createdAt": "2026-01-01T08:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/5dbfe4a9-fb78-47fb-b5ce-73c03ad282c3.png?auto=format"
+        "url": "https://ph-files.imgix.net/fc3b4d56-e669-430f-9963-d8c3fbdbe131.png?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "Health & Fitness"
+              "name": "Open Source"
             }
           },
           {
             "node": {
-              "name": "Productivity"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1056421",
-      "name": "Friendware",
-      "tagline": "Tab-to-complete everywhere on MacOS",
-      "url": "https://www.producthunt.com/products/friendware?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 78,
-      "commentsCount": 1,
-      "createdAt": "2026-01-01T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/30ab90e0-a222-44fc-9aad-6c66aece39f4.svg?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Mac"
+              "name": "Fintech"
             }
           },
           {
             "node": {
-              "name": "Productivity"
+              "name": "GitHub"
             }
           },
           {
             "node": {
-              "name": "Artificial Intelligence"
+              "name": "Startup Lessons"
             }
           }
         ]
@@ -250,42 +286,6 @@
       }
     },
     {
-      "id": "1056612",
-      "name": "Co-Op",
-      "tagline": "AI-Powered Advisory Platform for Startups",
-      "url": "https://www.producthunt.com/products/co-op-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 16,
-      "commentsCount": 0,
-      "createdAt": "2026-01-01T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/fc3b4d56-e669-430f-9963-d8c3fbdbe131.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Open Source"
-            }
-          },
-          {
-            "node": {
-              "name": "Fintech"
-            }
-          },
-          {
-            "node": {
-              "name": "GitHub"
-            }
-          },
-          {
-            "node": {
-              "name": "Startup Lessons"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1056473",
       "name": "A Flip Clock",
       "tagline": "Digital clocks designed for your big-screen TV",
@@ -332,6 +332,32 @@
           {
             "node": {
               "name": "UX Design"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1056041",
+      "name": "SendToDrive",
+      "tagline": "Let anyone upload files to your Google Drive",
+      "url": "https://www.producthunt.com/products/sendtodrive?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 8,
+      "commentsCount": 1,
+      "createdAt": "2026-01-01T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/aba1113c-4e4a-4753-8c35-4422a887f9b5.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Storage"
             }
           }
         ]
@@ -405,84 +431,6 @@
       }
     },
     {
-      "id": "1056738",
-      "name": "LoanOrigination.ca",
-      "tagline": "Community lenders directory + modern SaaS LOS for Canada",
-      "url": "https://www.producthunt.com/products/loanorigination-ca?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 8,
-      "commentsCount": 1,
-      "createdAt": "2026-01-01T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/b9d50b48-ef45-44f7-94c0-c30edaf35fb1.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Fintech"
-            }
-          },
-          {
-            "node": {
-              "name": "SaaS"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1056808",
-      "name": "Payroll by Card App",
-      "tagline": "Payroll Funded by Credit Card",
-      "url": "https://www.producthunt.com/products/payroll-by-card-app?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 8,
-      "commentsCount": 1,
-      "createdAt": "2026-01-01T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/4d178afa-d7fc-4bb2-8a92-5bd9ac5548ee.jpeg?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Fintech"
-            }
-          },
-          {
-            "node": {
-              "name": "Payments"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1056041",
-      "name": "SendToDrive",
-      "tagline": "Let anyone upload files to your Google Drive",
-      "url": "https://www.producthunt.com/products/sendtodrive?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 8,
-      "commentsCount": 1,
-      "createdAt": "2026-01-01T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/aba1113c-4e4a-4753-8c35-4422a887f9b5.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Storage"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1056762",
       "name": "Read Quran Tafseer",
       "tagline": "Detailed, Verse-by-Verse Explanations & Scholar Insights.",
@@ -550,31 +498,52 @@
       }
     },
     {
-      "id": "1056733",
-      "name": "Focus Cab - Pomodoro Timer",
-      "tagline": "Turn your focus session into a cinematic night drive. 🚕💨",
-      "url": "https://www.producthunt.com/products/focus-cab-pomodoro-timer?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 7,
+      "id": "1056808",
+      "name": "Payroll by Card App",
+      "tagline": "Payroll Funded by Credit Card",
+      "url": "https://www.producthunt.com/products/payroll-by-card-app?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 8,
       "commentsCount": 1,
       "createdAt": "2026-01-01T08:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/1af6bfe2-bed4-4230-91f0-729a61eedba1.png?auto=format"
+        "url": "https://ph-files.imgix.net/4d178afa-d7fc-4bb2-8a92-5bd9ac5548ee.jpeg?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "iOS"
+              "name": "Fintech"
             }
           },
           {
             "node": {
-              "name": "Productivity"
+              "name": "Payments"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1056738",
+      "name": "LoanOrigination.ca",
+      "tagline": "Community lenders directory + modern SaaS LOS for Canada",
+      "url": "https://www.producthunt.com/products/loanorigination-ca?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 8,
+      "commentsCount": 1,
+      "createdAt": "2026-01-01T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/b9d50b48-ef45-44f7-94c0-c30edaf35fb1.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Fintech"
             }
           },
           {
             "node": {
-              "name": "Education"
+              "name": "SaaS"
             }
           }
         ]
@@ -606,6 +575,37 @@
           {
             "node": {
               "name": "YouTube"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1056572",
+      "name": "AudioScribe",
+      "tagline": "World's first workflow-integrated AI transcription platform",
+      "url": "https://www.producthunt.com/products/audioscribe-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 7,
+      "commentsCount": 1,
+      "createdAt": "2026-01-01T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/d8eddcf4-2e76-4a61-88ba-a714030a7303.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "SaaS"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
             }
           }
         ]
