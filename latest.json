@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-01-01T04:02:44.758Z",
+  "fetchedAt": "2026-01-01T04:54:59.006Z",
   "posts": [
     {
       "id": "1048945",
       "name": "Creaibo",
       "tagline": "Create 10x better content that sounds like you, faster",
       "url": "https://www.producthunt.com/products/creaibo-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 357,
-      "commentsCount": 58,
+      "votesCount": 364,
+      "commentsCount": 59,
       "createdAt": "2025-12-31T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/cd776731-1298-4990-ad7a-3e176e818f85.x-icon?auto=format"
@@ -37,7 +37,7 @@
       "name": "Foundire",
       "tagline": "First-round interviews on autopilot",
       "url": "https://www.producthunt.com/products/foundire-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 312,
+      "votesCount": 333,
       "commentsCount": 28,
       "createdAt": "2025-12-31T08:01:00Z",
       "thumbnail": {
@@ -68,7 +68,7 @@
       "name": "wink-cursor",
       "tagline": "A lightweight smiley cursor with \"winks\" on click",
       "url": "https://www.producthunt.com/products/wink-cursor?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 232,
+      "votesCount": 233,
       "commentsCount": 8,
       "createdAt": "2025-12-31T08:01:00Z",
       "thumbnail": {
@@ -99,7 +99,7 @@
       "name": "Notchie",
       "tagline": "A teleprompter that lives in your Macbook's notch",
       "url": "https://www.producthunt.com/products/notchie?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 216,
+      "votesCount": 222,
       "commentsCount": 16,
       "createdAt": "2025-12-31T08:01:00Z",
       "thumbnail": {
@@ -130,8 +130,8 @@
       "name": "Imajourn",
       "tagline": "We are now on the Apple App Store with multiple new features",
       "url": "https://www.producthunt.com/products/numatics?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 170,
-      "commentsCount": 3,
+      "votesCount": 171,
+      "commentsCount": 4,
       "createdAt": "2025-12-31T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/ba255a06-11ee-4f48-8ff2-2c30c3e787ca.jpeg?auto=format"
@@ -223,7 +223,7 @@
       "name": "Inspiration by Mind Dock",
       "tagline": " Live AI trends from HuggingFace, ArXiv, GitHub, and more",
       "url": "https://www.producthunt.com/products/product-hunt-launch-kit-for-ai-data-map?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 93,
+      "votesCount": 94,
       "commentsCount": 1,
       "createdAt": "2025-12-31T08:01:00Z",
       "thumbnail": {
@@ -472,6 +472,73 @@
       }
     },
     {
+      "id": "1056307",
+      "name": "Stop DoomScrolling",
+      "tagline": "Turn your steps into screen time",
+      "url": "https://www.producthunt.com/products/stop-doomscrolling?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 12,
+      "commentsCount": 1,
+      "createdAt": "2025-12-31T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/807d6448-07bf-43ee-8f91-2df285741ccd.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Health & Fitness"
+            }
+          },
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Social Media"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1056380",
+      "name": "Price Equalizer",
+      "tagline": "Turn downloads into actual purchases. ",
+      "url": "https://www.producthunt.com/products/price-equalizer?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 12,
+      "commentsCount": 3,
+      "createdAt": "2025-12-31T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/7b49a955-f4af-4679-ab0c-e4f5ffceb56f.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "iOS"
+            }
+          },
+          {
+            "node": {
+              "name": "Marketing"
+            }
+          },
+          {
+            "node": {
+              "name": "GitHub"
+            }
+          },
+          {
+            "node": {
+              "name": "Development"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1056443",
       "name": "PrivyDrop",
       "tagline": "Open-source & free online p2p file transfer",
@@ -523,73 +590,6 @@
           {
             "node": {
               "name": "Productivity"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1056307",
-      "name": "Stop DoomScrolling",
-      "tagline": "Turn your steps into screen time",
-      "url": "https://www.producthunt.com/products/stop-doomscrolling?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 11,
-      "commentsCount": 1,
-      "createdAt": "2025-12-31T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/807d6448-07bf-43ee-8f91-2df285741ccd.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Health & Fitness"
-            }
-          },
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Social Media"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1056380",
-      "name": "Price Equalizer",
-      "tagline": "Turn downloads into actual purchases. ",
-      "url": "https://www.producthunt.com/products/price-equalizer?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 11,
-      "commentsCount": 3,
-      "createdAt": "2025-12-31T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/7b49a955-f4af-4679-ab0c-e4f5ffceb56f.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "iOS"
-            }
-          },
-          {
-            "node": {
-              "name": "Marketing"
-            }
-          },
-          {
-            "node": {
-              "name": "GitHub"
-            }
-          },
-          {
-            "node": {
-              "name": "Development"
             }
           }
         ]
