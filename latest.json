@@ -1,12 +1,12 @@
 {
-  "fetchedAt": "2026-01-01T17:26:48.324Z",
+  "fetchedAt": "2026-01-01T17:44:58.123Z",
   "posts": [
     {
       "id": "1055221",
       "name": "Mom Clock",
       "tagline": "You said you'd do it. So why didn't you?",
       "url": "https://www.producthunt.com/products/mom-clock?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 324,
+      "votesCount": 332,
       "commentsCount": 23,
       "createdAt": "2026-01-01T08:01:00Z",
       "thumbnail": {
@@ -37,7 +37,7 @@
       "name": "Qwen-Image-2512",
       "tagline": "SOTA open-source T2I model with even greater realism",
       "url": "https://www.producthunt.com/products/qwen3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 213,
+      "votesCount": 216,
       "commentsCount": 1,
       "createdAt": "2026-01-01T08:01:00Z",
       "thumbnail": {
@@ -68,7 +68,7 @@
       "name": "Its Hover",
       "tagline": "Icons that move and react mirroring user intent",
       "url": "https://www.producthunt.com/products/its-hover?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 164,
+      "votesCount": 168,
       "commentsCount": 1,
       "createdAt": "2026-01-01T08:01:00Z",
       "thumbnail": {
@@ -228,7 +228,7 @@
       "name": "northr.ai",
       "tagline": "Adaptive AI planning for people who hate rigid systems",
       "url": "https://www.producthunt.com/products/northr-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 38,
+      "votesCount": 41,
       "commentsCount": 1,
       "createdAt": "2026-01-01T08:01:00Z",
       "thumbnail": {
@@ -259,7 +259,7 @@
       "name": "Co-Op",
       "tagline": "AI-Powered Advisory Platform for Startups",
       "url": "https://www.producthunt.com/products/co-op-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 33,
+      "votesCount": 34,
       "commentsCount": 1,
       "createdAt": "2026-01-01T08:01:00Z",
       "thumbnail": {
@@ -426,6 +426,37 @@
       }
     },
     {
+      "id": "1056572",
+      "name": "AudioScribe",
+      "tagline": "World's first workflow-integrated AI transcription platform",
+      "url": "https://www.producthunt.com/products/audioscribe-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 10,
+      "commentsCount": 3,
+      "createdAt": "2026-01-01T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/d8eddcf4-2e76-4a61-88ba-a714030a7303.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "SaaS"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1056631",
       "name": "Qoery Python SDK",
       "tagline": "50% cheaper crypto data. Now in Python.",
@@ -580,42 +611,6 @@
           {
             "node": {
               "name": "UX Design"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1056817",
-      "name": "StudyFlow",
-      "tagline": "\"All-in-one AI study hub: notes, summaries, exams & focus\"",
-      "url": "https://www.producthunt.com/products/studyflow-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 8,
-      "commentsCount": 2,
-      "createdAt": "2026-01-01T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/8bfa8077-ff7b-40a8-9d0f-3c5d853edc00.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Education"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          },
-          {
-            "node": {
-              "name": "GitHub"
             }
           }
         ]
