@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-01-02T11:42:45.925Z",
+  "fetchedAt": "2026-01-02T11:55:17.848Z",
   "posts": [
     {
       "id": "1050088",
@@ -27,7 +27,7 @@
       "name": "Community Figma MCP server",
       "tagline": "Allow AI Agents to help you with Figma designs!",
       "url": "https://www.producthunt.com/products/community-figma-mcp-server?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 90,
+      "votesCount": 92,
       "commentsCount": 3,
       "createdAt": "2026-01-02T08:01:00Z",
       "thumbnail": {
@@ -53,7 +53,7 @@
       "name": "Griply 2026",
       "tagline": "Achieve your goals with a goal-oriented task manager",
       "url": "https://www.producthunt.com/products/griply?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 84,
+      "votesCount": 87,
       "commentsCount": 1,
       "createdAt": "2026-01-02T08:01:00Z",
       "thumbnail": {
@@ -110,7 +110,7 @@
       "name": "HappyMail",
       "tagline": "We made email simple again",
       "url": "https://www.producthunt.com/products/happymail?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 70,
+      "votesCount": 73,
       "commentsCount": 1,
       "createdAt": "2026-01-02T08:01:00Z",
       "thumbnail": {
@@ -141,7 +141,7 @@
       "name": "Blober.io",
       "tagline": "The easiest way to transfer files between cloud providers.",
       "url": "https://www.producthunt.com/products/blober-io?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 65,
+      "votesCount": 64,
       "commentsCount": 1,
       "createdAt": "2026-01-02T08:01:00Z",
       "thumbnail": {
@@ -172,7 +172,7 @@
       "name": "Supaguard ",
       "tagline": "Scan, Detect & Protect Your Supabase Data",
       "url": "https://www.producthunt.com/products/supaguard?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 63,
+      "votesCount": 64,
       "commentsCount": 1,
       "createdAt": "2026-01-02T08:01:00Z",
       "thumbnail": {
@@ -220,37 +220,11 @@
       }
     },
     {
-      "id": "1057083",
-      "name": "Immerziva",
-      "tagline": "Transform reading into a cinematic experience with audio",
-      "url": "https://www.producthunt.com/products/immerziva?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 59,
-      "commentsCount": 5,
-      "createdAt": "2026-01-02T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/94c101b5-26cb-4963-ac0e-56e90d2e7b94.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "eBook Reader"
-            }
-          },
-          {
-            "node": {
-              "name": "Writing"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1056833",
       "name": "SoftReveal — Reveal less. Engage more.",
       "tagline": "Hide Content, Reveal on Click",
       "url": "https://www.producthunt.com/products/softreveal-reveal-less-engage-more?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 59,
+      "votesCount": 62,
       "commentsCount": 1,
       "createdAt": "2026-01-02T08:01:00Z",
       "thumbnail": {
@@ -286,7 +260,7 @@
       "name": "CalPal",
       "tagline": "The notebook calculator that thinks for you (now with AI).",
       "url": "https://www.producthunt.com/products/calpal-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 59,
+      "votesCount": 60,
       "commentsCount": 1,
       "createdAt": "2026-01-02T08:01:00Z",
       "thumbnail": {
@@ -307,6 +281,63 @@
           {
             "node": {
               "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1057083",
+      "name": "Immerziva",
+      "tagline": "Transform reading into a cinematic experience with audio",
+      "url": "https://www.producthunt.com/products/immerziva?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 59,
+      "commentsCount": 5,
+      "createdAt": "2026-01-02T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/94c101b5-26cb-4963-ac0e-56e90d2e7b94.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "eBook Reader"
+            }
+          },
+          {
+            "node": {
+              "name": "Writing"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1057023",
+      "name": "Reword",
+      "tagline": "Rewrite messages without leaving your workflow",
+      "url": "https://www.producthunt.com/products/reword?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 59,
+      "commentsCount": 1,
+      "createdAt": "2026-01-02T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/0bbb278e-eb9a-43d6-963f-0550856c64ae.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Writing"
+            }
+          },
+          {
+            "node": {
+              "name": "Menu Bar Apps"
             }
           }
         ]
@@ -338,37 +369,6 @@
           {
             "node": {
               "name": "Apple"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1057023",
-      "name": "Reword",
-      "tagline": "Say it better, instantly.",
-      "url": "https://www.producthunt.com/products/reword?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 57,
-      "commentsCount": 1,
-      "createdAt": "2026-01-02T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/0bbb278e-eb9a-43d6-963f-0550856c64ae.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Writing"
-            }
-          },
-          {
-            "node": {
-              "name": "Menu Bar Apps"
             }
           }
         ]
@@ -408,7 +408,7 @@
     {
       "id": "1057019",
       "name": "Resell AI",
-      "tagline": "Sell ANYTHING within SECONDS",
+      "tagline": "Reselling workflow with market-based price suggestions",
       "url": "https://www.producthunt.com/products/resell-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 55,
       "commentsCount": 1,
@@ -437,42 +437,11 @@
       }
     },
     {
-      "id": "1055703",
-      "name": "Syncalendars",
-      "tagline": "Sync Google&Apple Calendars with Notion in one click",
-      "url": "https://www.producthunt.com/products/syncalendars?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 50,
-      "commentsCount": 1,
-      "createdAt": "2026-01-02T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/a5a48381-22bb-4d2b-8f3c-f0f0fcbb7b03.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Task Management"
-            }
-          },
-          {
-            "node": {
-              "name": "Calendar"
-            }
-          },
-          {
-            "node": {
-              "name": "Notion"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1048351",
       "name": "70Lives – Beauty Business App",
       "tagline": "Smart pricing, real-time tax clarity & expense tracking",
       "url": "https://www.producthunt.com/products/70lives-beauty-business-app?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 32,
+      "votesCount": 34,
       "commentsCount": 7,
       "createdAt": "2026-01-02T08:01:00Z",
       "thumbnail": {
@@ -576,6 +545,32 @@
           {
             "node": {
               "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1056858",
+      "name": "thinkinpublic.app",
+      "tagline": "Instantly turn chats and notes into indexable blog posts",
+      "url": "https://www.producthunt.com/products/thinkinpublic-app?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 8,
+      "commentsCount": 2,
+      "createdAt": "2026-01-02T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/5bdc1a96-9710-4297-9dc5-443c68f097d0.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Writing"
+            }
+          },
+          {
+            "node": {
+              "name": "Social Media"
             }
           }
         ]
