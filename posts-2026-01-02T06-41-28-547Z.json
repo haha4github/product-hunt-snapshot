@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-01-02T05:55:15.398Z",
+  "fetchedAt": "2026-01-02T06:41:28.547Z",
   "posts": [
     {
       "id": "1055221",
       "name": "Mom Clock",
       "tagline": "You said you'd do it. So why didn't you?",
       "url": "https://www.producthunt.com/products/mom-clock?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 442,
-      "commentsCount": 35,
+      "votesCount": 457,
+      "commentsCount": 36,
       "createdAt": "2026-01-01T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/29d18c19-6d4f-4c7a-832f-3a8fb2498f37.png?auto=format"
@@ -37,8 +37,8 @@
       "name": "Qwen-Image-2512",
       "tagline": "SOTA open-source T2I model with even greater realism",
       "url": "https://www.producthunt.com/products/qwen3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 276,
-      "commentsCount": 3,
+      "votesCount": 277,
+      "commentsCount": 4,
       "createdAt": "2026-01-01T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/e0810112-e937-4ac5-b0ae-914e50761b75.png?auto=format"
@@ -68,7 +68,7 @@
       "name": "Its Hover",
       "tagline": "Icons that move and react mirroring user intent",
       "url": "https://www.producthunt.com/products/its-hover?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 239,
+      "votesCount": 244,
       "commentsCount": 2,
       "createdAt": "2026-01-01T08:01:00Z",
       "thumbnail": {
@@ -104,7 +104,7 @@
       "name": "intnt",
       "tagline": "Your life visualized as 1080 months",
       "url": "https://www.producthunt.com/products/intnt?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 197,
+      "votesCount": 199,
       "commentsCount": 24,
       "createdAt": "2026-01-01T08:01:00Z",
       "thumbnail": {
@@ -130,7 +130,7 @@
       "name": "Friendware",
       "tagline": "Tab-to-complete everywhere on MacOS",
       "url": "https://www.producthunt.com/products/friendware?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 163,
+      "votesCount": 165,
       "commentsCount": 16,
       "createdAt": "2026-01-01T08:01:00Z",
       "thumbnail": {
@@ -296,7 +296,7 @@
       "tagline": "Free invoice generator. Instant PDFs. No login required.",
       "url": "https://www.producthunt.com/products/my-invoice-generator?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 23,
-      "commentsCount": 4,
+      "commentsCount": 5,
       "createdAt": "2026-01-01T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/2c5a2299-f573-422d-8955-e849838a44b4.vnd.microsoft.icon?auto=format"
@@ -316,6 +316,37 @@
           {
             "node": {
               "name": "SaaS"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1056725",
+      "name": "MadeLaunch",
+      "tagline": "Launch your product and get discovered by early adopters",
+      "url": "https://www.producthunt.com/products/madelaunch?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 23,
+      "commentsCount": 1,
+      "createdAt": "2026-01-01T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/4ba5acda-912a-474f-859c-a6214ccfe298.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Marketing"
+            }
+          },
+          {
+            "node": {
+              "name": "Community"
             }
           }
         ]
@@ -575,37 +606,6 @@
           {
             "node": {
               "name": "Games"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1056523",
-      "name": "VYNL ",
-      "tagline": "Stop messy client feedback. Review websites & images live.",
-      "url": "https://www.producthunt.com/products/vynl-design-reviews-made-faster?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 10,
-      "commentsCount": 1,
-      "createdAt": "2026-01-01T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/68f85a36-54e9-452b-97b9-52ee26df70dc.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Design Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "UX Design"
             }
           }
         ]
