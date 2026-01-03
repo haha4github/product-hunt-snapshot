@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-01-03T11:33:31.509Z",
+  "fetchedAt": "2026-01-03T11:45:56.250Z",
   "posts": [
     {
       "id": "1057500",
@@ -7,7 +7,7 @@
       "tagline": "Track every country you've ever been to. Privately.",
       "url": "https://www.producthunt.com/products/daysaround?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 117,
-      "commentsCount": 12,
+      "commentsCount": 13,
       "createdAt": "2026-01-03T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/536a4429-6128-49e7-a0b8-ef1174388a78.png?auto=format"
@@ -68,7 +68,7 @@
       "name": "Fluxer",
       "tagline": "Open-source Discord-like instant messaging & VoIP platform",
       "url": "https://www.producthunt.com/products/fluxer?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 85,
+      "votesCount": 90,
       "commentsCount": 2,
       "createdAt": "2026-01-03T08:01:00Z",
       "thumbnail": {
@@ -99,7 +99,7 @@
       "name": "Still",
       "tagline": "A private space to think, write, and slow down",
       "url": "https://www.producthunt.com/products/still-write-for-yourself?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 82,
+      "votesCount": 84,
       "commentsCount": 2,
       "createdAt": "2026-01-03T08:01:00Z",
       "thumbnail": {
@@ -120,6 +120,63 @@
           {
             "node": {
               "name": "Health"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1053665",
+      "name": "CalendarJet",
+      "tagline": "AI scheduling with branded booking page your own domain",
+      "url": "https://www.producthunt.com/products/calendarjet?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 81,
+      "commentsCount": 1,
+      "createdAt": "2026-01-03T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/3953cc46-4d63-4fb2-9381-2c90a0754141.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Branding"
+            }
+          },
+          {
+            "node": {
+              "name": "Calendar"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1053235",
+      "name": "NoteTabs",
+      "tagline": "Native macOS text editor with horizontal tabs & auto-restore",
+      "url": "https://www.producthunt.com/products/notetabs?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 81,
+      "commentsCount": 2,
+      "createdAt": "2026-01-03T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/d1ccc323-fc9e-4f6c-8796-a7d58e66091d.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Text Editors"
             }
           }
         ]
@@ -157,18 +214,23 @@
       }
     },
     {
-      "id": "1053665",
-      "name": "CalendarJet",
-      "tagline": "AI scheduling with branded booking page your own domain",
-      "url": "https://www.producthunt.com/products/calendarjet?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 80,
+      "id": "1053841",
+      "name": "8udget",
+      "tagline": "Budget, invest & track finances - works offline",
+      "url": "https://www.producthunt.com/products/8udget?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 77,
       "commentsCount": 1,
       "createdAt": "2026-01-03T08:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/3953cc46-4d63-4fb2-9381-2c90a0754141.png?auto=format"
+        "url": "https://ph-files.imgix.net/b5b7e855-3462-4c88-8df2-46b89d8e0a04.png?auto=format"
       },
       "topics": {
         "edges": [
+          {
+            "node": {
+              "name": "Android"
+            }
+          },
           {
             "node": {
               "name": "Productivity"
@@ -176,38 +238,12 @@
           },
           {
             "node": {
-              "name": "Branding"
+              "name": "Finance"
             }
           },
           {
             "node": {
-              "name": "Calendar"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1053235",
-      "name": "NoteTabs",
-      "tagline": "Native macOS text editor with horizontal tabs & auto-restore",
-      "url": "https://www.producthunt.com/products/notetabs?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 80,
-      "commentsCount": 2,
-      "createdAt": "2026-01-03T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/d1ccc323-fc9e-4f6c-8796-a7d58e66091d.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Text Editors"
+              "name": "Personal Finance"
             }
           }
         ]
@@ -245,6 +281,42 @@
       }
     },
     {
+      "id": "1057592",
+      "name": "youtube-mcp-server",
+      "tagline": "MCP server for YouTube video transcription and metadata.",
+      "url": "https://www.producthunt.com/products/youtube-mcp-server?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 76,
+      "commentsCount": 1,
+      "createdAt": "2026-01-03T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/fafd12c8-cd1f-424a-8475-215e5f4a7a59.jpeg?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "GitHub"
+            }
+          },
+          {
+            "node": {
+              "name": "YouTube"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1057405",
       "name": "Notchification",
       "tagline": "Compilation and Claude progress bars in your mac's notch!",
@@ -276,62 +348,26 @@
       }
     },
     {
-      "id": "1053841",
-      "name": "8udget",
-      "tagline": "Budget, invest & track finances - works offline",
-      "url": "https://www.producthunt.com/products/8udget?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 76,
+      "id": "1056984",
+      "name": "docc2json",
+      "tagline": "Turn Apple DocC output into a web-friendly SDK JSON schema",
+      "url": "https://www.producthunt.com/products/docc2json?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 70,
       "commentsCount": 1,
       "createdAt": "2026-01-03T08:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/b5b7e855-3462-4c88-8df2-46b89d8e0a04.png?auto=format"
+        "url": "https://ph-files.imgix.net/cc91c72f-676f-4adb-8e92-e6d0ecad1627.png?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "Android"
+              "name": "iOS"
             }
           },
           {
             "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Finance"
-            }
-          },
-          {
-            "node": {
-              "name": "Personal Finance"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1057592",
-      "name": "youtube-mcp-server",
-      "tagline": "MCP server for YouTube video transcription and metadata.",
-      "url": "https://www.producthunt.com/products/youtube-mcp-server?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 74,
-      "commentsCount": 1,
-      "createdAt": "2026-01-03T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/fafd12c8-cd1f-424a-8475-215e5f4a7a59.jpeg?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
+              "name": "Software Engineering"
             }
           },
           {
@@ -341,7 +377,7 @@
           },
           {
             "node": {
-              "name": "YouTube"
+              "name": "Apple"
             }
           }
         ]
@@ -379,47 +415,11 @@
       }
     },
     {
-      "id": "1056984",
-      "name": "docc2json",
-      "tagline": "Turn Apple DocC output into a web-friendly SDK JSON schema",
-      "url": "https://www.producthunt.com/products/docc2json?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 68,
-      "commentsCount": 1,
-      "createdAt": "2026-01-03T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/cc91c72f-676f-4adb-8e92-e6d0ecad1627.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "iOS"
-            }
-          },
-          {
-            "node": {
-              "name": "Software Engineering"
-            }
-          },
-          {
-            "node": {
-              "name": "GitHub"
-            }
-          },
-          {
-            "node": {
-              "name": "Apple"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1057509",
       "name": "Overguide",
       "tagline": "Get real-time AI help without leaving your game.",
       "url": "https://www.producthunt.com/products/overguide?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 66,
+      "votesCount": 67,
       "commentsCount": 1,
       "createdAt": "2026-01-03T08:01:00Z",
       "thumbnail": {
@@ -440,7 +440,7 @@
       "name": "Tempo",
       "tagline": "Universal Music Tracker,Stats, Pretty Visual Journal & Story",
       "url": "https://www.producthunt.com/products/tempo-8?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 65,
+      "votesCount": 66,
       "commentsCount": 5,
       "createdAt": "2026-01-03T08:01:00Z",
       "thumbnail": {
@@ -507,7 +507,7 @@
       "name": "FrickFrack",
       "tagline": "a minimalist social media experience",
       "url": "https://www.producthunt.com/products/frickfrack?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 63,
+      "votesCount": 64,
       "commentsCount": 1,
       "createdAt": "2026-01-03T08:01:00Z",
       "thumbnail": {
