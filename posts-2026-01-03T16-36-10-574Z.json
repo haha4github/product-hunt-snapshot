@@ -1,12 +1,12 @@
 {
-  "fetchedAt": "2026-01-03T15:59:42.663Z",
+  "fetchedAt": "2026-01-03T16:36:10.574Z",
   "posts": [
     {
       "id": "1057500",
       "name": "DaysAround",
       "tagline": "Track every country you've ever been to. Privately.",
       "url": "https://www.producthunt.com/products/daysaround?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 198,
+      "votesCount": 201,
       "commentsCount": 16,
       "createdAt": "2026-01-03T08:01:00Z",
       "thumbnail": {
@@ -32,7 +32,7 @@
       "name": "Flux",
       "tagline": "Build your own agents in iMessage",
       "url": "https://www.producthunt.com/products/flux-14?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 190,
+      "votesCount": 200,
       "commentsCount": 10,
       "createdAt": "2026-01-03T08:01:00Z",
       "thumbnail": {
@@ -63,7 +63,7 @@
       "name": "Ultracite v7",
       "tagline": "Opinionated, zero-config code linter and formatter",
       "url": "https://www.producthunt.com/products/ultracite?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 160,
+      "votesCount": 173,
       "commentsCount": 1,
       "createdAt": "2026-01-03T08:01:00Z",
       "thumbnail": {
@@ -99,7 +99,7 @@
       "name": "Still",
       "tagline": "A private space to think, write, and slow down",
       "url": "https://www.producthunt.com/products/still-write-for-yourself?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 131,
+      "votesCount": 135,
       "commentsCount": 3,
       "createdAt": "2026-01-03T08:01:00Z",
       "thumbnail": {
@@ -130,8 +130,8 @@
       "name": "Fluxer",
       "tagline": "Open-source Discord-like instant messaging & VoIP platform",
       "url": "https://www.producthunt.com/products/fluxer?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 112,
-      "commentsCount": 2,
+      "votesCount": 114,
+      "commentsCount": 3,
       "createdAt": "2026-01-03T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/e8796f37-a2e9-4b55-8204-302bd46d9b90.png?auto=format"
@@ -161,7 +161,7 @@
       "name": "CalendarJet",
       "tagline": "AI scheduling with branded booking page your own domain",
       "url": "https://www.producthunt.com/products/calendarjet?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 95,
+      "votesCount": 97,
       "commentsCount": 1,
       "createdAt": "2026-01-03T08:01:00Z",
       "thumbnail": {
@@ -214,6 +214,37 @@
       }
     },
     {
+      "id": "1057405",
+      "name": "Notchification",
+      "tagline": "Compilation and Claude progress bars in your mac's notch!",
+      "url": "https://www.producthunt.com/products/notchification?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 85,
+      "commentsCount": 4,
+      "createdAt": "2026-01-03T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/40e61ef1-c7d7-4fc7-92dd-ae59f140ec59.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Mac"
+            }
+          },
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Menu Bar Apps"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1053841",
       "name": "8udget",
       "tagline": "Budget, invest & track finances - works offline",
@@ -244,37 +275,6 @@
           {
             "node": {
               "name": "Personal Finance"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1057405",
-      "name": "Notchification",
-      "tagline": "Compilation and Claude progress bars in your mac's notch!",
-      "url": "https://www.producthunt.com/products/notchification?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 85,
-      "commentsCount": 4,
-      "createdAt": "2026-01-03T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/40e61ef1-c7d7-4fc7-92dd-ae59f140ec59.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Mac"
-            }
-          },
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Menu Bar Apps"
             }
           }
         ]
@@ -352,7 +352,7 @@
       "name": "Mnexium AI",
       "tagline": "Persistent, structured memory for AI Agents",
       "url": "https://www.producthunt.com/products/mnexium-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 79,
+      "votesCount": 81,
       "commentsCount": 1,
       "createdAt": "2026-01-03T08:01:00Z",
       "thumbnail": {
@@ -379,12 +379,43 @@
       }
     },
     {
+      "id": "1057294",
+      "name": "FrickFrack",
+      "tagline": "a minimalist social media experience",
+      "url": "https://www.producthunt.com/products/frickfrack?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 77,
+      "commentsCount": 3,
+      "createdAt": "2026-01-03T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/cd2e7255-afee-4f28-a6de-b4d8baf83b8d.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Social Media"
+            }
+          },
+          {
+            "node": {
+              "name": "Video Art"
+            }
+          },
+          {
+            "node": {
+              "name": "Video"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1056984",
       "name": "docc2json",
       "tagline": "Turn Apple DocC output into a web-friendly SDK JSON schema",
       "url": "https://www.producthunt.com/products/docc2json?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 76,
-      "commentsCount": 1,
+      "commentsCount": 2,
       "createdAt": "2026-01-03T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/cc91c72f-676f-4adb-8e92-e6d0ecad1627.png?auto=format"
@@ -440,7 +471,7 @@
       "name": "Tempo",
       "tagline": "Universal Music Tracker,Stats, Pretty Visual Journal & Story",
       "url": "https://www.producthunt.com/products/tempo-8?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 74,
+      "votesCount": 75,
       "commentsCount": 5,
       "createdAt": "2026-01-03T08:01:00Z",
       "thumbnail": {
@@ -503,42 +534,6 @@
       }
     },
     {
-      "id": "1057294",
-      "name": "FrickFrack",
-      "tagline": "a minimalist social media experience",
-      "url": "https://www.producthunt.com/products/frickfrack?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 72,
-      "commentsCount": 2,
-      "createdAt": "2026-01-03T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/e3c8a3a6-7a64-41f9-80c4-7451cc5f0bf6.jpeg?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Android"
-            }
-          },
-          {
-            "node": {
-              "name": "Social Media"
-            }
-          },
-          {
-            "node": {
-              "name": "Video Art"
-            }
-          },
-          {
-            "node": {
-              "name": "Video"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1053502",
       "name": "Agihalo",
       "tagline": "LLM Router for A.I Agent & Saas with x402",
@@ -574,7 +569,7 @@
       "name": "Amalga",
       "tagline": "Hire Smarter. Ramp Faster. Serve Better.",
       "url": "https://www.producthunt.com/products/amalga?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 51,
+      "votesCount": 54,
       "commentsCount": 2,
       "createdAt": "2026-01-03T08:01:00Z",
       "thumbnail": {
