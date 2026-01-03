@@ -1,12 +1,12 @@
 {
-  "fetchedAt": "2026-01-03T14:11:25.683Z",
+  "fetchedAt": "2026-01-03T14:34:54.032Z",
   "posts": [
     {
       "id": "1057500",
       "name": "DaysAround",
       "tagline": "Track every country you've ever been to. Privately.",
       "url": "https://www.producthunt.com/products/daysaround?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 164,
+      "votesCount": 168,
       "commentsCount": 14,
       "createdAt": "2026-01-03T08:01:00Z",
       "thumbnail": {
@@ -22,6 +22,37 @@
           {
             "node": {
               "name": "Travel"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1057545",
+      "name": "Flux",
+      "tagline": "Build your own agents in iMessage",
+      "url": "https://www.producthunt.com/products/flux-14?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 146,
+      "commentsCount": 10,
+      "createdAt": "2026-01-03T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/086436f2-544a-4782-bd5f-27b952b7a3b3.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Messaging"
+            }
+          },
+          {
+            "node": {
+              "name": "User Experience"
+            }
+          },
+          {
+            "node": {
+              "name": "Developer Tools"
             }
           }
         ]
@@ -64,42 +95,11 @@
       }
     },
     {
-      "id": "1057545",
-      "name": "Flux",
-      "tagline": "Build your own agents in iMessage",
-      "url": "https://www.producthunt.com/products/flux-14?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 139,
-      "commentsCount": 10,
-      "createdAt": "2026-01-03T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/086436f2-544a-4782-bd5f-27b952b7a3b3.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Messaging"
-            }
-          },
-          {
-            "node": {
-              "name": "User Experience"
-            }
-          },
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1057453",
       "name": "Still",
       "tagline": "A private space to think, write, and slow down",
       "url": "https://www.producthunt.com/products/still-write-for-yourself?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 114,
+      "votesCount": 118,
       "commentsCount": 3,
       "createdAt": "2026-01-03T08:01:00Z",
       "thumbnail": {
@@ -130,7 +130,7 @@
       "name": "Fluxer",
       "tagline": "Open-source Discord-like instant messaging & VoIP platform",
       "url": "https://www.producthunt.com/products/fluxer?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 101,
+      "votesCount": 102,
       "commentsCount": 2,
       "createdAt": "2026-01-03T08:01:00Z",
       "thumbnail": {
@@ -161,7 +161,7 @@
       "name": "CalendarJet",
       "tagline": "AI scheduling with branded booking page your own domain",
       "url": "https://www.producthunt.com/products/calendarjet?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 88,
+      "votesCount": 89,
       "commentsCount": 1,
       "createdAt": "2026-01-03T08:01:00Z",
       "thumbnail": {
@@ -192,7 +192,7 @@
       "name": "NoteTabs",
       "tagline": "Native macOS text editor with horizontal tabs & auto-restore",
       "url": "https://www.producthunt.com/products/notetabs?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 86,
+      "votesCount": 88,
       "commentsCount": 2,
       "createdAt": "2026-01-03T08:01:00Z",
       "thumbnail": {
@@ -281,6 +281,37 @@
       }
     },
     {
+      "id": "1057405",
+      "name": "Notchification",
+      "tagline": "Compilation and Claude progress bars in your mac's notch!",
+      "url": "https://www.producthunt.com/products/notchification?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 78,
+      "commentsCount": 3,
+      "createdAt": "2026-01-03T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/40e61ef1-c7d7-4fc7-92dd-ae59f140ec59.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Mac"
+            }
+          },
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Menu Bar Apps"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1057592",
       "name": "youtube-mcp-server",
       "tagline": "MCP server for YouTube video transcription and metadata.",
@@ -311,37 +342,6 @@
           {
             "node": {
               "name": "YouTube"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1057405",
-      "name": "Notchification",
-      "tagline": "Compilation and Claude progress bars in your mac's notch!",
-      "url": "https://www.producthunt.com/products/notchification?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 78,
-      "commentsCount": 3,
-      "createdAt": "2026-01-03T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/40e61ef1-c7d7-4fc7-92dd-ae59f140ec59.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Mac"
-            }
-          },
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Menu Bar Apps"
             }
           }
         ]
@@ -472,6 +472,37 @@
       }
     },
     {
+      "id": "1057606",
+      "name": "Stenox",
+      "tagline": "Your voice, perfectly transcribed in every app & browser",
+      "url": "https://www.producthunt.com/products/stenox?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 67,
+      "commentsCount": 1,
+      "createdAt": "2026-01-03T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/37c80a6c-2891-4ad9-8e57-5ccacfa58157.x-icon?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Mac"
+            }
+          },
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Menu Bar Apps"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1057294",
       "name": "FrickFrack",
       "tagline": "a minimalist social media experience",
@@ -502,37 +533,6 @@
           {
             "node": {
               "name": "Video"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1057606",
-      "name": "Stenox",
-      "tagline": "Your voice, perfectly transcribed in every app & browser",
-      "url": "https://www.producthunt.com/products/stenox?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 67,
-      "commentsCount": 1,
-      "createdAt": "2026-01-03T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/37c80a6c-2891-4ad9-8e57-5ccacfa58157.x-icon?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Mac"
-            }
-          },
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Menu Bar Apps"
             }
           }
         ]
@@ -574,7 +574,7 @@
       "name": "Amalga",
       "tagline": "Hire Smarter. Ramp Faster. Serve Better.",
       "url": "https://www.producthunt.com/products/amalga?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 32,
+      "votesCount": 34,
       "commentsCount": 2,
       "createdAt": "2026-01-03T08:01:00Z",
       "thumbnail": {
