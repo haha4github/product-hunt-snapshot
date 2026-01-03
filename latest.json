@@ -1,12 +1,12 @@
 {
-  "fetchedAt": "2026-01-03T08:53:03.017Z",
+  "fetchedAt": "2026-01-03T09:20:14.349Z",
   "posts": [
     {
       "id": "1057486",
       "name": "Ultracite v7",
       "tagline": "Opinionated, zero-config code linter and formatter",
       "url": "https://www.producthunt.com/products/ultracite?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 74,
+      "votesCount": 77,
       "commentsCount": 1,
       "createdAt": "2026-01-03T08:01:00Z",
       "thumbnail": {
@@ -42,8 +42,8 @@
       "name": "DaysAround",
       "tagline": "Track every country you've ever been to. Privately.",
       "url": "https://www.producthunt.com/products/daysaround?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 71,
-      "commentsCount": 3,
+      "votesCount": 76,
+      "commentsCount": 4,
       "createdAt": "2026-01-03T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/536a4429-6128-49e7-a0b8-ef1174388a78.png?auto=format"
@@ -130,7 +130,7 @@
       "name": "docc2json",
       "tagline": "Turn Apple DocC output into a web-friendly SDK JSON schema",
       "url": "https://www.producthunt.com/products/docc2json?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 63,
+      "votesCount": 64,
       "commentsCount": 1,
       "createdAt": "2026-01-03T08:01:00Z",
       "thumbnail": {
@@ -166,7 +166,7 @@
       "name": "Rest Now - Screen Break Timer",
       "tagline": "Lightweight screen break timer for macOS",
       "url": "https://www.producthunt.com/products/rest-now-screen-break-timer?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 62,
+      "votesCount": 63,
       "commentsCount": 1,
       "createdAt": "2026-01-03T08:01:00Z",
       "thumbnail": {
@@ -193,11 +193,42 @@
       }
     },
     {
+      "id": "1057453",
+      "name": "Still",
+      "tagline": "A private space to think, write, and slow down",
+      "url": "https://www.producthunt.com/products/still-write-for-yourself?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 61,
+      "commentsCount": 1,
+      "createdAt": "2026-01-03T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/7ab11a92-4269-47c5-8351-7ce3880443f0.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Android"
+            }
+          },
+          {
+            "node": {
+              "name": "Writing"
+            }
+          },
+          {
+            "node": {
+              "name": "Health"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1053841",
       "name": "8udget",
       "tagline": "Budget, invest & track finances - works offline",
       "url": "https://www.producthunt.com/products/8udget?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 59,
+      "votesCount": 66,
       "commentsCount": 1,
       "createdAt": "2026-01-03T08:01:00Z",
       "thumbnail": {
@@ -229,73 +260,11 @@
       }
     },
     {
-      "id": "1057453",
-      "name": "Still",
-      "tagline": "A private space to think, write, and slow down",
-      "url": "https://www.producthunt.com/products/still-write-for-yourself?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 59,
-      "commentsCount": 1,
-      "createdAt": "2026-01-03T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/7ab11a92-4269-47c5-8351-7ce3880443f0.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Android"
-            }
-          },
-          {
-            "node": {
-              "name": "Writing"
-            }
-          },
-          {
-            "node": {
-              "name": "Health"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1057545",
-      "name": "Flux",
-      "tagline": "Build your own agents in iMessage",
-      "url": "https://www.producthunt.com/products/flux-14?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 59,
-      "commentsCount": 1,
-      "createdAt": "2026-01-03T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/086436f2-544a-4782-bd5f-27b952b7a3b3.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Messaging"
-            }
-          },
-          {
-            "node": {
-              "name": "User Experience"
-            }
-          },
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1053665",
       "name": "CalendarJet",
       "tagline": "AI scheduling with branded booking page your own domain",
       "url": "https://www.producthunt.com/products/calendarjet?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 58,
+      "votesCount": 67,
       "commentsCount": 1,
       "createdAt": "2026-01-03T08:01:00Z",
       "thumbnail": {
@@ -326,7 +295,7 @@
       "name": "Stenox",
       "tagline": "Your voice, perfectly transcribed in every app & browser",
       "url": "https://www.producthunt.com/products/stenox?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 58,
+      "votesCount": 59,
       "commentsCount": 1,
       "createdAt": "2026-01-03T08:01:00Z",
       "thumbnail": {
@@ -353,11 +322,42 @@
       }
     },
     {
+      "id": "1057545",
+      "name": "Flux",
+      "tagline": "Build your own agents in iMessage",
+      "url": "https://www.producthunt.com/products/flux-14?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 61,
+      "commentsCount": 2,
+      "createdAt": "2026-01-03T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/086436f2-544a-4782-bd5f-27b952b7a3b3.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Messaging"
+            }
+          },
+          {
+            "node": {
+              "name": "User Experience"
+            }
+          },
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1057558",
       "name": "Fluxer",
       "tagline": "Open-source Discord-like instant messaging & VoIP platform",
       "url": "https://www.producthunt.com/products/fluxer?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 57,
+      "votesCount": 60,
       "commentsCount": 1,
       "createdAt": "2026-01-03T08:01:00Z",
       "thumbnail": {
@@ -384,42 +384,11 @@
       }
     },
     {
-      "id": "1057462",
-      "name": "Mnexium AI",
-      "tagline": "Persistent, structured memory for AI Agents",
-      "url": "https://www.producthunt.com/products/mnexium-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 55,
-      "commentsCount": 1,
-      "createdAt": "2026-01-03T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/ca019261-148d-4252-854b-45f9eeb908df.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "API"
-            }
-          },
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1057574",
       "name": "Tempo",
       "tagline": "Universal Music Tracker,Stats, Pretty Visual Journal & Story",
       "url": "https://www.producthunt.com/products/tempo-8?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 55,
+      "votesCount": 56,
       "commentsCount": 1,
       "createdAt": "2026-01-03T08:01:00Z",
       "thumbnail": {
@@ -451,6 +420,37 @@
       }
     },
     {
+      "id": "1057462",
+      "name": "Mnexium AI",
+      "tagline": "Persistent, structured memory for AI Agents",
+      "url": "https://www.producthunt.com/products/mnexium-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 57,
+      "commentsCount": 1,
+      "createdAt": "2026-01-03T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/ca019261-148d-4252-854b-45f9eeb908df.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "API"
+            }
+          },
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1057509",
       "name": "Overguide",
       "tagline": "Get real-time AI help without leaving your game.",
@@ -476,7 +476,7 @@
       "name": "Notchification",
       "tagline": "Compilation and Claude progress bars in your mac's notch!",
       "url": "https://www.producthunt.com/products/notchification?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 54,
+      "votesCount": 56,
       "commentsCount": 1,
       "createdAt": "2026-01-03T08:01:00Z",
       "thumbnail": {
@@ -507,7 +507,7 @@
       "name": "FrickFrack",
       "tagline": "a minimalist social media experience",
       "url": "https://www.producthunt.com/products/frickfrack?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 53,
+      "votesCount": 54,
       "commentsCount": 0,
       "createdAt": "2026-01-03T08:01:00Z",
       "thumbnail": {
