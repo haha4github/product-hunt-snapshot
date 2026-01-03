@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-01-03T11:58:09.315Z",
+  "fetchedAt": "2026-01-03T12:56:30.022Z",
   "posts": [
     {
       "id": "1057500",
       "name": "DaysAround",
       "tagline": "Track every country you've ever been to. Privately.",
       "url": "https://www.producthunt.com/products/daysaround?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 117,
-      "commentsCount": 13,
+      "votesCount": 139,
+      "commentsCount": 14,
       "createdAt": "2026-01-03T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/536a4429-6128-49e7-a0b8-ef1174388a78.png?auto=format"
@@ -32,7 +32,7 @@
       "name": "Ultracite v7",
       "tagline": "Opinionated, zero-config code linter and formatter",
       "url": "https://www.producthunt.com/products/ultracite?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 104,
+      "votesCount": 118,
       "commentsCount": 1,
       "createdAt": "2026-01-03T08:01:00Z",
       "thumbnail": {
@@ -64,11 +64,42 @@
       }
     },
     {
+      "id": "1057545",
+      "name": "Flux",
+      "tagline": "Build your own agents in iMessage",
+      "url": "https://www.producthunt.com/products/flux-14?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 100,
+      "commentsCount": 9,
+      "createdAt": "2026-01-03T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/086436f2-544a-4782-bd5f-27b952b7a3b3.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Messaging"
+            }
+          },
+          {
+            "node": {
+              "name": "User Experience"
+            }
+          },
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1057558",
       "name": "Fluxer",
       "tagline": "Open-source Discord-like instant messaging & VoIP platform",
       "url": "https://www.producthunt.com/products/fluxer?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 92,
+      "votesCount": 95,
       "commentsCount": 2,
       "createdAt": "2026-01-03T08:01:00Z",
       "thumbnail": {
@@ -95,42 +126,11 @@
       }
     },
     {
-      "id": "1057545",
-      "name": "Flux",
-      "tagline": "Build your own agents in iMessage",
-      "url": "https://www.producthunt.com/products/flux-14?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 85,
-      "commentsCount": 8,
-      "createdAt": "2026-01-03T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/086436f2-544a-4782-bd5f-27b952b7a3b3.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Messaging"
-            }
-          },
-          {
-            "node": {
-              "name": "User Experience"
-            }
-          },
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1057453",
       "name": "Still",
       "tagline": "A private space to think, write, and slow down",
       "url": "https://www.producthunt.com/products/still-write-for-yourself?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 84,
+      "votesCount": 94,
       "commentsCount": 2,
       "createdAt": "2026-01-03T08:01:00Z",
       "thumbnail": {
@@ -157,11 +157,37 @@
       }
     },
     {
+      "id": "1053235",
+      "name": "NoteTabs",
+      "tagline": "Native macOS text editor with horizontal tabs & auto-restore",
+      "url": "https://www.producthunt.com/products/notetabs?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 83,
+      "commentsCount": 2,
+      "createdAt": "2026-01-03T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/d1ccc323-fc9e-4f6c-8796-a7d58e66091d.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Text Editors"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1053665",
       "name": "CalendarJet",
       "tagline": "AI scheduling with branded booking page your own domain",
       "url": "https://www.producthunt.com/products/calendarjet?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 81,
+      "votesCount": 82,
       "commentsCount": 1,
       "createdAt": "2026-01-03T08:01:00Z",
       "thumbnail": {
@@ -188,37 +214,11 @@
       }
     },
     {
-      "id": "1053235",
-      "name": "NoteTabs",
-      "tagline": "Native macOS text editor with horizontal tabs & auto-restore",
-      "url": "https://www.producthunt.com/products/notetabs?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 81,
-      "commentsCount": 2,
-      "createdAt": "2026-01-03T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/d1ccc323-fc9e-4f6c-8796-a7d58e66091d.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Text Editors"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1053841",
       "name": "8udget",
       "tagline": "Budget, invest & track finances - works offline",
       "url": "https://www.producthunt.com/products/8udget?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 78,
+      "votesCount": 79,
       "commentsCount": 1,
       "createdAt": "2026-01-03T08:01:00Z",
       "thumbnail": {
@@ -415,6 +415,27 @@
       }
     },
     {
+      "id": "1057509",
+      "name": "Overguide",
+      "tagline": "Get real-time AI help without leaving your videogame.",
+      "url": "https://www.producthunt.com/products/overguide?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 69,
+      "commentsCount": 1,
+      "createdAt": "2026-01-03T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/a679c186-1d6b-4927-b233-601370b77e04.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Games"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1057574",
       "name": "Tempo",
       "tagline": "Universal Music Tracker,Stats, Pretty Visual Journal & Story",
@@ -445,27 +466,6 @@
           {
             "node": {
               "name": "GitHub"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1057509",
-      "name": "Overguide",
-      "tagline": "Get real-time AI help without leaving your videogame.",
-      "url": "https://www.producthunt.com/products/overguide?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 68,
-      "commentsCount": 1,
-      "createdAt": "2026-01-03T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/a679c186-1d6b-4927-b233-601370b77e04.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Games"
             }
           }
         ]
@@ -507,7 +507,7 @@
       "name": "FrickFrack",
       "tagline": "a minimalist social media experience",
       "url": "https://www.producthunt.com/products/frickfrack?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 64,
+      "votesCount": 65,
       "commentsCount": 1,
       "createdAt": "2026-01-03T08:01:00Z",
       "thumbnail": {
@@ -570,43 +570,12 @@
       }
     },
     {
-      "id": "1057342",
-      "name": "FitAI.live",
-      "tagline": "AI Health, Fitness and Wellness Assistant",
-      "url": "https://www.producthunt.com/products/fitai-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 11,
-      "commentsCount": 1,
-      "createdAt": "2026-01-03T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/ae61bde9-7df3-4c67-a0b9-9c73f9ff35ab.jpeg?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Health & Fitness"
-            }
-          },
-          {
-            "node": {
-              "name": "Nutrition"
-            }
-          },
-          {
-            "node": {
-              "name": "Fitness"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1057351",
       "name": "Amalga",
       "tagline": "Hire Smarter. Ramp Faster. Serve Better.",
       "url": "https://www.producthunt.com/products/amalga?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 5,
-      "commentsCount": 1,
+      "votesCount": 14,
+      "commentsCount": 2,
       "createdAt": "2026-01-03T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/3edf9e2c-a027-4cdb-8df0-23fe6df5470a.png?auto=format"
@@ -626,6 +595,37 @@
           {
             "node": {
               "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1057342",
+      "name": "FitAI.live",
+      "tagline": "AI Health, Fitness and Wellness Assistant",
+      "url": "https://www.producthunt.com/products/fitai-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 11,
+      "commentsCount": 2,
+      "createdAt": "2026-01-03T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/ae61bde9-7df3-4c67-a0b9-9c73f9ff35ab.jpeg?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Health & Fitness"
+            }
+          },
+          {
+            "node": {
+              "name": "Nutrition"
+            }
+          },
+          {
+            "node": {
+              "name": "Fitness"
             }
           }
         ]
