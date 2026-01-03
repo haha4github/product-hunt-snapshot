@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-01-03T15:32:47.570Z",
+  "fetchedAt": "2026-01-03T15:47:02.336Z",
   "posts": [
     {
       "id": "1057500",
       "name": "DaysAround",
       "tagline": "Track every country you've ever been to. Privately.",
       "url": "https://www.producthunt.com/products/daysaround?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 186,
-      "commentsCount": 15,
+      "votesCount": 192,
+      "commentsCount": 16,
       "createdAt": "2026-01-03T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/536a4429-6128-49e7-a0b8-ef1174388a78.png?auto=format"
@@ -32,7 +32,7 @@
       "name": "Flux",
       "tagline": "Build your own agents in iMessage",
       "url": "https://www.producthunt.com/products/flux-14?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 174,
+      "votesCount": 184,
       "commentsCount": 10,
       "createdAt": "2026-01-03T08:01:00Z",
       "thumbnail": {
@@ -63,7 +63,7 @@
       "name": "Ultracite v7",
       "tagline": "Opinionated, zero-config code linter and formatter",
       "url": "https://www.producthunt.com/products/ultracite?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 158,
+      "votesCount": 159,
       "commentsCount": 1,
       "createdAt": "2026-01-03T08:01:00Z",
       "thumbnail": {
@@ -99,7 +99,7 @@
       "name": "Still",
       "tagline": "A private space to think, write, and slow down",
       "url": "https://www.producthunt.com/products/still-write-for-yourself?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 129,
+      "votesCount": 131,
       "commentsCount": 3,
       "createdAt": "2026-01-03T08:01:00Z",
       "thumbnail": {
@@ -193,7 +193,7 @@
       "tagline": "Native macOS text editor with horizontal tabs & auto-restore",
       "url": "https://www.producthunt.com/products/notetabs?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 93,
-      "commentsCount": 2,
+      "commentsCount": 3,
       "createdAt": "2026-01-03T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/d1ccc323-fc9e-4f6c-8796-a7d58e66091d.png?auto=format"
@@ -214,12 +214,43 @@
       }
     },
     {
+      "id": "1057405",
+      "name": "Notchification",
+      "tagline": "Compilation and Claude progress bars in your mac's notch!",
+      "url": "https://www.producthunt.com/products/notchification?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 85,
+      "commentsCount": 4,
+      "createdAt": "2026-01-03T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/40e61ef1-c7d7-4fc7-92dd-ae59f140ec59.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Mac"
+            }
+          },
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Menu Bar Apps"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1053841",
       "name": "8udget",
       "tagline": "Budget, invest & track finances - works offline",
       "url": "https://www.producthunt.com/products/8udget?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 85,
-      "commentsCount": 1,
+      "commentsCount": 2,
       "createdAt": "2026-01-03T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/b5b7e855-3462-4c88-8df2-46b89d8e0a04.png?auto=format"
@@ -244,37 +275,6 @@
           {
             "node": {
               "name": "Personal Finance"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1057405",
-      "name": "Notchification",
-      "tagline": "Compilation and Claude progress bars in your mac's notch!",
-      "url": "https://www.producthunt.com/products/notchification?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 84,
-      "commentsCount": 4,
-      "createdAt": "2026-01-03T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/40e61ef1-c7d7-4fc7-92dd-ae59f140ec59.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Mac"
-            }
-          },
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Menu Bar Apps"
             }
           }
         ]
@@ -574,7 +574,7 @@
       "name": "Amalga",
       "tagline": "Hire Smarter. Ramp Faster. Serve Better.",
       "url": "https://www.producthunt.com/products/amalga?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 48,
+      "votesCount": 50,
       "commentsCount": 2,
       "createdAt": "2026-01-03T08:01:00Z",
       "thumbnail": {
