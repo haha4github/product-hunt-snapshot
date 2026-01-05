@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-01-05T02:34:33.543Z",
+  "fetchedAt": "2026-01-05T04:08:47.344Z",
   "posts": [
     {
       "id": "1058014",
       "name": "Joodle",
       "tagline": "Turn years of memories into personal doodles",
       "url": "https://www.producthunt.com/products/joodle-journaling-with-doodle?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 316,
-      "commentsCount": 30,
+      "votesCount": 338,
+      "commentsCount": 33,
       "createdAt": "2026-01-04T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/37ccc70a-db2c-4c79-beab-a98de2dd772d.png?auto=format"
@@ -37,7 +37,7 @@
       "name": "Scaloom AI",
       "tagline": "Reddit marketing made-easy tool",
       "url": "https://www.producthunt.com/products/scaloom-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 266,
+      "votesCount": 281,
       "commentsCount": 21,
       "createdAt": "2026-01-04T08:01:00Z",
       "thumbnail": {
@@ -68,8 +68,8 @@
       "name": "Nutgrafe",
       "tagline": "The news, reduced to what matters.",
       "url": "https://www.producthunt.com/products/nutgrafe?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 216,
-      "commentsCount": 26,
+      "votesCount": 226,
+      "commentsCount": 27,
       "createdAt": "2026-01-04T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/3c51cdbd-2006-414d-9f6a-25f34ec92fcc.png?auto=format"
@@ -94,7 +94,7 @@
       "name": "Everyessay",
       "tagline": "AI essays, trained on winning human-briefs.",
       "url": "https://www.producthunt.com/products/everyessay?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 179,
+      "votesCount": 186,
       "commentsCount": 16,
       "createdAt": "2026-01-04T08:01:00Z",
       "thumbnail": {
@@ -156,7 +156,7 @@
       "name": "Builders.to",
       "tagline": "Ship faster. Together.",
       "url": "https://www.producthunt.com/products/builders-to?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 32,
+      "votesCount": 33,
       "commentsCount": 8,
       "createdAt": "2026-01-04T08:01:00Z",
       "thumbnail": {
@@ -280,8 +280,8 @@
       "name": "Notion Avatar Maker",
       "tagline": "AI-powered online tool for making notion-style avatars.",
       "url": "https://www.producthunt.com/products/notion-avatar-maker-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 14,
-      "commentsCount": 8,
+      "votesCount": 16,
+      "commentsCount": 10,
       "createdAt": "2026-01-04T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/7a97dfa4-c2fa-4d17-86d9-e86ac79ef7fc.png?auto=format"
@@ -301,6 +301,37 @@
           {
             "node": {
               "name": "GitHub"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1057858",
+      "name": "Supaleak",
+      "tagline": "Secret scanning for shipped-too-fast websites",
+      "url": "https://www.producthunt.com/products/supaleak?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 13,
+      "commentsCount": 3,
+      "createdAt": "2026-01-04T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/2bfe7f50-7978-420f-b18f-948235ef9a73.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Privacy"
+            }
+          },
+          {
+            "node": {
+              "name": "Security"
+            }
+          },
+          {
+            "node": {
+              "name": "Vibe coding"
             }
           }
         ]
@@ -337,37 +368,6 @@
           {
             "node": {
               "name": "Spirituality"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1057858",
-      "name": "Supaleak",
-      "tagline": "Secret scanning for shipped-too-fast websites",
-      "url": "https://www.producthunt.com/products/supaleak?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 12,
-      "commentsCount": 3,
-      "createdAt": "2026-01-04T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/2bfe7f50-7978-420f-b18f-948235ef9a73.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Privacy"
-            }
-          },
-          {
-            "node": {
-              "name": "Security"
-            }
-          },
-          {
-            "node": {
-              "name": "Vibe coding"
             }
           }
         ]
