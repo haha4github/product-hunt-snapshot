@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-01-05T05:05:41.807Z",
+  "fetchedAt": "2026-01-05T05:49:47.063Z",
   "posts": [
     {
       "id": "1058014",
       "name": "Joodle",
       "tagline": "Turn years of memories into personal doodles",
       "url": "https://www.producthunt.com/products/joodle-journaling-with-doodle?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 342,
-      "commentsCount": 33,
+      "votesCount": 348,
+      "commentsCount": 34,
       "createdAt": "2026-01-04T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/37ccc70a-db2c-4c79-beab-a98de2dd772d.png?auto=format"
@@ -37,7 +37,7 @@
       "name": "Scaloom AI",
       "tagline": "Reddit marketing made-easy tool",
       "url": "https://www.producthunt.com/products/scaloom-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 285,
+      "votesCount": 291,
       "commentsCount": 21,
       "createdAt": "2026-01-04T08:01:00Z",
       "thumbnail": {
@@ -68,7 +68,7 @@
       "name": "Nutgrafe",
       "tagline": "The news, reduced to what matters.",
       "url": "https://www.producthunt.com/products/nutgrafe?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 227,
+      "votesCount": 229,
       "commentsCount": 27,
       "createdAt": "2026-01-04T08:01:00Z",
       "thumbnail": {
@@ -94,7 +94,7 @@
       "name": "Everyessay",
       "tagline": "AI essays, trained on winning human-briefs.",
       "url": "https://www.producthunt.com/products/everyessay?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 186,
+      "votesCount": 188,
       "commentsCount": 16,
       "createdAt": "2026-01-04T08:01:00Z",
       "thumbnail": {
@@ -307,42 +307,11 @@
       }
     },
     {
-      "id": "1057858",
-      "name": "Supaleak",
-      "tagline": "Secret scanning for shipped-too-fast websites",
-      "url": "https://www.producthunt.com/products/supaleak?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 14,
-      "commentsCount": 3,
-      "createdAt": "2026-01-04T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/2bfe7f50-7978-420f-b18f-948235ef9a73.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Privacy"
-            }
-          },
-          {
-            "node": {
-              "name": "Security"
-            }
-          },
-          {
-            "node": {
-              "name": "Vibe coding"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1057962",
       "name": "Tatva",
       "tagline": "A digital museum for ancient Indian texts",
       "url": "https://www.producthunt.com/products/tatva?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 14,
+      "votesCount": 15,
       "commentsCount": 1,
       "createdAt": "2026-01-04T08:01:00Z",
       "thumbnail": {
@@ -368,6 +337,37 @@
           {
             "node": {
               "name": "Spirituality"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1057858",
+      "name": "Supaleak",
+      "tagline": "Secret scanning for shipped-too-fast websites",
+      "url": "https://www.producthunt.com/products/supaleak?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 14,
+      "commentsCount": 3,
+      "createdAt": "2026-01-04T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/2bfe7f50-7978-420f-b18f-948235ef9a73.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Privacy"
+            }
+          },
+          {
+            "node": {
+              "name": "Security"
+            }
+          },
+          {
+            "node": {
+              "name": "Vibe coding"
             }
           }
         ]
