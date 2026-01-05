@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-01-05T05:49:47.063Z",
+  "fetchedAt": "2026-01-05T06:26:02.851Z",
   "posts": [
     {
       "id": "1058014",
       "name": "Joodle",
       "tagline": "Turn years of memories into personal doodles",
       "url": "https://www.producthunt.com/products/joodle-journaling-with-doodle?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 348,
-      "commentsCount": 34,
+      "votesCount": 358,
+      "commentsCount": 35,
       "createdAt": "2026-01-04T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/37ccc70a-db2c-4c79-beab-a98de2dd772d.png?auto=format"
@@ -37,8 +37,8 @@
       "name": "Scaloom AI",
       "tagline": "Reddit marketing made-easy tool",
       "url": "https://www.producthunt.com/products/scaloom-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 291,
-      "commentsCount": 21,
+      "votesCount": 299,
+      "commentsCount": 22,
       "createdAt": "2026-01-04T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/43117399-06b6-4832-826e-79da4d498f1e.x-icon?auto=format"
@@ -68,7 +68,7 @@
       "name": "Nutgrafe",
       "tagline": "The news, reduced to what matters.",
       "url": "https://www.producthunt.com/products/nutgrafe?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 229,
+      "votesCount": 232,
       "commentsCount": 27,
       "createdAt": "2026-01-04T08:01:00Z",
       "thumbnail": {
@@ -94,7 +94,7 @@
       "name": "Everyessay",
       "tagline": "AI essays, trained on winning human-briefs.",
       "url": "https://www.producthunt.com/products/everyessay?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 188,
+      "votesCount": 190,
       "commentsCount": 16,
       "createdAt": "2026-01-04T08:01:00Z",
       "thumbnail": {
@@ -405,6 +405,32 @@
       }
     },
     {
+      "id": "1056172",
+      "name": "ShowMeAQI",
+      "tagline": "See What air pollution actually looks like outside",
+      "url": "https://www.producthunt.com/products/showmeaqi?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 12,
+      "commentsCount": 5,
+      "createdAt": "2026-01-04T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/8b8e81f4-715c-48dd-9184-7cec7a083ddb.jpeg?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Health & Fitness"
+            }
+          },
+          {
+            "node": {
+              "name": "Weather"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1057670",
       "name": "MailWell",
       "tagline": "A gentler way to journal. Email replies, pods and insights.",
@@ -430,32 +456,6 @@
           {
             "node": {
               "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1056172",
-      "name": "ShowMeAQI",
-      "tagline": "See What air pollution actually looks like outside",
-      "url": "https://www.producthunt.com/products/showmeaqi?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 12,
-      "commentsCount": 5,
-      "createdAt": "2026-01-04T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/8b8e81f4-715c-48dd-9184-7cec7a083ddb.jpeg?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Health & Fitness"
-            }
-          },
-          {
-            "node": {
-              "name": "Weather"
             }
           }
         ]
