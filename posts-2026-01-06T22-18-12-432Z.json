@@ -1,12 +1,12 @@
 {
-  "fetchedAt": "2026-01-06T21:51:56.030Z",
+  "fetchedAt": "2026-01-06T22:18:12.432Z",
   "posts": [
     {
       "id": "1018037",
       "name": "Canary",
       "tagline": "Learn languages with music, practice with people",
       "url": "https://www.producthunt.com/products/canary-learn-language-through-music?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 275,
+      "votesCount": 277,
       "commentsCount": 38,
       "createdAt": "2026-01-06T08:01:00Z",
       "thumbnail": {
@@ -37,7 +37,7 @@
       "name": " Instruct 2.5",
       "tagline": "Connect apps, describe the job, then automate your work",
       "url": "https://www.producthunt.com/products/instruct-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 261,
+      "votesCount": 266,
       "commentsCount": 22,
       "createdAt": "2026-01-06T08:01:00Z",
       "thumbnail": {
@@ -58,7 +58,7 @@
       "name": "2-b.ai",
       "tagline": "Todoist meets ChatGPT inside your browser",
       "url": "https://www.producthunt.com/products/2-b-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 246,
+      "votesCount": 250,
       "commentsCount": 47,
       "createdAt": "2026-01-06T08:01:00Z",
       "thumbnail": {
@@ -89,7 +89,7 @@
       "name": "Okara Reddit Agent",
       "tagline": "An agent that monitors, curates & writes authentic comments",
       "url": "https://www.producthunt.com/products/okara?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 200,
+      "votesCount": 201,
       "commentsCount": 22,
       "createdAt": "2026-01-06T08:01:00Z",
       "thumbnail": {
@@ -120,7 +120,7 @@
       "name": "FakeMRR",
       "tagline": "The database of unverified startup revenues",
       "url": "https://www.producthunt.com/products/fakemrr?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 182,
+      "votesCount": 184,
       "commentsCount": 21,
       "createdAt": "2026-01-06T08:01:00Z",
       "thumbnail": {
@@ -173,7 +173,7 @@
       "tagline": "A 200-page digital notebook for journaling and writing",
       "url": "https://www.producthunt.com/products/paper-jorunaling-space?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 130,
-      "commentsCount": 15,
+      "commentsCount": 16,
       "createdAt": "2026-01-06T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/08abcef6-27fc-4db3-895c-6e44d4929132.png?auto=format"
@@ -499,32 +499,6 @@
       }
     },
     {
-      "id": "1056521",
-      "name": "Dirac",
-      "tagline": "Start your day with full context, zero tab-hopping",
-      "url": "https://www.producthunt.com/products/dirac-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 86,
-      "commentsCount": 2,
-      "createdAt": "2026-01-06T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/8eafb93b-840b-4e89-bece-433ab709dd57.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1051047",
       "name": "Plano",
       "tagline": "Build agents faster, and deliver them reliably to production",
@@ -555,6 +529,32 @@
           {
             "node": {
               "name": "GitHub"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1056521",
+      "name": "Dirac",
+      "tagline": "Start your day with full context, zero tab-hopping",
+      "url": "https://www.producthunt.com/products/dirac-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 86,
+      "commentsCount": 2,
+      "createdAt": "2026-01-06T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/8eafb93b-840b-4e89-bece-433ab709dd57.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
             }
           }
         ]
