@@ -1,12 +1,12 @@
 {
-  "fetchedAt": "2026-01-07T04:32:18.833Z",
+  "fetchedAt": "2026-01-07T05:01:10.005Z",
   "posts": [
     {
       "id": "1057880",
       "name": "2-b.ai",
       "tagline": "Todoist meets ChatGPT inside your browser",
       "url": "https://www.producthunt.com/products/2-b-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 305,
+      "votesCount": 309,
       "commentsCount": 52,
       "createdAt": "2026-01-06T08:01:00Z",
       "thumbnail": {
@@ -37,8 +37,8 @@
       "name": "Canary",
       "tagline": "Learn languages with music, practice with people",
       "url": "https://www.producthunt.com/products/canary-learn-language-through-music?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 296,
-      "commentsCount": 41,
+      "votesCount": 297,
+      "commentsCount": 42,
       "createdAt": "2026-01-06T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/5333a5b7-1922-4ebe-bec3-a77b355a3caf.png?auto=format"
@@ -69,7 +69,7 @@
       "tagline": "Connect apps, describe the job, then automate your work",
       "url": "https://www.producthunt.com/products/instruct-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 294,
-      "commentsCount": 22,
+      "commentsCount": 23,
       "createdAt": "2026-01-06T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/43209eaf-e8b5-4423-ba4a-6777fd8853ec.gif?auto=format"
@@ -89,8 +89,8 @@
       "name": "Okara Reddit Agent",
       "tagline": "An agent that monitors, curates & writes authentic comments",
       "url": "https://www.producthunt.com/products/okara?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 228,
-      "commentsCount": 24,
+      "votesCount": 231,
+      "commentsCount": 27,
       "createdAt": "2026-01-06T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/679db890-46f9-4765-8155-61d4d60f5f9b.png?auto=format"
@@ -146,7 +146,7 @@
       "name": "Ray",
       "tagline": "An AI trainer that plans + adapts your workouts in real-time",
       "url": "https://www.producthunt.com/products/ray-5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 147,
+      "votesCount": 158,
       "commentsCount": 26,
       "createdAt": "2026-01-06T08:01:00Z",
       "thumbnail": {
@@ -177,7 +177,7 @@
       "name": "Paper",
       "tagline": "A 200-page digital notebook for journaling and writing",
       "url": "https://www.producthunt.com/products/paper-jorunaling-space?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 136,
+      "votesCount": 138,
       "commentsCount": 20,
       "createdAt": "2026-01-06T08:01:00Z",
       "thumbnail": {
@@ -234,7 +234,7 @@
       "name": "Forge CLI",
       "tagline": "Swarm agents optimize CUDA/Triton for any HF/PyTorch model",
       "url": "https://www.producthunt.com/products/rightnow-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 128,
+      "votesCount": 127,
       "commentsCount": 2,
       "createdAt": "2026-01-06T08:01:00Z",
       "thumbnail": {
@@ -442,6 +442,42 @@
       }
     },
     {
+      "id": "1051047",
+      "name": "Plano",
+      "tagline": "Build agents faster, and deliver them reliably to production",
+      "url": "https://www.producthunt.com/products/plano?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 89,
+      "commentsCount": 5,
+      "createdAt": "2026-01-06T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/64c57c4a-b7e4-499d-a77a-3a1faea77f1e.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Open Source"
+            }
+          },
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "GitHub"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1058365",
       "name": "MemoryBubble",
       "tagline": "Pop Bubbles To clean your Mac's memory",
@@ -519,42 +555,6 @@
           {
             "node": {
               "name": "Aquarium"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1051047",
-      "name": "Plano",
-      "tagline": "Build agents faster, and deliver them reliably to production",
-      "url": "https://www.producthunt.com/products/plano?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 88,
-      "commentsCount": 5,
-      "createdAt": "2026-01-06T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/64c57c4a-b7e4-499d-a77a-3a1faea77f1e.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Open Source"
-            }
-          },
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          },
-          {
-            "node": {
-              "name": "GitHub"
             }
           }
         ]
