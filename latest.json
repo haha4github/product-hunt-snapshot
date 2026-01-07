@@ -1,12 +1,12 @@
 {
-  "fetchedAt": "2026-01-07T11:38:42.977Z",
+  "fetchedAt": "2026-01-07T11:52:09.290Z",
   "posts": [
     {
       "id": "1059053",
       "name": "Conversation API",
       "tagline": " Build chatbots with memory using just an API",
       "url": "https://www.producthunt.com/products/amarsia?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 121,
+      "votesCount": 122,
       "commentsCount": 1,
       "createdAt": "2026-01-07T08:01:00Z",
       "thumbnail": {
@@ -63,7 +63,7 @@
       "name": "LEGO SMART Play",
       "tagline": "Bringing LEGO creations to life like never before",
       "url": "https://www.producthunt.com/products/lego-jurassic-world?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 91,
+      "votesCount": 93,
       "commentsCount": 3,
       "createdAt": "2026-01-07T08:01:00Z",
       "thumbnail": {
@@ -219,6 +219,37 @@
       }
     },
     {
+      "id": "1057978",
+      "name": "Claw Executive OS",
+      "tagline": "Digital chief of staff that automates your files with AI",
+      "url": "https://www.producthunt.com/products/claw-executive-os?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 75,
+      "commentsCount": 7,
+      "createdAt": "2026-01-07T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/10a77fbf-37c2-4e29-a310-71feab6e5f8a.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Mac"
+            }
+          },
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1058822",
       "name": "AgentNotch",
       "tagline": "Real-time AI coding assistant telemetry in your Mac's notch",
@@ -286,6 +317,37 @@
       }
     },
     {
+      "id": "1059385",
+      "name": "Planelo",
+      "tagline": "The idea-first hub for developers",
+      "url": "https://www.producthunt.com/products/planelo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 74,
+      "commentsCount": 3,
+      "createdAt": "2026-01-07T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/12fe2eae-607b-43ac-b155-3881c04cc910.jpeg?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Notes"
+            }
+          },
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1047390",
       "name": "Datastripes Lens",
       "tagline": "Turn any web data into instant, interactive charts",
@@ -311,68 +373,6 @@
           {
             "node": {
               "name": "Data Visualization"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1057978",
-      "name": "Claw Executive OS",
-      "tagline": "Digital chief of staff that automates your files with AI",
-      "url": "https://www.producthunt.com/products/claw-executive-os?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 73,
-      "commentsCount": 5,
-      "createdAt": "2026-01-07T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/10a77fbf-37c2-4e29-a310-71feab6e5f8a.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Mac"
-            }
-          },
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1059385",
-      "name": "Planelo",
-      "tagline": "The idea-first hub for developers",
-      "url": "https://www.producthunt.com/products/planelo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 73,
-      "commentsCount": 3,
-      "createdAt": "2026-01-07T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/12fe2eae-607b-43ac-b155-3881c04cc910.jpeg?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Notes"
-            }
-          },
-          {
-            "node": {
-              "name": "Developer Tools"
             }
           }
         ]
@@ -553,7 +553,7 @@
       "name": "Squair",
       "tagline": "Calm anxiety in 2 minutes with Navy SEAL breathing",
       "url": "https://www.producthunt.com/products/squair?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 24,
+      "votesCount": 27,
       "commentsCount": 1,
       "createdAt": "2026-01-07T08:01:00Z",
       "thumbnail": {
