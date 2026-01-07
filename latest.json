@@ -1,12 +1,12 @@
 {
-  "fetchedAt": "2026-01-07T11:19:36.082Z",
+  "fetchedAt": "2026-01-07T11:38:42.977Z",
   "posts": [
     {
       "id": "1059053",
       "name": "Conversation API",
       "tagline": " Build chatbots with memory using just an API",
       "url": "https://www.producthunt.com/products/amarsia?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 113,
+      "votesCount": 121,
       "commentsCount": 1,
       "createdAt": "2026-01-07T08:01:00Z",
       "thumbnail": {
@@ -37,7 +37,7 @@
       "name": "Dessix",
       "tagline": "Visual workspace to capture, organize, and create with AI",
       "url": "https://www.producthunt.com/products/dessix-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 111,
+      "votesCount": 116,
       "commentsCount": 11,
       "createdAt": "2026-01-07T08:01:00Z",
       "thumbnail": {
@@ -59,11 +59,42 @@
       }
     },
     {
+      "id": "1059476",
+      "name": "LEGO SMART Play",
+      "tagline": "Bringing LEGO creations to life like never before",
+      "url": "https://www.producthunt.com/products/lego-jurassic-world?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 91,
+      "commentsCount": 3,
+      "createdAt": "2026-01-07T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/d19687d7-3a5c-4416-8299-70f63e0aee54.jpeg?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Kids"
+            }
+          },
+          {
+            "node": {
+              "name": "Games"
+            }
+          },
+          {
+            "node": {
+              "name": "Toys"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1058506",
       "name": "Market Terminal™",
       "tagline": "Wall Street‑style market terminal to track trades",
       "url": "https://www.producthunt.com/products/market-terminal-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 91,
+      "votesCount": 93,
       "commentsCount": 2,
       "createdAt": "2026-01-07T08:01:00Z",
       "thumbnail": {
@@ -84,37 +115,6 @@
           {
             "node": {
               "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1059476",
-      "name": "LEGO SMART Play",
-      "tagline": "Bringing LEGO creations to life like never before",
-      "url": "https://www.producthunt.com/products/lego-jurassic-world?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 88,
-      "commentsCount": 2,
-      "createdAt": "2026-01-07T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/d19687d7-3a5c-4416-8299-70f63e0aee54.jpeg?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Kids"
-            }
-          },
-          {
-            "node": {
-              "name": "Games"
-            }
-          },
-          {
-            "node": {
-              "name": "Toys"
             }
           }
         ]
@@ -162,6 +162,32 @@
       }
     },
     {
+      "id": "1055982",
+      "name": "NotifyGate",
+      "tagline": "One Gate for all your Notifications",
+      "url": "https://www.producthunt.com/products/notifygate?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 78,
+      "commentsCount": 1,
+      "createdAt": "2026-01-07T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/5d8553a9-dd7a-4711-a733-1f56ba88a945.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "API"
+            }
+          },
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1056271",
       "name": "Gridfy.io",
       "tagline": "Live interactive widgets from Airtable, Notion or Sheets",
@@ -187,32 +213,6 @@
           {
             "node": {
               "name": "No-Code"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1055982",
-      "name": "NotifyGate",
-      "tagline": "One Gate for all your Notifications",
-      "url": "https://www.producthunt.com/products/notifygate?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 76,
-      "commentsCount": 1,
-      "createdAt": "2026-01-07T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/5d8553a9-dd7a-4711-a733-1f56ba88a945.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "API"
-            }
-          },
-          {
-            "node": {
-              "name": "Developer Tools"
             }
           }
         ]
@@ -255,6 +255,37 @@
       }
     },
     {
+      "id": "1059518",
+      "name": "Too Many Buttons",
+      "tagline": "Only one button works. Every other click is chaos.",
+      "url": "https://www.producthunt.com/products/too-many-buttons?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 74,
+      "commentsCount": 3,
+      "createdAt": "2026-01-07T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/6d314fbc-51f5-497f-9d29-bf100a1b2645.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Indie Games"
+            }
+          },
+          {
+            "node": {
+              "name": "Games"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1047390",
       "name": "Datastripes Lens",
       "tagline": "Turn any web data into instant, interactive charts",
@@ -280,6 +311,37 @@
           {
             "node": {
               "name": "Data Visualization"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1057978",
+      "name": "Claw Executive OS",
+      "tagline": "Digital chief of staff that automates your files with AI",
+      "url": "https://www.producthunt.com/products/claw-executive-os?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 73,
+      "commentsCount": 5,
+      "createdAt": "2026-01-07T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/10a77fbf-37c2-4e29-a310-71feab6e5f8a.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Mac"
+            }
+          },
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
             }
           }
         ]
@@ -317,54 +379,18 @@
       }
     },
     {
-      "id": "1059518",
-      "name": "Too Many Buttons",
-      "tagline": "Only one button works. Every other click is chaos.",
-      "url": "https://www.producthunt.com/products/too-many-buttons?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 72,
-      "commentsCount": 3,
-      "createdAt": "2026-01-07T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/6d314fbc-51f5-497f-9d29-bf100a1b2645.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Indie Games"
-            }
-          },
-          {
-            "node": {
-              "name": "Games"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1057978",
-      "name": "Claw Executive OS",
-      "tagline": "Digital chief of staff that automates your files with AI",
-      "url": "https://www.producthunt.com/products/claw-executive-os?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "id": "1057440",
+      "name": "TheTabber",
+      "tagline": "Create UGC videos to post across 9+ platforms",
+      "url": "https://www.producthunt.com/products/thetabber?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 71,
-      "commentsCount": 5,
+      "commentsCount": 1,
       "createdAt": "2026-01-07T08:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/10a77fbf-37c2-4e29-a310-71feab6e5f8a.png?auto=format"
+        "url": "https://ph-files.imgix.net/d3aaf3e7-81be-47ce-a962-d7ea547ca4f7.png?auto=format"
       },
       "topics": {
         "edges": [
-          {
-            "node": {
-              "name": "Mac"
-            }
-          },
           {
             "node": {
               "name": "Productivity"
@@ -373,6 +399,11 @@
           {
             "node": {
               "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "Social media marketing"
             }
           }
         ]
@@ -409,37 +440,6 @@
           {
             "node": {
               "name": "GitHub"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1057440",
-      "name": "TheTabber",
-      "tagline": "Create UGC videos to post across 9+ platforms",
-      "url": "https://www.producthunt.com/products/thetabber?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 70,
-      "commentsCount": 1,
-      "createdAt": "2026-01-07T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/d3aaf3e7-81be-47ce-a962-d7ea547ca4f7.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          },
-          {
-            "node": {
-              "name": "Social media marketing"
             }
           }
         ]
@@ -553,7 +553,7 @@
       "name": "Squair",
       "tagline": "Calm anxiety in 2 minutes with Navy SEAL breathing",
       "url": "https://www.producthunt.com/products/squair?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 18,
+      "votesCount": 24,
       "commentsCount": 1,
       "createdAt": "2026-01-07T08:01:00Z",
       "thumbnail": {
