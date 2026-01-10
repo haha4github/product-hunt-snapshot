@@ -1,12 +1,12 @@
 {
-  "fetchedAt": "2026-01-10T19:49:31.688Z",
+  "fetchedAt": "2026-01-10T20:13:00.703Z",
   "posts": [
     {
       "id": "1058862",
       "name": "Settle It",
       "tagline": "Quick polls to settle small decisions",
       "url": "https://www.producthunt.com/products/settle-it?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 240,
+      "votesCount": 246,
       "commentsCount": 27,
       "createdAt": "2026-01-10T08:01:00Z",
       "thumbnail": {
@@ -37,7 +37,7 @@
       "name": "Burner Note",
       "tagline": "Zero knowledge self destructing notes",
       "url": "https://www.producthunt.com/products/burner-note?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 166,
+      "votesCount": 168,
       "commentsCount": 9,
       "createdAt": "2026-01-10T08:01:00Z",
       "thumbnail": {
@@ -73,8 +73,8 @@
       "name": "Pane",
       "tagline": "The AI that works directly in your spreadsheet's grid",
       "url": "https://www.producthunt.com/products/pane?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 139,
-      "commentsCount": 7,
+      "votesCount": 141,
+      "commentsCount": 11,
       "createdAt": "2026-01-10T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/ad1ae844-6401-4e63-8033-da348499095a.x-icon?auto=format"
@@ -104,8 +104,8 @@
       "name": "Warbl",
       "tagline": "Boost engagement and grow your audience effortlessly on X",
       "url": "https://www.producthunt.com/products/warbl-engage-faster-on-x?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 118,
-      "commentsCount": 12,
+      "votesCount": 120,
+      "commentsCount": 16,
       "createdAt": "2026-01-10T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/28db090a-2a60-4332-88a7-73c4763f9745.png?auto=format"
@@ -285,7 +285,7 @@
       "name": "AI Thumbnail",
       "tagline": "Turn any thumbnail into your own, instantly",
       "url": "https://www.producthunt.com/products/ai-thumbnail?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 21,
+      "votesCount": 22,
       "commentsCount": 4,
       "createdAt": "2026-01-10T08:01:00Z",
       "thumbnail": {
@@ -446,7 +446,7 @@
       "tagline": "Supercharging UI creation with AI",
       "url": "https://www.producthunt.com/products/elementy?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 6,
-      "commentsCount": 6,
+      "commentsCount": 7,
       "createdAt": "2026-01-10T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/34530928-9589-4173-877a-f1cf3b2f78e8.svg?auto=format"
@@ -466,6 +466,37 @@
           {
             "node": {
               "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1060524",
+      "name": "Storybound",
+      "tagline": "AI companion that teaches kids how to write stories",
+      "url": "https://www.producthunt.com/products/storybound?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 5,
+      "commentsCount": 1,
+      "createdAt": "2026-01-10T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/3bd44342-c45a-499e-bc3a-e2eace4a9c52.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Design Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Kids"
+            }
+          },
+          {
+            "node": {
+              "name": "Education"
             }
           }
         ]
@@ -503,37 +534,6 @@
       }
     },
     {
-      "id": "1060524",
-      "name": "Storybound",
-      "tagline": "AI companion that teaches kids how to write stories",
-      "url": "https://www.producthunt.com/products/storybound?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 4,
-      "commentsCount": 1,
-      "createdAt": "2026-01-10T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/3bd44342-c45a-499e-bc3a-e2eace4a9c52.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Design Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Kids"
-            }
-          },
-          {
-            "node": {
-              "name": "Education"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1060590",
       "name": "LeadLooking - Find Your Reddit Customers",
       "tagline": "Find Customers From Reddit on Autopilot",
@@ -565,32 +565,6 @@
       }
     },
     {
-      "id": "1060386",
-      "name": "FocusNinja",
-      "tagline": "What did you ship this week? ",
-      "url": "https://www.producthunt.com/products/focusninja?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 3,
-      "commentsCount": 1,
-      "createdAt": "2026-01-10T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/bc791dd6-7002-4dd7-8282-e6fc7d59f4cb.gif?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1059132",
       "name": "SQUAD IN SYNC",
       "tagline": "Plan, sync, and vibe with your travel squad",
@@ -616,6 +590,32 @@
           {
             "node": {
               "name": "Travel"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1060386",
+      "name": "FocusNinja",
+      "tagline": "What did you ship this week? ",
+      "url": "https://www.producthunt.com/products/focusninja?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 3,
+      "commentsCount": 1,
+      "createdAt": "2026-01-10T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/bc791dd6-7002-4dd7-8282-e6fc7d59f4cb.gif?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
             }
           }
         ]
