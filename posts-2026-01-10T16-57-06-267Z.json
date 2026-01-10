@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-01-10T16:41:43.197Z",
+  "fetchedAt": "2026-01-10T16:57:06.267Z",
   "posts": [
     {
       "id": "1058862",
       "name": "Settle It",
       "tagline": "Quick polls to settle small decisions",
       "url": "https://www.producthunt.com/products/settle-it?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 197,
-      "commentsCount": 9,
+      "votesCount": 201,
+      "commentsCount": 16,
       "createdAt": "2026-01-10T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/76c7fa9d-7cef-4739-8162-029da0128f09.png?auto=format"
@@ -37,7 +37,7 @@
       "name": "Boom for Mac",
       "tagline": "Present & record with branded live layout changes",
       "url": "https://www.producthunt.com/products/boom-6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 171,
+      "votesCount": 173,
       "commentsCount": 5,
       "createdAt": "2026-01-10T08:01:00Z",
       "thumbnail": {
@@ -68,7 +68,7 @@
       "name": "Burner Note",
       "tagline": "Zero knowledge self destructing notes",
       "url": "https://www.producthunt.com/products/burner-note?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 147,
+      "votesCount": 149,
       "commentsCount": 8,
       "createdAt": "2026-01-10T08:01:00Z",
       "thumbnail": {
@@ -135,7 +135,7 @@
       "name": "Warbl",
       "tagline": "Boost engagement and grow your audience effortlessly on X",
       "url": "https://www.producthunt.com/products/warbl-engage-faster-on-x?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 108,
+      "votesCount": 110,
       "commentsCount": 7,
       "createdAt": "2026-01-10T08:01:00Z",
       "thumbnail": {
@@ -264,7 +264,7 @@
       "name": "Tangle",
       "tagline": "Life on purpose. A Tangle  app for living with intention.",
       "url": "https://www.producthunt.com/products/tangle-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 83,
+      "votesCount": 33,
       "commentsCount": 4,
       "createdAt": "2026-01-10T08:01:00Z",
       "thumbnail": {
@@ -503,6 +503,37 @@
       }
     },
     {
+      "id": "1060524",
+      "name": "Storybound",
+      "tagline": "A guided storytelling app for kids.",
+      "url": "https://www.producthunt.com/products/storybound?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 4,
+      "commentsCount": 1,
+      "createdAt": "2026-01-10T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/3bd44342-c45a-499e-bc3a-e2eace4a9c52.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Design Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Kids"
+            }
+          },
+          {
+            "node": {
+              "name": "Education"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1060590",
       "name": "LeadLooking - Find Your Reddit Customers",
       "tagline": "Find Customers From Reddit on Autopilot",
@@ -539,7 +570,7 @@
       "tagline": "Plan, sync, and vibe with your travel squad",
       "url": "https://www.producthunt.com/products/squad-in-sync?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 3,
-      "commentsCount": 1,
+      "commentsCount": 2,
       "createdAt": "2026-01-10T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/93f33824-7340-4103-b9a0-376d3418848d.jpeg?auto=format"
@@ -585,37 +616,6 @@
           {
             "node": {
               "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1060786",
-      "name": "Kissuu",
-      "tagline": "Share vibes via taps. For friends, lovers & situationships.",
-      "url": "https://www.producthunt.com/products/kissuu?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 3,
-      "commentsCount": 1,
-      "createdAt": "2026-01-10T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/cc388ff5-cb14-40c5-8a93-5cdd0b20a7d6.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Dating"
-            }
-          },
-          {
-            "node": {
-              "name": "Couples"
-            }
-          },
-          {
-            "node": {
-              "name": "Social Networking"
             }
           }
         ]
