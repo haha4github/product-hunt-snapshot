@@ -1,12 +1,12 @@
 {
-  "fetchedAt": "2026-01-10T18:38:47.978Z",
+  "fetchedAt": "2026-01-10T18:56:53.684Z",
   "posts": [
     {
       "id": "1058862",
       "name": "Settle It",
       "tagline": "Quick polls to settle small decisions",
       "url": "https://www.producthunt.com/products/settle-it?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 230,
+      "votesCount": 233,
       "commentsCount": 27,
       "createdAt": "2026-01-10T08:01:00Z",
       "thumbnail": {
@@ -37,7 +37,7 @@
       "name": "Boom for Mac",
       "tagline": "Present & record with branded live layout changes",
       "url": "https://www.producthunt.com/products/boom-6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 186,
+      "votesCount": 190,
       "commentsCount": 7,
       "createdAt": "2026-01-10T08:01:00Z",
       "thumbnail": {
@@ -347,7 +347,7 @@
       "name": "ChatRealtor v2",
       "tagline": "Turn Zillow listing into viral real estate videos in 2 mins",
       "url": "https://www.producthunt.com/products/chatrealtor?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 12,
+      "votesCount": 13,
       "commentsCount": 1,
       "createdAt": "2026-01-10T08:01:00Z",
       "thumbnail": {
@@ -441,6 +441,37 @@
       }
     },
     {
+      "id": "1059502",
+      "name": "Snaplife AI",
+      "tagline": "Turn any photo into a talking video!",
+      "url": "https://www.producthunt.com/products/snaplife-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 7,
+      "commentsCount": 5,
+      "createdAt": "2026-01-10T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/a9f5b88e-93ef-425f-a9ed-0376ff35d85c.svg?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Funny"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "Photo & Video"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1060545",
       "name": "Elementy",
       "tagline": "Supercharging UI creation with AI",
@@ -466,37 +497,6 @@
           {
             "node": {
               "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1059502",
-      "name": "Snaplife AI",
-      "tagline": "Turn any photo into a talking video!",
-      "url": "https://www.producthunt.com/products/snaplife-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 6,
-      "commentsCount": 5,
-      "createdAt": "2026-01-10T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/a9f5b88e-93ef-425f-a9ed-0376ff35d85c.svg?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Funny"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          },
-          {
-            "node": {
-              "name": "Photo & Video"
             }
           }
         ]
