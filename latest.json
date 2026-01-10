@@ -1,12 +1,43 @@
 {
-  "fetchedAt": "2026-01-10T10:39:35.176Z",
+  "fetchedAt": "2026-01-10T10:53:01.781Z",
   "posts": [
+    {
+      "id": "1058862",
+      "name": "Settle It",
+      "tagline": "Quick polls to settle small decisions",
+      "url": "https://www.producthunt.com/products/settle-it?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 98,
+      "commentsCount": 2,
+      "createdAt": "2026-01-10T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/76c7fa9d-7cef-4739-8162-029da0128f09.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Web App"
+            }
+          },
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Community"
+            }
+          }
+        ]
+      }
+    },
     {
       "id": "1051074",
       "name": "Boom for Mac",
       "tagline": "Present & record with branded live layout changes",
       "url": "https://www.producthunt.com/products/boom-6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 87,
+      "votesCount": 96,
       "commentsCount": 0,
       "createdAt": "2026-01-10T08:01:00Z",
       "thumbnail": {
@@ -64,99 +95,11 @@
       }
     },
     {
-      "id": "1058862",
-      "name": "Settle It",
-      "tagline": "Quick polls to settle small decisions",
-      "url": "https://www.producthunt.com/products/settle-it?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 93,
-      "commentsCount": 2,
-      "createdAt": "2026-01-10T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/76c7fa9d-7cef-4739-8162-029da0128f09.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Web App"
-            }
-          },
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Community"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1058226",
-      "name": "Tangle",
-      "tagline": "Life on purpose. A Tangle  app for living with intention.",
-      "url": "https://www.producthunt.com/products/tangle-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 71,
-      "commentsCount": 1,
-      "createdAt": "2026-01-10T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/4854058e-90e0-466f-acb2-83f865b0e19f.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Social Media"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1060696",
-      "name": "SkreenPro",
-      "tagline": "Screenshot Editing. Open Source. Free. Powerful.",
-      "url": "https://www.producthunt.com/products/skreenpro?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 73,
-      "commentsCount": 2,
-      "createdAt": "2026-01-10T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/0d8e098b-f21f-40e0-8ff1-e621e015a46c.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Open Source"
-            }
-          },
-          {
-            "node": {
-              "name": "Social Media"
-            }
-          },
-          {
-            "node": {
-              "name": "Marketing"
-            }
-          },
-          {
-            "node": {
-              "name": "GitHub"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1060801",
       "name": "Burner Note",
       "tagline": "Zero knowledge self destructing notes",
       "url": "https://www.producthunt.com/products/burner-note?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 82,
+      "votesCount": 83,
       "commentsCount": 1,
       "createdAt": "2026-01-10T08:01:00Z",
       "thumbnail": {
@@ -188,6 +131,94 @@
       }
     },
     {
+      "id": "1060696",
+      "name": "SkreenPro",
+      "tagline": "Screenshot Editing. Open Source. Free. Powerful.",
+      "url": "https://www.producthunt.com/products/skreenpro?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 81,
+      "commentsCount": 2,
+      "createdAt": "2026-01-10T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/0d8e098b-f21f-40e0-8ff1-e621e015a46c.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Open Source"
+            }
+          },
+          {
+            "node": {
+              "name": "Social Media"
+            }
+          },
+          {
+            "node": {
+              "name": "Marketing"
+            }
+          },
+          {
+            "node": {
+              "name": "GitHub"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1058698",
+      "name": "Warbl",
+      "tagline": "Boost engagement and grow your audience effortlessly on X",
+      "url": "https://www.producthunt.com/products/warbl-engage-faster-on-x?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 78,
+      "commentsCount": 1,
+      "createdAt": "2026-01-10T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/28db090a-2a60-4332-88a7-73c4763f9745.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Chrome Extensions"
+            }
+          },
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Social Media"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1058226",
+      "name": "Tangle",
+      "tagline": "Life on purpose. A Tangle  app for living with intention.",
+      "url": "https://www.producthunt.com/products/tangle-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 71,
+      "commentsCount": 1,
+      "createdAt": "2026-01-10T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/4854058e-90e0-466f-acb2-83f865b0e19f.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Social Media"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1059192",
       "name": "VPN Peek",
       "tagline": "See if your VPN is actually working from your menu bar",
@@ -213,37 +244,6 @@
           {
             "node": {
               "name": "Tech"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1058698",
-      "name": "Warbl - Engage faster on X",
-      "tagline": "Boost engagement and grow your audience effortlessly on X",
-      "url": "https://www.producthunt.com/products/warbl-engage-faster-on-x?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 72,
-      "commentsCount": 1,
-      "createdAt": "2026-01-10T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/28db090a-2a60-4332-88a7-73c4763f9745.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Chrome Extensions"
-            }
-          },
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Social Media"
             }
           }
         ]
@@ -285,7 +285,7 @@
       "name": "JusBook - Scheduler",
       "tagline": "Book-Manage-Relax",
       "url": "https://www.producthunt.com/products/jusbook?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 19,
+      "votesCount": 21,
       "commentsCount": 1,
       "createdAt": "2026-01-10T08:01:00Z",
       "thumbnail": {
@@ -343,6 +343,37 @@
       }
     },
     {
+      "id": "1058046",
+      "name": "AI Thumbnail",
+      "tagline": "Turn any thumbnail into your own, instantly",
+      "url": "https://www.producthunt.com/products/ai-thumbnail?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 6,
+      "commentsCount": 2,
+      "createdAt": "2026-01-10T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/0b61488b-ed6c-4d09-a744-771a81019401.svg?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Design Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "YouTube"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1046380",
       "name": "Expense6",
       "tagline": "Organize finances with Workzones. Invoice, track & share.",
@@ -379,62 +410,88 @@
       }
     },
     {
-      "id": "966347",
-      "name": "ScribblePadGames",
-      "tagline": "Pen-and-Paper Gaming. No Screens. No Ads. No payments. No AI",
-      "url": "https://www.producthunt.com/products/scribblepadgames-pen-and-paper-games?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 3,
+      "id": "1057987",
+      "name": "ChatRealtor v2",
+      "tagline": "Turn Zillow listing into viral real estate videos in 2 mins",
+      "url": "https://www.producthunt.com/products/chatrealtor?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 4,
       "commentsCount": 1,
       "createdAt": "2026-01-10T08:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/9c164da9-7044-4789-a7a8-cd41784e63c7.jpeg?auto=format"
+        "url": "https://ph-files.imgix.net/c4e95ce2-6814-4cb0-9252-6a787716d57b.png?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "Parenting"
+              "name": "Home"
             }
           },
           {
             "node": {
-              "name": "Games"
+              "name": "Vacation"
             }
           },
           {
             "node": {
-              "name": "Family"
+              "name": "Photo & Video"
             }
           }
         ]
       }
     },
     {
-      "id": "1060785",
-      "name": "MoneyRank",
-      "tagline": "A daily game that sharpens your money decisions.",
-      "url": "https://www.producthunt.com/products/moneyrank?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "id": "1060590",
+      "name": "LeadLooking - Find Your Reddit Customers",
+      "tagline": "Find Customers From Reddit on Autopilot",
+      "url": "https://www.producthunt.com/products/leadlooking-find-your-reddit-customers?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 3,
-      "commentsCount": 1,
+      "commentsCount": 2,
       "createdAt": "2026-01-10T08:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/95a2cc28-a8fe-4508-b1df-d0ea28cdb652.png?auto=format"
+        "url": "https://ph-files.imgix.net/f0e02088-be30-4200-bdca-c5e5ac208267.png?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "Fintech"
+              "name": "Marketing"
             }
           },
           {
             "node": {
-              "name": "Education"
+              "name": "Artificial Intelligence"
             }
           },
           {
             "node": {
-              "name": "Games"
+              "name": "Marketing automation"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1060783",
+      "name": "OneBookList.com",
+      "tagline": "Book recommendations with the story behind them.",
+      "url": "https://www.producthunt.com/products/onebooklist-com?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 3,
+      "commentsCount": 1,
+      "createdAt": "2026-01-10T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/5c4d440d-ef56-4973-b3bc-3a609623aefe.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Books"
+            }
+          },
+          {
+            "node": {
+              "name": "Database"
             }
           }
         ]
@@ -477,32 +534,6 @@
       }
     },
     {
-      "id": "1060783",
-      "name": "OneBookList.com",
-      "tagline": "Book recommendations with the story behind them.",
-      "url": "https://www.producthunt.com/products/onebooklist-com?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 3,
-      "commentsCount": 1,
-      "createdAt": "2026-01-10T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/5c4d440d-ef56-4973-b3bc-3a609623aefe.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Books"
-            }
-          },
-          {
-            "node": {
-              "name": "Database"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1060734",
       "name": "WinkLink",
       "tagline": "One link. Multiple profiles. Total privacy.",
@@ -534,98 +565,62 @@
       }
     },
     {
-      "id": "1060778",
-      "name": "PayChasers",
-      "tagline": "Stop chasing clients for payment. Automate it.",
-      "url": "https://www.producthunt.com/products/paychasers?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "id": "1060785",
+      "name": "MoneyRank",
+      "tagline": "A daily game that sharpens your money decisions.",
+      "url": "https://www.producthunt.com/products/moneyrank?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 3,
       "commentsCount": 1,
       "createdAt": "2026-01-10T08:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/d8a66d85-3578-4be4-aa78-c8cb859b3e6c.png?auto=format"
+        "url": "https://ph-files.imgix.net/95a2cc28-a8fe-4508-b1df-d0ea28cdb652.png?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "Productivity"
+              "name": "Fintech"
             }
           },
           {
             "node": {
-              "name": "Freelance"
+              "name": "Education"
             }
           },
           {
             "node": {
-              "name": "Finance"
+              "name": "Games"
             }
           }
         ]
       }
     },
     {
-      "id": "1060767",
-      "name": "Onyx Vision",
-      "tagline": "An iPhone app that edits videos by typing",
-      "url": "https://www.producthunt.com/products/onyx-vision?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "id": "1060786",
+      "name": "Kissuu",
+      "tagline": "Share vibes via taps. For friends, lovers & situationships.",
+      "url": "https://www.producthunt.com/products/kissuu?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 3,
       "commentsCount": 1,
       "createdAt": "2026-01-10T08:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/a5a343dc-ea39-4169-bc30-337cf898ded8.webp?auto=format"
+        "url": "https://ph-files.imgix.net/cc388ff5-cb14-40c5-8a93-5cdd0b20a7d6.png?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "Photography"
+              "name": "Web App"
             }
           },
           {
             "node": {
-              "name": "Artificial Intelligence"
+              "name": "Couples"
             }
           },
           {
             "node": {
-              "name": "Video"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1048896",
-      "name": "GitHub",
-      "tagline": "Privacy-focused local developer toolkit, a gift to all devs",
-      "url": "https://www.producthunt.com/products/github-243?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 3,
-      "commentsCount": 1,
-      "createdAt": "2026-01-10T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/ea3c47df-38f8-48f5-89e0-122497210164.svg?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Open Source"
-            }
-          },
-          {
-            "node": {
-              "name": "Privacy"
-            }
-          },
-          {
-            "node": {
-              "name": "GitHub"
-            }
-          },
-          {
-            "node": {
-              "name": "Development"
+              "name": "Quantified Self"
             }
           }
         ]
