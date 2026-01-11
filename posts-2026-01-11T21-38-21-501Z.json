@@ -1,12 +1,12 @@
 {
-  "fetchedAt": "2026-01-11T21:21:45.761Z",
+  "fetchedAt": "2026-01-11T21:38:21.501Z",
   "posts": [
     {
       "id": "1058496",
       "name": "Elser AI",
       "tagline": "Create full anime shorts with just a prompt in minutes",
       "url": "https://www.producthunt.com/products/elser-ai-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 251,
+      "votesCount": 253,
       "commentsCount": 49,
       "createdAt": "2026-01-11T08:01:00Z",
       "thumbnail": {
@@ -99,7 +99,7 @@
       "name": "Funding Goal",
       "tagline": "Calculate how much you should raise and why",
       "url": "https://www.producthunt.com/products/funding-goal?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 178,
+      "votesCount": 180,
       "commentsCount": 3,
       "createdAt": "2026-01-11T08:01:00Z",
       "thumbnail": {
@@ -348,7 +348,7 @@
       "tagline": "Turn YouTube videos into structured insight briefs",
       "url": "https://www.producthunt.com/products/aha-moments?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 51,
-      "commentsCount": 2,
+      "commentsCount": 3,
       "createdAt": "2026-01-11T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/5632bb27-9368-4a9a-aa4d-267648172fe3.png?auto=format"
@@ -405,7 +405,7 @@
       "tagline": "Interview prep that actually adapts to you",
       "url": "https://www.producthunt.com/products/codivise?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 26,
-      "commentsCount": 7,
+      "commentsCount": 8,
       "createdAt": "2026-01-11T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/bcdf2ee4-73bd-4d84-bea5-6890f46beeed.png?auto=format"
@@ -462,6 +462,37 @@
       }
     },
     {
+      "id": "1061016",
+      "name": "Free Online Chess",
+      "tagline": "Play chess online for free against computer or friend!",
+      "url": "https://www.producthunt.com/products/free-online-chess?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 19,
+      "commentsCount": 4,
+      "createdAt": "2026-01-11T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/c0ce8825-89d8-4d36-9bf8-8a6f01fc12b1.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Board Games"
+            }
+          },
+          {
+            "node": {
+              "name": "Free Games"
+            }
+          },
+          {
+            "node": {
+              "name": "Games"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1060965",
       "name": "VibeDream.ai",
       "tagline": "Build Profitable Software In Minutes, Not Months",
@@ -487,37 +518,6 @@
           {
             "node": {
               "name": "No-Code"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1061016",
-      "name": "Free Online Chess",
-      "tagline": "Play chess online for free against computer or friend!",
-      "url": "https://www.producthunt.com/products/free-online-chess?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 18,
-      "commentsCount": 3,
-      "createdAt": "2026-01-11T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/c0ce8825-89d8-4d36-9bf8-8a6f01fc12b1.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Board Games"
-            }
-          },
-          {
-            "node": {
-              "name": "Free Games"
-            }
-          },
-          {
-            "node": {
-              "name": "Games"
             }
           }
         ]
