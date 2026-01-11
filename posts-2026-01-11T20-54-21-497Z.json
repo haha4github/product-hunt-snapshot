@@ -1,12 +1,12 @@
 {
-  "fetchedAt": "2026-01-11T20:40:41.546Z",
+  "fetchedAt": "2026-01-11T20:54:21.497Z",
   "posts": [
     {
       "id": "1058496",
       "name": "Elser AI",
       "tagline": "Create full anime shorts with just a prompt in minutes",
       "url": "https://www.producthunt.com/products/elser-ai-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 249,
+      "votesCount": 250,
       "commentsCount": 49,
       "createdAt": "2026-01-11T08:01:00Z",
       "thumbnail": {
@@ -130,7 +130,7 @@
       "name": "MTV REWIND",
       "tagline": "24/7 music video streaming-MTV when it actually played music",
       "url": "https://www.producthunt.com/products/mtv-rewind-music-videos-24-7-ad-free?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 133,
+      "votesCount": 135,
       "commentsCount": 10,
       "createdAt": "2026-01-11T08:01:00Z",
       "thumbnail": {
@@ -188,6 +188,37 @@
       }
     },
     {
+      "id": "1058770",
+      "name": "FreeUpMyMac",
+      "tagline": "A Mac Disk Cleaner. Fix Your \"System Data\" Storage",
+      "url": "https://www.producthunt.com/products/freeupmymac?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 89,
+      "commentsCount": 7,
+      "createdAt": "2026-01-11T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/3a94d58c-c74f-4d5a-838e-56601e04ee60.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Mac"
+            }
+          },
+          {
+            "node": {
+              "name": "SaaS"
+            }
+          },
+          {
+            "node": {
+              "name": "Apple"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1058111",
       "name": "Guessly",
       "tagline": "A daily mini guessing game that roasts you when you fail",
@@ -213,37 +244,6 @@
           {
             "node": {
               "name": "Games"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1058770",
-      "name": "FreeUpMyMac",
-      "tagline": "A Mac Disk Cleaner. Fix Your \"System Data\" Storage",
-      "url": "https://www.producthunt.com/products/freeupmymac?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 88,
-      "commentsCount": 7,
-      "createdAt": "2026-01-11T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/3a94d58c-c74f-4d5a-838e-56601e04ee60.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Mac"
-            }
-          },
-          {
-            "node": {
-              "name": "SaaS"
-            }
-          },
-          {
-            "node": {
-              "name": "Apple"
             }
           }
         ]
