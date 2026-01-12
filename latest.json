@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-01-12T21:21:40.317Z",
+  "fetchedAt": "2026-01-12T21:41:43.775Z",
   "posts": [
     {
       "id": "1059610",
       "name": "Atlas.new",
       "tagline": "The AI agent for maps and spatial data",
       "url": "https://www.producthunt.com/products/atlas-co-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 356,
-      "commentsCount": 21,
+      "votesCount": 364,
+      "commentsCount": 22,
       "createdAt": "2026-01-12T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/5f776ac5-f348-4e59-911f-57ca2f939066.png?auto=format"
@@ -68,7 +68,7 @@
       "name": "Trophy 1.0",
       "tagline": "Developer APIs for gamification: streaks, XP, badges, ranks",
       "url": "https://www.producthunt.com/products/trophy-1-0?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 271,
+      "votesCount": 274,
       "commentsCount": 35,
       "createdAt": "2026-01-12T08:01:00Z",
       "thumbnail": {
@@ -99,7 +99,7 @@
       "name": "Superdesign Prompt Library",
       "tagline": "Design prompts for style, animation, components",
       "url": "https://www.producthunt.com/products/superdesign?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 230,
+      "votesCount": 235,
       "commentsCount": 18,
       "createdAt": "2026-01-12T08:01:00Z",
       "thumbnail": {
@@ -192,7 +192,7 @@
       "name": "Adject v1.5",
       "tagline": "Create hyper-realistic product images & videos instantly",
       "url": "https://www.producthunt.com/products/adject?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 126,
+      "votesCount": 129,
       "commentsCount": 19,
       "createdAt": "2026-01-12T08:01:00Z",
       "thumbnail": {
@@ -224,7 +224,7 @@
       "tagline": "Code reviews for the AI era",
       "url": "https://www.producthunt.com/products/cubic?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 121,
-      "commentsCount": 5,
+      "commentsCount": 6,
       "createdAt": "2026-01-12T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/a87b4a82-7d80-4808-b9f4-a615b8d20a3e.png?auto=format"
@@ -416,6 +416,37 @@
       }
     },
     {
+      "id": "1054792",
+      "name": "Surfn AI",
+      "tagline": "Build beautiful AI agent pages from your content in minutes",
+      "url": "https://www.producthunt.com/products/surfn-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 30,
+      "commentsCount": 16,
+      "createdAt": "2026-01-12T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/05795e89-a5f8-4a30-b7e6-5675cbbe6f99.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "No-Code"
+            }
+          },
+          {
+            "node": {
+              "name": "Marketing automation"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1061031",
       "name": "aOCR",
       "tagline": "API for converting complex documents into structured data",
@@ -508,37 +539,6 @@
           {
             "node": {
               "name": "Menu Bar Apps"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1054792",
-      "name": "Surfn AI",
-      "tagline": "Build beautiful AI agent pages from your content in minutes",
-      "url": "https://www.producthunt.com/products/surfn-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 25,
-      "commentsCount": 16,
-      "createdAt": "2026-01-12T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/05795e89-a5f8-4a30-b7e6-5675cbbe6f99.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          },
-          {
-            "node": {
-              "name": "No-Code"
-            }
-          },
-          {
-            "node": {
-              "name": "Marketing automation"
             }
           }
         ]
