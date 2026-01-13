@@ -1,12 +1,12 @@
 {
-  "fetchedAt": "2026-01-13T15:47:43.461Z",
+  "fetchedAt": "2026-01-13T16:15:22.796Z",
   "posts": [
     {
       "id": "1062017",
       "name": "Cowork",
       "tagline": "Turn Claude into your digital coworker",
       "url": "https://www.producthunt.com/products/cowork?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 325,
+      "votesCount": 339,
       "commentsCount": 10,
       "createdAt": "2026-01-13T08:01:00Z",
       "thumbnail": {
@@ -37,8 +37,8 @@
       "name": "Bookmarkify",
       "tagline": "Collect websites, images, and videos into visual boards",
       "url": "https://www.producthunt.com/products/bookmarkify-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 234,
-      "commentsCount": 39,
+      "votesCount": 240,
+      "commentsCount": 40,
       "createdAt": "2026-01-13T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/0ebfaa47-3745-44c5-9514-da0f349b53d1.png?auto=format"
@@ -68,7 +68,7 @@
       "name": "Atoms",
       "tagline": "AI team that researches, plans, + ships apps w/ code export",
       "url": "https://www.producthunt.com/products/atoms-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 196,
+      "votesCount": 198,
       "commentsCount": 34,
       "createdAt": "2026-01-13T08:01:00Z",
       "thumbnail": {
@@ -99,7 +99,7 @@
       "name": "Alpine",
       "tagline": "All your work in one place: docs, tasks, chat, AI and more",
       "url": "https://www.producthunt.com/products/alpine?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 167,
+      "votesCount": 174,
       "commentsCount": 13,
       "createdAt": "2026-01-13T08:01:00Z",
       "thumbnail": {
@@ -130,7 +130,7 @@
       "name": "Phia",
       "tagline": "Create beautiful screen recordings automatically",
       "url": "https://www.producthunt.com/products/phia?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 137,
+      "votesCount": 139,
       "commentsCount": 5,
       "createdAt": "2026-01-13T08:01:00Z",
       "thumbnail": {
@@ -156,7 +156,7 @@
       "name": "Recent.dev",
       "tagline": "Real-time changelog updates for your favorite tools",
       "url": "https://www.producthunt.com/products/recent-dev?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 118,
+      "votesCount": 119,
       "commentsCount": 29,
       "createdAt": "2026-01-13T08:01:00Z",
       "thumbnail": {
@@ -187,7 +187,7 @@
       "name": "Voquill",
       "tagline": "The open source WisprFlow alternative",
       "url": "https://www.producthunt.com/products/voquill?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 112,
+      "votesCount": 115,
       "commentsCount": 7,
       "createdAt": "2026-01-13T08:01:00Z",
       "thumbnail": {
@@ -519,6 +519,37 @@
       }
     },
     {
+      "id": "1053454",
+      "name": "GenPT",
+      "tagline": "One-click AI-native security testing for web apps",
+      "url": "https://www.producthunt.com/products/genpt?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 42,
+      "commentsCount": 13,
+      "createdAt": "2026-01-13T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/3aa10c63-91e3-450d-84c5-a1f732752c94.gif?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "Security"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1051908",
       "name": "Beam Browser",
       "tagline": "iPad browser with vertical tabs, spaces, and command search",
@@ -575,37 +606,6 @@
           {
             "node": {
               "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1053454",
-      "name": "GenPT",
-      "tagline": "One-click AI-native security testing for web apps",
-      "url": "https://www.producthunt.com/products/genpt?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 30,
-      "commentsCount": 12,
-      "createdAt": "2026-01-13T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/3aa10c63-91e3-450d-84c5-a1f732752c94.gif?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          },
-          {
-            "node": {
-              "name": "Security"
             }
           }
         ]
