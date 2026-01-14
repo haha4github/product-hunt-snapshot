@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-01-14T12:35:28.269Z",
+  "fetchedAt": "2026-01-14T13:27:26.591Z",
   "posts": [
     {
       "id": "1060511",
       "name": "remio 2.0",
       "tagline": "A second brain without headaches",
       "url": "https://www.producthunt.com/products/remio-ai-note-taker?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 177,
-      "commentsCount": 36,
+      "votesCount": 200,
+      "commentsCount": 38,
       "createdAt": "2026-01-14T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/80836b4c-2182-4735-8276-1a10ec3f890e.jpeg?auto=format"
@@ -32,7 +32,7 @@
       "name": "Vellum",
       "tagline": "Build AI agents using plain English to do your boring tasks",
       "url": "https://www.producthunt.com/products/vellum-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 135,
+      "votesCount": 162,
       "commentsCount": 5,
       "createdAt": "2026-01-14T08:01:00Z",
       "thumbnail": {
@@ -63,8 +63,8 @@
       "name": "Simpl.",
       "tagline": "A pleasant Postgres browser for working with real data",
       "url": "https://www.producthunt.com/products/simpl-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 111,
-      "commentsCount": 4,
+      "votesCount": 125,
+      "commentsCount": 7,
       "createdAt": "2026-01-14T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/8baeb441-d436-4ad9-9ff4-a865f9b315cc.png?auto=format"
@@ -89,7 +89,7 @@
       "name": "0xCal",
       "tagline": "Minimal calorie tracking for people who care about apps",
       "url": "https://www.producthunt.com/products/0xcal?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 99,
+      "votesCount": 110,
       "commentsCount": 15,
       "createdAt": "2026-01-14T08:01:00Z",
       "thumbnail": {
@@ -120,7 +120,7 @@
       "name": "Undiscord",
       "tagline": "Bulk leave discord servers",
       "url": "https://www.producthunt.com/products/undiscord?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 91,
+      "votesCount": 99,
       "commentsCount": 5,
       "createdAt": "2026-01-14T08:01:00Z",
       "thumbnail": {
@@ -151,8 +151,8 @@
       "name": "Ekamoira Google Search Console MCP",
       "tagline": "Query Search Console in Claude & ChatGPT",
       "url": "https://www.producthunt.com/products/ekamoira-gsc-mcp?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 87,
-      "commentsCount": 14,
+      "votesCount": 89,
+      "commentsCount": 16,
       "createdAt": "2026-01-14T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/d76d654f-6508-4710-a0e7-3ad85c23f303.gif?auto=format"
@@ -167,6 +167,37 @@
           {
             "node": {
               "name": "SEO"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1062345",
+      "name": "Papercuts",
+      "tagline": "Deploy AI agents to use your production app like a real user",
+      "url": "https://www.producthunt.com/products/papercuts?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 83,
+      "commentsCount": 5,
+      "createdAt": "2026-01-14T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/a1d8a98f-8bda-4c4b-a12f-6422a9c70a83.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "User Experience"
+            }
+          },
+          {
+            "node": {
+              "name": "Developer Tools"
             }
           },
           {
@@ -217,7 +248,7 @@
       "commentsCount": 1,
       "createdAt": "2026-01-14T08:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/5e9e9754-b8d9-4055-8730-279d7d3488fe.png?auto=format"
+        "url": "https://ph-files.imgix.net/0982573c-092f-49ea-ba7d-5ae16961482f.png?auto=format"
       },
       "topics": {
         "edges": [
@@ -245,18 +276,23 @@
       }
     },
     {
-      "id": "1062345",
-      "name": "Papercuts",
-      "tagline": "Deploy AI agents to use your production app like a real user",
-      "url": "https://www.producthunt.com/products/papercuts?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 82,
-      "commentsCount": 5,
+      "id": "1062495",
+      "name": "Taphouse",
+      "tagline": "The missing GUI for Homebrew",
+      "url": "https://www.producthunt.com/products/taphouse?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 81,
+      "commentsCount": 2,
       "createdAt": "2026-01-14T08:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/a1d8a98f-8bda-4c4b-a12f-6422a9c70a83.png?auto=format"
+        "url": "https://ph-files.imgix.net/b3b41ee3-b06b-48d1-be97-d0e4e8e5fede.png?auto=format"
       },
       "topics": {
         "edges": [
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
           {
             "node": {
               "name": "User Experience"
@@ -265,6 +301,32 @@
           {
             "node": {
               "name": "Developer Tools"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1059514",
+      "name": "BlocPad",
+      "tagline": "Projects, tasks, and wikis — without locking you in halfway.",
+      "url": "https://www.producthunt.com/products/blocpad?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 79,
+      "commentsCount": 9,
+      "createdAt": "2026-01-14T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/41bd18da-e70c-42de-a09e-5478e7629b0d.svg?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Task Management"
             }
           },
           {
@@ -343,15 +405,15 @@
       }
     },
     {
-      "id": "1062495",
-      "name": "Taphouse",
-      "tagline": "The missing GUI for Homebrew",
-      "url": "https://www.producthunt.com/products/taphouse?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 78,
-      "commentsCount": 1,
+      "id": "1062486",
+      "name": "One Dot",
+      "tagline": "Visualize your life in dots with a daily-updating wallpaper",
+      "url": "https://www.producthunt.com/products/one-dot-a-living-timeline-wallpaper?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 77,
+      "commentsCount": 4,
       "createdAt": "2026-01-14T08:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/b3b41ee3-b06b-48d1-be97-d0e4e8e5fede.png?auto=format"
+        "url": "https://ph-files.imgix.net/4c067d81-a0bc-405c-a8c2-0731d5682803.png?auto=format"
       },
       "topics": {
         "edges": [
@@ -362,12 +424,12 @@
           },
           {
             "node": {
-              "name": "User Experience"
+              "name": "Calendar"
             }
           },
           {
             "node": {
-              "name": "Developer Tools"
+              "name": "Wallpaper"
             }
           }
         ]
@@ -378,7 +440,7 @@
       "name": "Knowns CLI",
       "tagline": "AI-first CLI for task management and documentation.",
       "url": "https://www.producthunt.com/products/knowns-cli?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 76,
+      "votesCount": 77,
       "commentsCount": 6,
       "createdAt": "2026-01-14T08:01:00Z",
       "thumbnail": {
@@ -405,18 +467,23 @@
       }
     },
     {
-      "id": "1062486",
-      "name": "One Dot",
-      "tagline": "Visualize your life in dots with a daily-updating wallpaper",
-      "url": "https://www.producthunt.com/products/one-dot-a-living-timeline-wallpaper?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 76,
-      "commentsCount": 3,
+      "id": "1054218",
+      "name": "Bloka",
+      "tagline": "AI turns any object into your focus trigger",
+      "url": "https://www.producthunt.com/products/bloka?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 74,
+      "commentsCount": 8,
       "createdAt": "2026-01-14T08:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/4c067d81-a0bc-405c-a8c2-0731d5682803.png?auto=format"
+        "url": "https://ph-files.imgix.net/e1f4fa4c-1e9a-457a-a2f5-7b191c2bf6f6.png?auto=format"
       },
       "topics": {
         "edges": [
+          {
+            "node": {
+              "name": "iOS"
+            }
+          },
           {
             "node": {
               "name": "Productivity"
@@ -424,12 +491,7 @@
           },
           {
             "node": {
-              "name": "Calendar"
-            }
-          },
-          {
-            "node": {
-              "name": "Wallpaper"
+              "name": "Artificial Intelligence"
             }
           }
         ]
@@ -441,7 +503,7 @@
       "tagline": "Convert, edit, and export videos & animations locally on Mac",
       "url": "https://www.producthunt.com/products/transmov-video-animation-tool?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 74,
-      "commentsCount": 3,
+      "commentsCount": 4,
       "createdAt": "2026-01-14T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/4f08ef7a-e28c-4ae6-b84d-54c128d32fb6.png?auto=format"
@@ -466,68 +528,6 @@
           {
             "node": {
               "name": "Animation"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1059514",
-      "name": "BlocPad",
-      "tagline": "Projects, tasks, and wikis — without locking you in halfway.",
-      "url": "https://www.producthunt.com/products/blocpad?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 73,
-      "commentsCount": 7,
-      "createdAt": "2026-01-14T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/41bd18da-e70c-42de-a09e-5478e7629b0d.svg?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Task Management"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1054218",
-      "name": "Bloka",
-      "tagline": "AI turns any object into your focus trigger",
-      "url": "https://www.producthunt.com/products/bloka?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 73,
-      "commentsCount": 5,
-      "createdAt": "2026-01-14T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/e1f4fa4c-1e9a-457a-a2f5-7b191c2bf6f6.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "iOS"
-            }
-          },
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
             }
           }
         ]
@@ -605,8 +605,8 @@
       "name": "Relinq",
       "tagline": "Instantly convert music links between platforms",
       "url": "https://www.producthunt.com/products/relinq?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 68,
-      "commentsCount": 2,
+      "votesCount": 66,
+      "commentsCount": 3,
       "createdAt": "2026-01-14T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/ee9f6f74-743c-4198-8282-d5ca31d28edd.png?auto=format"
