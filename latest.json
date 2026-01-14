@@ -1,12 +1,12 @@
 {
-  "fetchedAt": "2026-01-14T20:31:07.670Z",
+  "fetchedAt": "2026-01-14T20:50:11.452Z",
   "posts": [
     {
       "id": "1060511",
       "name": "remio 2.0",
       "tagline": "Captures your work to build a searchable knowledge base",
       "url": "https://www.producthunt.com/products/remio-ai-note-taker?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 336,
+      "votesCount": 338,
       "commentsCount": 50,
       "createdAt": "2026-01-14T08:01:00Z",
       "thumbnail": {
@@ -32,7 +32,7 @@
       "name": "Vellum",
       "tagline": "Build AI agents using plain English to do your boring tasks",
       "url": "https://www.producthunt.com/products/vellum-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 306,
+      "votesCount": 314,
       "commentsCount": 31,
       "createdAt": "2026-01-14T08:01:00Z",
       "thumbnail": {
@@ -63,8 +63,8 @@
       "name": "Simpl.",
       "tagline": "A pleasant Postgres browser for working with real data",
       "url": "https://www.producthunt.com/products/simpl-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 234,
-      "commentsCount": 20,
+      "votesCount": 236,
+      "commentsCount": 21,
       "createdAt": "2026-01-14T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/8baeb441-d436-4ad9-9ff4-a865f9b315cc.png?auto=format"
@@ -89,7 +89,7 @@
       "name": "0xCal",
       "tagline": "Type + capture your meals to log cals w/ Apple Health Sync",
       "url": "https://www.producthunt.com/products/0xcal?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 161,
+      "votesCount": 162,
       "commentsCount": 32,
       "createdAt": "2026-01-14T08:01:00Z",
       "thumbnail": {
@@ -218,7 +218,7 @@
       "name": "Redlight Greenlight for Claude Code",
       "tagline": "Accept or reject Claude Code permission from anywhere on Mac",
       "url": "https://www.producthunt.com/products/redlight-greenlight-for-claude-code?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 106,
+      "votesCount": 107,
       "commentsCount": 4,
       "createdAt": "2026-01-14T08:01:00Z",
       "thumbnail": {
@@ -400,11 +400,42 @@
       }
     },
     {
+      "id": "1056659",
+      "name": "Langfinity AI",
+      "tagline": "Translate business conversations into any language",
+      "url": "https://www.producthunt.com/products/langfinity?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 89,
+      "commentsCount": 12,
+      "createdAt": "2026-01-14T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/cba03621-a2b1-4e98-9cc8-3b4f76b80489.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "SaaS"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1062308",
       "name": "TabDog",
       "tagline": "macOS menu bar app for managing browser tabs and apps",
       "url": "https://www.producthunt.com/products/tabdog?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 88,
+      "votesCount": 89,
       "commentsCount": 3,
       "createdAt": "2026-01-14T08:01:00Z",
       "thumbnail": {
@@ -430,37 +461,6 @@
           {
             "node": {
               "name": "Menu Bar Apps"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1056659",
-      "name": "Langfinity AI",
-      "tagline": "Translate business conversations into any language",
-      "url": "https://www.producthunt.com/products/langfinity?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 88,
-      "commentsCount": 12,
-      "createdAt": "2026-01-14T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/cba03621-a2b1-4e98-9cc8-3b4f76b80489.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "SaaS"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
             }
           }
         ]
@@ -600,7 +600,7 @@
       "name": "Web Accessibility Testing MCP",
       "tagline": " Give LLMs access to web accessibility testing APIs",
       "url": "https://www.producthunt.com/products/web-accessibility-testing-mcp?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 75,
+      "votesCount": 77,
       "commentsCount": 3,
       "createdAt": "2026-01-14T08:01:00Z",
       "thumbnail": {
