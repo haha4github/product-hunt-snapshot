@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-01-14T07:30:11.829Z",
+  "fetchedAt": "2026-01-14T07:48:58.177Z",
   "posts": [
     {
       "id": "1059976",
@@ -37,8 +37,8 @@
       "name": "Cowork",
       "tagline": "Turn Claude into your digital coworker",
       "url": "https://www.producthunt.com/products/claude?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 574,
-      "commentsCount": 28,
+      "votesCount": 575,
+      "commentsCount": 29,
       "createdAt": "2026-01-13T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/a56a42f9-2ef1-4f7d-bbc1-421c24f2c0da.png?auto=format"
@@ -68,7 +68,7 @@
       "name": "Bookmarkify",
       "tagline": "Collect websites, images, and videos into visual boards",
       "url": "https://www.producthunt.com/products/bookmarkify-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 340,
+      "votesCount": 345,
       "commentsCount": 44,
       "createdAt": "2026-01-13T08:01:00Z",
       "thumbnail": {
@@ -99,8 +99,8 @@
       "name": "Alpine",
       "tagline": "All your work in one place: docs, tasks, chat, AI and more",
       "url": "https://www.producthunt.com/products/alpine?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 230,
-      "commentsCount": 26,
+      "votesCount": 233,
+      "commentsCount": 27,
       "createdAt": "2026-01-13T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/f4ad9a86-cd40-4d0f-8e0a-3a0a78723813.png?auto=format"
@@ -130,8 +130,8 @@
       "name": "Phia",
       "tagline": "Create beautiful screen recordings automatically",
       "url": "https://www.producthunt.com/products/phia?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 209,
-      "commentsCount": 18,
+      "votesCount": 214,
+      "commentsCount": 19,
       "createdAt": "2026-01-13T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/e8adb9af-05fe-41d9-84a3-a70714ab3ee8.png?auto=format"
@@ -426,6 +426,37 @@
       }
     },
     {
+      "id": "1056258",
+      "name": "Dawiso AI Context Layer",
+      "tagline": "Connect AI agents to governed metadata via MCP",
+      "url": "https://www.producthunt.com/products/dawiso?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 85,
+      "commentsCount": 5,
+      "createdAt": "2026-01-13T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/9c510e20-7da6-44b1-8db7-814b5e98253f.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Analytics"
+            }
+          },
+          {
+            "node": {
+              "name": "SaaS"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1062139",
       "name": "Hivinq",
       "tagline": "Copilot for customer support in Slack",
@@ -482,37 +513,6 @@
           {
             "node": {
               "name": "Audio"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1056258",
-      "name": "Dawiso AI Context Layer",
-      "tagline": "Connect AI agents to governed metadata via MCP",
-      "url": "https://www.producthunt.com/products/dawiso?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 84,
-      "commentsCount": 5,
-      "createdAt": "2026-01-13T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/9c510e20-7da6-44b1-8db7-814b5e98253f.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Analytics"
-            }
-          },
-          {
-            "node": {
-              "name": "SaaS"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
             }
           }
         ]
