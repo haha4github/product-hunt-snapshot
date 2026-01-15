@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-01-15T03:52:17.726Z",
+  "fetchedAt": "2026-01-15T04:38:44.953Z",
   "posts": [
     {
       "id": "1060511",
       "name": "remio 2.0",
       "tagline": "Captures your work to build a searchable knowledge base",
       "url": "https://www.producthunt.com/products/remio-ai-note-taker?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 401,
-      "commentsCount": 53,
+      "votesCount": 412,
+      "commentsCount": 54,
       "createdAt": "2026-01-14T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/80836b4c-2182-4735-8276-1a10ec3f890e.jpeg?auto=format"
@@ -32,7 +32,7 @@
       "name": "Vellum",
       "tagline": "Build AI agents using plain English to do your boring tasks",
       "url": "https://www.producthunt.com/products/vellum-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 367,
+      "votesCount": 370,
       "commentsCount": 39,
       "createdAt": "2026-01-14T08:01:00Z",
       "thumbnail": {
@@ -63,7 +63,7 @@
       "name": "Simpl.",
       "tagline": "A pleasant Postgres browser for working with real data",
       "url": "https://www.producthunt.com/products/simpl-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 273,
+      "votesCount": 274,
       "commentsCount": 32,
       "createdAt": "2026-01-14T08:01:00Z",
       "thumbnail": {
@@ -89,7 +89,7 @@
       "name": "0xCal",
       "tagline": "Type + capture your meals to log cals w/ Apple Health Sync",
       "url": "https://www.producthunt.com/products/0xcal?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 183,
+      "votesCount": 184,
       "commentsCount": 35,
       "createdAt": "2026-01-14T08:01:00Z",
       "thumbnail": {
@@ -120,7 +120,7 @@
       "name": "Undiscord",
       "tagline": "Bulk leave discord servers",
       "url": "https://www.producthunt.com/products/undiscord?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 170,
+      "votesCount": 176,
       "commentsCount": 13,
       "createdAt": "2026-01-14T08:01:00Z",
       "thumbnail": {
@@ -276,6 +276,37 @@
       }
     },
     {
+      "id": "1062495",
+      "name": "Taphouse",
+      "tagline": "The missing GUI for Homebrew",
+      "url": "https://www.producthunt.com/products/taphouse?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 102,
+      "commentsCount": 5,
+      "createdAt": "2026-01-14T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/b3b41ee3-b06b-48d1-be97-d0e4e8e5fede.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "User Experience"
+            }
+          },
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1062308",
       "name": "TabDog",
       "tagline": "macOS menu bar app for managing browser tabs and apps",
@@ -306,37 +337,6 @@
           {
             "node": {
               "name": "Menu Bar Apps"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1062495",
-      "name": "Taphouse",
-      "tagline": "The missing GUI for Homebrew",
-      "url": "https://www.producthunt.com/products/taphouse?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 101,
-      "commentsCount": 5,
-      "createdAt": "2026-01-14T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/b3b41ee3-b06b-48d1-be97-d0e4e8e5fede.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "User Experience"
-            }
-          },
-          {
-            "node": {
-              "name": "Developer Tools"
             }
           }
         ]
