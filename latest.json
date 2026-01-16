@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-01-16T15:32:50.873Z",
+  "fetchedAt": "2026-01-16T15:51:48.241Z",
   "posts": [
     {
       "id": "1063478",
       "name": "1Code",
       "tagline": "Open source Cursor-like UI for Claude Code",
       "url": "https://www.producthunt.com/products/1code-cursor-like-ui-for-claude-code?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 253,
-      "commentsCount": 17,
+      "votesCount": 271,
+      "commentsCount": 20,
       "createdAt": "2026-01-16T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/00adb608-d473-4954-be74-2960df59ef2d.png?auto=format"
@@ -42,7 +42,7 @@
       "name": "Boom video for Mac",
       "tagline": "Present live, record your screen, look pro on camera",
       "url": "https://www.producthunt.com/products/boom-6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 189,
+      "votesCount": 194,
       "commentsCount": 10,
       "createdAt": "2026-01-16T08:01:00Z",
       "thumbnail": {
@@ -73,7 +73,7 @@
       "name": "TranslateGemma ",
       "tagline": "Open translation on Google models, supporting 55 languages",
       "url": "https://www.producthunt.com/products/translategemma?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 169,
+      "votesCount": 178,
       "commentsCount": 3,
       "createdAt": "2026-01-16T08:01:00Z",
       "thumbnail": {
@@ -104,7 +104,7 @@
       "name": "Dynamic Content by beehiiv",
       "tagline": "Now you can tailor a single newsletter for every reader",
       "url": "https://www.producthunt.com/products/beehiiv?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 125,
+      "votesCount": 124,
       "commentsCount": 5,
       "createdAt": "2026-01-16T08:01:00Z",
       "thumbnail": {
@@ -125,6 +125,37 @@
           {
             "node": {
               "name": "Email Marketing"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1063489",
+      "name": "ChatGPT Translate",
+      "tagline": "Translate with ChatGPT",
+      "url": "https://www.producthunt.com/products/chatgpt-translate?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 123,
+      "commentsCount": 1,
+      "createdAt": "2026-01-16T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/e15187c1-730e-4b37-bf2f-a0d766787448.jpeg?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Writing"
+            }
+          },
+          {
+            "node": {
+              "name": "Marketing"
+            }
+          },
+          {
+            "node": {
+              "name": "SEO"
             }
           }
         ]
@@ -156,37 +187,6 @@
           {
             "node": {
               "name": "Games"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1063489",
-      "name": "ChatGPT Translate",
-      "tagline": "Translate with ChatGPT",
-      "url": "https://www.producthunt.com/products/chatgpt-translate?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 116,
-      "commentsCount": 1,
-      "createdAt": "2026-01-16T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/e15187c1-730e-4b37-bf2f-a0d766787448.jpeg?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Writing"
-            }
-          },
-          {
-            "node": {
-              "name": "Marketing"
-            }
-          },
-          {
-            "node": {
-              "name": "SEO"
             }
           }
         ]
@@ -343,6 +343,37 @@
       }
     },
     {
+      "id": "1063468",
+      "name": "Design in Figma using Cursor Agent + MCP",
+      "tagline": "Design automation in Figma using AI and natural language",
+      "url": "https://www.producthunt.com/products/cursor-ai-for-figma?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 83,
+      "commentsCount": 4,
+      "createdAt": "2026-01-16T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/c265c571-f773-47b5-97f3-d8c3a4355830.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Design Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1063560",
       "name": "LocalMark Studio",
       "tagline": "A fast, local-first Markdown editor for real work.",
@@ -415,43 +446,12 @@
       }
     },
     {
-      "id": "1063468",
-      "name": "Design in Figma using Cursor Agent + MCP",
-      "tagline": "Design automation in Figma using AI and natural language",
-      "url": "https://www.producthunt.com/products/cursor-ai-for-figma?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 83,
-      "commentsCount": 4,
-      "createdAt": "2026-01-16T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/c265c571-f773-47b5-97f3-d8c3a4355830.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Design Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1051364",
       "name": "Waylight for macOS",
       "tagline": "ChatGPT, but with context from your tabs, meetings, and docs",
       "url": "https://www.producthunt.com/products/waylight?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 80,
-      "commentsCount": 3,
+      "votesCount": 81,
+      "commentsCount": 4,
       "createdAt": "2026-01-16T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/45ef6c79-3480-4a88-af1f-c43eb96e3fb5.svg?auto=format"
@@ -481,7 +481,7 @@
       "name": "Clodo",
       "tagline": "Execute outbound at the speed of thought.",
       "url": "https://www.producthunt.com/products/clodo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 77,
+      "votesCount": 78,
       "commentsCount": 7,
       "createdAt": "2026-01-16T08:01:00Z",
       "thumbnail": {
