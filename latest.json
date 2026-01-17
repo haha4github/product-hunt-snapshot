@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-01-17T06:53:27.719Z",
+  "fetchedAt": "2026-01-17T07:20:07.222Z",
   "posts": [
     {
       "id": "1063478",
       "name": "1Code",
       "tagline": "Open source Cursor-like UI for Claude Code",
       "url": "https://www.producthunt.com/products/1code-cursor-like-ui-for-claude-code?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 435,
-      "commentsCount": 41,
+      "votesCount": 439,
+      "commentsCount": 42,
       "createdAt": "2026-01-16T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/00adb608-d473-4954-be74-2960df59ef2d.png?auto=format"
@@ -42,7 +42,7 @@
       "name": "Boom video for Mac",
       "tagline": "Present live, record your screen, look pro on camera",
       "url": "https://www.producthunt.com/products/boom-6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 330,
+      "votesCount": 335,
       "commentsCount": 30,
       "createdAt": "2026-01-16T08:01:00Z",
       "thumbnail": {
@@ -73,7 +73,7 @@
       "name": "TranslateGemma ",
       "tagline": "Open translation on Google models, supporting 55 languages",
       "url": "https://www.producthunt.com/products/translategemma?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 251,
+      "votesCount": 259,
       "commentsCount": 6,
       "createdAt": "2026-01-16T08:01:00Z",
       "thumbnail": {
@@ -135,7 +135,7 @@
       "name": "Stracti",
       "tagline": "Build AI game bots with no code required",
       "url": "https://www.producthunt.com/products/stractiai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 163,
+      "votesCount": 164,
       "commentsCount": 6,
       "createdAt": "2026-01-16T08:01:00Z",
       "thumbnail": {
@@ -166,8 +166,8 @@
       "name": "ChatGPT Translate",
       "tagline": "Translate with ChatGPT",
       "url": "https://www.producthunt.com/products/chatgpt-translate?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 150,
-      "commentsCount": 3,
+      "votesCount": 152,
+      "commentsCount": 4,
       "createdAt": "2026-01-16T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/e15187c1-730e-4b37-bf2f-a0d766787448.jpeg?auto=format"
@@ -197,7 +197,7 @@
       "name": "Orca",
       "tagline": "The fun way to learn a new language ",
       "url": "https://www.producthunt.com/products/orca-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 130,
+      "votesCount": 132,
       "commentsCount": 27,
       "createdAt": "2026-01-16T08:01:00Z",
       "thumbnail": {
@@ -348,6 +348,37 @@
       }
     },
     {
+      "id": "1063325",
+      "name": "Festiveo ",
+      "tagline": "Discover festivals, plan your trips, and never miss a beat",
+      "url": "https://www.producthunt.com/products/festiveo-your-music-festival-companion?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 94,
+      "commentsCount": 8,
+      "createdAt": "2026-01-16T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/d9f2a658-c3e2-4ded-9a6c-99fa63012a7e.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Music"
+            }
+          },
+          {
+            "node": {
+              "name": "Global Nomad"
+            }
+          },
+          {
+            "node": {
+              "name": "Lifestyle"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1063468",
       "name": "Design in Figma using Cursor Agent + MCP",
       "tagline": "Design automation in Figma using AI and natural language",
@@ -373,37 +404,6 @@
           {
             "node": {
               "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1063325",
-      "name": "Festiveo ",
-      "tagline": "Discover festivals, plan your trips, and never miss a beat",
-      "url": "https://www.producthunt.com/products/festiveo-your-music-festival-companion?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 93,
-      "commentsCount": 6,
-      "createdAt": "2026-01-16T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/d9f2a658-c3e2-4ded-9a6c-99fa63012a7e.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Music"
-            }
-          },
-          {
-            "node": {
-              "name": "Global Nomad"
-            }
-          },
-          {
-            "node": {
-              "name": "Lifestyle"
             }
           }
         ]
@@ -482,7 +482,7 @@
       "tagline": "Private, offline AI for iPhone, and iPad",
       "url": "https://www.producthunt.com/products/lekh-ai-private-ai-on-your-device?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 75,
-      "commentsCount": 3,
+      "commentsCount": 4,
       "createdAt": "2026-01-16T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/05c2e2b9-708d-4ef4-ba71-b294f083b493.png?auto=format"
@@ -529,42 +529,11 @@
       }
     },
     {
-      "id": "1062952",
-      "name": "Serro (Early Access)",
-      "tagline": "Temporal knowledge graphs for fast moving engineering teams",
-      "url": "https://www.producthunt.com/products/serro-early-access?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 44,
-      "commentsCount": 12,
-      "createdAt": "2026-01-16T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/577af6ee-59dd-4bd4-a116-40ada5983451.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Software Engineering"
-            }
-          },
-          {
-            "node": {
-              "name": "Meetings"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1058735",
       "name": "Vocably (a language-learning tool)",
       "tagline": "AI-powered cross-platform dictionary and learning system.",
       "url": "https://www.producthunt.com/products/vocably-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 43,
+      "votesCount": 44,
       "commentsCount": 9,
       "createdAt": "2026-01-16T08:01:00Z",
       "thumbnail": {
@@ -595,6 +564,37 @@
           {
             "node": {
               "name": "GitHub"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1062952",
+      "name": "Serro (Early Access)",
+      "tagline": "Temporal knowledge graphs for fast moving engineering teams",
+      "url": "https://www.producthunt.com/products/serro-early-access?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 44,
+      "commentsCount": 12,
+      "createdAt": "2026-01-16T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/577af6ee-59dd-4bd4-a116-40ada5983451.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Software Engineering"
+            }
+          },
+          {
+            "node": {
+              "name": "Meetings"
             }
           }
         ]
