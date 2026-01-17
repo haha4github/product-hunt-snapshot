@@ -1,12 +1,12 @@
 {
-  "fetchedAt": "2026-01-17T13:19:28.089Z",
+  "fetchedAt": "2026-01-17T13:43:24.098Z",
   "posts": [
     {
       "id": "1063756",
       "name": "Sled",
       "tagline": "Run your coding agent from your phone, with voice",
       "url": "https://www.producthunt.com/products/sled-voice-interface-for-claude-code?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 139,
+      "votesCount": 144,
       "commentsCount": 7,
       "createdAt": "2026-01-17T08:01:00Z",
       "thumbnail": {
@@ -42,7 +42,7 @@
       "name": "Dewdrop",
       "tagline": "Turn your forgotten bookmarks into daily discoveries",
       "url": "https://www.producthunt.com/products/dewdrop-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 131,
+      "votesCount": 137,
       "commentsCount": 3,
       "createdAt": "2026-01-17T08:01:00Z",
       "thumbnail": {
@@ -73,7 +73,7 @@
       "name": "Chessmaster AI",
       "tagline": "Transform Your Chess Skills with AI-Powered Training",
       "url": "https://www.producthunt.com/products/chessmaster-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 119,
+      "votesCount": 121,
       "commentsCount": 6,
       "createdAt": "2026-01-17T08:01:00Z",
       "thumbnail": {
@@ -104,7 +104,7 @@
       "name": "StealthHound",
       "tagline": "Your browser's blind spots, Exposed.",
       "url": "https://www.producthunt.com/products/stealthhound?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 114,
+      "votesCount": 115,
       "commentsCount": 9,
       "createdAt": "2026-01-17T08:01:00Z",
       "thumbnail": {
@@ -140,7 +140,7 @@
       "name": "LinkNotch",
       "tagline": "Turn your MacBook Notch into a fast access bookmark bar.",
       "url": "https://www.producthunt.com/products/linknotch-link-drawer-for-your-macbook?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 100,
+      "votesCount": 101,
       "commentsCount": 3,
       "createdAt": "2026-01-17T08:01:00Z",
       "thumbnail": {
@@ -260,7 +260,7 @@
       "tagline": "One App, All Things Family (Finances, Docs, Location & more)",
       "url": "https://www.producthunt.com/products/superfam-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 37,
-      "commentsCount": 10,
+      "commentsCount": 11,
       "createdAt": "2026-01-17T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/dea1f6be-c571-47c4-bf31-5b759534bf05.png?auto=format"
@@ -290,7 +290,7 @@
       "name": "LiFE RPG 2.0",
       "tagline": "Gamify your Life, Play your own story.",
       "url": "https://www.producthunt.com/products/life-rpg?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 24,
+      "votesCount": 25,
       "commentsCount": 4,
       "createdAt": "2026-01-17T08:01:00Z",
       "thumbnail": {
@@ -311,6 +311,37 @@
           {
             "node": {
               "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1063853",
+      "name": "Bürolingo",
+      "tagline": "Duolingo-style lessons for surviving German paperwork.",
+      "url": "https://www.producthunt.com/products/burolingo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 10,
+      "commentsCount": 2,
+      "createdAt": "2026-01-17T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/3f5440f3-69ba-4af1-96f5-4da057a8a8ae.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Education"
+            }
+          },
+          {
+            "node": {
+              "name": "Games"
             }
           }
         ]
@@ -374,37 +405,6 @@
       }
     },
     {
-      "id": "1063853",
-      "name": "Bürolingo",
-      "tagline": "Duolingo-style lessons for surviving German paperwork.",
-      "url": "https://www.producthunt.com/products/burolingo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 7,
-      "commentsCount": 2,
-      "createdAt": "2026-01-17T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/3f5440f3-69ba-4af1-96f5-4da057a8a8ae.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Education"
-            }
-          },
-          {
-            "node": {
-              "name": "Games"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1062705",
       "name": "The Ultimate Guide to Umrah 2026",
       "tagline": "umrah packages",
@@ -430,7 +430,7 @@
       "name": "Fair Price Calculator",
       "tagline": "Compare. Analyse. Know the right price.",
       "url": "https://www.producthunt.com/products/propsoch-com?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 5,
+      "votesCount": 6,
       "commentsCount": 1,
       "createdAt": "2026-01-17T08:01:00Z",
       "thumbnail": {
