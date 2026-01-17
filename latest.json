@@ -1,12 +1,12 @@
 {
-  "fetchedAt": "2026-01-17T17:46:10.728Z",
+  "fetchedAt": "2026-01-17T17:58:43.100Z",
   "posts": [
     {
       "id": "1063756",
       "name": "Sled",
       "tagline": "Run your coding agent from your phone, with voice",
       "url": "https://www.producthunt.com/products/sled-voice-interface-for-claude-code?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 273,
+      "votesCount": 275,
       "commentsCount": 29,
       "createdAt": "2026-01-17T08:01:00Z",
       "thumbnail": {
@@ -73,7 +73,7 @@
       "name": "Chessmaster AI",
       "tagline": "Transform Your Chess Skills with AI-Powered Training",
       "url": "https://www.producthunt.com/products/chessmaster-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 170,
+      "votesCount": 172,
       "commentsCount": 8,
       "createdAt": "2026-01-17T08:01:00Z",
       "thumbnail": {
@@ -104,7 +104,7 @@
       "name": "StealthHound",
       "tagline": "Your browser's blind spots, Exposed.",
       "url": "https://www.producthunt.com/products/stealthhound?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 153,
+      "votesCount": 155,
       "commentsCount": 15,
       "createdAt": "2026-01-17T08:01:00Z",
       "thumbnail": {
@@ -171,8 +171,8 @@
       "name": "Colloqio",
       "tagline": "On-device AI - private, fast, always available",
       "url": "https://www.producthunt.com/products/colloqio-offline-ai-chat-app?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 109,
-      "commentsCount": 16,
+      "votesCount": 110,
+      "commentsCount": 19,
       "createdAt": "2026-01-17T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/71ba5d20-245a-4905-8f04-e7a7486d6b0c.png?auto=format"
@@ -317,6 +317,37 @@
       }
     },
     {
+      "id": "1061422",
+      "name": "Fleety",
+      "tagline": "Turn your docs into instant customer support",
+      "url": "https://www.producthunt.com/products/fleety?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 14,
+      "commentsCount": 1,
+      "createdAt": "2026-01-17T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/f4d616d7-f8dd-49ca-9b70-b185ee14d4b8.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Customer Communication"
+            }
+          },
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1063853",
       "name": "Bürolingo",
       "tagline": "Duolingo-style lessons for surviving German paperwork.",
@@ -363,37 +394,6 @@
           {
             "node": {
               "name": "SaaS"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1061422",
-      "name": "Fleety",
-      "tagline": "Turn your docs into instant customer support",
-      "url": "https://www.producthunt.com/products/fleety?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 10,
-      "commentsCount": 1,
-      "createdAt": "2026-01-17T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/f4d616d7-f8dd-49ca-9b70-b185ee14d4b8.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Customer Communication"
-            }
-          },
-          {
-            "node": {
-              "name": "Developer Tools"
             }
           },
           {
