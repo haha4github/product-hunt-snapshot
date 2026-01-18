@@ -1,12 +1,12 @@
 {
-  "fetchedAt": "2026-01-18T16:52:46.770Z",
+  "fetchedAt": "2026-01-18T17:16:50.650Z",
   "posts": [
     {
       "id": "1063352",
       "name": "OMEGA Ω™",
       "tagline": "3.6MB browser that never tracks, profiles, or sells data",
       "url": "https://www.producthunt.com/products/omega-fastest-lightest-browser-ever?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 254,
+      "votesCount": 257,
       "commentsCount": 7,
       "createdAt": "2026-01-18T08:01:00Z",
       "thumbnail": {
@@ -37,7 +37,7 @@
       "name": "caricature.life",
       "tagline": "Create a minimalist caricature. No login. No tracking.",
       "url": "https://www.producthunt.com/products/caricature-life?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 212,
+      "votesCount": 214,
       "commentsCount": 19,
       "createdAt": "2026-01-18T08:01:00Z",
       "thumbnail": {
@@ -130,7 +130,7 @@
       "name": "Cloudchipr",
       "tagline": "Cloud costs observability,management and automation platform",
       "url": "https://www.producthunt.com/products/cloudchipr?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 107,
+      "votesCount": 108,
       "commentsCount": 3,
       "createdAt": "2026-01-18T08:01:00Z",
       "thumbnail": {
@@ -156,8 +156,8 @@
       "name": "OpenWork",
       "tagline": "Open-source Claude Work alternative, powered by OpenCode",
       "url": "https://www.producthunt.com/products/openwork?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 39,
-      "commentsCount": 10,
+      "votesCount": 41,
+      "commentsCount": 11,
       "createdAt": "2026-01-18T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/df6d0ca3-d0a3-466b-bf6d-1360b5805f5b.png?auto=format"
@@ -213,8 +213,8 @@
       "name": "ReachLLM",
       "tagline": "Dominate the AI Search Era",
       "url": "https://www.producthunt.com/products/reachllm?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 22,
-      "commentsCount": 3,
+      "votesCount": 24,
+      "commentsCount": 4,
       "createdAt": "2026-01-18T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/595e2b7d-d33b-409e-8a21-4f45cc8ca800.png?auto=format"
@@ -276,7 +276,7 @@
       "tagline": "The cloud-based watchdog for IoT.",
       "url": "https://www.producthunt.com/products/qrystal-uplink?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 10,
-      "commentsCount": 3,
+      "commentsCount": 4,
       "createdAt": "2026-01-18T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/3fa59e10-6ad1-4cea-ba44-2997f7df1278.png?auto=format"
@@ -328,6 +328,37 @@
       }
     },
     {
+      "id": "1064365",
+      "name": "Browser Lock",
+      "tagline": "Stop nosy roommates & coworkers from stalking your tabs",
+      "url": "https://www.producthunt.com/products/browser-lock?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 6,
+      "commentsCount": 3,
+      "createdAt": "2026-01-18T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/ed7e5c20-2c23-430c-b3c2-48dc7835950a.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Chrome Extensions"
+            }
+          },
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Privacy"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1064295",
       "name": "KeepHer",
       "tagline": "The personal assistant for your relationship.",
@@ -359,43 +390,12 @@
       }
     },
     {
-      "id": "1064365",
-      "name": "Browser Lock",
-      "tagline": "Stop nosy roommates & coworkers from stalking your tabs",
-      "url": "https://www.producthunt.com/products/browser-lock?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 4,
-      "commentsCount": 3,
-      "createdAt": "2026-01-18T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/ed7e5c20-2c23-430c-b3c2-48dc7835950a.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Chrome Extensions"
-            }
-          },
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Privacy"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1064252",
       "name": "Vibecraft",
       "tagline": "Watch and Manage Claude Code in 3D",
       "url": "https://www.producthunt.com/products/vibecraft?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 4,
-      "commentsCount": 1,
+      "commentsCount": 2,
       "createdAt": "2026-01-18T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/aadca171-5dca-4421-b3cc-76e4a18ff8ff.svg?auto=format"
@@ -426,7 +426,7 @@
       "tagline": "Professional photos in 30s - Pay per use, not per month",
       "url": "https://www.producthunt.com/products/lumimmo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 4,
-      "commentsCount": 2,
+      "commentsCount": 3,
       "createdAt": "2026-01-18T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/d49bbe94-be53-420c-a128-8b9bc002be9e.svg?auto=format"
