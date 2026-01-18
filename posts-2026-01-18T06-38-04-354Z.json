@@ -1,12 +1,12 @@
 {
-  "fetchedAt": "2026-01-18T05:54:56.008Z",
+  "fetchedAt": "2026-01-18T06:38:04.354Z",
   "posts": [
     {
       "id": "1063756",
       "name": "Sled",
       "tagline": "Run your coding agent from your phone, with voice",
       "url": "https://www.producthunt.com/products/sled-voice-interface-for-claude-code?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 349,
+      "votesCount": 351,
       "commentsCount": 48,
       "createdAt": "2026-01-17T08:01:00Z",
       "thumbnail": {
@@ -42,7 +42,7 @@
       "name": "Dewdrop",
       "tagline": "Turn your forgotten bookmarks into daily discoveries",
       "url": "https://www.producthunt.com/products/dewdrop-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 250,
+      "votesCount": 251,
       "commentsCount": 18,
       "createdAt": "2026-01-17T08:01:00Z",
       "thumbnail": {
@@ -73,7 +73,7 @@
       "name": "Chessmaster AI",
       "tagline": "Transform Your Chess Skills with AI-Powered Training",
       "url": "https://www.producthunt.com/products/chessmaster-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 196,
+      "votesCount": 197,
       "commentsCount": 10,
       "createdAt": "2026-01-17T08:01:00Z",
       "thumbnail": {
@@ -104,7 +104,7 @@
       "name": "StealthHound",
       "tagline": "Your browser's blind spots, Exposed.",
       "url": "https://www.producthunt.com/products/stealthhound?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 180,
+      "votesCount": 181,
       "commentsCount": 23,
       "createdAt": "2026-01-17T08:01:00Z",
       "thumbnail": {
@@ -140,7 +140,7 @@
       "name": "LinkNotch",
       "tagline": "Turn your MacBook Notch into a fast access bookmark bar.",
       "url": "https://www.producthunt.com/products/linknotch-link-drawer-for-your-macbook?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 138,
+      "votesCount": 139,
       "commentsCount": 6,
       "createdAt": "2026-01-17T08:01:00Z",
       "thumbnail": {
@@ -228,8 +228,8 @@
       "name": "Enote",
       "tagline": "Lightweight Desktop Notes",
       "url": "https://www.producthunt.com/products/enote?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 103,
-      "commentsCount": 5,
+      "votesCount": 104,
+      "commentsCount": 6,
       "createdAt": "2026-01-17T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/c1badbb7-8437-4acf-b63e-813de1da1dc2.png?auto=format"
@@ -457,37 +457,6 @@
       }
     },
     {
-      "id": "1063639",
-      "name": "Fair Price Calculator",
-      "tagline": "Compare. Analyse. Know the right price.",
-      "url": "https://www.producthunt.com/products/propsoch-com?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 6,
-      "commentsCount": 1,
-      "createdAt": "2026-01-17T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/9f54cbf8-1a8b-492b-a871-9b345965d7aa.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Home"
-            }
-          },
-          {
-            "node": {
-              "name": "Analytics"
-            }
-          },
-          {
-            "node": {
-              "name": "Finance"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1063863",
       "name": "Serene",
       "tagline": "Complexity reimagined as serenity",
@@ -513,6 +482,37 @@
           {
             "node": {
               "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1063639",
+      "name": "Fair Price Calculator",
+      "tagline": "Compare. Analyse. Know the right price.",
+      "url": "https://www.producthunt.com/products/propsoch-com?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 6,
+      "commentsCount": 1,
+      "createdAt": "2026-01-17T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/9f54cbf8-1a8b-492b-a871-9b345965d7aa.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Home"
+            }
+          },
+          {
+            "node": {
+              "name": "Analytics"
+            }
+          },
+          {
+            "node": {
+              "name": "Finance"
             }
           }
         ]
