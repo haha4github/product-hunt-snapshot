@@ -1,12 +1,12 @@
 {
-  "fetchedAt": "2026-01-18T05:41:58.629Z",
+  "fetchedAt": "2026-01-18T05:54:56.008Z",
   "posts": [
     {
       "id": "1063756",
       "name": "Sled",
       "tagline": "Run your coding agent from your phone, with voice",
       "url": "https://www.producthunt.com/products/sled-voice-interface-for-claude-code?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 348,
+      "votesCount": 349,
       "commentsCount": 48,
       "createdAt": "2026-01-17T08:01:00Z",
       "thumbnail": {
@@ -104,7 +104,7 @@
       "name": "StealthHound",
       "tagline": "Your browser's blind spots, Exposed.",
       "url": "https://www.producthunt.com/products/stealthhound?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 179,
+      "votesCount": 180,
       "commentsCount": 23,
       "createdAt": "2026-01-17T08:01:00Z",
       "thumbnail": {
@@ -457,37 +457,6 @@
       }
     },
     {
-      "id": "1063863",
-      "name": "Serene",
-      "tagline": "Complexity reimagined as serenity",
-      "url": "https://www.producthunt.com/products/serene-7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 6,
-      "commentsCount": 2,
-      "createdAt": "2026-01-17T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/d9759353-157c-495d-adf5-91357fed1f68.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Education"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1063639",
       "name": "Fair Price Calculator",
       "tagline": "Compare. Analyse. Know the right price.",
@@ -513,6 +482,37 @@
           {
             "node": {
               "name": "Finance"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1063863",
+      "name": "Serene",
+      "tagline": "Complexity reimagined as serenity",
+      "url": "https://www.producthunt.com/products/serene-7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 6,
+      "commentsCount": 2,
+      "createdAt": "2026-01-17T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/d9759353-157c-495d-adf5-91357fed1f68.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Education"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
             }
           }
         ]
