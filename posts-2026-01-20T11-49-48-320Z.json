@@ -1,12 +1,12 @@
 {
-  "fetchedAt": "2026-01-20T11:30:25.902Z",
+  "fetchedAt": "2026-01-20T11:49:48.320Z",
   "posts": [
     {
       "id": "1056836",
       "name": "daily.dev Recruiter",
       "tagline": "Hire from the world's largest developer community",
       "url": "https://www.producthunt.com/products/daily-dev?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 140,
+      "votesCount": 142,
       "commentsCount": 9,
       "createdAt": "2026-01-20T08:01:00Z",
       "thumbnail": {
@@ -37,8 +37,8 @@
       "name": "Typeless for Android",
       "tagline": "First AI voice keyboard for Android",
       "url": "https://www.producthunt.com/products/typeless-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 128,
-      "commentsCount": 25,
+      "votesCount": 131,
+      "commentsCount": 26,
       "createdAt": "2026-01-20T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/e767738e-d2a4-4479-8e28-41dc889b32d6.png?auto=format"
@@ -68,7 +68,7 @@
       "name": "Interactpitch",
       "tagline": "Interactive pitch decks with real-time viewer insights",
       "url": "https://www.producthunt.com/products/interactpitch-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 124,
+      "votesCount": 127,
       "commentsCount": 8,
       "createdAt": "2026-01-20T08:01:00Z",
       "thumbnail": {
@@ -99,7 +99,7 @@
       "name": "Dopamine.chat",
       "tagline": "Effortlessly build your AI team for everything you do",
       "url": "https://www.producthunt.com/products/dopamine-chat?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 105,
+      "votesCount": 109,
       "commentsCount": 10,
       "createdAt": "2026-01-20T08:01:00Z",
       "thumbnail": {
@@ -167,11 +167,42 @@
       }
     },
     {
+      "id": "1060571",
+      "name": "Rippletide Eval CLI",
+      "tagline": "Rippletide CLI is an evaluation tool for AI agents",
+      "url": "https://www.producthunt.com/products/rippletide-eval-cli?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 93,
+      "commentsCount": 10,
+      "createdAt": "2026-01-20T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/ea9fba7f-78b8-4696-a8ec-ee0f6b67492c.svg?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Analytics"
+            }
+          },
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1065340",
       "name": "Figy.ai",
       "tagline": "AI Flashcards That Never Stop",
       "url": "https://www.producthunt.com/products/figy-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 90,
+      "votesCount": 91,
       "commentsCount": 3,
       "createdAt": "2026-01-20T08:01:00Z",
       "thumbnail": {
@@ -198,42 +229,11 @@
       }
     },
     {
-      "id": "1060571",
-      "name": "Rippletide Eval CLI",
-      "tagline": "Rippletide CLI is an evaluation tool for AI agents",
-      "url": "https://www.producthunt.com/products/rippletide-eval-cli?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 90,
-      "commentsCount": 9,
-      "createdAt": "2026-01-20T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/ea9fba7f-78b8-4696-a8ec-ee0f6b67492c.svg?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Analytics"
-            }
-          },
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1064170",
       "name": "Sapiare New Tab",
       "tagline": "Find inspiration every time you open a new tab.",
       "url": "https://www.producthunt.com/products/sapiare-new-tab?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 85,
+      "votesCount": 86,
       "commentsCount": 1,
       "createdAt": "2026-01-20T08:01:00Z",
       "thumbnail": {
@@ -249,6 +249,37 @@
           {
             "node": {
               "name": "Chrome Extensions"
+            }
+          },
+          {
+            "node": {
+              "name": "GitHub"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1059910",
+      "name": "MCPJam Inspector",
+      "tagline": "Test + develop ChatGPT apps and MCP apps (ext-apps) locally",
+      "url": "https://www.producthunt.com/products/mcpjam-inspector?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 84,
+      "commentsCount": 3,
+      "createdAt": "2026-01-20T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/a7c60809-46b9-4dfe-a432-817dcfdb667a.svg?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Open Source"
+            }
+          },
+          {
+            "node": {
+              "name": "Developer Tools"
             }
           },
           {
@@ -296,21 +327,21 @@
       }
     },
     {
-      "id": "1059910",
-      "name": "MCPJam Inspector",
-      "tagline": "Test + develop ChatGPT apps and MCP apps (ext-apps) locally",
-      "url": "https://www.producthunt.com/products/mcpjam-inspector?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 83,
-      "commentsCount": 3,
+      "id": "1064505",
+      "name": "relayd",
+      "tagline": "Remote control for your Codex agents. Ship from anywhere.",
+      "url": "https://www.producthunt.com/products/relayd?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 78,
+      "commentsCount": 5,
       "createdAt": "2026-01-20T08:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/a7c60809-46b9-4dfe-a432-817dcfdb667a.svg?auto=format"
+        "url": "https://ph-files.imgix.net/763fb1fa-40f9-404a-8862-5869c1bd9837.png?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "Open Source"
+              "name": "Productivity"
             }
           },
           {
@@ -320,7 +351,28 @@
           },
           {
             "node": {
-              "name": "GitHub"
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1064901",
+      "name": "Habitz ",
+      "tagline": "Goal planner & progress",
+      "url": "https://www.producthunt.com/products/habitz-habit-tracker?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 77,
+      "commentsCount": 0,
+      "createdAt": "2026-01-20T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/e76c845e-7c98-41ec-8776-021d84a1dd52.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Productivity"
             }
           }
         ]
@@ -358,27 +410,6 @@
       }
     },
     {
-      "id": "1064901",
-      "name": "Habitz ",
-      "tagline": "Goal planner & progress",
-      "url": "https://www.producthunt.com/products/habitz-habit-tracker?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 77,
-      "commentsCount": 0,
-      "createdAt": "2026-01-20T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/e76c845e-7c98-41ec-8776-021d84a1dd52.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1063554",
       "name": "Caffeine Curfew iOS App",
       "tagline": "Track caffeine intake, hydration, and master your sleep",
@@ -404,6 +435,42 @@
           {
             "node": {
               "name": "Wearables"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1064849",
+      "name": "3D Viewer for Google Drive",
+      "tagline": "A simple yet powerful 3D viewer for Google Drive and Gmail",
+      "url": "https://www.producthunt.com/products/3d-viewer-for-google-drive?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 77,
+      "commentsCount": 3,
+      "createdAt": "2026-01-20T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/7ec92f81-afe3-48f4-ad97-32cd3ec951ce.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Chrome Extensions"
+            }
+          },
+          {
+            "node": {
+              "name": "3D Printer"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "3D Modeling"
             }
           }
         ]
@@ -441,42 +508,11 @@
       }
     },
     {
-      "id": "1064505",
-      "name": "relayd",
-      "tagline": "Remote control for your Codex agents. Ship from anywhere.",
-      "url": "https://www.producthunt.com/products/relayd?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 76,
-      "commentsCount": 5,
-      "createdAt": "2026-01-20T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/763fb1fa-40f9-404a-8862-5869c1bd9837.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1065200",
       "name": "Moldable",
       "tagline": "Personal software. Built for change.",
       "url": "https://www.producthunt.com/products/moldable?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 75,
+      "votesCount": 76,
       "commentsCount": 1,
       "createdAt": "2026-01-20T08:01:00Z",
       "thumbnail": {
@@ -508,6 +544,63 @@
       }
     },
     {
+      "id": "1064890",
+      "name": "Stroke",
+      "tagline": "Animate SVGs. Beautifully.",
+      "url": "https://www.producthunt.com/products/stroke?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 74,
+      "commentsCount": 1,
+      "createdAt": "2026-01-20T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/a82d091b-c955-40a8-8064-29b184afa715.x-icon?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Design Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "GitHub"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1064839",
+      "name": "FlareBar",
+      "tagline": "A macOS menu bar launcher for Cloudflare",
+      "url": "https://www.producthunt.com/products/flarebar?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 74,
+      "commentsCount": 1,
+      "createdAt": "2026-01-20T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/5589e4fc-7cf3-4de2-824b-59fea75150da.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Menu Bar Apps"
+            }
+          },
+          {
+            "node": {
+              "name": "Development"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1064894",
       "name": "Trace",
       "tagline": "Unified interest-based feed for videos, papers, & repos ",
@@ -533,94 +626,6 @@
           {
             "node": {
               "name": "reddit"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1064890",
-      "name": "Stroke",
-      "tagline": "Animate SVGs. Beautifully.",
-      "url": "https://www.producthunt.com/products/stroke?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 73,
-      "commentsCount": 1,
-      "createdAt": "2026-01-20T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/a82d091b-c955-40a8-8064-29b184afa715.x-icon?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Design Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "GitHub"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1063794",
-      "name": "BabyCheck",
-      "tagline": "Scan baby food: Spot dangers & get healthier alternatives",
-      "url": "https://www.producthunt.com/products/babycheck-kids-food-scanner?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 72,
-      "commentsCount": 7,
-      "createdAt": "2026-01-20T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/c83ad393-58ad-4f13-b490-8d130bfaef5e.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Health & Fitness"
-            }
-          },
-          {
-            "node": {
-              "name": "Parenting"
-            }
-          },
-          {
-            "node": {
-              "name": "Kids"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1064839",
-      "name": "FlareBar",
-      "tagline": "A macOS menu bar launcher for Cloudflare",
-      "url": "https://www.producthunt.com/products/flarebar?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 71,
-      "commentsCount": 1,
-      "createdAt": "2026-01-20T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/5589e4fc-7cf3-4de2-824b-59fea75150da.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Menu Bar Apps"
-            }
-          },
-          {
-            "node": {
-              "name": "Development"
             }
           }
         ]
