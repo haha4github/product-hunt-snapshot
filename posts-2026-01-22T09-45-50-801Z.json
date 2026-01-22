@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-01-22T09:04:03.235Z",
+  "fetchedAt": "2026-01-22T09:45:50.801Z",
   "posts": [
     {
       "id": "1065996",
       "name": "LocateStore",
       "tagline": "Create a map of all your stores using Google Sheets",
       "url": "https://www.producthunt.com/products/locatestore?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 94,
-      "commentsCount": 1,
+      "votesCount": 115,
+      "commentsCount": 2,
       "createdAt": "2026-01-22T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/84bad483-d661-4b0d-82fa-94b64c46ef1e.png?auto=format"
@@ -37,8 +37,8 @@
       "name": "ChartGen AI",
       "tagline": "Turn data into professional charts with insights in seconds",
       "url": "https://www.producthunt.com/products/ada-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 93,
-      "commentsCount": 13,
+      "votesCount": 102,
+      "commentsCount": 14,
       "createdAt": "2026-01-22T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/f3d0cacb-d247-4571-91c5-b20f49fc0d62.png?auto=format"
@@ -68,8 +68,8 @@
       "name": "Web search API by Crustdata",
       "tagline": "Accurate and the fastest web search API for AI Agents",
       "url": "https://www.producthunt.com/products/crustdata-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 82,
-      "commentsCount": 1,
+      "votesCount": 96,
+      "commentsCount": 3,
       "createdAt": "2026-01-22T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/86c6a32c-14bc-454a-8d97-b04065d688c9.png?auto=format"
@@ -99,7 +99,7 @@
       "name": "Clippy, but on Steroids",
       "tagline": "\"Hey Siri\" with MCP calls and local LLM",
       "url": "https://www.producthunt.com/products/clippy-on-cocaine?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 76,
+      "votesCount": 88,
       "commentsCount": 5,
       "createdAt": "2026-01-22T08:01:00Z",
       "thumbnail": {
@@ -126,42 +126,11 @@
       }
     },
     {
-      "id": "1065724",
-      "name": "Netlify Capsules",
-      "tagline": "Launch web projects as AR capsules others can find in orbit",
-      "url": "https://www.producthunt.com/products/netlify?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 76,
-      "commentsCount": 2,
-      "createdAt": "2026-01-22T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/76ab59d2-551c-4775-a162-f8490956d66f.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Augmented Reality"
-            }
-          },
-          {
-            "node": {
-              "name": "Web Design"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1062398",
       "name": "Callum",
       "tagline": "AI calendar assistant for teams – supercharge your calendar",
       "url": "https://www.producthunt.com/products/callum?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 75,
+      "votesCount": 86,
       "commentsCount": 1,
       "createdAt": "2026-01-22T08:01:00Z",
       "thumbnail": {
@@ -188,12 +157,43 @@
       }
     },
     {
+      "id": "1065724",
+      "name": "Netlify Capsules",
+      "tagline": "Launch web projects as AR capsules others can find in orbit",
+      "url": "https://www.producthunt.com/products/netlify?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 86,
+      "commentsCount": 2,
+      "createdAt": "2026-01-22T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/76ab59d2-551c-4775-a162-f8490956d66f.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Augmented Reality"
+            }
+          },
+          {
+            "node": {
+              "name": "Web Design"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1045638",
       "name": "Demonstrate by Notte",
       "tagline": "Browser workflows to deployed automation in minutes",
       "url": "https://www.producthunt.com/products/notte?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 71,
-      "commentsCount": 1,
+      "votesCount": 81,
+      "commentsCount": 2,
       "createdAt": "2026-01-22T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/a5d945d7-db55-4fd6-a412-0b332c5cc687.png?auto=format"
@@ -219,42 +219,11 @@
       }
     },
     {
-      "id": "1062939",
-      "name": "Zenflow by Zencoder",
-      "tagline": "Specification-driven AI development ",
-      "url": "https://www.producthunt.com/products/zencoder?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 68,
-      "commentsCount": 1,
-      "createdAt": "2026-01-22T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/10d8e84f-d1b7-43d9-86ba-2337b29f10fb.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Software Engineering"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          },
-          {
-            "node": {
-              "name": "Vibe coding"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1052806",
       "name": "RenameClick",
       "tagline": "Rename and auto-sort files with offline AI",
       "url": "https://www.producthunt.com/products/renameclick-offline-ai-file-renamer?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 67,
+      "votesCount": 80,
       "commentsCount": 1,
       "createdAt": "2026-01-22T08:01:00Z",
       "thumbnail": {
@@ -281,11 +250,42 @@
       }
     },
     {
+      "id": "1062939",
+      "name": "Zenflow by Zencoder",
+      "tagline": "Specification-driven AI development ",
+      "url": "https://www.producthunt.com/products/zencoder?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 74,
+      "commentsCount": 1,
+      "createdAt": "2026-01-22T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/10d8e84f-d1b7-43d9-86ba-2337b29f10fb.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Software Engineering"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "Vibe coding"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1066196",
       "name": "StoryChief AI Canvas",
       "tagline": "Vibecoding for marketing",
       "url": "https://www.producthunt.com/products/storychief-io?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 66,
+      "votesCount": 68,
       "commentsCount": 1,
       "createdAt": "2026-01-22T08:01:00Z",
       "thumbnail": {
@@ -316,7 +316,7 @@
       "name": "AbleMouse Beyond Switch Edition",
       "tagline": "Full PC control for the paralyzed via one micro-movement.",
       "url": "https://www.producthunt.com/products/ablemouse-control-with-tongue-or-touch?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 58,
+      "votesCount": 65,
       "commentsCount": 1,
       "createdAt": "2026-01-22T08:01:00Z",
       "thumbnail": {
@@ -349,11 +349,11 @@
     },
     {
       "id": "1066292",
-      "name": "Conductor Quantum",
+      "name": "Coda by Conductor Quantum",
       "tagline": "Natural language quantum computing",
       "url": "https://www.producthunt.com/products/conductor-quantum?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 57,
-      "commentsCount": 1,
+      "votesCount": 65,
+      "commentsCount": 2,
       "createdAt": "2026-01-22T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/8338dc97-af37-46e9-bb82-848da0a78e63.png?auto=format"
@@ -383,8 +383,8 @@
       "name": "Tivazo",
       "tagline": "The all-in-one platform for productivity and time tracking",
       "url": "https://www.producthunt.com/products/tivazo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 22,
-      "commentsCount": 4,
+      "votesCount": 39,
+      "commentsCount": 7,
       "createdAt": "2026-01-22T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/ad037334-a514-4448-b1bd-83e865be58ec.png?auto=format"
@@ -414,8 +414,8 @@
       "name": "New Norm ",
       "tagline": "Visualise your emotions for clarity",
       "url": "https://www.producthunt.com/products/new-norm-emotional-clarity-space?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 19,
-      "commentsCount": 19,
+      "votesCount": 27,
+      "commentsCount": 23,
       "createdAt": "2026-01-22T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/e081f07a-97c6-448d-9687-4d6333c416c3.png?auto=format"
@@ -445,7 +445,7 @@
       "name": "Git AutoReview",
       "tagline": "AI Code Review Helper for GitHub & Bitbucket",
       "url": "https://www.producthunt.com/products/git-autoreview?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 11,
+      "votesCount": 12,
       "commentsCount": 3,
       "createdAt": "2026-01-22T08:01:00Z",
       "thumbnail": {
@@ -472,23 +472,18 @@
       }
     },
     {
-      "id": "1066257",
-      "name": "Planndu",
-      "tagline": "Plan smartly, track progress, stay on top.",
-      "url": "https://www.producthunt.com/products/planndu?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 6,
-      "commentsCount": 1,
+      "id": "1060895",
+      "name": "BaseMailer ",
+      "tagline": "Design & send personalized bulk emails from Airtable.",
+      "url": "https://www.producthunt.com/products/basemailer-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 10,
+      "commentsCount": 3,
       "createdAt": "2026-01-22T08:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/65c0fdee-503c-424a-83cb-73773539cf86.png?auto=format"
+        "url": "https://ph-files.imgix.net/8c76bb25-d6f9-43c2-8377-978e5039cf3a.png?auto=format"
       },
       "topics": {
         "edges": [
-          {
-            "node": {
-              "name": "Android"
-            }
-          },
           {
             "node": {
               "name": "Productivity"
@@ -496,74 +491,43 @@
           },
           {
             "node": {
-              "name": "Task Management"
+              "name": "Email Marketing"
+            }
+          },
+          {
+            "node": {
+              "name": "No-Code"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1063685",
+      "name": "XR AI Spotlight",
+      "tagline": "The easiest way to stay up to date in 3D, XR, and AI",
+      "url": "https://www.producthunt.com/products/xr-ai-spotlight?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 8,
+      "commentsCount": 1,
+      "createdAt": "2026-01-22T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/8cce0342-5ff3-4651-8763-ee29bf232442.jpeg?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Virtual Reality"
             }
           },
           {
             "node": {
               "name": "Artificial Intelligence"
             }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1065584",
-      "name": "Rayblock",
-      "tagline": "Clean, ad-free block puzzle game. Test your reflexes!",
-      "url": "https://www.producthunt.com/products/rayblock?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 6,
-      "commentsCount": 1,
-      "createdAt": "2026-01-22T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/d39d57a0-5100-4714-8ab4-9b0ca7b30f17.webp?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Android"
-            }
           },
           {
             "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Puzzle Games"
-            }
-          },
-          {
-            "node": {
-              "name": "Games"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1066487",
-      "name": "LumaBride",
-      "tagline": "The world's first AI wedding visual studio.",
-      "url": "https://www.producthunt.com/products/lumabride?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 6,
-      "commentsCount": 1,
-      "createdAt": "2026-01-22T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/193975bf-b0da-40a5-8495-ae7a83c5dd14.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Photography"
+              "name": "3D Modeling"
             }
           }
         ]
@@ -574,7 +538,7 @@
       "name": "Legitt eSignature",
       "tagline": "AI-native eSign with Contract Intelligence built in",
       "url": "https://www.producthunt.com/products/legitt-e-signature?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 6,
+      "votesCount": 7,
       "commentsCount": 1,
       "createdAt": "2026-01-22T08:01:00Z",
       "thumbnail": {
@@ -601,15 +565,46 @@
       }
     },
     {
-      "id": "1060895",
-      "name": "BaseMailer ",
-      "tagline": "Design & send personalized bulk emails from Airtable.",
-      "url": "https://www.producthunt.com/products/basemailer-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "id": "1066263",
+      "name": "Power Apply",
+      "tagline": "Easy apply for any job with tailored resumes",
+      "url": "https://www.producthunt.com/products/power-apply?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 6,
       "commentsCount": 1,
       "createdAt": "2026-01-22T08:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/8c76bb25-d6f9-43c2-8377-978e5039cf3a.png?auto=format"
+        "url": "https://ph-files.imgix.net/2ad7b431-15cb-4ace-9046-775bbdaa2bbe.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Hiring"
+            }
+          },
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Tech"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1063159",
+      "name": "Ideavize AI",
+      "tagline": "AI to generate and build real tech ideas",
+      "url": "https://www.producthunt.com/products/ideavize-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 6,
+      "commentsCount": 2,
+      "createdAt": "2026-01-22T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/1c50c0b4-8893-4300-b2c6-e8b2bda0f56c.png?auto=format"
       },
       "topics": {
         "edges": [
@@ -620,12 +615,12 @@
           },
           {
             "node": {
-              "name": "Email Marketing"
+              "name": "Prototyping"
             }
           },
           {
             "node": {
-              "name": "No-Code"
+              "name": "Artificial Intelligence"
             }
           }
         ]
