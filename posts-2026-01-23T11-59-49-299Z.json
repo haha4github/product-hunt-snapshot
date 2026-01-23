@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-01-23T11:47:33.147Z",
+  "fetchedAt": "2026-01-23T11:59:49.299Z",
   "posts": [
     {
       "id": "1060714",
@@ -27,6 +27,37 @@
           {
             "node": {
               "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1066136",
+      "name": "Krisp Mobile Call Recorder",
+      "tagline": "Record outgoing calls and get transcripts + AI notes",
+      "url": "https://www.producthunt.com/products/krisp?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 107,
+      "commentsCount": 10,
+      "createdAt": "2026-01-23T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/f46d4d6b-82ea-44a6-9751-96f72211403e.gif?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "iOS"
+            }
+          },
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Meetings"
             }
           }
         ]
@@ -64,42 +95,11 @@
       }
     },
     {
-      "id": "1066136",
-      "name": "Krisp Mobile Call Recorder",
-      "tagline": "Record outgoing calls and get transcripts + AI notes",
-      "url": "https://www.producthunt.com/products/krisp?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 104,
-      "commentsCount": 10,
-      "createdAt": "2026-01-23T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/f46d4d6b-82ea-44a6-9751-96f72211403e.gif?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "iOS"
-            }
-          },
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Meetings"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1066783",
       "name": "nlsh",
       "tagline": "talk to your terminal in natural language",
       "url": "https://www.producthunt.com/products/nlsh?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 101,
+      "votesCount": 102,
       "commentsCount": 1,
       "createdAt": "2026-01-23T08:01:00Z",
       "thumbnail": {
@@ -135,7 +135,7 @@
       "name": "Kids Cash Register",
       "tagline": "A POS system for kids to play pretend restaurant/shopping. ",
       "url": "https://www.producthunt.com/products/kids-cash-register?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 95,
+      "votesCount": 96,
       "commentsCount": 4,
       "createdAt": "2026-01-23T08:01:00Z",
       "thumbnail": {
@@ -188,42 +188,11 @@
       }
     },
     {
-      "id": "1066563",
-      "name": "Usagebar",
-      "tagline": "Track Claude Code Usage from your Menu Bar",
-      "url": "https://www.producthunt.com/products/usagebar?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 90,
-      "commentsCount": 1,
-      "createdAt": "2026-01-23T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/37798186-6401-45e8-9b23-6cff89ceddd3.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Menu Bar Apps"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1066805",
       "name": "DropTidy",
       "tagline": "Remove sensitive photo data, 100% client-side & zero uploads",
       "url": "https://www.producthunt.com/products/droptidy?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 90,
+      "votesCount": 91,
       "commentsCount": 3,
       "createdAt": "2026-01-23T08:01:00Z",
       "thumbnail": {
@@ -250,11 +219,68 @@
       }
     },
     {
+      "id": "1066563",
+      "name": "Usagebar",
+      "tagline": "Track Claude Code Usage from your Menu Bar",
+      "url": "https://www.producthunt.com/products/usagebar?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 91,
+      "commentsCount": 1,
+      "createdAt": "2026-01-23T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/37798186-6401-45e8-9b23-6cff89ceddd3.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Menu Bar Apps"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1066726",
+      "name": "Roam FM",
+      "tagline": "Roam the world by tuning into global radio stations",
+      "url": "https://www.producthunt.com/products/roam-fm?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 91,
+      "commentsCount": 2,
+      "createdAt": "2026-01-23T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/0978f100-1d9d-43ee-96c8-8b513660cec2.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Music"
+            }
+          },
+          {
+            "node": {
+              "name": "Menu Bar Apps"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1066653",
       "name": "Qwen3-TTS",
       "tagline": "Voice design, cloning & 97ms streaming",
       "url": "https://www.producthunt.com/products/qwen3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 89,
+      "votesCount": 91,
       "commentsCount": 2,
       "createdAt": "2026-01-23T08:01:00Z",
       "thumbnail": {
@@ -281,37 +307,11 @@
       }
     },
     {
-      "id": "1066726",
-      "name": "Roam FM",
-      "tagline": "Roam the world by tuning into global radio stations",
-      "url": "https://www.producthunt.com/products/roam-fm?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 89,
-      "commentsCount": 2,
-      "createdAt": "2026-01-23T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/0978f100-1d9d-43ee-96c8-8b513660cec2.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Music"
-            }
-          },
-          {
-            "node": {
-              "name": "Menu Bar Apps"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1066855",
       "name": "Forge Agent",
       "tagline": "Swarm Agents That Turn Slow PyTorch Into Fast GPU Kernels",
       "url": "https://www.producthunt.com/products/rightnow-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 88,
+      "votesCount": 90,
       "commentsCount": 3,
       "createdAt": "2026-01-23T08:01:00Z",
       "thumbnail": {
@@ -342,7 +342,7 @@
       "name": "Edge Light for video calls",
       "tagline": "Browser extension to look good on video calls.",
       "url": "https://www.producthunt.com/products/edge-light-for-video-calls?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 85,
+      "votesCount": 87,
       "commentsCount": 2,
       "createdAt": "2026-01-23T08:01:00Z",
       "thumbnail": {
@@ -373,7 +373,7 @@
       "name": "1Setter",
       "tagline": "One-click system settings for macOS",
       "url": "https://www.producthunt.com/products/1setter?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 85,
+      "votesCount": 86,
       "commentsCount": 1,
       "createdAt": "2026-01-23T08:01:00Z",
       "thumbnail": {
@@ -471,7 +471,7 @@
       "name": "PrivacyPal",
       "tagline": "The Browser Extension for AI Governance & Security.",
       "url": "https://www.producthunt.com/products/privacypal-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 74,
+      "votesCount": 76,
       "commentsCount": 4,
       "createdAt": "2026-01-23T08:01:00Z",
       "thumbnail": {
@@ -528,7 +528,7 @@
       "name": "Clyde",
       "tagline": "Cowork but it's a monkey",
       "url": "https://www.producthunt.com/products/clyde-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 25,
+      "votesCount": 26,
       "commentsCount": 5,
       "createdAt": "2026-01-23T08:01:00Z",
       "thumbnail": {
