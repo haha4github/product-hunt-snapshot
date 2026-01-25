@@ -1,12 +1,12 @@
 {
-  "fetchedAt": "2026-01-25T21:56:48.919Z",
+  "fetchedAt": "2026-01-25T22:29:35.475Z",
   "posts": [
     {
       "id": "1067364",
       "name": "Thumbfa.st",
       "tagline": "Midjourney for YouTube Thumbnails—your face, every time",
       "url": "https://www.producthunt.com/products/thumbfa-st?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 299,
+      "votesCount": 301,
       "commentsCount": 13,
       "createdAt": "2026-01-25T08:01:00Z",
       "thumbnail": {
@@ -27,7 +27,7 @@
       "name": "Mochi Focus",
       "tagline": "Your focus timer that grows with you",
       "url": "https://www.producthunt.com/products/mochi-focus?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 234,
+      "votesCount": 235,
       "commentsCount": 24,
       "createdAt": "2026-01-25T08:01:00Z",
       "thumbnail": {
@@ -63,8 +63,8 @@
       "name": "Forums",
       "tagline": "AI-powered Q&A for GitHub repositories.",
       "url": "https://www.producthunt.com/products/basehub?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 205,
-      "commentsCount": 15,
+      "votesCount": 206,
+      "commentsCount": 17,
       "createdAt": "2026-01-25T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/37a78cb1-3c56-4fba-8add-9a1c2f61f94a.png?auto=format"
@@ -94,7 +94,7 @@
       "name": "Pola Browser",
       "tagline": "Productivity, your way",
       "url": "https://www.producthunt.com/products/pola-browser?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 187,
+      "votesCount": 188,
       "commentsCount": 11,
       "createdAt": "2026-01-25T08:01:00Z",
       "thumbnail": {
@@ -337,8 +337,8 @@
       "name": "Trip Way",
       "tagline": "Plan trips, organize details, and share itineraries",
       "url": "https://www.producthunt.com/products/trip-way?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 7,
-      "commentsCount": 2,
+      "votesCount": 8,
+      "commentsCount": 3,
       "createdAt": "2026-01-25T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/3d18a84e-b580-4669-8510-b22ada617e15.png?auto=format"
@@ -389,6 +389,37 @@
           {
             "node": {
               "name": "Social Networking"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1065825",
+      "name": "SuppCheck",
+      "tagline": "Decide on supplements using science, not hype",
+      "url": "https://www.producthunt.com/products/suppmate?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 5,
+      "commentsCount": 2,
+      "createdAt": "2026-01-25T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/ff197e8d-c14f-4adf-b9bd-4cbc4e33f0c7.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Health & Fitness"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "Health"
             }
           }
         ]
@@ -503,37 +534,6 @@
           {
             "node": {
               "name": "Fintech"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1065825",
-      "name": "SuppCheck",
-      "tagline": "Decide on supplements using science, not hype",
-      "url": "https://www.producthunt.com/products/suppmate?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 4,
-      "commentsCount": 2,
-      "createdAt": "2026-01-25T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/ff197e8d-c14f-4adf-b9bd-4cbc4e33f0c7.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Health & Fitness"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          },
-          {
-            "node": {
-              "name": "Health"
             }
           }
         ]
