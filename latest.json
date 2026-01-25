@@ -1,12 +1,12 @@
 {
-  "fetchedAt": "2026-01-25T09:47:38.318Z",
+  "fetchedAt": "2026-01-25T09:59:48.993Z",
   "posts": [
     {
       "id": "999623",
       "name": "Forums",
       "tagline": "AI-powered Q&A for GitHub repositories.",
       "url": "https://www.producthunt.com/products/basehub?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 97,
+      "votesCount": 100,
       "commentsCount": 1,
       "createdAt": "2026-01-25T08:01:00Z",
       "thumbnail": {
@@ -58,7 +58,7 @@
       "name": "Mochi Focus",
       "tagline": "Your focus timer that grows with you",
       "url": "https://www.producthunt.com/products/mochi-focus?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 91,
+      "votesCount": 92,
       "commentsCount": 2,
       "createdAt": "2026-01-25T08:01:00Z",
       "thumbnail": {
@@ -213,7 +213,7 @@
       "name": "Aiesthetic",
       "tagline": "100% No Prompting AI Engine for Image and Video Generation",
       "url": "https://www.producthunt.com/products/aiesthetic?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 5,
+      "votesCount": 6,
       "commentsCount": 1,
       "createdAt": "2026-01-25T08:01:00Z",
       "thumbnail": {
@@ -229,6 +229,37 @@
           {
             "node": {
               "name": "Photography"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1067440",
+      "name": "ALGO - Interface for working with AI",
+      "tagline": "Software for working with multiple AI systems and teamwork",
+      "url": "https://www.producthunt.com/products/algo-interface-for-working-with-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 4,
+      "commentsCount": 1,
+      "createdAt": "2026-01-25T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/94f5e3fd-cc59-4411-8a3d-1d46d40b9f4f.webp?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Developer Tools"
             }
           },
           {
@@ -302,37 +333,6 @@
       }
     },
     {
-      "id": "1067440",
-      "name": "ALGO - Interface for working with AI",
-      "tagline": "Software for working with multiple AI systems and teamwork",
-      "url": "https://www.producthunt.com/products/algo-interface-for-working-with-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 2,
-      "commentsCount": 1,
-      "createdAt": "2026-01-25T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/94f5e3fd-cc59-4411-8a3d-1d46d40b9f4f.webp?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1067477",
       "name": "BuildNextApp v1 - Idea Generator",
       "tagline": "Generate high-MRR app ideas in seconds with AI.",
@@ -395,6 +395,42 @@
       }
     },
     {
+      "id": "1067665",
+      "name": "Claude.mgr",
+      "tagline": "Desktop app to manage your Claude Code agents from one place",
+      "url": "https://www.producthunt.com/products/claude-mgr?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 2,
+      "commentsCount": 1,
+      "createdAt": "2026-01-25T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/bdc151f8-211a-43d4-b839-7edc8517d197.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Software Engineering"
+            }
+          },
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "GitHub"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1067731",
       "name": "Sleep Like Snow",
       "tagline": "Melt the snow, soothe your mind, and sleep deeply.",
@@ -416,26 +452,62 @@
       }
     },
     {
-      "id": "1067689",
-      "name": "G-Point ",
-      "tagline": "Find the G-point ... Can you find it? Probably not.",
-      "url": "https://www.producthunt.com/products/g-point?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "id": "1066319",
+      "name": "Artify",
+      "tagline": "Unlimited AI Art & Video with No Credits or Paywalls.",
+      "url": "https://www.producthunt.com/products/artify-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 2,
       "commentsCount": 1,
       "createdAt": "2026-01-25T08:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/a1813f63-978d-410f-9ce1-d77163d184fa.jpeg?auto=format"
+        "url": "https://ph-files.imgix.net/c11618cc-dc6a-4419-bfb2-3e35c6a4328d.webp?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "Funny"
+              "name": "Android"
             }
           },
           {
             "node": {
-              "name": "Games"
+              "name": "iOS"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1067645",
+      "name": "Colouring and drawing App for kids",
+      "tagline": "Baby Toddler Drawing Book & Coloring",
+      "url": "https://www.producthunt.com/products/colouring-and-drawing-for-kids?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 2,
+      "commentsCount": 1,
+      "createdAt": "2026-01-25T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/b87307ad-0509-4a5a-b344-d7926c082de8.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Kids"
+            }
+          },
+          {
+            "node": {
+              "name": "Education"
+            }
+          },
+          {
+            "node": {
+              "name": "Coloring"
             }
           }
         ]
@@ -473,57 +545,26 @@
       }
     },
     {
-      "id": "1067735",
-      "name": "Momento",
-      "tagline": "Travel first social app where you post & capture each moment",
-      "url": "https://www.producthunt.com/products/momento-6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "id": "1067599",
+      "name": "Changebot",
+      "tagline": "Get notified when any web page changes",
+      "url": "https://www.producthunt.com/products/changebot?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 2,
       "commentsCount": 1,
       "createdAt": "2026-01-25T08:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/d73feb50-363a-44cb-9a6b-df6abb6199d9.png?auto=format"
+        "url": "https://ph-files.imgix.net/c2614bba-7eda-417c-a699-f54efe34cc32.png?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "Social Media"
+              "name": "iOS"
             }
           },
-          {
-            "node": {
-              "name": "Travel"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1067693",
-      "name": "TextWisely Directory",
-      "tagline": "Free AI Writing Tools (no signup/no CC)",
-      "url": "https://www.producthunt.com/products/textwisely-directory?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 2,
-      "commentsCount": 1,
-      "createdAt": "2026-01-25T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/3ba1ab99-1754-4f98-8e11-2313dc1484e5.png?auto=format"
-      },
-      "topics": {
-        "edges": [
           {
             "node": {
               "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Writing"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
             }
           }
         ]
@@ -555,37 +596,6 @@
           {
             "node": {
               "name": "Data & Analytics"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1067723",
-      "name": "Point Dexter",
-      "tagline": "Collaborative story estimation — simplified and streamlined.",
-      "url": "https://www.producthunt.com/products/point-dexter?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 2,
-      "commentsCount": 1,
-      "createdAt": "2026-01-25T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/74422367-941a-4f6d-b209-8a7986a64967.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Task Management"
-            }
-          },
-          {
-            "node": {
-              "name": "Analytics"
             }
           }
         ]
