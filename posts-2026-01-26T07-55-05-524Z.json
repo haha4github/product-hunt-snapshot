@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-01-26T07:38:58.890Z",
+  "fetchedAt": "2026-01-26T07:55:05.524Z",
   "posts": [
     {
       "id": "1067878",
@@ -42,7 +42,7 @@
       "name": "Thumbfa.st",
       "tagline": "Midjourney for YouTube Thumbnails—your face, every time",
       "url": "https://www.producthunt.com/products/thumbfa-st?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 385,
+      "votesCount": 386,
       "commentsCount": 26,
       "createdAt": "2026-01-25T08:01:00Z",
       "thumbnail": {
@@ -63,7 +63,7 @@
       "name": "Mochi Focus",
       "tagline": "Your focus timer that grows with you",
       "url": "https://www.producthunt.com/products/mochi-focus?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 300,
+      "votesCount": 301,
       "commentsCount": 38,
       "createdAt": "2026-01-25T08:01:00Z",
       "thumbnail": {
@@ -99,7 +99,7 @@
       "name": "Forums",
       "tagline": "AI-powered Q&A for GitHub repositories.",
       "url": "https://www.producthunt.com/products/basehub?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 245,
+      "votesCount": 247,
       "commentsCount": 20,
       "createdAt": "2026-01-25T08:01:00Z",
       "thumbnail": {
@@ -161,7 +161,7 @@
       "name": "Hyoi",
       "tagline": "A magical shelf that appears when you drag files on Mac",
       "url": "https://www.producthunt.com/products/hyoi?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 169,
+      "votesCount": 170,
       "commentsCount": 8,
       "createdAt": "2026-01-25T08:01:00Z",
       "thumbnail": {
@@ -193,7 +193,7 @@
       "tagline": "New styles, more customization and optimizes performance.",
       "url": "https://www.producthunt.com/products/liquidtimers?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 148,
-      "commentsCount": 3,
+      "commentsCount": 4,
       "createdAt": "2026-01-25T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/0754ac0a-786d-4908-89c0-f7e47f3b5b49.png?auto=format"
@@ -307,6 +307,37 @@
       }
     },
     {
+      "id": "1065825",
+      "name": "SuppCheck",
+      "tagline": "Decide on supplements using science, not hype",
+      "url": "https://www.producthunt.com/products/suppmate?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 11,
+      "commentsCount": 4,
+      "createdAt": "2026-01-25T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/ff197e8d-c14f-4adf-b9bd-4cbc4e33f0c7.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Health & Fitness"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "Health"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1067440",
       "name": "ALGO - Interface for working with AI",
       "tagline": "Software for working with multiple AI systems and teamwork",
@@ -373,7 +404,7 @@
       "name": "Aiesthetic",
       "tagline": "100% No Prompting AI Engine for Image and Video Generation",
       "url": "https://www.producthunt.com/products/aiesthetic?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 8,
+      "votesCount": 9,
       "commentsCount": 7,
       "createdAt": "2026-01-25T08:01:00Z",
       "thumbnail": {
@@ -394,37 +425,6 @@
           {
             "node": {
               "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1065825",
-      "name": "SuppCheck",
-      "tagline": "Decide on supplements using science, not hype",
-      "url": "https://www.producthunt.com/products/suppmate?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 8,
-      "commentsCount": 4,
-      "createdAt": "2026-01-25T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/ff197e8d-c14f-4adf-b9bd-4cbc4e33f0c7.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Health & Fitness"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          },
-          {
-            "node": {
-              "name": "Health"
             }
           }
         ]
