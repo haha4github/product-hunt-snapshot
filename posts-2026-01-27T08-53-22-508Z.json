@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-01-27T08:18:22.998Z",
+  "fetchedAt": "2026-01-27T08:53:22.508Z",
   "posts": [
     {
       "id": "1067132",
       "name": "Kilo Code Reviewer",
       "tagline": "Automatic AI-powered code reviews the moment you open a PR",
       "url": "https://www.producthunt.com/products/kilocode?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 66,
-      "commentsCount": 3,
+      "votesCount": 96,
+      "commentsCount": 5,
       "createdAt": "2026-01-27T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/1a41e8bf-2f29-42ee-8bce-d99357ebc0fb.gif?auto=format"
@@ -38,48 +38,12 @@
       }
     },
     {
-      "id": "1065874",
-      "name": "LobeHub",
-      "tagline": "Agent teammates that grow with you",
-      "url": "https://www.producthunt.com/products/lobehub?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 63,
-      "commentsCount": 4,
-      "createdAt": "2026-01-27T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/d91fc33b-29d2-4222-b0dc-977c6a78a670.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "GitHub"
-            }
-          },
-          {
-            "node": {
-              "name": "Maker Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Marketing automation"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1068372",
       "name": "Clawdbot",
       "tagline": "The AI that actually does things",
       "url": "https://www.producthunt.com/products/clawdbot-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 62,
-      "commentsCount": 1,
+      "votesCount": 90,
+      "commentsCount": 3,
       "createdAt": "2026-01-27T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/a15ae988-f9b3-403f-b470-a5ef1d15162c.png?auto=format"
@@ -110,23 +74,18 @@
       }
     },
     {
-      "id": "1068282",
-      "name": "Jotform AI Chatbot for Canva",
-      "tagline": "Bring Canva designs to life with an embedded AI chatbot ",
-      "url": "https://www.producthunt.com/products/jotform?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 60,
-      "commentsCount": 1,
+      "id": "1065874",
+      "name": "LobeHub",
+      "tagline": "Agent teammates that grow with you",
+      "url": "https://www.producthunt.com/products/lobehub?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 79,
+      "commentsCount": 6,
       "createdAt": "2026-01-27T08:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/8026fb84-be38-481a-90f4-c506464e8cd3.gif?auto=format"
+        "url": "https://ph-files.imgix.net/d91fc33b-29d2-4222-b0dc-977c6a78a670.png?auto=format"
       },
       "topics": {
         "edges": [
-          {
-            "node": {
-              "name": "Design Tools"
-            }
-          },
           {
             "node": {
               "name": "Productivity"
@@ -134,100 +93,17 @@
           },
           {
             "node": {
-              "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1068633",
-      "name": "Runo 2.0",
-      "tagline": "Metronome app that keeps your running cadence steady",
-      "url": "https://www.producthunt.com/products/runo-the-metronome-for-runners?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 59,
-      "commentsCount": 2,
-      "createdAt": "2026-01-27T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/96d24bc4-cd28-48c4-a06f-e2129f7a905d.webp?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Health & Fitness"
+              "name": "GitHub"
             }
           },
           {
             "node": {
-              "name": "Health"
+              "name": "Maker Tools"
             }
           },
           {
             "node": {
-              "name": "Running"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1067285",
-      "name": "Trails",
-      "tagline": "Automated insights from LLM agent runs",
-      "url": "https://www.producthunt.com/products/trails-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 59,
-      "commentsCount": 1,
-      "createdAt": "2026-01-27T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/b220f1d4-6388-4ffa-a453-d29877789f92.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Analytics"
-            }
-          },
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1067763",
-      "name": "FireSEO MCP",
-      "tagline": "Connect Claude or Cursor to audit SEO and suggest changes",
-      "url": "https://www.producthunt.com/products/fireseo-mcp?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 59,
-      "commentsCount": 1,
-      "createdAt": "2026-01-27T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/c744318b-ba54-47ee-884a-7063217d2e6b.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Analytics"
-            }
-          },
-          {
-            "node": {
-              "name": "Marketing"
-            }
-          },
-          {
-            "node": {
-              "name": "SEO"
+              "name": "Marketing automation"
             }
           }
         ]
@@ -236,10 +112,10 @@
     {
       "id": "1068472",
       "name": "CapslockMute",
-      "tagline": "Mute yourself instantly on video calls",
+      "tagline": "The fastest way to mute yourself on video calls",
       "url": "https://www.producthunt.com/products/capslockmute?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 58,
-      "commentsCount": 1,
+      "votesCount": 80,
+      "commentsCount": 9,
       "createdAt": "2026-01-27T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/d503d1c4-1938-456b-99d2-310423276aea.png?auto=format"
@@ -270,43 +146,12 @@
       }
     },
     {
-      "id": "1067807",
-      "name": "RedUp.pro",
-      "tagline": "The Reddit Growth and AI-Infused Market Discovery Platform",
-      "url": "https://www.producthunt.com/products/redup-pro-pay-as-you-go-reddit-tools?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 57,
-      "commentsCount": 1,
-      "createdAt": "2026-01-27T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/f50a57b8-1ebe-4679-a468-255d7e30025e.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "API"
-            }
-          },
-          {
-            "node": {
-              "name": "Social Media"
-            }
-          },
-          {
-            "node": {
-              "name": "Marketing"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1068218",
       "name": "Timeless",
       "tagline": "Notes & meeting action items converted into tasks for agents",
       "url": "https://www.producthunt.com/products/timeos?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 56,
-      "commentsCount": 1,
+      "votesCount": 74,
+      "commentsCount": 2,
       "createdAt": "2026-01-27T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/078f47db-70aa-48c6-aab1-8b5369c4fd31.png?auto=format"
@@ -327,31 +172,124 @@
       }
     },
     {
-      "id": "1053370",
-      "name": "GameCutAI",
-      "tagline": "Turn game footage into viral highlights in seconds",
-      "url": "https://www.producthunt.com/products/gamecutai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 55,
+      "id": "1068282",
+      "name": "Jotform AI Chatbot for Canva",
+      "tagline": "Bring Canva designs to life with an embedded AI chatbot ",
+      "url": "https://www.producthunt.com/products/jotform?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 74,
       "commentsCount": 1,
       "createdAt": "2026-01-27T08:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/a750f47c-d730-4220-81fb-d4d8a8131250.png?auto=format"
+        "url": "https://ph-files.imgix.net/8026fb84-be38-481a-90f4-c506464e8cd3.gif?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "Sports"
+              "name": "Design Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Productivity"
             }
           },
           {
             "node": {
               "name": "Artificial Intelligence"
             }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1067285",
+      "name": "Trails",
+      "tagline": "Automated insights from LLM agent runs",
+      "url": "https://www.producthunt.com/products/trails-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 67,
+      "commentsCount": 1,
+      "createdAt": "2026-01-27T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/b220f1d4-6388-4ffa-a453-d29877789f92.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Analytics"
+            }
           },
           {
             "node": {
-              "name": "Video"
+              "name": "Developer Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1068633",
+      "name": "Runo 2.0",
+      "tagline": "Metronome app that keeps your running cadence steady",
+      "url": "https://www.producthunt.com/products/runo-the-metronome-for-runners?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 66,
+      "commentsCount": 2,
+      "createdAt": "2026-01-27T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/96d24bc4-cd28-48c4-a06f-e2129f7a905d.webp?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Health & Fitness"
+            }
+          },
+          {
+            "node": {
+              "name": "Health"
+            }
+          },
+          {
+            "node": {
+              "name": "Running"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1065762",
+      "name": "Alfi",
+      "tagline": "Group chat app that remembers plans and helps you meet IRL",
+      "url": "https://www.producthunt.com/products/alfi?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 66,
+      "commentsCount": 1,
+      "createdAt": "2026-01-27T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/113b0380-9052-407e-bd06-37f2c7767a7b.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Android"
+            }
+          },
+          {
+            "node": {
+              "name": "Messaging"
+            }
+          },
+          {
+            "node": {
+              "name": "Social Network"
             }
           }
         ]
@@ -362,7 +300,7 @@
       "name": "The Password App",
       "tagline": "Local agent that rotates reused passwords",
       "url": "https://www.producthunt.com/products/the-password-app?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 55,
+      "votesCount": 64,
       "commentsCount": 1,
       "createdAt": "2026-01-27T08:01:00Z",
       "thumbnail": {
@@ -394,11 +332,73 @@
       }
     },
     {
+      "id": "1053370",
+      "name": "GameCutAI",
+      "tagline": "Turn game footage into viral highlights in seconds",
+      "url": "https://www.producthunt.com/products/gamecutai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 62,
+      "commentsCount": 1,
+      "createdAt": "2026-01-27T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/a750f47c-d730-4220-81fb-d4d8a8131250.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Sports"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "Video"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1067763",
+      "name": "FireSEO MCP",
+      "tagline": "Connect Claude or Cursor to audit SEO and suggest changes",
+      "url": "https://www.producthunt.com/products/fireseo-mcp?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 62,
+      "commentsCount": 1,
+      "createdAt": "2026-01-27T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/c744318b-ba54-47ee-884a-7063217d2e6b.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Analytics"
+            }
+          },
+          {
+            "node": {
+              "name": "Marketing"
+            }
+          },
+          {
+            "node": {
+              "name": "SEO"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1067922",
       "name": "Analog Reader",
       "tagline": "turn your favorite newsletters into a printable newspaper",
       "url": "https://www.producthunt.com/products/analog-reader?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 55,
+      "votesCount": 61,
       "commentsCount": 1,
       "createdAt": "2026-01-27T08:01:00Z",
       "thumbnail": {
@@ -425,15 +425,15 @@
       }
     },
     {
-      "id": "1058270",
-      "name": "CUStats - Track Claude & Codex Usage",
-      "tagline": "Never hit limit unexpectedly again - on macOS, iOS, Android",
-      "url": "https://www.producthunt.com/products/custats?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 54,
+      "id": "1066651",
+      "name": "Zush",
+      "tagline": "Auto-tag and rename images on macOS using AI file analysis",
+      "url": "https://www.producthunt.com/products/zush?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 61,
       "commentsCount": 1,
       "createdAt": "2026-01-27T08:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/8d24f5c6-4bf7-4714-9cdd-ba8668ad79ff.png?auto=format"
+        "url": "https://ph-files.imgix.net/b3493e76-45b8-4294-85d6-82f324d5f0ec.png?auto=format"
       },
       "topics": {
         "edges": [
@@ -444,12 +444,12 @@
           },
           {
             "node": {
-              "name": "Developer Tools"
+              "name": "Photography"
             }
           },
           {
             "node": {
-              "name": "Menu Bar Apps"
+              "name": "Artificial Intelligence"
             }
           }
         ]
@@ -460,7 +460,7 @@
       "name": "ShapedQL",
       "tagline": "The SQL engine for search, feeds, and AI agents",
       "url": "https://www.producthunt.com/products/shaped?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 54,
+      "votesCount": 60,
       "commentsCount": 1,
       "createdAt": "2026-01-27T08:01:00Z",
       "thumbnail": {
@@ -487,72 +487,15 @@
       }
     },
     {
-      "id": "1068283",
-      "name": "AcceptMyApp",
-      "tagline": "Spot iOS app issues before App Store review",
-      "url": "https://www.producthunt.com/products/acceptmyapp?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 54,
+      "id": "1067807",
+      "name": "RedUp.pro",
+      "tagline": "The Reddit Growth and AI-Infused Market Discovery Platform",
+      "url": "https://www.producthunt.com/products/redup-pro-pay-as-you-go-reddit-tools?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 60,
       "commentsCount": 1,
       "createdAt": "2026-01-27T08:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/c6c3fba6-0398-472e-8401-453c0f4f1861.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "iOS"
-            }
-          },
-          {
-            "node": {
-              "name": "Apple"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1065762",
-      "name": "Alfi",
-      "tagline": "Group chat app that remembers plans and helps you meet IRL",
-      "url": "https://www.producthunt.com/products/alfi?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 54,
-      "commentsCount": 1,
-      "createdAt": "2026-01-27T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/113b0380-9052-407e-bd06-37f2c7767a7b.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Android"
-            }
-          },
-          {
-            "node": {
-              "name": "iOS"
-            }
-          },
-          {
-            "node": {
-              "name": "Messaging"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1068530",
-      "name": "Cosmic AI Workflows",
-      "tagline": "Chain AI agents to automate entire projects, not just tasks.",
-      "url": "https://www.producthunt.com/products/cosmic?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 54,
-      "commentsCount": 1,
-      "createdAt": "2026-01-27T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/6ba3ccdb-b319-4dba-9d57-4a9282d5b6da.png?auto=format"
+        "url": "https://ph-files.imgix.net/f50a57b8-1ebe-4679-a468-255d7e30025e.png?auto=format"
       },
       "topics": {
         "edges": [
@@ -563,43 +506,12 @@
           },
           {
             "node": {
-              "name": "Developer Tools"
+              "name": "Social Media"
             }
           },
           {
             "node": {
-              "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1068547",
-      "name": "Scout Out",
-      "tagline": "AI generated proposals for residential construction projects",
-      "url": "https://www.producthunt.com/products/scout-out-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 53,
-      "commentsCount": 1,
-      "createdAt": "2026-01-27T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/d275704d-300b-4f09-ae66-e24475b1cc2d.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Money"
-            }
-          },
-          {
-            "node": {
-              "name": "Construction"
-            }
-          },
-          {
-            "node": {
-              "name": "CRM"
+              "name": "Marketing"
             }
           }
         ]
@@ -610,7 +522,7 @@
       "name": "Keyviz",
       "tagline": "A free, open-source keypress and mouse visualizer",
       "url": "https://www.producthunt.com/products/keyviz-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 53,
+      "votesCount": 59,
       "commentsCount": 1,
       "createdAt": "2026-01-27T08:01:00Z",
       "thumbnail": {
@@ -631,6 +543,89 @@
           {
             "node": {
               "name": "GitHub"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1068515",
+      "name": "Stacksync",
+      "tagline": "Real‑time two‑way sync between your CRM, ERP, and databases",
+      "url": "https://www.producthunt.com/products/stacksync?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 59,
+      "commentsCount": 1,
+      "createdAt": "2026-01-27T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/d48e3c5d-ef4a-42aa-a245-1ca3bec79379.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Tech"
+            }
+          },
+          {
+            "node": {
+              "name": "Data"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1058270",
+      "name": "CUStats - Track Claude & Codex Usage",
+      "tagline": "Never hit limit unexpectedly again - on macOS, iOS, Android",
+      "url": "https://www.producthunt.com/products/custats?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 58,
+      "commentsCount": 1,
+      "createdAt": "2026-01-27T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/8d24f5c6-4bf7-4714-9cdd-ba8668ad79ff.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Menu Bar Apps"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1068283",
+      "name": "AcceptMyApp",
+      "tagline": "Spot iOS app issues before App Store review",
+      "url": "https://www.producthunt.com/products/acceptmyapp?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 57,
+      "commentsCount": 1,
+      "createdAt": "2026-01-27T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/c6c3fba6-0398-472e-8401-453c0f4f1861.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "iOS"
+            }
+          },
+          {
+            "node": {
+              "name": "Apple"
             }
           }
         ]
