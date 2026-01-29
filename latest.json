@@ -1,12 +1,12 @@
 {
-  "fetchedAt": "2026-01-29T21:37:56.571Z",
+  "fetchedAt": "2026-01-29T21:58:37.656Z",
   "posts": [
     {
       "id": "1062703",
       "name": "Pandada AI",
       "tagline": "Build data wealth: Turns files into McKinsey-level insights",
       "url": "https://www.producthunt.com/products/pandada-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 428,
+      "votesCount": 430,
       "commentsCount": 172,
       "createdAt": "2026-01-29T08:01:00Z",
       "thumbnail": {
@@ -37,7 +37,7 @@
       "name": "TravelAnimator",
       "tagline": "Turn Google Maps URLs into stunning map animations.",
       "url": "https://www.producthunt.com/products/travel-animator?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 379,
+      "votesCount": 385,
       "commentsCount": 37,
       "createdAt": "2026-01-29T08:01:00Z",
       "thumbnail": {
@@ -68,7 +68,7 @@
       "name": "Meet-Ting",
       "tagline": "AI that gives your schedule a brain.",
       "url": "https://www.producthunt.com/products/meet-ting?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 219,
+      "votesCount": 220,
       "commentsCount": 42,
       "createdAt": "2026-01-29T08:01:00Z",
       "thumbnail": {
@@ -95,42 +95,11 @@
       }
     },
     {
-      "id": "1069018",
-      "name": "AI Chrome Extension Builder",
-      "tagline": "Build Chrome Extensions by Talking to AI",
-      "url": "https://www.producthunt.com/products/shipper-now?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 199,
-      "commentsCount": 13,
-      "createdAt": "2026-01-29T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/eb7982c8-31a2-46c4-8d50-431c2e1f810d.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Browser Extensions"
-            }
-          },
-          {
-            "node": {
-              "name": "Design Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Development"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1066020",
       "name": "Meteroid",
       "tagline": "Billing platform to launch, test, + scale business models",
       "url": "https://www.producthunt.com/products/meteroid-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 203,
+      "votesCount": 204,
       "commentsCount": 25,
       "createdAt": "2026-01-29T08:01:00Z",
       "thumbnail": {
@@ -162,11 +131,42 @@
       }
     },
     {
+      "id": "1069018",
+      "name": "AI Chrome Extension Builder",
+      "tagline": "Build Chrome Extensions by Talking to AI",
+      "url": "https://www.producthunt.com/products/shipper-now?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 200,
+      "commentsCount": 13,
+      "createdAt": "2026-01-29T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/eb7982c8-31a2-46c4-8d50-431c2e1f810d.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Browser Extensions"
+            }
+          },
+          {
+            "node": {
+              "name": "Design Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Development"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1069789",
       "name": "The Prompting Company",
       "tagline": "SEO is dead. Be the product cited by ChatGPT.",
       "url": "https://www.producthunt.com/products/the-prompting-company?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 185,
+      "votesCount": 190,
       "commentsCount": 28,
       "createdAt": "2026-01-29T08:01:00Z",
       "thumbnail": {
@@ -343,6 +343,37 @@
       }
     },
     {
+      "id": "1069189",
+      "name": "Willow on Windows",
+      "tagline": "Write anywhere on your computer. By voice.",
+      "url": "https://www.producthunt.com/products/willow-voice?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 115,
+      "commentsCount": 15,
+      "createdAt": "2026-01-29T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/75bede2c-ac00-4f6e-b17d-6cc6187a54ac.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Windows"
+            }
+          },
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1069574",
       "name": "Invofox 2.0",
       "tagline": "Document AI for real-world workflows, not just demos",
@@ -363,37 +394,6 @@
           {
             "node": {
               "name": "Developer Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1069189",
-      "name": "Willow on Windows",
-      "tagline": "Write anywhere on your computer. By voice.",
-      "url": "https://www.producthunt.com/products/willow-voice?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 114,
-      "commentsCount": 15,
-      "createdAt": "2026-01-29T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/75bede2c-ac00-4f6e-b17d-6cc6187a54ac.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Windows"
-            }
-          },
-          {
-            "node": {
-              "name": "Productivity"
             }
           },
           {
@@ -436,27 +436,6 @@
       }
     },
     {
-      "id": "1069437",
-      "name": "LiquidFetch",
-      "tagline": " Beautiful visual system fetch for macOS",
-      "url": "https://www.producthunt.com/products/liquidfetch?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 108,
-      "commentsCount": 5,
-      "createdAt": "2026-01-29T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/8db71932-17f5-4ca0-aab8-f19ebd030318.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "User Experience"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1065621",
       "name": "Fluent",
       "tagline": "Agentic AI in Any Mac App. Now with Native RAG",
@@ -482,6 +461,27 @@
           {
             "node": {
               "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1069437",
+      "name": "LiquidFetch",
+      "tagline": " Beautiful visual system fetch for macOS",
+      "url": "https://www.producthunt.com/products/liquidfetch?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 108,
+      "commentsCount": 5,
+      "createdAt": "2026-01-29T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/8db71932-17f5-4ca0-aab8-f19ebd030318.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "User Experience"
             }
           }
         ]
@@ -555,7 +555,7 @@
       "tagline": "You Said You’d Work Out. So What Happened?",
       "url": "https://www.producthunt.com/products/fytly?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 41,
-      "commentsCount": 2,
+      "commentsCount": 3,
       "createdAt": "2026-01-29T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/cbdbbe3e-7b3b-4ec2-9321-d565635ee6fb.png?auto=format"
@@ -586,7 +586,7 @@
       "tagline": "Design trends from teams fixing broken brands",
       "url": "https://www.producthunt.com/products/product-design-trends-2026?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 32,
-      "commentsCount": 7,
+      "commentsCount": 8,
       "createdAt": "2026-01-29T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/24a2b7b4-8fe5-4287-b230-525b67855c74.gif?auto=format"
