@@ -1,12 +1,12 @@
 {
-  "fetchedAt": "2026-01-31T10:35:58.736Z",
+  "fetchedAt": "2026-01-31T10:57:01.155Z",
   "posts": [
     {
       "id": "1070427",
       "name": "skills.sh",
       "tagline": "The Agent Skills Directory",
       "url": "https://www.producthunt.com/products/vercel?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 113,
+      "votesCount": 123,
       "commentsCount": 1,
       "createdAt": "2026-01-31T08:01:00Z",
       "thumbnail": {
@@ -32,7 +32,7 @@
       "name": "Dottie",
       "tagline": "Private AI Journal",
       "url": "https://www.producthunt.com/products/dottie?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 107,
+      "votesCount": 110,
       "commentsCount": 3,
       "createdAt": "2026-01-31T08:01:00Z",
       "thumbnail": {
@@ -63,7 +63,7 @@
       "name": "ClaudeUsageBar",
       "tagline": "Know exactly how much Claude you have left at a glance",
       "url": "https://www.producthunt.com/products/claudeusagebar?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 96,
+      "votesCount": 100,
       "commentsCount": 2,
       "createdAt": "2026-01-31T08:01:00Z",
       "thumbnail": {
@@ -94,7 +94,7 @@
       "name": "Herodot AI",
       "tagline": "Travel at any place like with a personal local guide",
       "url": "https://www.producthunt.com/products/herodot-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 96,
+      "votesCount": 97,
       "commentsCount": 2,
       "createdAt": "2026-01-31T08:01:00Z",
       "thumbnail": {
@@ -130,7 +130,7 @@
       "name": "Pretty Prompt 1.0 Extension + Web App",
       "tagline": "Grammarly for prompting. Turn any text into perfect prompts.",
       "url": "https://www.producthunt.com/products/pretty-prompt?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 87,
+      "votesCount": 93,
       "commentsCount": 3,
       "createdAt": "2026-01-31T08:01:00Z",
       "thumbnail": {
@@ -192,7 +192,7 @@
       "name": "RUSTWA",
       "tagline": "A Unofficial WhatsApp Web API built in Rust",
       "url": "https://www.producthunt.com/products/rustwa?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 81,
+      "votesCount": 82,
       "commentsCount": 3,
       "createdAt": "2026-01-31T08:01:00Z",
       "thumbnail": {
@@ -213,7 +213,7 @@
       "name": "AI Proctor by Qlay",
       "tagline": "AI Proctor: AI that protects fairness in hiring & tests",
       "url": "https://www.producthunt.com/products/ai-proctor-by-qlay-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 35,
+      "votesCount": 34,
       "commentsCount": 3,
       "createdAt": "2026-01-31T08:01:00Z",
       "thumbnail": {
@@ -234,6 +234,37 @@
           {
             "node": {
               "name": "Human Resources"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1063636",
+      "name": "DoppelIQ Atlas",
+      "tagline": "Pre-test marketing decisions with AI consumer simulations",
+      "url": "https://www.producthunt.com/products/doppeliq-atlas?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 16,
+      "commentsCount": 3,
+      "createdAt": "2026-01-31T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/0a42e4ee-b6fe-4296-aaf8-c070ed42d4f3.x-icon?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Analytics"
+            }
+          },
+          {
+            "node": {
+              "name": "A/B Testing"
+            }
+          },
+          {
+            "node": {
+              "name": "Marketing"
             }
           }
         ]
@@ -297,6 +328,42 @@
       }
     },
     {
+      "id": "1058302",
+      "name": "Supatrack",
+      "tagline": "Fitness & Nutrition app",
+      "url": "https://www.producthunt.com/products/supatrack-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 12,
+      "commentsCount": 2,
+      "createdAt": "2026-01-31T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/aa84b872-1e59-479c-88a1-ae7bd5e173b3.jpeg?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Android"
+            }
+          },
+          {
+            "node": {
+              "name": "Health & Fitness"
+            }
+          },
+          {
+            "node": {
+              "name": "Nutrition"
+            }
+          },
+          {
+            "node": {
+              "name": "Fitness"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1070513",
       "name": "Erlara",
       "tagline": "Proof that you’re more capable than you think",
@@ -349,67 +416,31 @@
       }
     },
     {
-      "id": "1063636",
-      "name": "DoppelIQ Atlas",
-      "tagline": "Pre-test marketing decisions with AI consumer simulations",
-      "url": "https://www.producthunt.com/products/doppeliq-atlas?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 11,
-      "commentsCount": 3,
+      "id": "1070446",
+      "name": "PageSpeed.cloud",
+      "tagline": "AI-based PageSpeed insights with clear actions for teams!",
+      "url": "https://www.producthunt.com/products/pagespeed-cloud?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 9,
+      "commentsCount": 1,
       "createdAt": "2026-01-31T08:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/0a42e4ee-b6fe-4296-aaf8-c070ed42d4f3.x-icon?auto=format"
+        "url": "https://ph-files.imgix.net/76efada8-4653-4918-b6a9-ca40a78bd1d4.png?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "Analytics"
+              "name": "User Experience"
             }
           },
           {
             "node": {
-              "name": "A/B Testing"
+              "name": "SEO"
             }
           },
           {
             "node": {
-              "name": "Marketing"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1058302",
-      "name": "Supatrack",
-      "tagline": "Fitness & Nutrition app",
-      "url": "https://www.producthunt.com/products/supatrack-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 10,
-      "commentsCount": 2,
-      "createdAt": "2026-01-31T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/aa84b872-1e59-479c-88a1-ae7bd5e173b3.jpeg?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Android"
-            }
-          },
-          {
-            "node": {
-              "name": "Health & Fitness"
-            }
-          },
-          {
-            "node": {
-              "name": "Nutrition"
-            }
-          },
-          {
-            "node": {
-              "name": "Fitness"
+              "name": "Web Design"
             }
           }
         ]
@@ -447,42 +478,11 @@
       }
     },
     {
-      "id": "1070446",
-      "name": "PageSpeed.cloud",
-      "tagline": "AI-based PageSpeed insights with clear actions for teams!",
-      "url": "https://www.producthunt.com/products/pagespeed-cloud?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 9,
-      "commentsCount": 1,
-      "createdAt": "2026-01-31T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/76efada8-4653-4918-b6a9-ca40a78bd1d4.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "User Experience"
-            }
-          },
-          {
-            "node": {
-              "name": "SEO"
-            }
-          },
-          {
-            "node": {
-              "name": "Web Design"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1070317",
       "name": "Owlab - Design Feedback",
       "tagline": "The all-in-one visual feedback tool for creative teams",
       "url": "https://www.producthunt.com/products/design-feedback?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 8,
+      "votesCount": 9,
       "commentsCount": 1,
       "createdAt": "2026-01-31T08:01:00Z",
       "thumbnail": {
@@ -530,6 +530,37 @@
       }
     },
     {
+      "id": "1068941",
+      "name": "FocusMatrix",
+      "tagline": "Eisenhower Matrix for Priority Management",
+      "url": "https://www.producthunt.com/products/focusmatrix?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 8,
+      "commentsCount": 1,
+      "createdAt": "2026-01-31T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/1b308b70-5711-494d-91ae-8f4cc727896a.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Task Management"
+            }
+          },
+          {
+            "node": {
+              "name": "Time Tracking"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1070382",
       "name": "PersonaMix",
       "tagline": "AI personas debate your ideas from different perspectives",
@@ -555,37 +586,6 @@
           {
             "node": {
               "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1070027",
-      "name": "Simple Timetable",
-      "tagline": "Gantt Timeline Scheduler Mobile App & Web Service",
-      "url": "https://www.producthunt.com/products/simple-timetable?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 8,
-      "commentsCount": 1,
-      "createdAt": "2026-01-31T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/3b2285ad-7c2a-4e82-ae44-2a60a7490ada.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Task Management"
-            }
-          },
-          {
-            "node": {
-              "name": "Education"
-            }
-          },
-          {
-            "node": {
-              "name": "Calendar"
             }
           }
         ]
