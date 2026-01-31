@@ -1,12 +1,12 @@
 {
-  "fetchedAt": "2026-01-31T09:40:22.330Z",
+  "fetchedAt": "2026-01-31T09:57:40.299Z",
   "posts": [
     {
       "id": "1070427",
       "name": "skills.sh",
       "tagline": "The Agent Skills Directory",
       "url": "https://www.producthunt.com/products/vercel?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 97,
+      "votesCount": 105,
       "commentsCount": 1,
       "createdAt": "2026-01-31T08:01:00Z",
       "thumbnail": {
@@ -32,7 +32,7 @@
       "name": "Dottie",
       "tagline": "Private AI Journal",
       "url": "https://www.producthunt.com/products/dottie?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 96,
+      "votesCount": 101,
       "commentsCount": 3,
       "createdAt": "2026-01-31T08:01:00Z",
       "thumbnail": {
@@ -59,11 +59,42 @@
       }
     },
     {
+      "id": "1067826",
+      "name": "ClaudeUsageBar",
+      "tagline": "Know exactly how much Claude you have left at a glance",
+      "url": "https://www.producthunt.com/products/claudeusagebar?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 92,
+      "commentsCount": 2,
+      "createdAt": "2026-01-31T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/43240001-5ce0-4f43-8e55-e2829805e7fc.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Open Source"
+            }
+          },
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Menu Bar Apps"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1062925",
       "name": "Herodot AI",
       "tagline": "Travel at any place like with a personal local guide",
       "url": "https://www.producthunt.com/products/herodot-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 89,
+      "votesCount": 92,
       "commentsCount": 2,
       "createdAt": "2026-01-31T08:01:00Z",
       "thumbnail": {
@@ -95,42 +126,11 @@
       }
     },
     {
-      "id": "1067826",
-      "name": "ClaudeUsageBar",
-      "tagline": "Know exactly how much Claude you have left at a glance",
-      "url": "https://www.producthunt.com/products/claudeusagebar?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 83,
-      "commentsCount": 2,
-      "createdAt": "2026-01-31T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/43240001-5ce0-4f43-8e55-e2829805e7fc.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Open Source"
-            }
-          },
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Menu Bar Apps"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1068273",
       "name": "DestMate: Travel Alarm",
       "tagline": "Alarm with location wake-up and earphone-only sound",
       "url": "https://www.producthunt.com/products/destmate-travel-alarm?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 79,
+      "votesCount": 82,
       "commentsCount": 2,
       "createdAt": "2026-01-31T08:01:00Z",
       "thumbnail": {
@@ -161,7 +161,7 @@
       "name": "Pretty Prompt 1.0 Extension + Web App",
       "tagline": "Grammarly for prompting. Turn any text into perfect prompts.",
       "url": "https://www.producthunt.com/products/pretty-prompt?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 75,
+      "votesCount": 81,
       "commentsCount": 2,
       "createdAt": "2026-01-31T08:01:00Z",
       "thumbnail": {
@@ -192,7 +192,7 @@
       "name": "RUSTWA",
       "tagline": "A Unofficial WhatsApp Web API built in Rust",
       "url": "https://www.producthunt.com/products/rustwa?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 74,
+      "votesCount": 76,
       "commentsCount": 3,
       "createdAt": "2026-01-31T08:01:00Z",
       "thumbnail": {
@@ -213,7 +213,7 @@
       "name": "AI Proctor by Qlay",
       "tagline": "AI Proctor: AI that protects fairness in hiring & tests",
       "url": "https://www.producthunt.com/products/ai-proctor-by-qlay-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 26,
+      "votesCount": 28,
       "commentsCount": 3,
       "createdAt": "2026-01-31T08:01:00Z",
       "thumbnail": {
@@ -349,6 +349,42 @@
       }
     },
     {
+      "id": "1058302",
+      "name": "Supatrack",
+      "tagline": "Fitness & Nutrition app",
+      "url": "https://www.producthunt.com/products/supatrack-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 9,
+      "commentsCount": 2,
+      "createdAt": "2026-01-31T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/aa84b872-1e59-479c-88a1-ae7bd5e173b3.jpeg?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Android"
+            }
+          },
+          {
+            "node": {
+              "name": "Health & Fitness"
+            }
+          },
+          {
+            "node": {
+              "name": "Nutrition"
+            }
+          },
+          {
+            "node": {
+              "name": "Fitness"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1063636",
       "name": "DoppelIQ Atlas",
       "tagline": "Pre-test marketing decisions with AI consumer simulations",
@@ -374,37 +410,6 @@
           {
             "node": {
               "name": "Marketing"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1070027",
-      "name": "Simple Timetable",
-      "tagline": "Gantt Timeline Scheduler Mobile App & Web Service",
-      "url": "https://www.producthunt.com/products/simple-timetable?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 8,
-      "commentsCount": 1,
-      "createdAt": "2026-01-31T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/3b2285ad-7c2a-4e82-ae44-2a60a7490ada.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Task Management"
-            }
-          },
-          {
-            "node": {
-              "name": "Education"
-            }
-          },
-          {
-            "node": {
-              "name": "Calendar"
             }
           }
         ]
@@ -442,36 +447,31 @@
       }
     },
     {
-      "id": "1058302",
-      "name": "Supatrack",
-      "tagline": "Fitness & Nutrition app",
-      "url": "https://www.producthunt.com/products/supatrack-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 7,
+      "id": "1070027",
+      "name": "Simple Timetable",
+      "tagline": "Gantt Timeline Scheduler Mobile App & Web Service",
+      "url": "https://www.producthunt.com/products/simple-timetable?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 8,
       "commentsCount": 1,
       "createdAt": "2026-01-31T08:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/aa84b872-1e59-479c-88a1-ae7bd5e173b3.jpeg?auto=format"
+        "url": "https://ph-files.imgix.net/3b2285ad-7c2a-4e82-ae44-2a60a7490ada.png?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "Android"
+              "name": "Task Management"
             }
           },
           {
             "node": {
-              "name": "Health & Fitness"
+              "name": "Education"
             }
           },
           {
             "node": {
-              "name": "Nutrition"
-            }
-          },
-          {
-            "node": {
-              "name": "Fitness"
+              "name": "Calendar"
             }
           }
         ]
