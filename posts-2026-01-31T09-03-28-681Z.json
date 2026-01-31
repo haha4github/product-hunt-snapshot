@@ -1,13 +1,39 @@
 {
-  "fetchedAt": "2026-01-31T08:42:06.148Z",
+  "fetchedAt": "2026-01-31T09:03:28.681Z",
   "posts": [
+    {
+      "id": "1070427",
+      "name": "skills.sh",
+      "tagline": "The Agent Skills Directory",
+      "url": "https://www.producthunt.com/products/vercel?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 83,
+      "commentsCount": 1,
+      "createdAt": "2026-01-31T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/593ff5e2-9d11-491c-ab63-9e929e894214.jpeg?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Software Engineering"
+            }
+          },
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          }
+        ]
+      }
+    },
     {
       "id": "1070344",
       "name": "Dottie",
       "tagline": "Private AI Journal",
       "url": "https://www.producthunt.com/products/dottie?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 75,
-      "commentsCount": 1,
+      "votesCount": 81,
+      "commentsCount": 3,
       "createdAt": "2026-01-31T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/4da8daff-1067-4827-87c1-98b57b50d90b.png?auto=format"
@@ -33,69 +59,12 @@
       }
     },
     {
-      "id": "1070427",
-      "name": "skills.sh",
-      "tagline": "The Agent Skills Directory",
-      "url": "https://www.producthunt.com/products/vercel?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 73,
-      "commentsCount": 1,
-      "createdAt": "2026-01-31T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/593ff5e2-9d11-491c-ab63-9e929e894214.jpeg?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Software Engineering"
-            }
-          },
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1067826",
-      "name": "ClaudeUsageBar",
-      "tagline": "Know exactly how much Claude you have left at a glance",
-      "url": "https://www.producthunt.com/products/claudeusagebar?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 71,
-      "commentsCount": 1,
-      "createdAt": "2026-01-31T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/43240001-5ce0-4f43-8e55-e2829805e7fc.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Open Source"
-            }
-          },
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Menu Bar Apps"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1062925",
       "name": "Herodot AI",
       "tagline": "Travel at any place like with a personal local guide",
       "url": "https://www.producthunt.com/products/herodot-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 71,
-      "commentsCount": 1,
+      "votesCount": 76,
+      "commentsCount": 2,
       "createdAt": "2026-01-31T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/8edd81ce-4b29-4198-beb2-e6ae02f29995.png?auto=format"
@@ -126,11 +95,73 @@
       }
     },
     {
+      "id": "1067826",
+      "name": "ClaudeUsageBar",
+      "tagline": "Know exactly how much Claude you have left at a glance",
+      "url": "https://www.producthunt.com/products/claudeusagebar?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 76,
+      "commentsCount": 2,
+      "createdAt": "2026-01-31T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/43240001-5ce0-4f43-8e55-e2829805e7fc.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Open Source"
+            }
+          },
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Menu Bar Apps"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1066254",
+      "name": "Pretty Prompt 1.0 Extension + Web App",
+      "tagline": "Grammarly for prompting. Turn any text into perfect prompts.",
+      "url": "https://www.producthunt.com/products/pretty-prompt?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 69,
+      "commentsCount": 2,
+      "createdAt": "2026-01-31T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/77d7fdfe-35a2-4e62-8353-e02e185613f7.jpeg?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Chrome Extensions"
+            }
+          },
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1068273",
       "name": "DestMate: Travel Alarm",
       "tagline": "Alarm with location wake-up and earphone-only sound",
       "url": "https://www.producthunt.com/products/destmate-travel-alarm?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 67,
+      "votesCount": 69,
       "commentsCount": 2,
       "createdAt": "2026-01-31T08:01:00Z",
       "thumbnail": {
@@ -161,7 +192,7 @@
       "name": "RUSTWA",
       "tagline": "A Unofficial WhatsApp Web API built in Rust",
       "url": "https://www.producthunt.com/products/rustwa?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 65,
+      "votesCount": 67,
       "commentsCount": 2,
       "createdAt": "2026-01-31T08:01:00Z",
       "thumbnail": {
@@ -178,43 +209,12 @@
       }
     },
     {
-      "id": "1066254",
-      "name": "Pretty Prompt 1.0 Extension + Web App",
-      "tagline": "Grammarly for prompting. Turn any text into perfect prompts.",
-      "url": "https://www.producthunt.com/products/pretty-prompt?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 62,
-      "commentsCount": 1,
-      "createdAt": "2026-01-31T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/77d7fdfe-35a2-4e62-8353-e02e185613f7.jpeg?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Chrome Extensions"
-            }
-          },
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1068840",
       "name": "AI Proctor by Qlay",
       "tagline": "AI Proctor: AI that protects fairness in hiring & tests",
       "url": "https://www.producthunt.com/products/ai-proctor-by-qlay-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 13,
-      "commentsCount": 1,
+      "votesCount": 22,
+      "commentsCount": 2,
       "createdAt": "2026-01-31T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/effcabc6-1e41-43a9-b23f-88094a5e3be4.png?auto=format"
@@ -234,6 +234,63 @@
           {
             "node": {
               "name": "Human Resources"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1068306",
+      "name": "Jello",
+      "tagline": "Create games with photos and sounds, share & compete",
+      "url": "https://www.producthunt.com/products/jello?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 13,
+      "commentsCount": 2,
+      "createdAt": "2026-01-31T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/80b4b294-4b3a-46f8-8247-09b80468dd8e.jpeg?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Games"
+            }
+          },
+          {
+            "node": {
+              "name": "Entertainment"
+            }
+          },
+          {
+            "node": {
+              "name": "Social Networking"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1070460",
+      "name": "Genie 3",
+      "tagline": "A new frontier for world models",
+      "url": "https://www.producthunt.com/products/genie-3-6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 12,
+      "commentsCount": 2,
+      "createdAt": "2026-01-31T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/b3469df9-9829-4301-b74d-ebd1af88ef12.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Design Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
             }
           }
         ]
@@ -292,69 +349,12 @@
       }
     },
     {
-      "id": "1068306",
-      "name": "Jello",
-      "tagline": "Create games with photos and sounds, share & compete",
-      "url": "https://www.producthunt.com/products/jello?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 11,
-      "commentsCount": 1,
-      "createdAt": "2026-01-31T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/80b4b294-4b3a-46f8-8247-09b80468dd8e.jpeg?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Games"
-            }
-          },
-          {
-            "node": {
-              "name": "Entertainment"
-            }
-          },
-          {
-            "node": {
-              "name": "Social Networking"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1070460",
-      "name": "Genie 3",
-      "tagline": "A new frontier for world models",
-      "url": "https://www.producthunt.com/products/genie-3-6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 11,
-      "commentsCount": 1,
-      "createdAt": "2026-01-31T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/b3469df9-9829-4301-b74d-ebd1af88ef12.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Design Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1063636",
       "name": "DoppelIQ Atlas",
       "tagline": "Pre-test marketing decisions with AI consumer simulations",
       "url": "https://www.producthunt.com/products/doppeliq-atlas?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 8,
-      "commentsCount": 1,
+      "votesCount": 9,
+      "commentsCount": 3,
       "createdAt": "2026-01-31T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/0a42e4ee-b6fe-4296-aaf8-c070ed42d4f3.x-icon?auto=format"
@@ -416,7 +416,7 @@
       "tagline": "Curated hub of niche directories for smarter listings & SEO",
       "url": "https://www.producthunt.com/products/directories-best?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 7,
-      "commentsCount": 1,
+      "commentsCount": 2,
       "createdAt": "2026-01-31T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/59ed1528-1200-4470-b075-7e048ce6d332.png?auto=format"
@@ -441,6 +441,104 @@
           {
             "node": {
               "name": "Business"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1070537",
+      "name": "BuildStack      ",
+      "tagline": " AI-powered PC builder with real time compatibility checking",
+      "url": "https://www.producthunt.com/products/buildstack?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 7,
+      "commentsCount": 1,
+      "createdAt": "2026-01-31T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/2d459e1b-898f-4277-9c9b-2a30a8af56ce.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "SaaS"
+            }
+          },
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1070659",
+      "name": "Teleprompter: Record Video & Script",
+      "tagline": "Record professional videos with a floating smart prompter.",
+      "url": "https://www.producthunt.com/products/teleprompter-record-video-script?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 7,
+      "commentsCount": 2,
+      "createdAt": "2026-01-31T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/bc846beb-8b08-4d01-8e65-09811038404c.webp?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Android"
+            }
+          },
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Video"
+            }
+          },
+          {
+            "node": {
+              "name": "Video cameras"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1070533",
+      "name": "OrderFlow",
+      "tagline": "The AI Financial Vault for Modern Shoppers",
+      "url": "https://www.producthunt.com/products/orderflow-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 7,
+      "commentsCount": 2,
+      "createdAt": "2026-01-31T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/47f8d5f0-47e7-4f7d-b7d9-ae79e6a7ed2c.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "SaaS"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "Shopping"
             }
           }
         ]
@@ -482,7 +580,7 @@
       "name": "OpenPools.in",
       "tagline": "Find Your People, Build What Matters",
       "url": "https://www.producthunt.com/products/openpools-in?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 6,
+      "votesCount": 7,
       "commentsCount": 2,
       "createdAt": "2026-01-31T08:01:00Z",
       "thumbnail": {
@@ -503,104 +601,6 @@
           {
             "node": {
               "name": "Career"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1070642",
-      "name": "randomcountrygen.com",
-      "tagline": "Discover the world, one random country at a time.",
-      "url": "https://www.producthunt.com/products/randomcountrygen-com?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 6,
-      "commentsCount": 1,
-      "createdAt": "2026-01-31T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/4196cddf-96e8-4822-a2bb-f6d1064e2d8a.webp?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Funny Games"
-            }
-          },
-          {
-            "node": {
-              "name": "Education"
-            }
-          },
-          {
-            "node": {
-              "name": "Travel"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1070691",
-      "name": "Voice Insert - ElevenLabs in Figma",
-      "tagline": "Insert ElevenLabs text-to-speech & sound effects into Figma",
-      "url": "https://www.producthunt.com/products/voice-insert-elevenlabs-in-figma?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 6,
-      "commentsCount": 1,
-      "createdAt": "2026-01-31T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/40662a02-0e79-4dec-a5f2-075bf953cedb.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Design Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Audio"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1070659",
-      "name": "Teleprompter: Record Video & Script",
-      "tagline": "Record professional videos with a floating smart prompter.",
-      "url": "https://www.producthunt.com/products/teleprompter-record-video-script?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 6,
-      "commentsCount": 1,
-      "createdAt": "2026-01-31T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/bc846beb-8b08-4d01-8e65-09811038404c.webp?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Android"
-            }
-          },
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Video"
-            }
-          },
-          {
-            "node": {
-              "name": "Video cameras"
             }
           }
         ]
