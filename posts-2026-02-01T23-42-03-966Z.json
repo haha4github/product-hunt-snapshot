@@ -1,12 +1,12 @@
 {
-  "fetchedAt": "2026-02-01T23:12:17.886Z",
+  "fetchedAt": "2026-02-01T23:42:03.966Z",
   "posts": [
     {
       "id": "1070344",
       "name": "Dottie",
       "tagline": "Private AI Journal",
       "url": "https://www.producthunt.com/products/dottie?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 298,
+      "votesCount": 299,
       "commentsCount": 11,
       "createdAt": "2026-02-01T08:01:00Z",
       "thumbnail": {
@@ -37,7 +37,7 @@
       "name": "Time Ledger",
       "tagline": "Manage your time like you manage your money.",
       "url": "https://www.producthunt.com/products/time-ledger?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 252,
+      "votesCount": 254,
       "commentsCount": 11,
       "createdAt": "2026-02-01T08:01:00Z",
       "thumbnail": {
@@ -68,7 +68,7 @@
       "name": "Yomio",
       "tagline": "Turns expenses into the spending truth your bank won’t show.",
       "url": "https://www.producthunt.com/products/yomio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 206,
+      "votesCount": 207,
       "commentsCount": 10,
       "createdAt": "2026-02-01T08:01:00Z",
       "thumbnail": {
@@ -540,37 +540,6 @@
       }
     },
     {
-      "id": "1062956",
-      "name": "Reddar",
-      "tagline": "Target high-intent Reddit posts for your product",
-      "url": "https://www.producthunt.com/products/reddar?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 14,
-      "commentsCount": 2,
-      "createdAt": "2026-02-01T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/7f8e9070-d13d-4659-ad3f-9c373532f890.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Marketing"
-            }
-          },
-          {
-            "node": {
-              "name": "SEO"
-            }
-          },
-          {
-            "node": {
-              "name": "reddit"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1070742",
       "name": "Magpie - YouTube Summarizer",
       "tagline": "Free, open-source AI summarizer for YouTube video",
@@ -601,6 +570,37 @@
           {
             "node": {
               "name": "YouTube"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1062956",
+      "name": "Reddar",
+      "tagline": "Target high-intent Reddit posts for your product",
+      "url": "https://www.producthunt.com/products/reddar?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 14,
+      "commentsCount": 2,
+      "createdAt": "2026-02-01T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/7f8e9070-d13d-4659-ad3f-9c373532f890.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Marketing"
+            }
+          },
+          {
+            "node": {
+              "name": "SEO"
+            }
+          },
+          {
+            "node": {
+              "name": "reddit"
             }
           }
         ]
