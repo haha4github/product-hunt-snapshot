@@ -1,12 +1,12 @@
 {
-  "fetchedAt": "2026-02-01T20:56:22.674Z",
+  "fetchedAt": "2026-02-01T21:31:13.167Z",
   "posts": [
     {
       "id": "1070344",
       "name": "Dottie",
       "tagline": "Private AI Journal",
       "url": "https://www.producthunt.com/products/dottie?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 284,
+      "votesCount": 289,
       "commentsCount": 11,
       "createdAt": "2026-02-01T08:01:00Z",
       "thumbnail": {
@@ -68,7 +68,7 @@
       "name": "Yomio",
       "tagline": "Turns expenses into the spending truth your bank won’t show.",
       "url": "https://www.producthunt.com/products/yomio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 197,
+      "votesCount": 201,
       "commentsCount": 10,
       "createdAt": "2026-02-01T08:01:00Z",
       "thumbnail": {
@@ -99,7 +99,7 @@
       "name": "Good Assistant",
       "tagline": "Partner for goals that matter",
       "url": "https://www.producthunt.com/products/good-assistant?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 165,
+      "votesCount": 167,
       "commentsCount": 5,
       "createdAt": "2026-02-01T08:01:00Z",
       "thumbnail": {
@@ -280,7 +280,7 @@
       "name": "Prompty Town",
       "tagline": "Yet another link directory - but better",
       "url": "https://www.producthunt.com/products/prompty-town?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 17,
+      "votesCount": 18,
       "commentsCount": 3,
       "createdAt": "2026-02-01T08:01:00Z",
       "thumbnail": {
@@ -306,7 +306,7 @@
       "name": "Invoicey.io",
       "tagline": "Free AI invoice & quote generator with 1-click conversion",
       "url": "https://www.producthunt.com/products/invoicey-io?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 16,
+      "votesCount": 17,
       "commentsCount": 2,
       "createdAt": "2026-02-01T08:01:00Z",
       "thumbnail": {
@@ -327,6 +327,63 @@
           {
             "node": {
               "name": "Finance"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1070940",
+      "name": "superscribe.io",
+      "tagline": "Speak. Track. Bill.",
+      "url": "https://www.producthunt.com/products/superscribe-io?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 16,
+      "commentsCount": 1,
+      "createdAt": "2026-02-01T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/959c5534-51b4-4775-b2a9-5b8d0609d682.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Time Tracking"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "Vibe coding"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1071019",
+      "name": "WORKFREAK",
+      "tagline": "Turn what you watch into what you do",
+      "url": "https://www.producthunt.com/products/workfreak?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 15,
+      "commentsCount": 5,
+      "createdAt": "2026-02-01T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/454a5a6d-584c-468f-9c56-4294f68edc12.webp?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Health & Fitness"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
             }
           }
         ]
@@ -452,37 +509,6 @@
       }
     },
     {
-      "id": "1070940",
-      "name": "superscribe.io",
-      "tagline": "Speak. Track. Bill.",
-      "url": "https://www.producthunt.com/products/superscribe-io?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 14,
-      "commentsCount": 1,
-      "createdAt": "2026-02-01T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/959c5534-51b4-4775-b2a9-5b8d0609d682.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Time Tracking"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          },
-          {
-            "node": {
-              "name": "Vibe coding"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1062956",
       "name": "Reddar",
       "tagline": "Target high-intent Reddit posts for your product",
@@ -508,32 +534,6 @@
           {
             "node": {
               "name": "reddit"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1071019",
-      "name": "WORKFREAK",
-      "tagline": "Turn what you watch into what you do",
-      "url": "https://www.producthunt.com/products/workfreak?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 14,
-      "commentsCount": 5,
-      "createdAt": "2026-02-01T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/454a5a6d-584c-468f-9c56-4294f68edc12.webp?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Health & Fitness"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
             }
           }
         ]
