@@ -1,12 +1,12 @@
 {
-  "fetchedAt": "2026-02-06T23:35:36.705Z",
+  "fetchedAt": "2026-02-06T23:56:56.251Z",
   "posts": [
     {
       "id": "1074139",
       "name": "Claude Opus 4.6",
       "tagline": "Claude’s most advanced model for agentic tasks",
       "url": "https://www.producthunt.com/products/anthropic-5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 483,
+      "votesCount": 484,
       "commentsCount": 22,
       "createdAt": "2026-02-06T08:01:00Z",
       "thumbnail": {
@@ -37,7 +37,7 @@
       "name": "BayesLab",
       "tagline": "From deep analysis to premium slides, agentized",
       "url": "https://www.producthunt.com/products/bayeslab-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 280,
+      "votesCount": 281,
       "commentsCount": 57,
       "createdAt": "2026-02-06T08:01:00Z",
       "thumbnail": {
@@ -58,6 +58,42 @@
           {
             "node": {
               "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1071294",
+      "name": "TabAI",
+      "tagline": "Сollects your tasks from everywhere and keeps you focused",
+      "url": "https://www.producthunt.com/products/tabai-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 234,
+      "commentsCount": 30,
+      "createdAt": "2026-02-06T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/628c82f3-af2d-404d-a03e-bc8a5c647d49.jpeg?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Chrome Extensions"
+            }
+          },
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Task Management"
+            }
+          },
+          {
+            "node": {
+              "name": "User Experience"
             }
           }
         ]
@@ -89,42 +125,6 @@
           {
             "node": {
               "name": "Vibe coding"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1071294",
-      "name": "TabAI",
-      "tagline": "Сollects your tasks from everywhere and keeps you focused",
-      "url": "https://www.producthunt.com/products/tabai-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 230,
-      "commentsCount": 29,
-      "createdAt": "2026-02-06T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/628c82f3-af2d-404d-a03e-bc8a5c647d49.jpeg?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Chrome Extensions"
-            }
-          },
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Task Management"
-            }
-          },
-          {
-            "node": {
-              "name": "User Experience"
             }
           }
         ]
@@ -197,7 +197,7 @@
       "name": "ClawApp",
       "tagline": "The easiest way to automate tasks with OpenClaw",
       "url": "https://www.producthunt.com/products/clawapp?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 139,
+      "votesCount": 140,
       "commentsCount": 18,
       "createdAt": "2026-02-06T08:01:00Z",
       "thumbnail": {
@@ -259,7 +259,7 @@
       "name": "Overlead",
       "tagline": "Find customers who are literally asking for your product",
       "url": "https://www.producthunt.com/products/overlead?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 117,
+      "votesCount": 119,
       "commentsCount": 8,
       "createdAt": "2026-02-06T08:01:00Z",
       "thumbnail": {
@@ -348,6 +348,37 @@
       }
     },
     {
+      "id": "1016623",
+      "name": "Lums",
+      "tagline": "Chat with your money and let Lums build your budget. ",
+      "url": "https://www.producthunt.com/products/lums?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 103,
+      "commentsCount": 9,
+      "createdAt": "2026-02-06T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/3c3b2bc2-2f6f-43d3-b078-dd8c9c2dd7d6.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Fintech"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "Money"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1074127",
       "name": "ScreenSorts",
       "tagline": " Search every screenshot, text, and detail privately",
@@ -379,42 +410,11 @@
       }
     },
     {
-      "id": "1016623",
-      "name": "Lums",
-      "tagline": "Chat with your money and let Lums build your budget. ",
-      "url": "https://www.producthunt.com/products/lums?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 100,
-      "commentsCount": 9,
-      "createdAt": "2026-02-06T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/3c3b2bc2-2f6f-43d3-b078-dd8c9c2dd7d6.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Fintech"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          },
-          {
-            "node": {
-              "name": "Money"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1071875",
       "name": "Commentblocks",
       "tagline": "Allow clients to visually provide feedback without a login",
       "url": "https://www.producthunt.com/products/commentblocks-visual-website-feedback?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 93,
+      "votesCount": 95,
       "commentsCount": 5,
       "createdAt": "2026-02-06T08:01:00Z",
       "thumbnail": {
