@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-02-08T15:35:30.492Z",
+  "fetchedAt": "2026-02-08T15:56:50.713Z",
   "posts": [
     {
       "id": "1075416",
       "name": "Inspector",
       "tagline": "Figma for Claude Code",
       "url": "https://www.producthunt.com/products/inspector-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 223,
-      "commentsCount": 16,
+      "votesCount": 241,
+      "commentsCount": 19,
       "createdAt": "2026-02-08T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/77a28389-b670-4d62-be9a-7d08cfcefbed.png?auto=format"
@@ -37,7 +37,7 @@
       "name": "Extrovert",
       "tagline": "Lead nurturing and warm outreach copilot for LinkedIn",
       "url": "https://www.producthunt.com/products/extrovert?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 188,
+      "votesCount": 193,
       "commentsCount": 12,
       "createdAt": "2026-02-08T08:01:00Z",
       "thumbnail": {
@@ -68,7 +68,7 @@
       "name": "Axel",
       "tagline": "Todoist for AI coding agents",
       "url": "https://www.producthunt.com/products/axel-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 155,
+      "votesCount": 165,
       "commentsCount": 9,
       "createdAt": "2026-02-08T08:01:00Z",
       "thumbnail": {
@@ -99,7 +99,7 @@
       "name": "Snap",
       "tagline": "The floating dock for developers",
       "url": "https://www.producthunt.com/products/snap-8?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 128,
+      "votesCount": 129,
       "commentsCount": 3,
       "createdAt": "2026-02-08T08:01:00Z",
       "thumbnail": {
@@ -130,7 +130,7 @@
       "name": "VolumeHub",
       "tagline": "Per-app volume control for macOS with no driver installs",
       "url": "https://www.producthunt.com/products/volumehub?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 116,
+      "votesCount": 118,
       "commentsCount": 1,
       "createdAt": "2026-02-08T08:01:00Z",
       "thumbnail": {
@@ -161,8 +161,8 @@
       "name": "One Minute News",
       "tagline": "Learning what happened around the world in one minute.",
       "url": "https://www.producthunt.com/products/one-minute-news?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 106,
-      "commentsCount": 4,
+      "votesCount": 110,
+      "commentsCount": 5,
       "createdAt": "2026-02-08T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/67b5fb82-dfe1-4986-9d62-a9d44f38d60f.png?auto=format"
@@ -188,42 +188,11 @@
       }
     },
     {
-      "id": "1075480",
-      "name": "Sway",
-      "tagline": "Turn spoken thoughts into clear structure.",
-      "url": "https://www.producthunt.com/products/sway-12?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 100,
-      "commentsCount": 6,
-      "createdAt": "2026-02-08T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/3344d915-a8ff-4758-99e3-e4181f5a90ea.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Writing"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1071320",
       "name": "Sunday",
       "tagline": "The beautiful way to save and collect your books quotes",
       "url": "https://www.producthunt.com/products/sunday-the-book-quotes-collector?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 95,
+      "votesCount": 101,
       "commentsCount": 6,
       "createdAt": "2026-02-08T08:01:00Z",
       "thumbnail": {
@@ -244,6 +213,37 @@
           {
             "node": {
               "name": "Books"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1075480",
+      "name": "Sway",
+      "tagline": "Turn spoken thoughts into clear structure.",
+      "url": "https://www.producthunt.com/products/sway-12?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 101,
+      "commentsCount": 6,
+      "createdAt": "2026-02-08T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/3344d915-a8ff-4758-99e3-e4181f5a90ea.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Writing"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
             }
           }
         ]
@@ -600,7 +600,7 @@
       "name": "MyThumb",
       "tagline": "Turn any YouTube video into high-CTR thumbnails in seconds",
       "url": "https://www.producthunt.com/products/mythumb?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 7,
+      "votesCount": 8,
       "commentsCount": 1,
       "createdAt": "2026-02-08T08:01:00Z",
       "thumbnail": {
