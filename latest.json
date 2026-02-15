@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-02-15T11:33:10.277Z",
+  "fetchedAt": "2026-02-15T11:52:08.921Z",
   "posts": [
     {
       "id": "1072464",
       "name": "Lunair",
       "tagline": "Generate studio-quality explainer videos. Instantly.",
       "url": "https://www.producthunt.com/products/lunair?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 174,
-      "commentsCount": 11,
+      "votesCount": 179,
+      "commentsCount": 35,
       "createdAt": "2026-02-15T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/776a7fad-5c53-4889-b214-bb4542a3e3a4.png?auto=format"
@@ -37,7 +37,7 @@
       "name": "Snap Developer Dock",
       "tagline": "The floating dock for developers",
       "url": "https://www.producthunt.com/products/snap-8?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 135,
+      "votesCount": 141,
       "commentsCount": 3,
       "createdAt": "2026-02-15T08:01:00Z",
       "thumbnail": {
@@ -68,7 +68,7 @@
       "name": "Prompt Library",
       "tagline": "All your best prompts. One shortcut away.",
       "url": "https://www.producthunt.com/products/prompt-library?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 128,
+      "votesCount": 130,
       "commentsCount": 2,
       "createdAt": "2026-02-15T08:01:00Z",
       "thumbnail": {
@@ -99,7 +99,7 @@
       "name": "Formaly",
       "tagline": "Forms that feel like conversations",
       "url": "https://www.producthunt.com/products/formaly?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 112,
+      "votesCount": 116,
       "commentsCount": 6,
       "createdAt": "2026-02-15T08:01:00Z",
       "thumbnail": {
@@ -130,7 +130,7 @@
       "name": "Habit Island",
       "tagline": "Build a Kingdom From Habits",
       "url": "https://www.producthunt.com/products/habit-island?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 103,
+      "votesCount": 107,
       "commentsCount": 2,
       "createdAt": "2026-02-15T08:01:00Z",
       "thumbnail": {
@@ -161,7 +161,7 @@
       "name": "Plus AI Presentation Agent",
       "tagline": "AI agent that helps you design PowerPoint slides",
       "url": "https://www.producthunt.com/products/plus-ai-presentation-agent?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 94,
+      "votesCount": 96,
       "commentsCount": 2,
       "createdAt": "2026-02-15T08:01:00Z",
       "thumbnail": {
@@ -254,7 +254,7 @@
       "name": "Upti",
       "tagline": "All your service status pages, in one place",
       "url": "https://www.producthunt.com/products/upti?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 8,
+      "votesCount": 9,
       "commentsCount": 1,
       "createdAt": "2026-02-15T08:01:00Z",
       "thumbnail": {
@@ -431,37 +431,6 @@
       }
     },
     {
-      "id": "1079592",
-      "name": "Finchum — Foresee",
-      "tagline": "Finchum- See your future balances today",
-      "url": "https://www.producthunt.com/products/finchum-foresee?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 4,
-      "commentsCount": 1,
-      "createdAt": "2026-02-15T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/dd15fde3-36b9-4850-a0d7-ef0e912ef591.x-icon?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Fintech"
-            }
-          },
-          {
-            "node": {
-              "name": "Personal Finance"
-            }
-          },
-          {
-            "node": {
-              "name": "Security"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1079587",
       "name": "ShareMyGit",
       "tagline": "Share private Gitea repositories without making them public",
@@ -487,6 +456,37 @@
           {
             "node": {
               "name": "Career"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1079592",
+      "name": "Finchum — Foresee",
+      "tagline": "Finchum- See your future balances today",
+      "url": "https://www.producthunt.com/products/finchum-foresee?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 4,
+      "commentsCount": 1,
+      "createdAt": "2026-02-15T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/dd15fde3-36b9-4850-a0d7-ef0e912ef591.x-icon?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Fintech"
+            }
+          },
+          {
+            "node": {
+              "name": "Personal Finance"
+            }
+          },
+          {
+            "node": {
+              "name": "Security"
             }
           }
         ]
