@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-02-15T22:55:28.493Z",
+  "fetchedAt": "2026-02-15T23:33:55.190Z",
   "posts": [
     {
       "id": "1072464",
       "name": "Lunair",
       "tagline": "Generate studio-quality explainer videos. Instantly.",
       "url": "https://www.producthunt.com/products/lunair?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 347,
-      "commentsCount": 92,
+      "votesCount": 354,
+      "commentsCount": 103,
       "createdAt": "2026-02-15T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/776a7fad-5c53-4889-b214-bb4542a3e3a4.png?auto=format"
@@ -37,7 +37,7 @@
       "name": "Prompt Library",
       "tagline": "All your best prompts. One shortcut away.",
       "url": "https://www.producthunt.com/products/prompt-library?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 221,
+      "votesCount": 223,
       "commentsCount": 11,
       "createdAt": "2026-02-15T08:01:00Z",
       "thumbnail": {
@@ -99,7 +99,7 @@
       "name": "Plus AI Presentation Agent",
       "tagline": "AI agent that helps you design PowerPoint slides",
       "url": "https://www.producthunt.com/products/plus-ai-presentation-agent?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 184,
+      "votesCount": 185,
       "commentsCount": 4,
       "createdAt": "2026-02-15T08:01:00Z",
       "thumbnail": {
@@ -130,7 +130,7 @@
       "name": "Habit Island",
       "tagline": "Build a Kingdom From Habits",
       "url": "https://www.producthunt.com/products/habit-island?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 166,
+      "votesCount": 168,
       "commentsCount": 4,
       "createdAt": "2026-02-15T08:01:00Z",
       "thumbnail": {
@@ -192,7 +192,7 @@
       "name": "PenguinBot AI",
       "tagline": "Your AI-Employee Working 24/7",
       "url": "https://www.producthunt.com/products/penguinbot-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 15,
+      "votesCount": 17,
       "commentsCount": 7,
       "createdAt": "2026-02-15T08:01:00Z",
       "thumbnail": {
@@ -462,6 +462,37 @@
       }
     },
     {
+      "id": "1079354",
+      "name": "Clip AI",
+      "tagline": "Turn 1 long video into 7 viral clips in minutes",
+      "url": "https://www.producthunt.com/products/clip-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 6,
+      "commentsCount": 2,
+      "createdAt": "2026-02-15T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/1e8ff71c-ba1a-4e85-b9fb-6e3eb5f3a5c0.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Meetings"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1079454",
       "name": "Mimir - Cursor for Product managers",
       "tagline": "Mimir helps you figure out what to build and then builds it.",
@@ -498,7 +529,7 @@
       "tagline": "AI adapts any recipe to your calories, macros and diet",
       "url": "https://www.producthunt.com/products/foodcraft?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 6,
-      "commentsCount": 1,
+      "commentsCount": 2,
       "createdAt": "2026-02-15T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/f4f6c38a-761a-4351-9600-7f1cb4ffff4f.svg?auto=format"
@@ -549,37 +580,6 @@
           {
             "node": {
               "name": "Calendar"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1079354",
-      "name": "Clip AI",
-      "tagline": "Turn 1 long video into 7 viral clips in minutes",
-      "url": "https://www.producthunt.com/products/clip-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 5,
-      "commentsCount": 1,
-      "createdAt": "2026-02-15T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/1e8ff71c-ba1a-4e85-b9fb-6e3eb5f3a5c0.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Meetings"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
             }
           }
         ]
