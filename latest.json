@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-02-15T21:35:03.965Z",
+  "fetchedAt": "2026-02-15T21:54:44.450Z",
   "posts": [
     {
       "id": "1072464",
       "name": "Lunair",
       "tagline": "Generate studio-quality explainer videos. Instantly.",
       "url": "https://www.producthunt.com/products/lunair?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 329,
-      "commentsCount": 80,
+      "votesCount": 332,
+      "commentsCount": 81,
       "createdAt": "2026-02-15T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/776a7fad-5c53-4889-b214-bb4542a3e3a4.png?auto=format"
@@ -37,7 +37,7 @@
       "name": "Prompt Library",
       "tagline": "All your best prompts. One shortcut away.",
       "url": "https://www.producthunt.com/products/prompt-library?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 215,
+      "votesCount": 217,
       "commentsCount": 11,
       "createdAt": "2026-02-15T08:01:00Z",
       "thumbnail": {
@@ -68,7 +68,7 @@
       "name": "Formaly",
       "tagline": "Forms that feel like conversations",
       "url": "https://www.producthunt.com/products/formaly?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 200,
+      "votesCount": 201,
       "commentsCount": 20,
       "createdAt": "2026-02-15T08:01:00Z",
       "thumbnail": {
@@ -192,7 +192,7 @@
       "name": "PenguinBot AI",
       "tagline": "Your AI-Employee Working 24/7",
       "url": "https://www.producthunt.com/products/penguinbot-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 16,
+      "votesCount": 15,
       "commentsCount": 7,
       "createdAt": "2026-02-15T08:01:00Z",
       "thumbnail": {
@@ -250,37 +250,6 @@
       }
     },
     {
-      "id": "1079476",
-      "name": "Whyze",
-      "tagline": "Understand why users leave your product — not just where",
-      "url": "https://www.producthunt.com/products/whyze?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 12,
-      "commentsCount": 4,
-      "createdAt": "2026-02-15T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/9648b769-9c8f-47ce-8ba1-8c676d32b63d.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "SaaS"
-            }
-          },
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1065234",
       "name": "UserWants",
       "tagline": "Stop guessing. Build what users want.",
@@ -306,6 +275,37 @@
           {
             "node": {
               "name": "Maker Tools"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1079476",
+      "name": "Whyze",
+      "tagline": "Understand why users leave your product — not just where",
+      "url": "https://www.producthunt.com/products/whyze?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 12,
+      "commentsCount": 4,
+      "createdAt": "2026-02-15T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/9648b769-9c8f-47ce-8ba1-8c676d32b63d.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "SaaS"
+            }
+          },
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
             }
           }
         ]
