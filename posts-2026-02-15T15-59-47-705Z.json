@@ -1,12 +1,12 @@
 {
-  "fetchedAt": "2026-02-15T15:42:55.067Z",
+  "fetchedAt": "2026-02-15T15:59:47.705Z",
   "posts": [
     {
       "id": "1072464",
       "name": "Lunair",
       "tagline": "Generate studio-quality explainer videos. Instantly.",
       "url": "https://www.producthunt.com/products/lunair?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 229,
+      "votesCount": 231,
       "commentsCount": 53,
       "createdAt": "2026-02-15T08:01:00Z",
       "thumbnail": {
@@ -37,7 +37,7 @@
       "name": "Prompt Library",
       "tagline": "All your best prompts. One shortcut away.",
       "url": "https://www.producthunt.com/products/prompt-library?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 172,
+      "votesCount": 180,
       "commentsCount": 4,
       "createdAt": "2026-02-15T08:01:00Z",
       "thumbnail": {
@@ -68,7 +68,7 @@
       "name": "Formaly",
       "tagline": "Forms that feel like conversations",
       "url": "https://www.producthunt.com/products/formaly?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 163,
+      "votesCount": 166,
       "commentsCount": 9,
       "createdAt": "2026-02-15T08:01:00Z",
       "thumbnail": {
@@ -99,7 +99,7 @@
       "name": "Snap Developer Dock",
       "tagline": "The floating dock for developers",
       "url": "https://www.producthunt.com/products/snap-8?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 157,
+      "votesCount": 158,
       "commentsCount": 3,
       "createdAt": "2026-02-15T08:01:00Z",
       "thumbnail": {
@@ -130,7 +130,7 @@
       "name": "Habit Island",
       "tagline": "Build a Kingdom From Habits",
       "url": "https://www.producthunt.com/products/habit-island?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 140,
+      "votesCount": 141,
       "commentsCount": 3,
       "createdAt": "2026-02-15T08:01:00Z",
       "thumbnail": {
@@ -161,7 +161,7 @@
       "name": "Plus AI Presentation Agent",
       "tagline": "AI agent that helps you design PowerPoint slides",
       "url": "https://www.producthunt.com/products/plus-ai-presentation-agent?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 120,
+      "votesCount": 124,
       "commentsCount": 3,
       "createdAt": "2026-02-15T08:01:00Z",
       "thumbnail": {
@@ -223,7 +223,7 @@
       "name": "Whyze",
       "tagline": "Understand why users leave your product — not just where",
       "url": "https://www.producthunt.com/products/whyze?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 11,
+      "votesCount": 13,
       "commentsCount": 3,
       "createdAt": "2026-02-15T08:01:00Z",
       "thumbnail": {
@@ -431,6 +431,37 @@
       }
     },
     {
+      "id": "1079508",
+      "name": "UnderSurface",
+      "tagline": "A diary that listens back!",
+      "url": "https://www.producthunt.com/products/undersurface?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 7,
+      "commentsCount": 1,
+      "createdAt": "2026-02-15T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/f570e0b7-3e86-44e6-82ea-1382f1ee24cb.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Writing"
+            }
+          },
+          {
+            "node": {
+              "name": "Health"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1079454",
       "name": "Mimir - Cursor for Product managers",
       "tagline": "Mimir helps you figure out what to build and then builds it.",
@@ -493,37 +524,6 @@
       }
     },
     {
-      "id": "1079592",
-      "name": "Finchum — Foresee",
-      "tagline": "Finchum- See your future balances today",
-      "url": "https://www.producthunt.com/products/finchum-foresee?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 5,
-      "commentsCount": 1,
-      "createdAt": "2026-02-15T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/dd15fde3-36b9-4850-a0d7-ef0e912ef591.x-icon?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Fintech"
-            }
-          },
-          {
-            "node": {
-              "name": "Personal Finance"
-            }
-          },
-          {
-            "node": {
-              "name": "Security"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1075442",
       "name": "FindUpApp",
       "tagline": "Discover the hidden mobile apps you've been looking for.",
@@ -555,26 +555,31 @@
       }
     },
     {
-      "id": "1079623",
-      "name": "PDF WorkSpace - Privacy Matters",
-      "tagline": "Private, local, offline PDF editing — fully in your browser.",
-      "url": "https://www.producthunt.com/products/pdf-workspace-privacy-matters?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 4,
+      "id": "1079592",
+      "name": "Finchum — Foresee",
+      "tagline": "Finchum- See your future balances today",
+      "url": "https://www.producthunt.com/products/finchum-foresee?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 5,
       "commentsCount": 1,
       "createdAt": "2026-02-15T08:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/4d57bf91-0d04-46f3-a50a-cb83310c1b03.png?auto=format"
+        "url": "https://ph-files.imgix.net/dd15fde3-36b9-4850-a0d7-ef0e912ef591.x-icon?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "Productivity"
+              "name": "Fintech"
             }
           },
           {
             "node": {
-              "name": "Privacy"
+              "name": "Personal Finance"
+            }
+          },
+          {
+            "node": {
+              "name": "Security"
             }
           }
         ]
