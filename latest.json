@@ -1,12 +1,12 @@
 {
-  "fetchedAt": "2026-02-16T23:38:09.011Z",
+  "fetchedAt": "2026-02-16T23:59:46.739Z",
   "posts": [
     {
       "id": "1069996",
       "name": "Base44 Backend Platform",
       "tagline": "The Backend for the age of AI",
       "url": "https://www.producthunt.com/products/base44?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 337,
+      "votesCount": 339,
       "commentsCount": 24,
       "createdAt": "2026-02-16T08:01:00Z",
       "thumbnail": {
@@ -37,7 +37,7 @@
       "name": "Toolspend",
       "tagline": "Track AI spend, usage, and cost across tools",
       "url": "https://www.producthunt.com/products/toolspend?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 290,
+      "votesCount": 291,
       "commentsCount": 30,
       "createdAt": "2026-02-16T08:01:00Z",
       "thumbnail": {
@@ -105,7 +105,7 @@
       "tagline": "Build and deploy web apps straight from ChatGPT/Claude",
       "url": "https://www.producthunt.com/products/jdoodle-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 172,
-      "commentsCount": 7,
+      "commentsCount": 8,
       "createdAt": "2026-02-16T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/67bcb568-47a5-473c-84fe-383bc67eed73.png?auto=format"
@@ -136,7 +136,7 @@
       "tagline": "Your AI-Employee Working 24/7",
       "url": "https://www.producthunt.com/products/penguinbot-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 160,
-      "commentsCount": 14,
+      "commentsCount": 15,
       "createdAt": "2026-02-16T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/9d99d7c0-9941-4035-827d-d7396e5ae8d7.png?auto=format"
@@ -166,7 +166,7 @@
       "name": "Agent Bar",
       "tagline": "Run Claude Code from your menu bar",
       "url": "https://www.producthunt.com/products/agent-bar?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 126,
+      "votesCount": 127,
       "commentsCount": 1,
       "createdAt": "2026-02-16T08:01:00Z",
       "thumbnail": {
@@ -218,7 +218,7 @@
       "name": "chowder.dev",
       "tagline": "Single API for launching OpenClaw instances.",
       "url": "https://www.producthunt.com/products/chowder-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 118,
+      "votesCount": 120,
       "commentsCount": 6,
       "createdAt": "2026-02-16T08:01:00Z",
       "thumbnail": {
@@ -426,6 +426,37 @@
       }
     },
     {
+      "id": "1055911",
+      "name": "Fixure | Security Decision Intelligence",
+      "tagline": "Turn security chaos into system clarity",
+      "url": "https://www.producthunt.com/products/fixure?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 37,
+      "commentsCount": 14,
+      "createdAt": "2026-02-16T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/35ce6854-27b6-4cc0-8b66-9c7ac2994820.x-icon?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "SaaS"
+            }
+          },
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Security"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1079769",
       "name": "Drop in",
       "tagline": "Add real features inside the apps you already use",
@@ -451,37 +482,6 @@
           {
             "node": {
               "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1055911",
-      "name": "Fixure | Security Decision Intelligence",
-      "tagline": "Turn security chaos into system clarity",
-      "url": "https://www.producthunt.com/products/fixure?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 35,
-      "commentsCount": 14,
-      "createdAt": "2026-02-16T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/35ce6854-27b6-4cc0-8b66-9c7ac2994820.x-icon?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "SaaS"
-            }
-          },
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Security"
             }
           }
         ]
