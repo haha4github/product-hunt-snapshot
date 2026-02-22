@@ -1,12 +1,12 @@
 {
-  "fetchedAt": "2026-02-22T18:52:09.856Z",
+  "fetchedAt": "2026-02-22T19:22:53.144Z",
   "posts": [
     {
       "id": "1082371",
       "name": "Claude in PowerPoint",
       "tagline": "Use Claude to build, edit & refine PowerPoint presentations.",
       "url": "https://www.producthunt.com/products/claude?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 366,
+      "votesCount": 377,
       "commentsCount": 11,
       "createdAt": "2026-02-22T08:01:00Z",
       "thumbnail": {
@@ -37,8 +37,8 @@
       "name": "Straion",
       "tagline": "Manage Rules for AI Coding Agents ",
       "url": "https://www.producthunt.com/products/straion?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 262,
-      "commentsCount": 37,
+      "votesCount": 265,
+      "commentsCount": 38,
       "createdAt": "2026-02-22T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/2d95e266-3836-4424-b39d-835216d9595e.svg?auto=format"
@@ -63,8 +63,8 @@
       "name": "Tidy",
       "tagline": "A personal assistant that can learn to use any app you use",
       "url": "https://www.producthunt.com/products/tidy-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 232,
-      "commentsCount": 24,
+      "votesCount": 234,
+      "commentsCount": 25,
       "createdAt": "2026-02-22T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/5013bb38-1578-4779-ac49-e032e95aaae0.png?auto=format"
@@ -135,8 +135,8 @@
       "name": "Ashera AI",
       "tagline": "GTM, Run by AI",
       "url": "https://www.producthunt.com/products/index-of-ashera?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 82,
-      "commentsCount": 45,
+      "votesCount": 83,
+      "commentsCount": 46,
       "createdAt": "2026-02-22T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/59f5ed31-d71a-43f2-aae2-afb5a5afc680.gif?auto=format"
@@ -570,6 +570,37 @@
       }
     },
     {
+      "id": "1083552",
+      "name": "Paragent",
+      "tagline": "AI coding agents that ship features while you sleep",
+      "url": "https://www.producthunt.com/products/paragent?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 6,
+      "commentsCount": 1,
+      "createdAt": "2026-02-22T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/0e74fa0d-ef63-4fbd-b52f-aac261ce06c8.jpeg?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "SaaS"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "GitHub"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1083373",
       "name": "MEO",
       "tagline": "Markdown editor for VS Code that doesn't feel like a hack",
@@ -600,37 +631,6 @@
           {
             "node": {
               "name": "GitHub"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1083270",
-      "name": "Oculer",
-      "tagline": "Generate post-ready engaging motion videos from one prompt.",
-      "url": "https://www.producthunt.com/products/oculer-video?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 6,
-      "commentsCount": 3,
-      "createdAt": "2026-02-22T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/dbf06de0-21a4-48b7-9430-5964f359cf4d.jpeg?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Social Media"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          },
-          {
-            "node": {
-              "name": "Video"
             }
           }
         ]
