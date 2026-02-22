@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-02-22T17:44:22.101Z",
+  "fetchedAt": "2026-02-22T18:00:38.768Z",
   "posts": [
     {
       "id": "1082371",
       "name": "Claude in PowerPoint",
       "tagline": "Use Claude to build, edit & refine PowerPoint presentations.",
       "url": "https://www.producthunt.com/products/claude?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 334,
-      "commentsCount": 8,
+      "votesCount": 350,
+      "commentsCount": 10,
       "createdAt": "2026-02-22T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/3dfe9e3f-75df-4d91-a9b2-c9ed2449241f.png?auto=format"
@@ -37,8 +37,8 @@
       "name": "Straion",
       "tagline": "Manage Rules for AI Coding Agents ",
       "url": "https://www.producthunt.com/products/straion?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 253,
-      "commentsCount": 31,
+      "votesCount": 256,
+      "commentsCount": 35,
       "createdAt": "2026-02-22T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/2d95e266-3836-4424-b39d-835216d9595e.svg?auto=format"
@@ -63,8 +63,8 @@
       "name": "Tidy",
       "tagline": "A personal assistant that can learn to use any app you use",
       "url": "https://www.producthunt.com/products/tidy-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 222,
-      "commentsCount": 18,
+      "votesCount": 226,
+      "commentsCount": 23,
       "createdAt": "2026-02-22T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/5013bb38-1578-4779-ac49-e032e95aaae0.png?auto=format"
@@ -94,8 +94,8 @@
       "name": "Wordy",
       "tagline": "Learn languages from real movie and TV clips with quizzes",
       "url": "https://www.producthunt.com/products/wordy-81fc3d1c-40c1-42d1-9a07-6c2a80ffb302?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 186,
-      "commentsCount": 7,
+      "votesCount": 188,
+      "commentsCount": 10,
       "createdAt": "2026-02-22T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/5bffcc1e-1264-4744-b459-fef67488bb1c.png?auto=format"
@@ -136,7 +136,7 @@
       "tagline": "GTM, Run by AI",
       "url": "https://www.producthunt.com/products/index-of-ashera?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 78,
-      "commentsCount": 42,
+      "commentsCount": 43,
       "createdAt": "2026-02-22T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/59f5ed31-d71a-43f2-aae2-afb5a5afc680.gif?auto=format"
@@ -255,6 +255,37 @@
       }
     },
     {
+      "id": "1083377",
+      "name": "City Buddy",
+      "tagline": "Discover everything from top attractions to hidden gems.",
+      "url": "https://www.producthunt.com/products/city-buddy?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 10,
+      "commentsCount": 5,
+      "createdAt": "2026-02-22T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/13dc96b2-0e8c-4166-aa4c-f688bcc7bb11.webp?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Global Nomad"
+            }
+          },
+          {
+            "node": {
+              "name": "Travel"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1083133",
       "name": "Cassiopeia",
       "tagline": "Turn any B2B case study pages into live product demos",
@@ -343,37 +374,6 @@
       }
     },
     {
-      "id": "1083377",
-      "name": "City Buddy",
-      "tagline": "Discover everything from top attractions to hidden gems.",
-      "url": "https://www.producthunt.com/products/city-buddy?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 9,
-      "commentsCount": 5,
-      "createdAt": "2026-02-22T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/13dc96b2-0e8c-4166-aa4c-f688bcc7bb11.webp?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Global Nomad"
-            }
-          },
-          {
-            "node": {
-              "name": "Travel"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1083596",
       "name": "DryCast",
       "tagline": "Never run outside to save your laundry from rain again.",
@@ -430,6 +430,42 @@
           {
             "node": {
               "name": "Developer Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1079341",
+      "name": "CatsMe 2.0 – AI Cat Health from a Photo",
+      "tagline": "AI reads your cat's face to detect pain before it's too late",
+      "url": "https://www.producthunt.com/products/catsme?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 6,
+      "commentsCount": 1,
+      "createdAt": "2026-02-22T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/ac90adc8-0c4b-45a7-8b34-06571c998d15.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Android"
+            }
+          },
+          {
+            "node": {
+              "name": "Cats"
+            }
+          },
+          {
+            "node": {
+              "name": "Pets"
             }
           },
           {
@@ -559,42 +595,6 @@
           {
             "node": {
               "name": "Video"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1079341",
-      "name": "CatsMe 2.0 – AI Cat Health from a Photo",
-      "tagline": "AI reads your cat's face to detect pain before it's too late",
-      "url": "https://www.producthunt.com/products/catsme?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 5,
-      "commentsCount": 1,
-      "createdAt": "2026-02-22T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/ac90adc8-0c4b-45a7-8b34-06571c998d15.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Android"
-            }
-          },
-          {
-            "node": {
-              "name": "Cats"
-            }
-          },
-          {
-            "node": {
-              "name": "Pets"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
             }
           }
         ]
