@@ -1,12 +1,12 @@
 {
-  "fetchedAt": "2026-02-28T11:40:56.684Z",
+  "fetchedAt": "2026-02-28T11:54:17.177Z",
   "posts": [
     {
       "id": "1084301",
       "name": "Claude in Excel",
       "tagline": "Chat with your spreadsheet. Fix, build, test scenarios.",
       "url": "https://www.producthunt.com/products/claude?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 121,
+      "votesCount": 125,
       "commentsCount": 3,
       "createdAt": "2026-02-28T08:01:00Z",
       "thumbnail": {
@@ -32,7 +32,7 @@
       "name": "Pixel",
       "tagline": "Scale performance ads without juggling 7 ad platforms",
       "url": "https://www.producthunt.com/products/pixel-10?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 109,
+      "votesCount": 110,
       "commentsCount": 10,
       "createdAt": "2026-02-28T08:01:00Z",
       "thumbnail": {
@@ -125,7 +125,7 @@
       "name": "Solace",
       "tagline": "Your Mac's appearance, in tune with the world around you. ",
       "url": "https://www.producthunt.com/products/solace-8?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 86,
+      "votesCount": 88,
       "commentsCount": 1,
       "createdAt": "2026-02-28T08:01:00Z",
       "thumbnail": {
@@ -156,7 +156,7 @@
       "name": "Study OS",
       "tagline": "A minimalist focus timer with tasks, notes & study music",
       "url": "https://www.producthunt.com/products/study-os?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 84,
+      "votesCount": 85,
       "commentsCount": 1,
       "createdAt": "2026-02-28T08:01:00Z",
       "thumbnail": {
@@ -343,6 +343,37 @@
       }
     },
     {
+      "id": "1084147",
+      "name": "Oculis Analytics",
+      "tagline": "Clear revenue attribution without complexity",
+      "url": "https://www.producthunt.com/products/oculis-analytics?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 11,
+      "commentsCount": 3,
+      "createdAt": "2026-02-28T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/a5562877-55a6-42bf-adfa-c605f2a15edf.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Analytics"
+            }
+          },
+          {
+            "node": {
+              "name": "Data & Analytics"
+            }
+          },
+          {
+            "node": {
+              "name": "Marketing attribution"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1074065",
       "name": "CAPES.APP",
       "tagline": "E-Store For Creators with 0% Platform Fee",
@@ -368,37 +399,6 @@
           {
             "node": {
               "name": "Influencer marketing"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1084147",
-      "name": "Oculis Analytics",
-      "tagline": "Clear revenue attribution without complexity",
-      "url": "https://www.producthunt.com/products/oculis-analytics?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 9,
-      "commentsCount": 3,
-      "createdAt": "2026-02-28T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/a5562877-55a6-42bf-adfa-c605f2a15edf.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Analytics"
-            }
-          },
-          {
-            "node": {
-              "name": "Data & Analytics"
-            }
-          },
-          {
-            "node": {
-              "name": "Marketing attribution"
             }
           }
         ]
