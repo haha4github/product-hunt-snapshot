@@ -1,12 +1,12 @@
 {
-  "fetchedAt": "2026-02-28T10:35:03.467Z",
+  "fetchedAt": "2026-02-28T10:53:59.118Z",
   "posts": [
     {
       "id": "1084301",
       "name": "Claude in Excel",
       "tagline": "Chat with your spreadsheet. Fix, build, test scenarios.",
       "url": "https://www.producthunt.com/products/claude?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 115,
+      "votesCount": 117,
       "commentsCount": 3,
       "createdAt": "2026-02-28T08:01:00Z",
       "thumbnail": {
@@ -63,7 +63,7 @@
       "name": "Pixel",
       "tagline": "Scale performance ads without juggling 7 ad platforms",
       "url": "https://www.producthunt.com/products/pixel-10?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 99,
+      "votesCount": 100,
       "commentsCount": 6,
       "createdAt": "2026-02-28T08:01:00Z",
       "thumbnail": {
@@ -94,7 +94,7 @@
       "name": "Producer AI by Google Labs ",
       "tagline": "Turn ideas into tracks with your AI co-producer",
       "url": "https://www.producthunt.com/products/google?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 88,
+      "votesCount": 91,
       "commentsCount": 1,
       "createdAt": "2026-02-28T08:01:00Z",
       "thumbnail": {
@@ -125,7 +125,7 @@
       "name": "Study OS",
       "tagline": "A minimalist focus timer with tasks, notes & study music",
       "url": "https://www.producthunt.com/products/study-os?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 82,
+      "votesCount": 83,
       "commentsCount": 1,
       "createdAt": "2026-02-28T08:01:00Z",
       "thumbnail": {
@@ -152,11 +152,73 @@
       }
     },
     {
+      "id": "1084293",
+      "name": "Solace",
+      "tagline": "Your Mac's appearance, in tune with the world around you. ",
+      "url": "https://www.producthunt.com/products/solace-8?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 82,
+      "commentsCount": 1,
+      "createdAt": "2026-02-28T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/917f9a3d-8def-4be4-8368-cf742ee31222.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Mac"
+            }
+          },
+          {
+            "node": {
+              "name": "Menu Bar Apps"
+            }
+          },
+          {
+            "node": {
+              "name": "Wallpaper"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1085684",
+      "name": "theORQL",
+      "tagline": "Cursor for frontend. Build and debug in Chrome and VS Code.",
+      "url": "https://www.producthunt.com/products/stop-coding-blind-ai-that-sees-the-ui?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 81,
+      "commentsCount": 2,
+      "createdAt": "2026-02-28T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/e730e4ab-ab45-45ff-b2a8-9b2fe357e63e.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Software Engineering"
+            }
+          },
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "GitHub"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1087073",
       "name": "Surfpool",
       "tagline": "Where developers start their Solana journey",
       "url": "https://www.producthunt.com/products/surfpool?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 80,
+      "votesCount": 81,
       "commentsCount": 1,
       "createdAt": "2026-02-28T08:01:00Z",
       "thumbnail": {
@@ -182,37 +244,6 @@
           {
             "node": {
               "name": "Web3"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1084293",
-      "name": "Solace",
-      "tagline": "Your Mac's appearance, in tune with the world around you. ",
-      "url": "https://www.producthunt.com/products/solace-8?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 80,
-      "commentsCount": 1,
-      "createdAt": "2026-02-28T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/917f9a3d-8def-4be4-8368-cf742ee31222.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Mac"
-            }
-          },
-          {
-            "node": {
-              "name": "Menu Bar Apps"
-            }
-          },
-          {
-            "node": {
-              "name": "Wallpaper"
             }
           }
         ]
@@ -285,7 +316,7 @@
       "name": "PromptURLs",
       "tagline": "Turn any prompt into a shareable URL for ChatGPT, Claude ",
       "url": "https://www.producthunt.com/products/prompturls?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 75,
+      "votesCount": 77,
       "commentsCount": 1,
       "createdAt": "2026-02-28T08:01:00Z",
       "thumbnail": {
@@ -306,68 +337,6 @@
           {
             "node": {
               "name": "Development"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1085684",
-      "name": "theORQL",
-      "tagline": "Cursor for frontend. Build and debug in Chrome and VS Code.",
-      "url": "https://www.producthunt.com/products/stop-coding-blind-ai-that-sees-the-ui?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 74,
-      "commentsCount": 2,
-      "createdAt": "2026-02-28T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/e730e4ab-ab45-45ff-b2a8-9b2fe357e63e.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Software Engineering"
-            }
-          },
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "GitHub"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1086588",
-      "name": "LobsterAI ",
-      "tagline": "Open-source & powerful AI agent with one-click install",
-      "url": "https://www.producthunt.com/products/lobsterai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 14,
-      "commentsCount": 5,
-      "createdAt": "2026-02-28T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/e8034798-e016-40dc-9042-dcf34917e591.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Open Source"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
             }
           }
         ]
@@ -616,6 +585,32 @@
           {
             "node": {
               "name": "Developer Tools"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1087143",
+      "name": "TARKK – Not-To-Do List",
+      "tagline": "The not-to-do list that protects your focus",
+      "url": "https://www.producthunt.com/products/tarkk-not-to-do-list?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 4,
+      "commentsCount": 1,
+      "createdAt": "2026-02-28T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/3a21b856-abfb-4b95-b1aa-82da3a646ba0.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Task Management"
             }
           }
         ]
