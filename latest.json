@@ -1,12 +1,12 @@
 {
-  "fetchedAt": "2026-03-01T21:19:49.367Z",
+  "fetchedAt": "2026-03-01T21:42:24.607Z",
   "posts": [
     {
       "id": "1087761",
       "name": "Claude Import Memory",
       "tagline": "Switch from ChatGPT to Claude with import memory feature",
       "url": "https://www.producthunt.com/products/claude?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 369,
+      "votesCount": 371,
       "commentsCount": 8,
       "createdAt": "2026-03-01T08:01:00Z",
       "thumbnail": {
@@ -27,7 +27,7 @@
       "name": "Notra",
       "tagline": "Turn your daily work into publish-ready content",
       "url": "https://www.producthunt.com/products/notra-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 234,
+      "votesCount": 235,
       "commentsCount": 19,
       "createdAt": "2026-03-01T08:01:00Z",
       "thumbnail": {
@@ -63,7 +63,7 @@
       "name": "Voicr",
       "tagline": "Your voice in, polished text out — in seconds",
       "url": "https://www.producthunt.com/products/voicr?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 170,
+      "votesCount": 172,
       "commentsCount": 13,
       "createdAt": "2026-03-01T08:01:00Z",
       "thumbnail": {
@@ -99,8 +99,8 @@
       "name": "OpenFang",
       "tagline": "Open-Source Agent Operating System",
       "url": "https://www.producthunt.com/products/openfang?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 170,
-      "commentsCount": 6,
+      "votesCount": 172,
+      "commentsCount": 7,
       "createdAt": "2026-03-01T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/c61f8bde-0d81-43fa-ba11-427fa901538b.png?auto=format"
@@ -197,7 +197,7 @@
       "name": "BU",
       "tagline": "Openclaw in the cloud",
       "url": "https://www.producthunt.com/products/browser-use?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 118,
+      "votesCount": 120,
       "commentsCount": 5,
       "createdAt": "2026-03-01T08:01:00Z",
       "thumbnail": {
@@ -301,7 +301,7 @@
       "tagline": "Turn all computer audio into captions for the deaf ",
       "url": "https://www.producthunt.com/products/hearica?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 89,
-      "commentsCount": 5,
+      "commentsCount": 6,
       "createdAt": "2026-03-01T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/9aa5163a-91d0-4334-bf0f-75acd9f5a479.svg?auto=format"
@@ -596,23 +596,18 @@
       }
     },
     {
-      "id": "1087666",
-      "name": "ChubbyTabs",
-      "tagline": "Organize tabs, notes, and tasks in private workspaces.",
-      "url": "https://www.producthunt.com/products/chubbytabs?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "id": "1087069",
+      "name": "mdspec.dev",
+      "tagline": "An opensource lightweight specification management platform",
+      "url": "https://www.producthunt.com/products/mdspec-dev?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 5,
       "commentsCount": 1,
       "createdAt": "2026-03-01T08:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/2a3d9aa8-4dd9-4069-96b4-c52185c2b61d.jpeg?auto=format"
+        "url": "https://ph-files.imgix.net/d78ba64e-f463-43e0-9d8f-d2ad6eaa2c9a.svg?auto=format"
       },
       "topics": {
         "edges": [
-          {
-            "node": {
-              "name": "Chrome Extensions"
-            }
-          },
           {
             "node": {
               "name": "Productivity"
@@ -620,7 +615,17 @@
           },
           {
             "node": {
-              "name": "Privacy"
+              "name": "SaaS"
+            }
+          },
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "GitHub"
             }
           }
         ]
