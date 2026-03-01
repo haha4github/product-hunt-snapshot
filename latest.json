@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-03-01T09:15:06.725Z",
+  "fetchedAt": "2026-03-01T09:47:02.524Z",
   "posts": [
     {
       "id": "1087761",
       "name": "Claude Import Memory",
       "tagline": "Switch from ChatGPT to Claude with import memory feature",
       "url": "https://www.producthunt.com/products/claude-in-powerpoint?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 97,
-      "commentsCount": 2,
+      "votesCount": 99,
+      "commentsCount": 3,
       "createdAt": "2026-03-01T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/3dfe9e3f-75df-4d91-a9b2-c9ed2449241f.png?auto=format"
@@ -27,7 +27,7 @@
       "name": "Notra",
       "tagline": "Turn your daily work into publish-ready content",
       "url": "https://www.producthunt.com/products/notra-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 91,
+      "votesCount": 98,
       "commentsCount": 1,
       "createdAt": "2026-03-01T08:01:00Z",
       "thumbnail": {
@@ -59,11 +59,42 @@
       }
     },
     {
+      "id": "1081807",
+      "name": "Simplora 2.0",
+      "tagline": "The agentic meeting stack with free prep, notes, and chat",
+      "url": "https://www.producthunt.com/products/simplora?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 79,
+      "commentsCount": 9,
+      "createdAt": "2026-03-01T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/09e8915d-40bc-4071-bbc5-8e5f83111f20.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Meetings"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1087719",
       "name": "OpenFang",
       "tagline": "Open-Source Agent Operating System",
       "url": "https://www.producthunt.com/products/openfang?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 72,
+      "votesCount": 75,
       "commentsCount": 2,
       "createdAt": "2026-03-01T08:01:00Z",
       "thumbnail": {
@@ -95,104 +126,11 @@
       }
     },
     {
-      "id": "1087770",
-      "name": "BU",
-      "tagline": "Openclaw in the cloud",
-      "url": "https://www.producthunt.com/products/browser-use?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 72,
-      "commentsCount": 2,
-      "createdAt": "2026-03-01T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/6930aee7-8e82-411d-84ba-9f92ff4142c2.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          },
-          {
-            "node": {
-              "name": "Development"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1081807",
-      "name": "Simplora 2.0",
-      "tagline": "The agentic meeting stack with free prep, notes, and chat",
-      "url": "https://www.producthunt.com/products/simplora?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 70,
-      "commentsCount": 9,
-      "createdAt": "2026-03-01T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/09e8915d-40bc-4071-bbc5-8e5f83111f20.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Meetings"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1085025",
-      "name": "OpenAI WebSocket Mode for Responses API",
-      "tagline": "Persistent AI agents. Up to 40% faster.",
-      "url": "https://www.producthunt.com/products/openai-websocket-mode-for-responses-api?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 70,
-      "commentsCount": 2,
-      "createdAt": "2026-03-01T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/45a302a8-6e59-47c4-a607-eae39c4b8fbf.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "API"
-            }
-          },
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1086384",
       "name": "Voicr",
       "tagline": "Your voice in, polished text out — in seconds",
       "url": "https://www.producthunt.com/products/voicr?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 70,
+      "votesCount": 74,
       "commentsCount": 1,
       "createdAt": "2026-03-01T08:01:00Z",
       "thumbnail": {
@@ -224,11 +162,73 @@
       }
     },
     {
+      "id": "1087770",
+      "name": "BU",
+      "tagline": "Openclaw in the cloud",
+      "url": "https://www.producthunt.com/products/browser-use?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 74,
+      "commentsCount": 3,
+      "createdAt": "2026-03-01T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/6930aee7-8e82-411d-84ba-9f92ff4142c2.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "Development"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1085025",
+      "name": "OpenAI WebSocket Mode for Responses API",
+      "tagline": "Persistent AI agents. Up to 40% faster.",
+      "url": "https://www.producthunt.com/products/openai-websocket-mode-for-responses-api?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 73,
+      "commentsCount": 2,
+      "createdAt": "2026-03-01T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/45a302a8-6e59-47c4-a607-eae39c4b8fbf.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "API"
+            }
+          },
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1081706",
       "name": "Octrafic",
       "tagline": "Test your APIs in plain English, straight from the terminal",
       "url": "https://www.producthunt.com/products/octrafic?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 62,
+      "votesCount": 67,
       "commentsCount": 1,
       "createdAt": "2026-03-01T08:01:00Z",
       "thumbnail": {
@@ -264,7 +264,7 @@
       "name": "Epismo Skills",
       "tagline": "Everything your agent needs to run reliably",
       "url": "https://www.producthunt.com/products/epismo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 62,
+      "votesCount": 65,
       "commentsCount": 1,
       "createdAt": "2026-03-01T08:01:00Z",
       "thumbnail": {
@@ -300,7 +300,7 @@
       "name": "Hearica",
       "tagline": "Turn all computer audio into captions for the deaf ",
       "url": "https://www.producthunt.com/products/hearica?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 60,
+      "votesCount": 61,
       "commentsCount": 1,
       "createdAt": "2026-03-01T08:01:00Z",
       "thumbnail": {
@@ -316,6 +316,37 @@
           {
             "node": {
               "name": "Inclusivity"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1087639",
+      "name": "Indbase",
+      "tagline": "Database for India's Builders",
+      "url": "https://www.producthunt.com/products/indbase?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 6,
+      "commentsCount": 1,
+      "createdAt": "2026-03-01T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/78ba5d58-cfe3-42aa-a886-a7139a858d64.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Database"
+            }
+          },
+          {
+            "node": {
+              "name": "Vibe coding"
             }
           }
         ]
@@ -415,85 +446,18 @@
       }
     },
     {
-      "id": "1070501",
-      "name": "VERXUS",
-      "tagline": "Create and share live tournament brackets for any format.",
-      "url": "https://www.producthunt.com/products/verxus?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 3,
+      "id": "1087069",
+      "name": "mdspec.dev",
+      "tagline": "An opensource lightweight specification management platform",
+      "url": "https://www.producthunt.com/products/mdspec-dev?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 4,
       "commentsCount": 1,
       "createdAt": "2026-03-01T08:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/64b77bef-09f2-46f8-a11d-6b0fa5eb130c.png?auto=format"
+        "url": "https://ph-files.imgix.net/d78ba64e-f463-43e0-9d8f-d2ad6eaa2c9a.svg?auto=format"
       },
       "topics": {
         "edges": [
-          {
-            "node": {
-              "name": "Sports"
-            }
-          },
-          {
-            "node": {
-              "name": "Games"
-            }
-          },
-          {
-            "node": {
-              "name": "Live Events"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1087758",
-      "name": "JSON Exporter/Importer",
-      "tagline": "Figma plugin that bridges the gap between design and dev...",
-      "url": "https://www.producthunt.com/products/json-exporter-importer?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 3,
-      "commentsCount": 1,
-      "createdAt": "2026-03-01T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/7de17df9-e941-4d47-9836-86cd2a62288e.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Design Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Design resources"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1087621",
-      "name": "SoundPrism",
-      "tagline": "A mixing console for every app on your Mac",
-      "url": "https://www.producthunt.com/products/soundprism?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 3,
-      "commentsCount": 1,
-      "createdAt": "2026-03-01T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/cb15aa7e-175e-42ac-9dc4-fbe5beff0829.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Mac"
-            }
-          },
           {
             "node": {
               "name": "Productivity"
@@ -501,28 +465,7 @@
           },
           {
             "node": {
-              "name": "Audio"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1086529",
-      "name": "buildarc",
-      "tagline": "Turn Claude Code sessions into content you can post",
-      "url": "https://www.producthunt.com/products/buildarc?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 3,
-      "commentsCount": 1,
-      "createdAt": "2026-03-01T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/2cb1f3f3-e196-4f3d-b520-f54e26567979.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Open Source"
+              "name": "SaaS"
             }
           },
           {
@@ -532,12 +475,38 @@
           },
           {
             "node": {
-              "name": "Artificial Intelligence"
+              "name": "GitHub"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1087514",
+      "name": "DataKid AI",
+      "tagline": "Data in. Deep insights out. Prompt not needed.",
+      "url": "https://www.producthunt.com/products/datakid-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 3,
+      "commentsCount": 1,
+      "createdAt": "2026-03-01T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/ed8cd9fc-6e60-4e63-aa56-0c1485f3c78f.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Analytics"
             }
           },
           {
             "node": {
-              "name": "GitHub"
+              "name": "Data & Analytics"
+            }
+          },
+          {
+            "node": {
+              "name": "Data Visualization"
             }
           }
         ]
@@ -575,42 +544,6 @@
       }
     },
     {
-      "id": "1087069",
-      "name": "mdspec.dev",
-      "tagline": "An opensource lightweight specification management platform",
-      "url": "https://www.producthunt.com/products/mdspec-dev?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 3,
-      "commentsCount": 1,
-      "createdAt": "2026-03-01T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/d78ba64e-f463-43e0-9d8f-d2ad6eaa2c9a.svg?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "SaaS"
-            }
-          },
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "GitHub"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1087755",
       "name": "Agent Vault",
       "tagline": "Zero-trust credential manager for AI agents. No trust needed",
@@ -641,6 +574,68 @@
           {
             "node": {
               "name": "GitHub"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1087621",
+      "name": "SoundPrism",
+      "tagline": "A mixing console for every app on your Mac",
+      "url": "https://www.producthunt.com/products/soundprism?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 3,
+      "commentsCount": 1,
+      "createdAt": "2026-03-01T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/cb15aa7e-175e-42ac-9dc4-fbe5beff0829.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Mac"
+            }
+          },
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Audio"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1087758",
+      "name": "JSON Exporter/Importer",
+      "tagline": "Figma plugin that bridges the gap between design and dev...",
+      "url": "https://www.producthunt.com/products/json-exporter-importer?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 3,
+      "commentsCount": 1,
+      "createdAt": "2026-03-01T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/7de17df9-e941-4d47-9836-86cd2a62288e.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Design Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Design resources"
             }
           }
         ]
