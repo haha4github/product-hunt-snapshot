@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-03-01T22:34:02.696Z",
+  "fetchedAt": "2026-03-01T22:55:06.389Z",
   "posts": [
     {
       "id": "1087761",
       "name": "Claude Import Memory",
       "tagline": "Switch from ChatGPT to Claude with import memory feature",
       "url": "https://www.producthunt.com/products/claude?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 385,
-      "commentsCount": 13,
+      "votesCount": 391,
+      "commentsCount": 15,
       "createdAt": "2026-03-01T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/3dfe9e3f-75df-4d91-a9b2-c9ed2449241f.png?auto=format"
@@ -28,7 +28,7 @@
       "tagline": "Turn your daily work into publish-ready content",
       "url": "https://www.producthunt.com/products/notra-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 242,
-      "commentsCount": 23,
+      "commentsCount": 26,
       "createdAt": "2026-03-01T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/28874dd7-8724-482d-99af-538809807a68.png?auto=format"
@@ -59,47 +59,11 @@
       }
     },
     {
-      "id": "1086384",
-      "name": "Voicr",
-      "tagline": "Your voice in, polished text out — in seconds",
-      "url": "https://www.producthunt.com/products/voicr?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 177,
-      "commentsCount": 17,
-      "createdAt": "2026-03-01T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/36135c17-0740-4434-bedc-1853ee0dfee1.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Android"
-            }
-          },
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Writing"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1087719",
       "name": "OpenFang",
       "tagline": "Open-Source Agent Operating System",
       "url": "https://www.producthunt.com/products/openfang?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 176,
+      "votesCount": 177,
       "commentsCount": 10,
       "createdAt": "2026-03-01T08:01:00Z",
       "thumbnail": {
@@ -125,6 +89,42 @@
           {
             "node": {
               "name": "GitHub"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1086384",
+      "name": "Voicr",
+      "tagline": "Your voice in, polished text out — in seconds",
+      "url": "https://www.producthunt.com/products/voicr?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 177,
+      "commentsCount": 18,
+      "createdAt": "2026-03-01T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/36135c17-0740-4434-bedc-1853ee0dfee1.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Android"
+            }
+          },
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Writing"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
             }
           }
         ]
@@ -228,7 +228,7 @@
       "name": "Octrafic",
       "tagline": "Test your APIs in plain English, straight from the terminal",
       "url": "https://www.producthunt.com/products/octrafic?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 113,
+      "votesCount": 114,
       "commentsCount": 9,
       "createdAt": "2026-03-01T08:01:00Z",
       "thumbnail": {
@@ -300,7 +300,7 @@
       "name": "Hearica",
       "tagline": "Turn all computer audio into captions for the deaf ",
       "url": "https://www.producthunt.com/products/hearica?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 90,
+      "votesCount": 91,
       "commentsCount": 6,
       "createdAt": "2026-03-01T08:01:00Z",
       "thumbnail": {
@@ -384,7 +384,7 @@
       "tagline": "A link-in-bio for your media taste",
       "url": "https://www.producthunt.com/products/yourshelf-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 9,
-      "commentsCount": 1,
+      "commentsCount": 3,
       "createdAt": "2026-03-01T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/3b86dc39-d2b5-49aa-9dfd-47efdf2e974d.png?auto=format"
@@ -596,23 +596,18 @@
       }
     },
     {
-      "id": "1087666",
-      "name": "ChubbyTabs",
-      "tagline": "Organize tabs, notes, and tasks in private workspaces.",
-      "url": "https://www.producthunt.com/products/chubbytabs?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "id": "1087069",
+      "name": "mdspec.dev",
+      "tagline": "An opensource lightweight specification management platform",
+      "url": "https://www.producthunt.com/products/mdspec-dev?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 5,
       "commentsCount": 1,
       "createdAt": "2026-03-01T08:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/2a3d9aa8-4dd9-4069-96b4-c52185c2b61d.jpeg?auto=format"
+        "url": "https://ph-files.imgix.net/d78ba64e-f463-43e0-9d8f-d2ad6eaa2c9a.svg?auto=format"
       },
       "topics": {
         "edges": [
-          {
-            "node": {
-              "name": "Chrome Extensions"
-            }
-          },
           {
             "node": {
               "name": "Productivity"
@@ -620,7 +615,17 @@
           },
           {
             "node": {
-              "name": "Privacy"
+              "name": "SaaS"
+            }
+          },
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "GitHub"
             }
           }
         ]
