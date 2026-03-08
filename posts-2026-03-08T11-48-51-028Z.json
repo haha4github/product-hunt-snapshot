@@ -1,12 +1,12 @@
 {
-  "fetchedAt": "2026-03-08T11:29:55.875Z",
+  "fetchedAt": "2026-03-08T11:48:51.028Z",
   "posts": [
     {
       "id": "1092091",
       "name": "Claude Marketplace",
       "tagline": "Helping companies easily get the AI tools they need",
       "url": "https://www.producthunt.com/products/claude-marketplace?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 176,
+      "votesCount": 182,
       "commentsCount": 0,
       "createdAt": "2026-03-08T08:01:00Z",
       "thumbnail": {
@@ -37,7 +37,7 @@
       "name": "Vibe Marketplace by Greta",
       "tagline": "Sell what you ship, instantly ",
       "url": "https://www.producthunt.com/products/gretabyquestera?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 118,
+      "votesCount": 121,
       "commentsCount": 3,
       "createdAt": "2026-03-08T08:01:00Z",
       "thumbnail": {
@@ -64,11 +64,42 @@
       }
     },
     {
+      "id": "1092014",
+      "name": "Pulldog",
+      "tagline": "A Mac application to keep your code reviews organized!",
+      "url": "https://www.producthunt.com/products/pulldog?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 106,
+      "commentsCount": 4,
+      "createdAt": "2026-03-08T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/f6651147-a567-4a9f-92ee-43f4e843f8e2.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "GitHub"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1083800",
       "name": "GetMimic",
       "tagline": "Generate viral social & chat mockups in seconds with AI.",
       "url": "https://www.producthunt.com/products/getmimic?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 105,
+      "votesCount": 107,
       "commentsCount": 1,
       "createdAt": "2026-03-08T08:01:00Z",
       "thumbnail": {
@@ -95,42 +126,11 @@
       }
     },
     {
-      "id": "1092014",
-      "name": "Pulldog",
-      "tagline": "A Mac application to keep your code reviews organized!",
-      "url": "https://www.producthunt.com/products/pulldog?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 103,
-      "commentsCount": 3,
-      "createdAt": "2026-03-08T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/f6651147-a567-4a9f-92ee-43f4e843f8e2.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "GitHub"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1091010",
       "name": "Song Sweeper",
       "tagline": "Clean up your music library",
       "url": "https://www.producthunt.com/products/song-sweeper?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 98,
+      "votesCount": 101,
       "commentsCount": 3,
       "createdAt": "2026-03-08T08:01:00Z",
       "thumbnail": {
@@ -156,7 +156,7 @@
       "name": "MarketingDB",
       "tagline": "Free dofollow backlinks for the next generation of SaaS.",
       "url": "https://www.producthunt.com/products/marketingdb?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 19,
+      "votesCount": 21,
       "commentsCount": 2,
       "createdAt": "2026-03-08T08:01:00Z",
       "thumbnail": {
@@ -182,7 +182,7 @@
       "name": "FinishDSA",
       "tagline": "Finish DSA with structure, consistency, and zero overwhelm.",
       "url": "https://www.producthunt.com/products/finishdsa?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 14,
+      "votesCount": 15,
       "commentsCount": 3,
       "createdAt": "2026-03-08T08:01:00Z",
       "thumbnail": {
@@ -239,6 +239,68 @@
           {
             "node": {
               "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1091680",
+      "name": "DossierPrêt",
+      "tagline": "Analyze your mortgage file before the bank does",
+      "url": "https://www.producthunt.com/products/dossierpret?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 10,
+      "commentsCount": 1,
+      "createdAt": "2026-03-08T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/15936481-6f12-43c0-a37c-3f001a68e293.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Fintech"
+            }
+          },
+          {
+            "node": {
+              "name": "Finance"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1092416",
+      "name": "Soloron",
+      "tagline": "Build real apps by simply describing them.",
+      "url": "https://www.producthunt.com/products/soloron?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 8,
+      "commentsCount": 1,
+      "createdAt": "2026-03-08T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/4cc2c091-c0f8-4705-9397-db46c2ac9b93.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "Tech"
             }
           }
         ]
@@ -306,68 +368,6 @@
           {
             "node": {
               "name": "Security"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1091680",
-      "name": "DossierPrêt",
-      "tagline": "Analyze your mortgage file before the bank does",
-      "url": "https://www.producthunt.com/products/dossierpret?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 6,
-      "commentsCount": 1,
-      "createdAt": "2026-03-08T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/15936481-6f12-43c0-a37c-3f001a68e293.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Fintech"
-            }
-          },
-          {
-            "node": {
-              "name": "Finance"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1092416",
-      "name": "Soloron",
-      "tagline": "Build real apps by simply describing them.",
-      "url": "https://www.producthunt.com/products/soloron?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 6,
-      "commentsCount": 1,
-      "createdAt": "2026-03-08T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/4cc2c091-c0f8-4705-9397-db46c2ac9b93.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          },
-          {
-            "node": {
-              "name": "Tech"
             }
           }
         ]
@@ -498,6 +498,37 @@
       }
     },
     {
+      "id": "1092507",
+      "name": "Motionsites",
+      "tagline": "Your Design AI Superpowers In One Click",
+      "url": "https://www.producthunt.com/products/motionsites?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 3,
+      "commentsCount": 1,
+      "createdAt": "2026-03-08T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/cdeb60f1-73b5-4aaa-8c9d-244440ce1c94.jpeg?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Design Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Animation"
+            }
+          },
+          {
+            "node": {
+              "name": "Vibe coding"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1092531",
       "name": "Mummy’s Cooking: Meal Planner",
       "tagline": "Calm meal planning with recipes and grocery lists",
@@ -534,31 +565,36 @@
       }
     },
     {
-      "id": "1092108",
-      "name": "Trend Animator",
-      "tagline": "Bring Your Data to Life",
-      "url": "https://www.producthunt.com/products/trend-animator?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "id": "1092028",
+      "name": "OrioSearch: Your AI Agent need WebSearch",
+      "tagline": "100% Open-source Tavily alternative. Self-hosted search API",
+      "url": "https://www.producthunt.com/products/oriosearch?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 3,
       "commentsCount": 1,
       "createdAt": "2026-03-08T08:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/78311ea6-cb7f-4d53-b9b4-f1cd5f8549e5.png?auto=format"
+        "url": "https://ph-files.imgix.net/d111ea94-28eb-4c09-9b8c-a086d5b8ac92.svg?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "Design Tools"
+              "name": "Open Source"
             }
           },
           {
             "node": {
-              "name": "Data Visualization"
+              "name": "Developer Tools"
             }
           },
           {
             "node": {
-              "name": "Animation"
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "GitHub"
             }
           }
         ]
@@ -590,37 +626,6 @@
           {
             "node": {
               "name": "Security"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1092180",
-      "name": "SpendNode",
-      "tagline": "The comparison engine for crypto cards",
-      "url": "https://www.producthunt.com/products/spendnode?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 3,
-      "commentsCount": 1,
-      "createdAt": "2026-03-08T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/5d5b9372-eec5-4306-8ec1-abf9ca58780d.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Fintech"
-            }
-          },
-          {
-            "node": {
-              "name": "Crypto"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
             }
           }
         ]
