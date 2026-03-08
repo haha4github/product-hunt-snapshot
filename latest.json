@@ -1,12 +1,12 @@
 {
-  "fetchedAt": "2026-03-08T15:47:53.465Z",
+  "fetchedAt": "2026-03-08T16:11:51.773Z",
   "posts": [
     {
       "id": "1092091",
       "name": "Claude Marketplace",
       "tagline": "Helping companies easily get the AI tools they need",
       "url": "https://www.producthunt.com/products/claude-marketplace?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 276,
+      "votesCount": 288,
       "commentsCount": 2,
       "createdAt": "2026-03-08T08:01:00Z",
       "thumbnail": {
@@ -37,7 +37,7 @@
       "name": "Vibe Marketplace by Greta",
       "tagline": "Sell what you ship, instantly ",
       "url": "https://www.producthunt.com/products/gretabyquestera?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 167,
+      "votesCount": 169,
       "commentsCount": 6,
       "createdAt": "2026-03-08T08:01:00Z",
       "thumbnail": {
@@ -99,7 +99,7 @@
       "name": "Pulldog",
       "tagline": "A Mac application to keep your code reviews organized!",
       "url": "https://www.producthunt.com/products/pulldog?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 137,
+      "votesCount": 138,
       "commentsCount": 7,
       "createdAt": "2026-03-08T08:01:00Z",
       "thumbnail": {
@@ -128,10 +128,10 @@
     {
       "id": "1091010",
       "name": "Song Sweeper",
-      "tagline": "Clean up your music library",
+      "tagline": "Remove duplicate songs",
       "url": "https://www.producthunt.com/products/song-sweeper?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 120,
-      "commentsCount": 5,
+      "votesCount": 126,
+      "commentsCount": 8,
       "createdAt": "2026-03-08T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/ed32d581-5292-4f5d-9da9-585a03800b7e.png?auto=format"
@@ -156,8 +156,8 @@
       "name": "MarketingDB",
       "tagline": "Free dofollow backlinks for the next generation of SaaS.",
       "url": "https://www.producthunt.com/products/marketingdb?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 32,
-      "commentsCount": 4,
+      "votesCount": 33,
+      "commentsCount": 6,
       "createdAt": "2026-03-08T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/fa28a2fd-351d-4047-abf0-9a6cdab1e8c5.x-icon?auto=format"
@@ -400,6 +400,32 @@
       }
     },
     {
+      "id": "1087817",
+      "name": "Remote First Jobs",
+      "tagline": "Find remote-first roles from companies worldwide",
+      "url": "https://www.producthunt.com/products/remote-first-jobs?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 5,
+      "commentsCount": 0,
+      "createdAt": "2026-03-08T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/209b22a7-5980-4643-a782-156967a63402.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Hiring"
+            }
+          },
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1092507",
       "name": "Motionsites",
       "tagline": "Your Design AI Superpowers In One Click",
@@ -555,67 +581,21 @@
       }
     },
     {
-      "id": "1092328",
-      "name": "Tetr99 — The Free Tetris 99 Trainer",
-      "tagline": "Practice the part Tetris 99 never lets you skip.",
-      "url": "https://www.producthunt.com/products/tetr99-free-browser-block-puzzle-game?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 3,
-      "commentsCount": 3,
-      "createdAt": "2026-03-08T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/19dd0a90-6b95-44e6-b5e7-118c3bf36358.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Puzzle Games"
-            }
-          },
-          {
-            "node": {
-              "name": "Free Games"
-            }
-          },
-          {
-            "node": {
-              "name": "Games"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1092028",
-      "name": "OrioSearch: Your AI Agent need WebSearch",
-      "tagline": "100% Open-source Tavily alternative. Self-hosted search API",
-      "url": "https://www.producthunt.com/products/oriosearch?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "id": "1092450",
+      "name": "Matrioshka Love Layers",
+      "tagline": "Nest your love in layers for the women who deserve it",
+      "url": "https://www.producthunt.com/products/matrioshka-love-layers?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 3,
       "commentsCount": 1,
       "createdAt": "2026-03-08T08:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/d111ea94-28eb-4c09-9b8c-a086d5b8ac92.svg?auto=format"
+        "url": "https://ph-files.imgix.net/0c70b240-aa19-4a27-944c-e7db39a119f0.jpeg?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "Open Source"
-            }
-          },
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          },
-          {
-            "node": {
-              "name": "GitHub"
+              "name": "Dating"
             }
           }
         ]
