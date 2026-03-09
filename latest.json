@@ -1,12 +1,12 @@
 {
-  "fetchedAt": "2026-03-09T05:42:52.086Z",
+  "fetchedAt": "2026-03-09T06:42:28.612Z",
   "posts": [
     {
       "id": "1092091",
       "name": "Claude Marketplace",
       "tagline": "Helping companies easily get the AI tools they need",
       "url": "https://www.producthunt.com/products/claude-marketplace?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 454,
+      "votesCount": 461,
       "commentsCount": 12,
       "createdAt": "2026-03-08T08:01:00Z",
       "thumbnail": {
@@ -37,8 +37,8 @@
       "name": "Vibe Marketplace by Greta",
       "tagline": "Sell what you ship, instantly ",
       "url": "https://www.producthunt.com/products/gretabyquestera?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 253,
-      "commentsCount": 14,
+      "votesCount": 266,
+      "commentsCount": 20,
       "createdAt": "2026-03-08T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/5f9ecbca-d6f9-4d76-a3b4-d03fa529f98c.png?auto=format"
@@ -68,8 +68,8 @@
       "name": "GetMimic",
       "tagline": "Generate viral social & chat mockups in seconds with AI.",
       "url": "https://www.producthunt.com/products/getmimic?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 224,
-      "commentsCount": 35,
+      "votesCount": 227,
+      "commentsCount": 36,
       "createdAt": "2026-03-08T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/1878717d-9e62-4607-b442-5b23beb20ad7.png?auto=format"
@@ -99,7 +99,7 @@
       "name": "Pulldog",
       "tagline": "A Mac application to keep your code reviews organized!",
       "url": "https://www.producthunt.com/products/pulldog?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 201,
+      "votesCount": 206,
       "commentsCount": 21,
       "createdAt": "2026-03-08T08:01:00Z",
       "thumbnail": {
@@ -130,7 +130,7 @@
       "name": "Song Sweeper",
       "tagline": "Remove duplicate songs",
       "url": "https://www.producthunt.com/products/song-sweeper?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 159,
+      "votesCount": 164,
       "commentsCount": 17,
       "createdAt": "2026-03-08T08:01:00Z",
       "thumbnail": {
@@ -156,7 +156,7 @@
       "name": "MarketingDB",
       "tagline": "Free dofollow backlinks for the next generation of SaaS.",
       "url": "https://www.producthunt.com/products/marketingdb?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 47,
+      "votesCount": 48,
       "commentsCount": 9,
       "createdAt": "2026-03-08T08:01:00Z",
       "thumbnail": {
@@ -328,6 +328,37 @@
       }
     },
     {
+      "id": "1092507",
+      "name": "Motionsites",
+      "tagline": "Your Design AI Superpowers In One Click",
+      "url": "https://www.producthunt.com/products/motionsites?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 8,
+      "commentsCount": 4,
+      "createdAt": "2026-03-08T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/cdeb60f1-73b5-4aaa-8c9d-244440ce1c94.jpeg?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Design Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Animation"
+            }
+          },
+          {
+            "node": {
+              "name": "Vibe coding"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1092254",
       "name": "PaperVault.xyz",
       "tagline": "Store secrets on encrypted paper with m-of-n keys.",
@@ -364,6 +395,32 @@
       }
     },
     {
+      "id": "1087817",
+      "name": "Remote First Jobs",
+      "tagline": "Find remote-first roles from companies worldwide",
+      "url": "https://www.producthunt.com/products/remote-first-jobs?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 7,
+      "commentsCount": 0,
+      "createdAt": "2026-03-08T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/209b22a7-5980-4643-a782-156967a63402.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Hiring"
+            }
+          },
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1092151",
       "name": "HotelPriceTrack",
       "tagline": "Forward your hotel reservation. Rebook it cheaper.",
@@ -389,37 +446,6 @@
           {
             "node": {
               "name": "Business Travel"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1092507",
-      "name": "Motionsites",
-      "tagline": "Your Design AI Superpowers In One Click",
-      "url": "https://www.producthunt.com/products/motionsites?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 7,
-      "commentsCount": 4,
-      "createdAt": "2026-03-08T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/cdeb60f1-73b5-4aaa-8c9d-244440ce1c94.jpeg?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Design Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Animation"
-            }
-          },
-          {
-            "node": {
-              "name": "Vibe coding"
             }
           }
         ]
@@ -493,6 +519,37 @@
       }
     },
     {
+      "id": "1091968",
+      "name": "Mad Snake Game",
+      "tagline": "A fast-paced arcade Snake game for iOS with modern twists.",
+      "url": "https://www.producthunt.com/products/mad-snake-game?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 7,
+      "commentsCount": 5,
+      "createdAt": "2026-03-08T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/3a2af4a3-b45f-4f7e-b607-9aedb4368467.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Indie Games"
+            }
+          },
+          {
+            "node": {
+              "name": "Free Games"
+            }
+          },
+          {
+            "node": {
+              "name": "Games"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1092514",
       "name": "Velxio",
       "tagline": "Arduino emulator running entirely in the browser",
@@ -524,32 +581,6 @@
       }
     },
     {
-      "id": "1087817",
-      "name": "Remote First Jobs",
-      "tagline": "Find remote-first roles from companies worldwide",
-      "url": "https://www.producthunt.com/products/remote-first-jobs?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 6,
-      "commentsCount": 0,
-      "createdAt": "2026-03-08T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/209b22a7-5980-4643-a782-156967a63402.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Hiring"
-            }
-          },
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1091650",
       "name": "OSS AI Hub",
       "tagline": "AI search for 1000+ Open-Source AI Tools",
@@ -575,37 +606,6 @@
           {
             "node": {
               "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1092063",
-      "name": "Sheeep",
-      "tagline": "Git-native workspace for docs, planning, and code memory",
-      "url": "https://www.producthunt.com/products/sheeep?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 6,
-      "commentsCount": 4,
-      "createdAt": "2026-03-08T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/5c2ebb8f-3dd1-4fe0-9264-1021554680a5.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "GitHub"
-            }
-          },
-          {
-            "node": {
-              "name": "Notion"
             }
           }
         ]
