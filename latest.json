@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-03-11T23:57:09.577Z",
+  "fetchedAt": "2026-03-12T02:49:42.921Z",
   "posts": [
     {
       "id": "1094122",
       "name": "InsForge",
       "tagline": "Give agents everything they need to ship fullstack apps",
       "url": "https://www.producthunt.com/products/insforge-alpha?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 434,
-      "commentsCount": 89,
+      "votesCount": 468,
+      "commentsCount": 93,
       "createdAt": "2026-03-11T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/00c129e1-f3ee-4be7-a3cb-ff09fcc4313e.vnd.microsoft.icon?auto=format"
@@ -42,8 +42,8 @@
       "name": "Cardboard",
       "tagline": "Cursor for video editing",
       "url": "https://www.producthunt.com/products/cardboard-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 379,
-      "commentsCount": 81,
+      "votesCount": 401,
+      "commentsCount": 85,
       "createdAt": "2026-03-11T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/607a82e0-7a58-4dda-b92c-71e0f0688c52.png?auto=format"
@@ -73,8 +73,8 @@
       "name": "Teract AI",
       "tagline": "Your AI reputation coach for LinkedIn, X, Reddit & more",
       "url": "https://www.producthunt.com/products/teract?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 298,
-      "commentsCount": 56,
+      "votesCount": 316,
+      "commentsCount": 60,
       "createdAt": "2026-03-11T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/9bf84bdd-782d-4974-b432-169bb0e35c81.png?auto=format"
@@ -94,8 +94,8 @@
       "name": "OpenUI",
       "tagline": "The open standard for Generative UI",
       "url": "https://www.producthunt.com/products/thesys?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 259,
-      "commentsCount": 20,
+      "votesCount": 280,
+      "commentsCount": 21,
       "createdAt": "2026-03-11T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/bbfbb532-5165-4fee-9bc9-3d4715facf24.png?auto=format"
@@ -126,43 +126,12 @@
       }
     },
     {
-      "id": "1094604",
-      "name": "Gemini Embedding 2",
-      "tagline": "Google's first natively multimodal embedding model",
-      "url": "https://www.producthunt.com/products/gemini-embedding-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 217,
-      "commentsCount": 2,
-      "createdAt": "2026-03-11T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/d5abca12-db6a-4084-aaeb-724f76acb1af.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          },
-          {
-            "node": {
-              "name": "Development"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1086473",
       "name": "Knowlify",
       "tagline": "Cursor for Animated Videos",
       "url": "https://www.producthunt.com/products/knowlify?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 210,
-      "commentsCount": 48,
+      "votesCount": 231,
+      "commentsCount": 52,
       "createdAt": "2026-03-11T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/fa11eefd-722f-4b6a-a9fa-37a6e3431c44.png?auto=format"
@@ -188,11 +157,42 @@
       }
     },
     {
+      "id": "1094604",
+      "name": "Gemini Embedding 2",
+      "tagline": "Google's first natively multimodal embedding model",
+      "url": "https://www.producthunt.com/products/gemini-embedding-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 229,
+      "commentsCount": 3,
+      "createdAt": "2026-03-11T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/d5abca12-db6a-4084-aaeb-724f76acb1af.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "Development"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1094657",
       "name": "Firecrawl CLI",
       "tagline": "The complete web data toolkit for AI agents",
       "url": "https://www.producthunt.com/products/extract-by-firecrawl?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 164,
+      "votesCount": 171,
       "commentsCount": 12,
       "createdAt": "2026-03-11T07:01:00Z",
       "thumbnail": {
@@ -218,7 +218,7 @@
       "name": "IonRouter ",
       "tagline": "Serve Any AI Model, Faster & Cheaper",
       "url": "https://www.producthunt.com/products/ionrouter-by-cumulus-labs?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 160,
+      "votesCount": 169,
       "commentsCount": 19,
       "createdAt": "2026-03-11T07:01:00Z",
       "thumbnail": {
@@ -249,8 +249,8 @@
       "name": "Citable",
       "tagline": "Be in AI answers before your competitors. We do it for you.",
       "url": "https://www.producthunt.com/products/citable?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 136,
-      "commentsCount": 17,
+      "votesCount": 142,
+      "commentsCount": 19,
       "createdAt": "2026-03-11T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/b1bc37cc-9aa8-4f37-b5ef-c30b2c1b79e3.png?auto=format"
@@ -280,7 +280,7 @@
       "name": "ChatGPT Interactive Learning ",
       "tagline": "Learn math and science with interactive visual explanations ",
       "url": "https://www.producthunt.com/products/chatgpt-interactive-learning?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 129,
+      "votesCount": 135,
       "commentsCount": 2,
       "createdAt": "2026-03-11T07:01:00Z",
       "thumbnail": {
@@ -311,7 +311,7 @@
       "name": "Mindspase",
       "tagline": "A visual AI knowledge base that organizes what you save",
       "url": "https://www.producthunt.com/products/mindspase?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 123,
+      "votesCount": 125,
       "commentsCount": 9,
       "createdAt": "2026-03-11T07:01:00Z",
       "thumbnail": {
@@ -337,7 +337,7 @@
       "name": "TADA",
       "tagline": "1:1 text-acoustic alignment for 5x faster speech generation",
       "url": "https://www.producthunt.com/products/hume-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 114,
+      "votesCount": 120,
       "commentsCount": 5,
       "createdAt": "2026-03-11T07:01:00Z",
       "thumbnail": {
@@ -368,8 +368,8 @@
       "name": "CodeYam CLI & Memory",
       "tagline": "Comprehensive memory management for Claude Code",
       "url": "https://www.producthunt.com/products/codeyam-cli-memory?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 110,
-      "commentsCount": 16,
+      "votesCount": 117,
+      "commentsCount": 18,
       "createdAt": "2026-03-11T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/c2af1fc6-b9b3-4db8-972e-28600d3ad289.png?auto=format"
@@ -379,6 +379,37 @@
           {
             "node": {
               "name": "Developer Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "Tech"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1094532",
+      "name": "MorphMind: A Steerable AI Platform",
+      "tagline": "Build a team of AI specialists that deliver quality work",
+      "url": "https://www.producthunt.com/products/morphmind-launches-steerable-ai-platform?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 109,
+      "commentsCount": 7,
+      "createdAt": "2026-03-11T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/44d11fda-06d1-4192-b111-fffb80749133.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Productivity"
             }
           },
           {
@@ -409,22 +440,17 @@
         "edges": [
           {
             "node": {
-              "name": "Open Source"
-            }
-          },
-          {
-            "node": {
               "name": "Developer Tools"
             }
           },
           {
             "node": {
-              "name": "GitHub"
+              "name": "Artificial Intelligence"
             }
           },
           {
             "node": {
-              "name": "Vibe coding"
+              "name": "YC Application"
             }
           }
         ]
@@ -462,42 +488,11 @@
       }
     },
     {
-      "id": "1094532",
-      "name": "MorphMind: A Steerable AI Platform",
-      "tagline": "Build a team of AI specialists that deliver quality work",
-      "url": "https://www.producthunt.com/products/morphmind-launches-steerable-ai-platform?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 102,
-      "commentsCount": 6,
-      "createdAt": "2026-03-11T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/44d11fda-06d1-4192-b111-fffb80749133.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          },
-          {
-            "node": {
-              "name": "Tech"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1086379",
       "name": "Typinator 10 ",
       "tagline": "The fast and private text expander for macOS and iOS",
       "url": "https://www.producthunt.com/products/typinator-10?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 100,
+      "votesCount": 102,
       "commentsCount": 10,
       "createdAt": "2026-03-11T07:01:00Z",
       "thumbnail": {
@@ -528,8 +523,8 @@
       "name": "Product Workbench for Claude Code",
       "tagline": "Turn feature ideas into stakeholder-ready code prototypes",
       "url": "https://www.producthunt.com/products/chordio-workbench?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 98,
-      "commentsCount": 12,
+      "votesCount": 100,
+      "commentsCount": 13,
       "createdAt": "2026-03-11T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/78e9ed23-91db-4c01-ab58-5353be9cc7e5.png?auto=format"
@@ -555,7 +550,7 @@
       "tagline": "Ask AI about anything on your screen with a single hotkey",
       "url": "https://www.producthunt.com/products/screengeany-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 91,
-      "commentsCount": 9,
+      "commentsCount": 10,
       "createdAt": "2026-03-11T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/64d1ac87-0509-4792-b488-06e799344cb4.png?auto=format"
@@ -585,7 +580,7 @@
       "name": "HypeScribe",
       "tagline": "Google Drive for Your Speech w/ 99% AI transcription",
       "url": "https://www.producthunt.com/products/hypescribe?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 83,
+      "votesCount": 84,
       "commentsCount": 3,
       "createdAt": "2026-03-11T07:01:00Z",
       "thumbnail": {
