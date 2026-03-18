@@ -1,13 +1,44 @@
 {
-  "fetchedAt": "2026-03-18T09:07:17.116Z",
+  "fetchedAt": "2026-03-18T10:10:53.801Z",
   "posts": [
+    {
+      "id": "1093683",
+      "name": "Genie by Databox",
+      "tagline": "Your AI analyst for business performance",
+      "url": "https://www.producthunt.com/products/databox?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 97,
+      "commentsCount": 8,
+      "createdAt": "2026-03-18T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/e4c1da3e-820a-4bc8-8454-26d42e313f9f.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Analytics"
+            }
+          },
+          {
+            "node": {
+              "name": "SaaS"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
     {
       "id": "1100551",
       "name": "AutoSend MCP",
       "tagline": "The email platform your AI agent can operate.",
       "url": "https://www.producthunt.com/products/autosend-mcp?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 87,
-      "commentsCount": 3,
+      "votesCount": 95,
+      "commentsCount": 4,
       "createdAt": "2026-03-18T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/0aa24e2e-e3e4-4122-9e29-369dba266d6c.png?auto=format"
@@ -33,11 +64,42 @@
       }
     },
     {
+      "id": "1090041",
+      "name": "Lightfield",
+      "tagline": "AI-native CRM that builds itself and does work for you",
+      "url": "https://www.producthunt.com/products/lightfield?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 93,
+      "commentsCount": 10,
+      "createdAt": "2026-03-18T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/e31fc558-30e0-48e2-921a-0199328f3f02.x-icon?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Sales"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "CRM"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1101206",
       "name": "Claude Dispatch",
       "tagline": "Text Claude from your phone using “Dispatch”",
       "url": "https://www.producthunt.com/products/claude-dispatch?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 81,
+      "votesCount": 90,
       "commentsCount": 2,
       "createdAt": "2026-03-18T07:01:00Z",
       "thumbnail": {
@@ -64,21 +126,21 @@
       }
     },
     {
-      "id": "1101264",
-      "name": "Unsloth Studio",
-      "tagline": "Visual LLM fine-tuning and inference for everyone",
-      "url": "https://www.producthunt.com/products/unsloth?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 79,
-      "commentsCount": 4,
+      "id": "1095408",
+      "name": "Banyan AI Lite",
+      "tagline": "AI detecting & preventing SaaS churn",
+      "url": "https://www.producthunt.com/products/banyan-ai-lite?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 85,
+      "commentsCount": 30,
       "createdAt": "2026-03-18T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/cf1b2a70-e1d9-43f3-857c-350433c6e28b.png?auto=format"
+        "url": "https://ph-files.imgix.net/a03fa0dd-5cb5-4956-b09c-6289219e67d7.png?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "Open Source"
+              "name": "SaaS"
             }
           },
           {
@@ -88,7 +150,7 @@
           },
           {
             "node": {
-              "name": "Development"
+              "name": "Data & Analytics"
             }
           }
         ]
@@ -99,7 +161,7 @@
       "name": "GPT‑5.4 mini and nano",
       "tagline": "Fast and efficient models optimized for coding and subagents",
       "url": "https://www.producthunt.com/products/openai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 79,
+      "votesCount": 86,
       "commentsCount": 1,
       "createdAt": "2026-03-18T07:01:00Z",
       "thumbnail": {
@@ -126,21 +188,21 @@
       }
     },
     {
-      "id": "1090041",
-      "name": "Lightfield",
-      "tagline": "AI-native CRM that builds itself and does work for you",
-      "url": "https://www.producthunt.com/products/lightfield?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 76,
-      "commentsCount": 5,
+      "id": "1101264",
+      "name": "Unsloth Studio",
+      "tagline": "Visual LLM fine-tuning and inference for everyone",
+      "url": "https://www.producthunt.com/products/unsloth?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 84,
+      "commentsCount": 4,
       "createdAt": "2026-03-18T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/e31fc558-30e0-48e2-921a-0199328f3f02.x-icon?auto=format"
+        "url": "https://ph-files.imgix.net/cf1b2a70-e1d9-43f3-857c-350433c6e28b.png?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "Sales"
+              "name": "Open Source"
             }
           },
           {
@@ -150,69 +212,7 @@
           },
           {
             "node": {
-              "name": "CRM"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1093683",
-      "name": "Genie by Databox",
-      "tagline": "Your AI analyst for business performance",
-      "url": "https://www.producthunt.com/products/databox?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 76,
-      "commentsCount": 2,
-      "createdAt": "2026-03-18T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/e4c1da3e-820a-4bc8-8454-26d42e313f9f.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Analytics"
-            }
-          },
-          {
-            "node": {
-              "name": "SaaS"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1095408",
-      "name": "Banyan AI Lite",
-      "tagline": "AI detecting & preventing SaaS churn",
-      "url": "https://www.producthunt.com/products/banyan-ai-lite?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 77,
-      "commentsCount": 12,
-      "createdAt": "2026-03-18T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/a03fa0dd-5cb5-4956-b09c-6289219e67d7.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "SaaS"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          },
-          {
-            "node": {
-              "name": "Data & Analytics"
+              "name": "Development"
             }
           }
         ]
@@ -223,7 +223,7 @@
       "name": "Grok's Text to Speech API ",
       "tagline": "Grok's Text to Speech API is now available. ",
       "url": "https://www.producthunt.com/products/grok-s-text-to-speech-api?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 75,
+      "votesCount": 81,
       "commentsCount": 2,
       "createdAt": "2026-03-18T07:01:00Z",
       "thumbnail": {
@@ -245,74 +245,12 @@
       }
     },
     {
-      "id": "1083355",
-      "name": "Soul 2.0",
-      "tagline": "Fashion-Grade AI Photos Without the Camera Crew",
-      "url": "https://www.producthunt.com/products/soul-2-0?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 73,
-      "commentsCount": 3,
-      "createdAt": "2026-03-18T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/8d748dd4-a858-449a-a918-e9ea85af317d.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Design Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Fashion"
-            }
-          },
-          {
-            "node": {
-              "name": "Marketing"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1101015",
-      "name": "ArticleBack",
-      "tagline": "Publish Insight, Build Authority ",
-      "url": "https://www.producthunt.com/products/articleback?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 72,
-      "commentsCount": 3,
-      "createdAt": "2026-03-18T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/69a7f4f1-e4f6-485a-9056-1c466887c82e.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Marketing"
-            }
-          },
-          {
-            "node": {
-              "name": "Growth Hacking"
-            }
-          },
-          {
-            "node": {
-              "name": "SEO"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1101203",
       "name": "Lore",
       "tagline": "Cursor for your memory. 100% private, open-source & free.",
       "url": "https://www.producthunt.com/products/lore-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 70,
-      "commentsCount": 4,
+      "votesCount": 80,
+      "commentsCount": 7,
       "createdAt": "2026-03-18T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/8d4c5994-2d40-4a87-8379-f058f599846e.png?auto=format"
@@ -343,11 +281,73 @@
       }
     },
     {
+      "id": "1100086",
+      "name": "Permit.io MCP Gateway",
+      "tagline": "Drop-in MCP Security Developers Love and CISOs Trust",
+      "url": "https://www.producthunt.com/products/permit-io?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 78,
+      "commentsCount": 6,
+      "createdAt": "2026-03-18T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/e7af4ffa-6ff9-47dd-87e4-8cfa956336d2.jpeg?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "Security"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1083355",
+      "name": "Soul 2.0",
+      "tagline": "Fashion-Grade AI Photos Without the Camera Crew",
+      "url": "https://www.producthunt.com/products/soul-2-0?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 78,
+      "commentsCount": 3,
+      "createdAt": "2026-03-18T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/8d748dd4-a858-449a-a918-e9ea85af317d.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Design Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Fashion"
+            }
+          },
+          {
+            "node": {
+              "name": "Marketing"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1100951",
       "name": "Comet for Enterprise",
       "tagline": "Perplexity’s Secure AI browser built for enterprise teams",
       "url": "https://www.producthunt.com/products/perplexity-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 69,
+      "votesCount": 76,
       "commentsCount": 3,
       "createdAt": "2026-03-18T07:01:00Z",
       "thumbnail": {
@@ -374,62 +374,62 @@
       }
     },
     {
-      "id": "1099864",
-      "name": "Fantastical MCP for Mac",
-      "tagline": "Manage your schedule directly with Claude",
-      "url": "https://www.producthunt.com/products/fantastical?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 69,
-      "commentsCount": 2,
+      "id": "1083866",
+      "name": "Forvibe for macOS",
+      "tagline": "Everything between your build and the App Store",
+      "url": "https://www.producthunt.com/products/forvibe?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 75,
+      "commentsCount": 3,
       "createdAt": "2026-03-18T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/93a9cc20-2f8c-4f92-b6b6-e6446755462d.png?auto=format"
+        "url": "https://ph-files.imgix.net/a1a128e3-f975-444d-837d-c75b6baa12ca.png?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "Calendar"
+              "name": "Mac"
             }
           },
           {
             "node": {
-              "name": "Artificial Intelligence"
-            }
-          },
-          {
-            "node": {
-              "name": "Apple"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1094782",
-      "name": "Doccupine",
-      "tagline": "Open source AI-ready documentation platform.",
-      "url": "https://www.producthunt.com/products/doccupine?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 69,
-      "commentsCount": 2,
-      "createdAt": "2026-03-18T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/a314b3f7-92bf-4611-9f0d-f0335f9e872a.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Open Source"
+              "name": "Productivity"
             }
           },
           {
             "node": {
               "name": "Developer Tools"
             }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1101015",
+      "name": "ArticleBack",
+      "tagline": "Publish Insight, Build Authority ",
+      "url": "https://www.producthunt.com/products/articleback?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 75,
+      "commentsCount": 5,
+      "createdAt": "2026-03-18T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/69a7f4f1-e4f6-485a-9056-1c466887c82e.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Marketing"
+            }
           },
           {
             "node": {
-              "name": "Artificial Intelligence"
+              "name": "Growth Hacking"
+            }
+          },
+          {
+            "node": {
+              "name": "SEO"
             }
           }
         ]
@@ -440,8 +440,8 @@
       "name": "Bookshelf for NotebookLM",
       "tagline": "Add folders, search, and sync to Google NotebookLM",
       "url": "https://www.producthunt.com/products/bookshelf-for-notebooklm?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 68,
-      "commentsCount": 3,
+      "votesCount": 75,
+      "commentsCount": 6,
       "createdAt": "2026-03-18T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/7fc074dd-d687-46b8-b56f-03eb1077ad89.png?auto=format"
@@ -471,8 +471,8 @@
       "name": "ClipLedger",
       "tagline": "Track views & payouts for YouTube Shorts creators",
       "url": "https://www.producthunt.com/products/clipledger?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 68,
-      "commentsCount": 6,
+      "votesCount": 75,
+      "commentsCount": 13,
       "createdAt": "2026-03-18T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/71ec1d8c-4c94-4a6f-ae2e-fde6a8c5f76a.x-icon?auto=format"
@@ -498,21 +498,21 @@
       }
     },
     {
-      "id": "1100224",
-      "name": "MS AUTO CAPTIONS",
-      "tagline": "Generate trending subtitles for videos automatically with AI",
-      "url": "https://www.producthunt.com/products/ms-auto-captions?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 68,
-      "commentsCount": 3,
+      "id": "1099864",
+      "name": "Fantastical MCP for Mac",
+      "tagline": "Manage your schedule directly with Claude",
+      "url": "https://www.producthunt.com/products/fantastical?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 74,
+      "commentsCount": 4,
       "createdAt": "2026-03-18T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/4998924d-8272-4afc-9bf0-3475a337fd93.jpeg?auto=format"
+        "url": "https://ph-files.imgix.net/93a9cc20-2f8c-4f92-b6b6-e6446755462d.png?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "Productivity"
+              "name": "Calendar"
             }
           },
           {
@@ -522,7 +522,7 @@
           },
           {
             "node": {
-              "name": "Video"
+              "name": "Apple"
             }
           }
         ]
@@ -533,8 +533,8 @@
       "name": "MetricMap",
       "tagline": "Track revenue, ads, web vitals, & user insights in one hub",
       "url": "https://www.producthunt.com/products/metricmap-analytics-for-saas-e-com?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 67,
-      "commentsCount": 1,
+      "votesCount": 73,
+      "commentsCount": 7,
       "createdAt": "2026-03-18T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/cf5eaccf-ccb4-4a77-b06d-0c7d0c36ae9f.svg?auto=format"
@@ -560,18 +560,23 @@
       }
     },
     {
-      "id": "1100086",
-      "name": "Permit.io MCP Gateway",
-      "tagline": "Drop-in MCP Security Developers Love and CISOs Trust",
-      "url": "https://www.producthunt.com/products/permit-io?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 65,
-      "commentsCount": 2,
+      "id": "1094782",
+      "name": "Doccupine",
+      "tagline": "Open source AI-ready documentation platform.",
+      "url": "https://www.producthunt.com/products/doccupine?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 72,
+      "commentsCount": 5,
       "createdAt": "2026-03-18T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/e7af4ffa-6ff9-47dd-87e4-8cfa956336d2.jpeg?auto=format"
+        "url": "https://ph-files.imgix.net/a314b3f7-92bf-4611-9f0d-f0335f9e872a.png?auto=format"
       },
       "topics": {
         "edges": [
+          {
+            "node": {
+              "name": "Open Source"
+            }
+          },
           {
             "node": {
               "name": "Developer Tools"
@@ -581,25 +586,20 @@
             "node": {
               "name": "Artificial Intelligence"
             }
-          },
-          {
-            "node": {
-              "name": "Security"
-            }
           }
         ]
       }
     },
     {
-      "id": "1083798",
-      "name": "Lista",
-      "tagline": "A simple to-do list with GTD workflows + iCloud sync",
-      "url": "https://www.producthunt.com/products/lista-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 64,
-      "commentsCount": 1,
+      "id": "1100224",
+      "name": "MS AUTO CAPTIONS",
+      "tagline": "Generate trending subtitles for videos automatically with AI",
+      "url": "https://www.producthunt.com/products/ms-auto-captions?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 72,
+      "commentsCount": 11,
       "createdAt": "2026-03-18T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/06f34863-c7ff-461d-b7a8-c4604cc39589.png?auto=format"
+        "url": "https://ph-files.imgix.net/4998924d-8272-4afc-9bf0-3475a337fd93.jpeg?auto=format"
       },
       "topics": {
         "edges": [
@@ -610,12 +610,12 @@
           },
           {
             "node": {
-              "name": "Task Management"
+              "name": "Artificial Intelligence"
             }
           },
           {
             "node": {
-              "name": "Apple"
+              "name": "Video"
             }
           }
         ]
