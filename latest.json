@@ -1,12 +1,12 @@
 {
-  "fetchedAt": "2026-03-19T22:44:44.204Z",
+  "fetchedAt": "2026-03-19T23:15:46.146Z",
   "posts": [
     {
       "id": "1101888",
       "name": "Stitch 2.0 by Google",
       "tagline": "Vibe design beautiful production-ready UI in seconds",
       "url": "https://www.producthunt.com/products/stitch-2-0-by-google-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 501,
+      "votesCount": 504,
       "commentsCount": 15,
       "createdAt": "2026-03-19T07:01:00Z",
       "thumbnail": {
@@ -37,7 +37,7 @@
       "name": "MiniMax-M2.7",
       "tagline": "Self-evolving AI model powering autonomous agents",
       "url": "https://www.producthunt.com/products/minimax-agent?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 294,
+      "votesCount": 295,
       "commentsCount": 11,
       "createdAt": "2026-03-19T07:01:00Z",
       "thumbnail": {
@@ -68,7 +68,7 @@
       "name": "InfrOS",
       "tagline": "Predict and validate cloud architectures before launch",
       "url": "https://www.producthunt.com/products/infros?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 229,
+      "votesCount": 230,
       "commentsCount": 29,
       "createdAt": "2026-03-19T07:01:00Z",
       "thumbnail": {
@@ -130,7 +130,7 @@
       "name": "Netlify.new",
       "tagline": "Start a project with just a prompt on Netlify",
       "url": "https://www.producthunt.com/products/netlify?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 211,
+      "votesCount": 213,
       "commentsCount": 20,
       "createdAt": "2026-03-19T07:01:00Z",
       "thumbnail": {
@@ -223,7 +223,7 @@
       "name": "PixelClaw",
       "tagline": "A tiny pixel crab that lives on your Dock",
       "url": "https://www.producthunt.com/products/pixelclaw?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 140,
+      "votesCount": 141,
       "commentsCount": 11,
       "createdAt": "2026-03-19T07:01:00Z",
       "thumbnail": {
@@ -275,6 +275,37 @@
           {
             "node": {
               "name": "Search"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1093458",
+      "name": "Lucent",
+      "tagline": "AI that watches your session replays and detects issues",
+      "url": "https://www.producthunt.com/products/lucent-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 115,
+      "commentsCount": 21,
+      "createdAt": "2026-03-19T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/6503bfa7-876a-4a50-92bb-1245715fc546.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "User Experience"
+            }
+          },
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
             }
           }
         ]
@@ -337,37 +368,6 @@
           {
             "node": {
               "name": "No-Code"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1093458",
-      "name": "Lucent",
-      "tagline": "AI that watches your session replays and detects issues",
-      "url": "https://www.producthunt.com/products/lucent-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 109,
-      "commentsCount": 21,
-      "createdAt": "2026-03-19T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/6503bfa7-876a-4a50-92bb-1245715fc546.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "User Experience"
-            }
-          },
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
             }
           }
         ]
