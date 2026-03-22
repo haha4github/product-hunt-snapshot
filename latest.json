@@ -1,12 +1,12 @@
 {
-  "fetchedAt": "2026-03-22T09:44:49.107Z",
+  "fetchedAt": "2026-03-22T10:01:50.746Z",
   "posts": [
     {
       "id": "1098287",
       "name": "Bench for Claude Code",
       "tagline": "Store, review, and share your Claude Code sessions",
       "url": "https://www.producthunt.com/products/bench-for-claude-code?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 105,
+      "votesCount": 115,
       "commentsCount": 14,
       "createdAt": "2026-03-22T07:01:00Z",
       "thumbnail": {
@@ -37,7 +37,7 @@
       "name": "Silicon Friendly",
       "tagline": "How Silicon Friendly is your website? (from L0 to L5)",
       "url": "https://www.producthunt.com/products/silicon-friendly?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 100,
+      "votesCount": 111,
       "commentsCount": 6,
       "createdAt": "2026-03-22T07:01:00Z",
       "thumbnail": {
@@ -73,7 +73,7 @@
       "name": "Context.dev",
       "tagline": "One API to scrape, enrich, and understand the web.",
       "url": "https://www.producthunt.com/products/context-dev?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 98,
+      "votesCount": 106,
       "commentsCount": 3,
       "createdAt": "2026-03-22T07:01:00Z",
       "thumbnail": {
@@ -104,7 +104,7 @@
       "name": "Claude Code Scheduled Tasks ",
       "tagline": "Schedule recurring tasks locally and in the cloud easily",
       "url": "https://www.producthunt.com/products/claude-code-scheduled-tasks?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 97,
+      "votesCount": 102,
       "commentsCount": 4,
       "createdAt": "2026-03-22T07:01:00Z",
       "thumbnail": {
@@ -135,7 +135,7 @@
       "name": "Edgee Claude Code Compression",
       "tagline": "Extend Claude Pro's limit by 26.2%",
       "url": "https://www.producthunt.com/products/edgee?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 91,
+      "votesCount": 94,
       "commentsCount": 3,
       "createdAt": "2026-03-22T07:01:00Z",
       "thumbnail": {
@@ -161,7 +161,7 @@
       "name": "Embedful ",
       "tagline": "Easy data visualizations. Embed and share anywhere.",
       "url": "https://www.producthunt.com/products/embedful?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 82,
+      "votesCount": 87,
       "commentsCount": 3,
       "createdAt": "2026-03-22T07:01:00Z",
       "thumbnail": {
@@ -192,7 +192,7 @@
       "name": "ClearWork App",
       "tagline": "Clear Vision. Clear Work. AI Powered Project Management.",
       "url": "https://www.producthunt.com/products/clearwork-app?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 13,
+      "votesCount": 15,
       "commentsCount": 1,
       "createdAt": "2026-03-22T07:01:00Z",
       "thumbnail": {
@@ -286,6 +286,37 @@
       }
     },
     {
+      "id": "1104158",
+      "name": "Montty Finance",
+      "tagline": "Make CFO-level decisions in seconds",
+      "url": "https://www.producthunt.com/products/montty-finance?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 7,
+      "commentsCount": 1,
+      "createdAt": "2026-03-22T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/aa1baf00-3fd3-4b97-86db-60cb5011da89.svg?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Fintech"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "Finance"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1103790",
       "name": "Nirixa AI",
       "tagline": "AI observability & cost intelligence for LLM apps",
@@ -311,37 +342,6 @@
           {
             "node": {
               "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1104158",
-      "name": "Montty Finance",
-      "tagline": "Make CFO-level decisions in seconds",
-      "url": "https://www.producthunt.com/products/montty-finance?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 6,
-      "commentsCount": 1,
-      "createdAt": "2026-03-22T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/aa1baf00-3fd3-4b97-86db-60cb5011da89.svg?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Fintech"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          },
-          {
-            "node": {
-              "name": "Finance"
             }
           }
         ]
@@ -570,6 +570,37 @@
       }
     },
     {
+      "id": "1103968",
+      "name": "SeoAI 2.0 ",
+      "tagline": "Business-aware content generation starting with your domain",
+      "url": "https://www.producthunt.com/products/seoai-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 2,
+      "commentsCount": 1,
+      "createdAt": "2026-03-22T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/b51c4a2c-14f1-4101-9575-8d4c7c56fbb0.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Marketing"
+            }
+          },
+          {
+            "node": {
+              "name": "SEO"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1095649",
       "name": "MindTame",
       "tagline": "Interactive AI tool. Swipe your thoughts out of your mind. ",
@@ -595,37 +626,6 @@
           {
             "node": {
               "name": "Health"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1103932",
-      "name": "nɛb.raɪ.ə ",
-      "tagline": "Point. Discover. Feel. Remember.",
-      "url": "https://www.producthunt.com/products/n-b-ra?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 2,
-      "commentsCount": 1,
-      "createdAt": "2026-03-22T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/9922253d-6c02-40e6-a943-0c50dbfd34a1.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "iOS"
-            }
-          },
-          {
-            "node": {
-              "name": "Education"
-            }
-          },
-          {
-            "node": {
-              "name": "Photography"
             }
           }
         ]
