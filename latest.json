@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-03-23T09:46:54.750Z",
+  "fetchedAt": "2026-03-23T10:39:10.058Z",
   "posts": [
     {
       "id": "1096052",
       "name": "Zoer.ai",
       "tagline": "Build full-stack webapps from the database up",
       "url": "https://www.producthunt.com/products/zoer-ai-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 182,
-      "commentsCount": 26,
+      "votesCount": 195,
+      "commentsCount": 27,
       "createdAt": "2026-03-23T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/e1fb32d0-4bd4-41cd-a509-33f711c4b89e.png?auto=format"
@@ -37,8 +37,8 @@
       "name": "Tobira.ai",
       "tagline": "A network where AI agents find deals for their humans",
       "url": "https://www.producthunt.com/products/tobira-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 162,
-      "commentsCount": 25,
+      "votesCount": 174,
+      "commentsCount": 30,
       "createdAt": "2026-03-23T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/c25c764d-4b7e-4964-bc05-1d2773a416c8.png?auto=format"
@@ -64,43 +64,12 @@
       }
     },
     {
-      "id": "1076272",
-      "name": "Honestly",
-      "tagline": "Real reviews from Reddit & YouTube when shopping online",
-      "url": "https://www.producthunt.com/products/honestly?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 117,
-      "commentsCount": 4,
-      "createdAt": "2026-03-23T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/ec98bbf6-2d52-4b63-8f0c-33204981433b.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Browser Extensions"
-            }
-          },
-          {
-            "node": {
-              "name": "Chrome Extensions"
-            }
-          },
-          {
-            "node": {
-              "name": "E-Commerce"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1104830",
       "name": "Fastlane",
       "tagline": "Remix viral videos into content for your business",
       "url": "https://www.producthunt.com/products/fastlane-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 113,
-      "commentsCount": 11,
+      "votesCount": 129,
+      "commentsCount": 17,
       "createdAt": "2026-03-23T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/f1b457d4-2a3c-4fed-8a5f-bdcfc9c87b16.png?auto=format"
@@ -126,18 +95,23 @@
       }
     },
     {
-      "id": "1090890",
-      "name": "Pause.do",
-      "tagline": "Interrupt scrolling, tab overload, and AI autopilot",
-      "url": "https://www.producthunt.com/products/pause-do-don-t-outsource-your-thinking?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 92,
-      "commentsCount": 2,
+      "id": "1076272",
+      "name": "Honestly",
+      "tagline": "Real reviews from Reddit & YouTube when shopping online",
+      "url": "https://www.producthunt.com/products/honestly?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 124,
+      "commentsCount": 5,
       "createdAt": "2026-03-23T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/b3d2b567-1cc6-4e5f-b642-e8b6f673ce3b.vnd.microsoft.icon?auto=format"
+        "url": "https://ph-files.imgix.net/ec98bbf6-2d52-4b63-8f0c-33204981433b.png?auto=format"
       },
       "topics": {
         "edges": [
+          {
+            "node": {
+              "name": "Browser Extensions"
+            }
+          },
           {
             "node": {
               "name": "Chrome Extensions"
@@ -145,43 +119,7 @@
           },
           {
             "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1104801",
-      "name": "Iris",
-      "tagline": "Send work beautifully, pinned feedback, see what they viewed",
-      "url": "https://www.producthunt.com/products/iris-e28eb72c-ccff-4a5a-a7e8-6cf066ee9d41?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 91,
-      "commentsCount": 3,
-      "createdAt": "2026-03-23T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/6d095dd5-4c73-4723-b346-22d03914a119.gif?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Design Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Freelance"
+              "name": "E-Commerce"
             }
           }
         ]
@@ -192,8 +130,8 @@
       "name": "Claude Usage Tracker",
       "tagline": "See exactly how much you spend on Claude, across every tool",
       "url": "https://www.producthunt.com/products/claude-usage-tracker?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 90,
-      "commentsCount": 3,
+      "votesCount": 99,
+      "commentsCount": 6,
       "createdAt": "2026-03-23T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/f818e0b3-b6c5-4cbc-a865-ecc68b43aa8a.png?auto=format"
@@ -219,12 +157,74 @@
       }
     },
     {
+      "id": "1104801",
+      "name": "Iris",
+      "tagline": "Send work beautifully, pinned feedback, see what they viewed",
+      "url": "https://www.producthunt.com/products/iris-e28eb72c-ccff-4a5a-a7e8-6cf066ee9d41?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 96,
+      "commentsCount": 4,
+      "createdAt": "2026-03-23T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/6d095dd5-4c73-4723-b346-22d03914a119.gif?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Design Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Freelance"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1090890",
+      "name": "Pause.do",
+      "tagline": "Interrupt scrolling, tab overload, and AI autopilot",
+      "url": "https://www.producthunt.com/products/pause-do-don-t-outsource-your-thinking?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 95,
+      "commentsCount": 3,
+      "createdAt": "2026-03-23T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/b3d2b567-1cc6-4e5f-b642-e8b6f673ce3b.vnd.microsoft.icon?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Chrome Extensions"
+            }
+          },
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1088510",
       "name": "Nomie",
       "tagline": "AI wellness app that turns doomscrolling into self‑care",
       "url": "https://www.producthunt.com/products/nomie?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 88,
-      "commentsCount": 1,
+      "votesCount": 93,
+      "commentsCount": 2,
       "createdAt": "2026-03-23T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/493c2007-b93d-4326-bdd0-a375a75af3d0.webp?auto=format"
@@ -254,8 +254,8 @@
       "name": "AlphaClaw Apex",
       "tagline": "OpenClaw harness and fleet manager for Mac",
       "url": "https://www.producthunt.com/products/alphaclaw-apex?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 84,
-      "commentsCount": 1,
+      "votesCount": 86,
+      "commentsCount": 2,
       "createdAt": "2026-03-23T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/ba933fe2-c961-4c84-b947-55381cf51df9.svg?auto=format"
@@ -290,8 +290,8 @@
       "name": "WeixinClawBot",
       "tagline": "The official WeChat pipeline for OpenClaw",
       "url": "https://www.producthunt.com/products/weixinclawbot?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 81,
-      "commentsCount": 2,
+      "votesCount": 86,
+      "commentsCount": 3,
       "createdAt": "2026-03-23T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/ad2b21a9-9142-49c3-8f69-113ea213cf0b.png?auto=format"
@@ -316,7 +316,7 @@
       "name": "DataSieve 2.0",
       "tagline": "Extract structured data from text, files and archives.",
       "url": "https://www.producthunt.com/products/textmine-extract-data-from-text?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 76,
+      "votesCount": 80,
       "commentsCount": 1,
       "createdAt": "2026-03-23T07:01:00Z",
       "thumbnail": {
@@ -347,8 +347,8 @@
       "name": "Wisewand",
       "tagline": "SEO / GEO full automated to produce quality autonomously ",
       "url": "https://www.producthunt.com/products/wisewand-stop-publishing-start-ranking?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 54,
-      "commentsCount": 13,
+      "votesCount": 57,
+      "commentsCount": 27,
       "createdAt": "2026-03-23T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/f8ba92bb-02cd-4fa6-83d4-1d0130479c4b.png?auto=format"
@@ -373,7 +373,7 @@
       "name": "Claude Code Channels",
       "tagline": "Message Claude Code directly from your phone",
       "url": "https://www.producthunt.com/products/claude-code-channels-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 11,
+      "votesCount": 13,
       "commentsCount": 0,
       "createdAt": "2026-03-23T07:01:00Z",
       "thumbnail": {
@@ -409,7 +409,7 @@
       "name": "KIT.domains",
       "tagline": "Domain infrastructure monitoring across all registrars",
       "url": "https://www.producthunt.com/products/kit-domains?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 9,
+      "votesCount": 12,
       "commentsCount": 1,
       "createdAt": "2026-03-23T07:01:00Z",
       "thumbnail": {
@@ -431,42 +431,11 @@
       }
     },
     {
-      "id": "1092230",
-      "name": "OceanMind",
-      "tagline": "AI that learns exactly how to calm you down",
-      "url": "https://www.producthunt.com/products/oceanmind?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 8,
-      "commentsCount": 1,
-      "createdAt": "2026-03-23T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/f0f46bef-b050-4933-a1a9-4cd56cfd7fc1.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Health & Fitness"
-            }
-          },
-          {
-            "node": {
-              "name": "Meditation"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1090181",
       "name": "LightKeeper",
       "tagline": "See how fast your site loads for customers in 65+ regions",
       "url": "https://www.producthunt.com/products/lightkeeper?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 6,
+      "votesCount": 11,
       "commentsCount": 1,
       "createdAt": "2026-03-23T07:01:00Z",
       "thumbnail": {
@@ -487,6 +456,37 @@
           {
             "node": {
               "name": "Developer Tools"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1092230",
+      "name": "OceanMind",
+      "tagline": "AI that learns exactly how to calm you down",
+      "url": "https://www.producthunt.com/products/oceanmind?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 9,
+      "commentsCount": 1,
+      "createdAt": "2026-03-23T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/f0f46bef-b050-4933-a1a9-4cd56cfd7fc1.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Health & Fitness"
+            }
+          },
+          {
+            "node": {
+              "name": "Meditation"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
             }
           }
         ]
@@ -524,32 +524,6 @@
       }
     },
     {
-      "id": "1104629",
-      "name": "Stats For Hats",
-      "tagline": "Food ingredients that work together, based on real data",
-      "url": "https://www.producthunt.com/products/stats-for-hats?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 4,
-      "commentsCount": 1,
-      "createdAt": "2026-03-23T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/e9bd127c-9e2c-4529-b110-708010580cb7.svg?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Analytics"
-            }
-          },
-          {
-            "node": {
-              "name": "Cooking"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1096627",
       "name": "Personalized Job Search",
       "tagline": "Your AI job agent that delivers dream roles daily",
@@ -576,26 +550,62 @@
       }
     },
     {
-      "id": "1103209",
-      "name": "A&R",
-      "tagline": "Music fantasy league app",
-      "url": "https://www.producthunt.com/products/a-r?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "id": "1104581",
+      "name": "Bula Buddy",
+      "tagline": "The ultimate kava companion.",
+      "url": "https://www.producthunt.com/products/bula-buddy?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 4,
       "commentsCount": 1,
       "createdAt": "2026-03-23T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/cc6dc011-e949-4316-8253-238d268b6eb3.png?auto=format"
+        "url": "https://ph-files.imgix.net/c1cc819d-a79b-4a5c-8e67-5907a4017668.png?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "Music"
+              "name": "Food & Drink"
             }
           },
           {
             "node": {
-              "name": "Spotify"
+              "name": "Social Networking"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1104798",
+      "name": "Crux",
+      "tagline": "AI-native dev environment orchestrator",
+      "url": "https://www.producthunt.com/products/crux-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 4,
+      "commentsCount": 1,
+      "createdAt": "2026-03-23T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/36f4bb28-82e2-4d59-b4b9-c9f2e2a19c58.svg?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "GitHub"
+            }
+          },
+          {
+            "node": {
+              "name": "Tech"
+            }
+          },
+          {
+            "node": {
+              "name": "Development"
             }
           }
         ]
