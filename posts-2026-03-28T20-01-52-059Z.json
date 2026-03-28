@@ -1,12 +1,12 @@
 {
-  "fetchedAt": "2026-03-28T19:44:12.967Z",
+  "fetchedAt": "2026-03-28T20:01:52.059Z",
   "posts": [
     {
       "id": "1109422",
       "name": "SlapMac",
       "tagline": "Slap your MacBook. It screams back. That's it.",
       "url": "https://www.producthunt.com/products/slapmac?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 289,
+      "votesCount": 292,
       "commentsCount": 37,
       "createdAt": "2026-03-28T07:01:00Z",
       "thumbnail": {
@@ -37,7 +37,7 @@
       "name": "Crossnode",
       "tagline": "Vibe code AI agents and put them behind a payment wall",
       "url": "https://www.producthunt.com/products/crossnode?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 254,
+      "votesCount": 256,
       "commentsCount": 48,
       "createdAt": "2026-03-28T07:01:00Z",
       "thumbnail": {
@@ -68,7 +68,7 @@
       "name": "Aera Browser",
       "tagline": "The browser built for automation",
       "url": "https://www.producthunt.com/products/aera-browser?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 181,
+      "votesCount": 182,
       "commentsCount": 10,
       "createdAt": "2026-03-28T07:01:00Z",
       "thumbnail": {
@@ -79,6 +79,37 @@
           {
             "node": {
               "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1105969",
+      "name": "CrabTalk",
+      "tagline": "The agent daemon that hides nothing. 8MB. Open Source",
+      "url": "https://www.producthunt.com/products/crabtalk?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 157,
+      "commentsCount": 8,
+      "createdAt": "2026-03-28T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/59f7ff13-ec4f-4a8f-8aa4-3a0602aa95ff.webp?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "GitHub"
             }
           }
         ]
@@ -105,37 +136,6 @@
           {
             "node": {
               "name": "Email"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1105969",
-      "name": "CrabTalk",
-      "tagline": "The agent daemon that hides nothing. 8MB. Open Source",
-      "url": "https://www.producthunt.com/products/crabtalk?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 156,
-      "commentsCount": 8,
-      "createdAt": "2026-03-28T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/59f7ff13-ec4f-4a8f-8aa4-3a0602aa95ff.webp?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          },
-          {
-            "node": {
-              "name": "GitHub"
             }
           }
         ]
@@ -173,32 +173,11 @@
       }
     },
     {
-      "id": "1109387",
-      "name": "WordPress Studio CLI",
-      "tagline": "WordPress Studio now has an independently installable CLI",
-      "url": "https://www.producthunt.com/products/wordpress-studio-cli?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 97,
-      "commentsCount": 2,
-      "createdAt": "2026-03-28T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/6eff3f1e-2dd3-4aeb-8143-1bd7a541ac54.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "WordPress"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1109276",
       "name": "RepoLens",
       "tagline": "Know what changed and what matters across your codebase",
       "url": "https://www.producthunt.com/products/repolens?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 97,
+      "votesCount": 99,
       "commentsCount": 6,
       "createdAt": "2026-03-28T07:01:00Z",
       "thumbnail": {
@@ -224,6 +203,27 @@
           {
             "node": {
               "name": "GitHub"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1109387",
+      "name": "WordPress Studio CLI",
+      "tagline": "WordPress Studio now has an independently installable CLI",
+      "url": "https://www.producthunt.com/products/wordpress-studio-cli?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 97,
+      "commentsCount": 2,
+      "createdAt": "2026-03-28T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/6eff3f1e-2dd3-4aeb-8143-1bd7a541ac54.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "WordPress"
             }
           }
         ]
@@ -270,8 +270,8 @@
       "name": "Expect",
       "tagline": "Let agents test your code in a real browser",
       "url": "https://www.producthunt.com/products/expect?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 92,
-      "commentsCount": 1,
+      "votesCount": 93,
+      "commentsCount": 2,
       "createdAt": "2026-03-28T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/ee7bafeb-a561-4dde-8a73-6403889d6fd1.png?auto=format"
@@ -528,7 +528,7 @@
       "name": "Santana by Deep Softworks",
       "tagline": "Performant, real-time data visualization in your terminal",
       "url": "https://www.producthunt.com/products/santana?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 70,
+      "votesCount": 71,
       "commentsCount": 1,
       "createdAt": "2026-03-28T07:01:00Z",
       "thumbnail": {
@@ -590,8 +590,8 @@
       "name": "Hacker News Times",
       "tagline": "HN stories + comments side by side in a beautiful newspaper ",
       "url": "https://www.producthunt.com/products/hacker-news-times?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 10,
-      "commentsCount": 6,
+      "votesCount": 11,
+      "commentsCount": 7,
       "createdAt": "2026-03-28T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/987405d7-58c6-42d6-830e-06d0d35d3fd4.png?auto=format"
