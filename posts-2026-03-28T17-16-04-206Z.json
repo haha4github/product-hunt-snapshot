@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-03-28T16:41:01.614Z",
+  "fetchedAt": "2026-03-28T17:16:04.206Z",
   "posts": [
     {
       "id": "1109422",
       "name": "SlapMac",
       "tagline": "Slap your MacBook. It screams back. That's it.",
       "url": "https://www.producthunt.com/products/slapmac?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 250,
-      "commentsCount": 24,
+      "votesCount": 258,
+      "commentsCount": 34,
       "createdAt": "2026-03-28T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/745088e2-e1e9-492f-ad3b-004464c77fd9.gif?auto=format"
@@ -37,8 +37,8 @@
       "name": "Crossnode",
       "tagline": "Vibe code AI agents and put them behind a payment wall",
       "url": "https://www.producthunt.com/products/crossnode?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 222,
-      "commentsCount": 44,
+      "votesCount": 229,
+      "commentsCount": 45,
       "createdAt": "2026-03-28T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/00a9c834-6d4f-4500-a72b-d6ce5bb2a538.jpeg?auto=format"
@@ -68,7 +68,7 @@
       "name": "Aera Browser",
       "tagline": "The browser built for automation",
       "url": "https://www.producthunt.com/products/aera-browser?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 156,
+      "votesCount": 161,
       "commentsCount": 9,
       "createdAt": "2026-03-28T07:01:00Z",
       "thumbnail": {
@@ -89,7 +89,7 @@
       "name": "CrabTalk",
       "tagline": "The agent daemon that hides nothing. 8MB. Open Source",
       "url": "https://www.producthunt.com/products/crabtalk?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 136,
+      "votesCount": 144,
       "commentsCount": 8,
       "createdAt": "2026-03-28T07:01:00Z",
       "thumbnail": {
@@ -120,11 +120,11 @@
       "name": "Apparent for Gmail",
       "tagline": "Make Gmail easier to read and manage.",
       "url": "https://www.producthunt.com/products/apparent-for-gmail?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 135,
+      "votesCount": 140,
       "commentsCount": 9,
       "createdAt": "2026-03-28T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/6c7bebfa-677b-4c47-9037-7acd7042b9a2.png?auto=format"
+        "url": "https://ph-files.imgix.net/c099c518-a65e-4484-8fe2-73a696d18e5f.png?auto=format"
       },
       "topics": {
         "edges": [
@@ -146,7 +146,7 @@
       "name": "Cohere Transcribe",
       "tagline": "New state-of-the-art in open source speech recognition",
       "url": "https://www.producthunt.com/products/cohere-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 106,
+      "votesCount": 108,
       "commentsCount": 3,
       "createdAt": "2026-03-28T07:01:00Z",
       "thumbnail": {
@@ -167,6 +167,27 @@
           {
             "node": {
               "name": "Audio"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1109387",
+      "name": "WordPress Studio CLI",
+      "tagline": "WordPress Studio now has an independently installable CLI",
+      "url": "https://www.producthunt.com/products/wordpress-studio-cli?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 93,
+      "commentsCount": 2,
+      "createdAt": "2026-03-28T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/6eff3f1e-2dd3-4aeb-8143-1bd7a541ac54.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "WordPress"
             }
           }
         ]
@@ -209,33 +230,12 @@
       }
     },
     {
-      "id": "1109387",
-      "name": "WordPress Studio CLI",
-      "tagline": "WordPress Studio now has an independently installable CLI",
-      "url": "https://www.producthunt.com/products/wordpress-studio-cli?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 87,
-      "commentsCount": 2,
-      "createdAt": "2026-03-28T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/6eff3f1e-2dd3-4aeb-8143-1bd7a541ac54.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "WordPress"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1109276",
       "name": "RepoLens",
       "tagline": "Know what changed and what matters across your codebase",
       "url": "https://www.producthunt.com/products/repolens?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 87,
-      "commentsCount": 3,
+      "votesCount": 88,
+      "commentsCount": 4,
       "createdAt": "2026-03-28T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/b3eab9c2-8031-4434-974a-3dcf9a86dd55.png?auto=format"
@@ -364,6 +364,37 @@
       }
     },
     {
+      "id": "1101732",
+      "name": "Able",
+      "tagline": "One-click WCAG & ADA accessibility audits for any webpage",
+      "url": "https://www.producthunt.com/products/able-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 76,
+      "commentsCount": 2,
+      "createdAt": "2026-03-28T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/20b3ce08-6253-454f-b023-222c49230eba.jpeg?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Chrome Extensions"
+            }
+          },
+          {
+            "node": {
+              "name": "Design Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1109439",
       "name": "Glance ",
       "tagline": "Real browser for Claude Code Test, Screenshot, Automate     ",
@@ -400,42 +431,11 @@
       }
     },
     {
-      "id": "1101732",
-      "name": "Able",
-      "tagline": "One-click WCAG & ADA accessibility audits for any webpage",
-      "url": "https://www.producthunt.com/products/able-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 75,
-      "commentsCount": 2,
-      "createdAt": "2026-03-28T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/20b3ce08-6253-454f-b023-222c49230eba.jpeg?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Chrome Extensions"
-            }
-          },
-          {
-            "node": {
-              "name": "Design Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1107733",
       "name": "Spokk",
       "tagline": "Feedback, reviews, loyalty & referrals for SMB",
       "url": "https://www.producthunt.com/products/spokk?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 75,
+      "votesCount": 76,
       "commentsCount": 3,
       "createdAt": "2026-03-28T07:01:00Z",
       "thumbnail": {
@@ -497,7 +497,7 @@
       "name": "DwellRecord",
       "tagline": "Keep your home records all together",
       "url": "https://www.producthunt.com/products/dwellrecord?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 71,
+      "votesCount": 72,
       "commentsCount": 5,
       "createdAt": "2026-03-28T07:01:00Z",
       "thumbnail": {
@@ -528,7 +528,7 @@
       "name": "Santana by Deep Softworks",
       "tagline": "Performant, real-time data visualization in your terminal",
       "url": "https://www.producthunt.com/products/santana?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 68,
+      "votesCount": 69,
       "commentsCount": 1,
       "createdAt": "2026-03-28T07:01:00Z",
       "thumbnail": {
