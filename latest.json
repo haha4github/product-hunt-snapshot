@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-03-31T13:59:16.662Z",
+  "fetchedAt": "2026-03-31T15:16:29.430Z",
   "posts": [
     {
       "id": "1094487",
       "name": "Jupid",
       "tagline": "File your taxes with Claude Code",
       "url": "https://www.producthunt.com/products/jupid?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 300,
-      "commentsCount": 72,
+      "votesCount": 340,
+      "commentsCount": 78,
       "createdAt": "2026-03-31T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/92d18165-2a76-43da-aa4b-6cc32f7db73c.png?auto=format"
@@ -28,12 +28,38 @@
       }
     },
     {
+      "id": "1111978",
+      "name": "Computer Use in Claude Code",
+      "tagline": "Let Claude use your computer from the CLI",
+      "url": "https://www.producthunt.com/products/claude?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 205,
+      "commentsCount": 2,
+      "createdAt": "2026-03-31T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/0ecf8d00-b87b-4fdb-a497-5c98fcaa4064.avif?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "Computers"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1100133",
       "name": "Pixero AI ",
       "tagline": "OpenClaw for AI Ads",
       "url": "https://www.producthunt.com/products/pixero-ai-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 178,
-      "commentsCount": 25,
+      "votesCount": 197,
+      "commentsCount": 27,
       "createdAt": "2026-03-31T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/b3339f8f-6bbd-479c-a4b4-008a958a7ff4.png?auto=format"
@@ -59,37 +85,11 @@
       }
     },
     {
-      "id": "1111978",
-      "name": "Computer Use in Claude Code",
-      "tagline": "Let Claude use your computer from the CLI",
-      "url": "https://www.producthunt.com/products/claude?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 166,
-      "commentsCount": 2,
-      "createdAt": "2026-03-31T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/0ecf8d00-b87b-4fdb-a497-5c98fcaa4064.avif?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          },
-          {
-            "node": {
-              "name": "Computers"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1102782",
       "name": "Solvea ",
       "tagline": "Create your AI receptionist that answers, books, and sells",
       "url": "https://www.producthunt.com/products/solvea?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 140,
+      "votesCount": 152,
       "commentsCount": 3,
       "createdAt": "2026-03-31T07:01:00Z",
       "thumbnail": {
@@ -120,7 +120,7 @@
       "name": "Perplexity API Platform",
       "tagline": "Power your products with web-wide research, Q&A capabilities",
       "url": "https://www.producthunt.com/products/perplexity-api-platform?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 138,
+      "votesCount": 147,
       "commentsCount": 2,
       "createdAt": "2026-03-31T07:01:00Z",
       "thumbnail": {
@@ -147,42 +147,11 @@
       }
     },
     {
-      "id": "1109542",
-      "name": "Stamp",
-      "tagline": "The AI Secretary that thinks, writes, and works like you",
-      "url": "https://www.producthunt.com/products/stamp-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 109,
-      "commentsCount": 5,
-      "createdAt": "2026-03-31T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/1d28cc1f-149c-4a5b-8f6e-64ed6935baed.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Email"
-            }
-          },
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Calendar"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1108283",
       "name": "Viktor for Media Buyers",
       "tagline": "Manages your Meta and Google Ads from Slack",
       "url": "https://www.producthunt.com/products/viktor?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 105,
+      "votesCount": 138,
       "commentsCount": 16,
       "createdAt": "2026-03-31T07:01:00Z",
       "thumbnail": {
@@ -209,11 +178,73 @@
       }
     },
     {
+      "id": "1109542",
+      "name": "Stamp",
+      "tagline": "The AI Secretary that thinks, writes, and works like you",
+      "url": "https://www.producthunt.com/products/stamp-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 118,
+      "commentsCount": 5,
+      "createdAt": "2026-03-31T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/1d28cc1f-149c-4a5b-8f6e-64ed6935baed.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Email"
+            }
+          },
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Calendar"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1106586",
+      "name": "Metabase Data Studio",
+      "tagline": "Build the semantic layer that makes AI analytics trustworthy",
+      "url": "https://www.producthunt.com/products/metabase?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 107,
+      "commentsCount": 10,
+      "createdAt": "2026-03-31T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/c60d7b16-7255-44bc-b3d1-225c2cd6cfeb.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Open Source"
+            }
+          },
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Data & Analytics"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1109695",
       "name": "Google Ads MCP Server",
       "tagline": "Run Google Ads from your choice of AI. Skip the UI maze",
       "url": "https://www.producthunt.com/products/google-ads-mcp-server?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 103,
+      "votesCount": 105,
       "commentsCount": 3,
       "createdAt": "2026-03-31T07:01:00Z",
       "thumbnail": {
@@ -240,31 +271,62 @@
       }
     },
     {
-      "id": "1106586",
-      "name": "Metabase Data Studio",
-      "tagline": "Build the semantic layer that makes AI analytics trustworthy",
-      "url": "https://www.producthunt.com/products/metabase?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "id": "1107229",
+      "name": "Unify",
+      "tagline": "Hire AI colleagues you onboard just like real people ",
+      "url": "https://www.producthunt.com/products/unify-5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 103,
-      "commentsCount": 6,
+      "commentsCount": 8,
       "createdAt": "2026-03-31T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/c60d7b16-7255-44bc-b3d1-225c2cd6cfeb.png?auto=format"
+        "url": "https://ph-files.imgix.net/66fc2b5b-a2eb-4bc9-9aca-50ec27f843c5.png?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "Open Source"
+              "name": "Productivity"
             }
           },
           {
             "node": {
-              "name": "Developer Tools"
+              "name": "Artificial Intelligence"
             }
           },
           {
             "node": {
-              "name": "Data & Analytics"
+              "name": "Virtual Assistants"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1108968",
+      "name": "IndieEvent",
+      "tagline": "Meet Indie makers in your city",
+      "url": "https://www.producthunt.com/products/indieevent?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 100,
+      "commentsCount": 8,
+      "createdAt": "2026-03-31T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/3617cf06-ef8a-4f91-8de3-378ea8297f8d.vnd.microsoft.icon?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Global Nomad"
+            }
+          },
+          {
+            "node": {
+              "name": "Meetings"
+            }
+          },
+          {
+            "node": {
+              "name": "Community"
             }
           }
         ]
@@ -275,8 +337,8 @@
       "name": "UNCHIKUN",
       "tagline": "Track your poops with friends",
       "url": "https://www.producthunt.com/products/unchikun-poop-tracker?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 98,
-      "commentsCount": 17,
+      "votesCount": 100,
+      "commentsCount": 18,
       "createdAt": "2026-03-31T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/0777c98c-f2fa-4e15-85d6-8da7fde4cb25.png?auto=format"
@@ -307,52 +369,21 @@
       }
     },
     {
-      "id": "1108968",
-      "name": "IndieEvent",
-      "tagline": "Meet Indie makers in your city",
-      "url": "https://www.producthunt.com/products/indieevent?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "id": "1111483",
+      "name": "Qwen3.5-Omni",
+      "tagline": "A native omni model for voice, video, and tools",
+      "url": "https://www.producthunt.com/products/qwen3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 98,
-      "commentsCount": 7,
+      "commentsCount": 1,
       "createdAt": "2026-03-31T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/3617cf06-ef8a-4f91-8de3-378ea8297f8d.vnd.microsoft.icon?auto=format"
+        "url": "https://ph-files.imgix.net/e0810112-e937-4ac5-b0ae-914e50761b75.png?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "Global Nomad"
-            }
-          },
-          {
-            "node": {
-              "name": "Meetings"
-            }
-          },
-          {
-            "node": {
-              "name": "Community"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1107229",
-      "name": "Unify",
-      "tagline": "Hire AI colleagues you onboard just like real people ",
-      "url": "https://www.producthunt.com/products/unify-5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 97,
-      "commentsCount": 7,
-      "createdAt": "2026-03-31T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/66fc2b5b-a2eb-4bc9-9aca-50ec27f843c5.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Productivity"
+              "name": "API"
             }
           },
           {
@@ -362,7 +393,7 @@
           },
           {
             "node": {
-              "name": "Virtual Assistants"
+              "name": "Development"
             }
           }
         ]
@@ -400,42 +431,11 @@
       }
     },
     {
-      "id": "1111483",
-      "name": "Qwen3.5-Omni",
-      "tagline": "A native omni model for voice, video, and tools",
-      "url": "https://www.producthunt.com/products/qwen3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 93,
-      "commentsCount": 1,
-      "createdAt": "2026-03-31T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/e0810112-e937-4ac5-b0ae-914e50761b75.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "API"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          },
-          {
-            "node": {
-              "name": "Development"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1111613",
       "name": "FireAPI",
       "tagline": "Discover, consume, and monetize APIs in one place",
       "url": "https://www.producthunt.com/products/fireapi?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 87,
+      "votesCount": 89,
       "commentsCount": 4,
       "createdAt": "2026-03-31T07:01:00Z",
       "thumbnail": {
@@ -462,37 +462,6 @@
       }
     },
     {
-      "id": "1107806",
-      "name": "Geer",
-      "tagline": "Your bike's check engine light powered by Strava",
-      "url": "https://www.producthunt.com/products/geer?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 85,
-      "commentsCount": 4,
-      "createdAt": "2026-03-31T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/6ca17004-4e6a-416b-9f68-112a23c1c092.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Health & Fitness"
-            }
-          },
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Biking"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1111619",
       "name": "Autoclaw",
       "tagline": "One-click Openclaw set up by Z.AI",
@@ -513,6 +482,37 @@
           {
             "node": {
               "name": "Maker Tools"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1107806",
+      "name": "Geer",
+      "tagline": "Your bike's check engine light powered by Strava",
+      "url": "https://www.producthunt.com/products/geer?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 86,
+      "commentsCount": 5,
+      "createdAt": "2026-03-31T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/6ca17004-4e6a-416b-9f68-112a23c1c092.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Health & Fitness"
+            }
+          },
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Biking"
             }
           }
         ]
