@@ -1,13 +1,44 @@
 {
-  "fetchedAt": "2026-04-02T22:54:07.916Z",
+  "fetchedAt": "2026-04-02T23:38:15.530Z",
   "posts": [
+    {
+      "id": "1088811",
+      "name": "Claude Code Voice Mode",
+      "tagline": "Speak your prompts into Claude Code",
+      "url": "https://www.producthunt.com/products/claude-code-voice-mode?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 268,
+      "commentsCount": 7,
+      "createdAt": "2026-04-02T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/82d3939d-1e6c-4c50-88b4-ed13445ef43f.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
     {
       "id": "1093439",
       "name": "Lightning V3",
       "tagline": "Text-to-Speech built for Voice Agents",
       "url": "https://www.producthunt.com/products/smallest-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 261,
-      "commentsCount": 11,
+      "votesCount": 264,
+      "commentsCount": 12,
       "createdAt": "2026-04-02T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/8dc58f83-3fc1-44eb-8cd0-cb29e27ef589.png?auto=format"
@@ -37,42 +68,11 @@
       "name": "Denovo",
       "tagline": "Build and run your business while you sleep.",
       "url": "https://www.producthunt.com/products/denovo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 259,
-      "commentsCount": 75,
+      "votesCount": 262,
+      "commentsCount": 76,
       "createdAt": "2026-04-02T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/e168654c-194c-4520-a6be-538ae458a7f0.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1088811",
-      "name": "Claude Code Voice Mode",
-      "tagline": "Speak your prompts into Claude Code",
-      "url": "https://www.producthunt.com/products/claude-code-voice-mode?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 256,
-      "commentsCount": 7,
-      "createdAt": "2026-04-02T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/82d3939d-1e6c-4c50-88b4-ed13445ef43f.png?auto=format"
       },
       "topics": {
         "edges": [
@@ -99,7 +99,7 @@
       "name": "GLM-5V-Turbo",
       "tagline": "Vision-to-code foundation model for real GUI automation",
       "url": "https://www.producthunt.com/products/z-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 164,
+      "votesCount": 173,
       "commentsCount": 4,
       "createdAt": "2026-04-02T07:01:00Z",
       "thumbnail": {
@@ -130,8 +130,8 @@
       "name": "Cosyra",
       "tagline": "Run AI coding agents from your phone",
       "url": "https://www.producthunt.com/products/cosyra?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 139,
-      "commentsCount": 24,
+      "votesCount": 143,
+      "commentsCount": 27,
       "createdAt": "2026-04-02T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/13d92632-dd18-441a-9407-8308e9387ecc.png?auto=format"
@@ -223,8 +223,8 @@
       "name": "tama96",
       "tagline": "A Tamagotchi for your desktop, terminal, and AI agents",
       "url": "https://www.producthunt.com/products/tama96-desktop-terminal-ai-pet?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 120,
-      "commentsCount": 11,
+      "votesCount": 122,
+      "commentsCount": 12,
       "createdAt": "2026-04-02T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/3d4a35bd-f1f5-4d0b-b62e-cbe7ef8233d3.png?auto=format"
@@ -290,7 +290,7 @@
       "name": "Mac Pet",
       "tagline": "A pixel pet for your menu bar or MacBook notch w/ Pomodoro ",
       "url": "https://www.producthunt.com/products/mac-pet?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 109,
+      "votesCount": 110,
       "commentsCount": 9,
       "createdAt": "2026-04-02T07:01:00Z",
       "thumbnail": {
@@ -348,6 +348,37 @@
       }
     },
     {
+      "id": "1107469",
+      "name": "Syncly Social",
+      "tagline": "Find creators by what's actually in their content",
+      "url": "https://www.producthunt.com/products/syncly?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 104,
+      "commentsCount": 3,
+      "createdAt": "2026-04-02T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/ae4bb9c7-957c-49d9-ada1-271eef4e76c6.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "Influencer marketing"
+            }
+          },
+          {
+            "node": {
+              "name": "Social media marketing"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1108918",
       "name": "Mode AI",
       "tagline": "AI Assistant in your pocket",
@@ -379,31 +410,31 @@
       }
     },
     {
-      "id": "1107469",
-      "name": "Syncly Social",
-      "tagline": "Find creators by what's actually in their content",
-      "url": "https://www.producthunt.com/products/syncly?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 102,
-      "commentsCount": 3,
+      "id": "1113209",
+      "name": "GitCity",
+      "tagline": "Your GitHub contributions as 3D city you can drive through",
+      "url": "https://www.producthunt.com/products/gitcity?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 101,
+      "commentsCount": 1,
       "createdAt": "2026-04-02T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/ae4bb9c7-957c-49d9-ada1-271eef4e76c6.png?auto=format"
+        "url": "https://ph-files.imgix.net/79a1fa3b-6459-4008-8abe-79af1c011be6.png?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "Artificial Intelligence"
+              "name": "Open Source"
             }
           },
           {
             "node": {
-              "name": "Influencer marketing"
+              "name": "Developer Tools"
             }
           },
           {
             "node": {
-              "name": "Social media marketing"
+              "name": "GitHub"
             }
           }
         ]
@@ -441,43 +472,12 @@
       }
     },
     {
-      "id": "1113209",
-      "name": "GitCity",
-      "tagline": "Your GitHub contributions as 3D city you can drive through",
-      "url": "https://www.producthunt.com/products/gitcity?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 100,
-      "commentsCount": 1,
-      "createdAt": "2026-04-02T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/79a1fa3b-6459-4008-8abe-79af1c011be6.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Open Source"
-            }
-          },
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "GitHub"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1113654",
       "name": "OpenYak",
       "tagline": "The open-source Claude Desktop with any model you want",
       "url": "https://www.producthunt.com/products/openyak?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 98,
-      "commentsCount": 15,
+      "commentsCount": 16,
       "createdAt": "2026-04-02T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/d1551fb7-36ce-4f15-93c7-7740281ec695.png?auto=format"
@@ -508,7 +508,7 @@
       "tagline": "A new way to interact with AI beyond traditional chats",
       "url": "https://www.producthunt.com/products/flowith?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 91,
-      "commentsCount": 1,
+      "commentsCount": 2,
       "createdAt": "2026-04-02T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/23279a4f-9368-4951-836d-65918c091b51.jpeg?auto=format"
