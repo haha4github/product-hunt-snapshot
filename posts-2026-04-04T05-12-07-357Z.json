@@ -1,38 +1,12 @@
 {
-  "fetchedAt": "2026-04-04T03:37:40.727Z",
+  "fetchedAt": "2026-04-04T05:12:07.357Z",
   "posts": [
-    {
-      "id": "1109919",
-      "name": "ZooClaw",
-      "tagline": "Your proactive team of AI specialists in one place",
-      "url": "https://www.producthunt.com/products/zooclaw?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 334,
-      "commentsCount": 40,
-      "createdAt": "2026-04-03T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/32163b2c-8247-440c-96d4-2d014e012535.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
     {
       "id": "1114382",
       "name": "Google Gemma 4",
       "tagline": "Google's most intelligent open models to date",
       "url": "https://www.producthunt.com/products/google-gemma?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 334,
+      "votesCount": 352,
       "commentsCount": 8,
       "createdAt": "2026-04-03T07:01:00Z",
       "thumbnail": {
@@ -59,12 +33,38 @@
       }
     },
     {
+      "id": "1109919",
+      "name": "ZooClaw",
+      "tagline": "Your proactive team of AI specialists in one place",
+      "url": "https://www.producthunt.com/products/zooclaw?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 343,
+      "commentsCount": 42,
+      "createdAt": "2026-04-03T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/32163b2c-8247-440c-96d4-2d014e012535.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1114508",
       "name": "Cursor 3",
       "tagline": "Unified workspace for parallel local/cloud agents and MCPs",
       "url": "https://www.producthunt.com/products/cursor-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 302,
-      "commentsCount": 12,
+      "votesCount": 310,
+      "commentsCount": 13,
       "createdAt": "2026-04-03T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/7dbeac7e-f999-4a66-8c71-8ae3636cd3bf.png?auto=format"
@@ -84,7 +84,7 @@
       "name": "VoiceOS",
       "tagline": "Say it and it's done. Work 10x faster with your voice.",
       "url": "https://www.producthunt.com/products/voiceos?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 230,
+      "votesCount": 238,
       "commentsCount": 35,
       "createdAt": "2026-04-03T07:01:00Z",
       "thumbnail": {
@@ -110,7 +110,7 @@
       "name": "NotebookLM Custom Infographic Styles",
       "tagline": "Turn any source into a styled infographic",
       "url": "https://www.producthunt.com/products/notebooklm-custom-infographic-styles?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 166,
+      "votesCount": 170,
       "commentsCount": 1,
       "createdAt": "2026-04-03T07:01:00Z",
       "thumbnail": {
@@ -141,7 +141,7 @@
       "name": "Straude",
       "tagline": "Strava for Claude Code, the global tokenmaxxing Leaderboard",
       "url": "https://www.producthunt.com/products/straude?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 146,
+      "votesCount": 147,
       "commentsCount": 11,
       "createdAt": "2026-04-03T07:01:00Z",
       "thumbnail": {
@@ -172,7 +172,7 @@
       "name": "Qwen3.6-Plus",
       "tagline": "Multimodal AI optimized for real-world coding agents",
       "url": "https://www.producthunt.com/products/qwen3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 134,
+      "votesCount": 137,
       "commentsCount": 1,
       "createdAt": "2026-04-03T07:01:00Z",
       "thumbnail": {
@@ -203,7 +203,7 @@
       "name": "ChatGPT on CarPlay",
       "tagline": "ChatGPT voice in CarPlay for hands-free driving AI on the go",
       "url": "https://www.producthunt.com/products/openai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 128,
+      "votesCount": 129,
       "commentsCount": 3,
       "createdAt": "2026-04-03T07:01:00Z",
       "thumbnail": {
@@ -286,7 +286,7 @@
       "name": "EmDash CMS",
       "tagline": "EmDash is a new open-source CMS from Cloudflare",
       "url": "https://www.producthunt.com/products/emdash-cms?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 115,
+      "votesCount": 114,
       "commentsCount": 5,
       "createdAt": "2026-04-03T07:01:00Z",
       "thumbnail": {
@@ -477,7 +477,7 @@
       "name": "FindThem",
       "tagline": "Describe ideal lead or investor - get their Linkedin & email",
       "url": "https://www.producthunt.com/products/findthem?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 87,
+      "votesCount": 88,
       "commentsCount": 8,
       "createdAt": "2026-04-03T07:01:00Z",
       "thumbnail": {
@@ -508,7 +508,7 @@
       "name": "Duck, Duck, Duck! by IDEO",
       "tagline": "An opinionated robot rubber duck for Claude code",
       "url": "https://www.producthunt.com/products/duck-duck-duck-by-ideo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 86,
+      "votesCount": 87,
       "commentsCount": 4,
       "createdAt": "2026-04-03T07:01:00Z",
       "thumbnail": {
@@ -575,7 +575,7 @@
       "name": "MAI-Transcribe-1",
       "tagline": "Production ASR for noisy multilingual audio",
       "url": "https://www.producthunt.com/products/mai-image-2-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 82,
+      "votesCount": 83,
       "commentsCount": 5,
       "createdAt": "2026-04-03T07:01:00Z",
       "thumbnail": {
