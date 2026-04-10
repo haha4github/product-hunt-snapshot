@@ -1,12 +1,12 @@
 {
-  "fetchedAt": "2026-04-10T20:53:57.220Z",
+  "fetchedAt": "2026-04-10T21:40:03.535Z",
   "posts": [
     {
       "id": "1120099",
       "name": "Claude Advisor tool",
       "tagline": "Pair Opus as advisor with Sonnet or Haiku as executor",
       "url": "https://www.producthunt.com/products/claude?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 263,
+      "votesCount": 276,
       "commentsCount": 8,
       "createdAt": "2026-04-10T07:01:00Z",
       "thumbnail": {
@@ -27,7 +27,7 @@
       "name": "Integrations in Spine",
       "tagline": "AI that synthesize and researches info across multiple apps",
       "url": "https://www.producthunt.com/products/spine-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 244,
+      "votesCount": 246,
       "commentsCount": 33,
       "createdAt": "2026-04-10T07:01:00Z",
       "thumbnail": {
@@ -58,7 +58,7 @@
       "name": "Google Finance",
       "tagline": "Ask complex finance questions, get AI-grounded answers",
       "url": "https://www.producthunt.com/products/google?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 202,
+      "votesCount": 205,
       "commentsCount": 3,
       "createdAt": "2026-04-10T07:01:00Z",
       "thumbnail": {
@@ -89,7 +89,7 @@
       "name": "Drift",
       "tagline": "Minimalist journal app that fades over time",
       "url": "https://www.producthunt.com/products/drift-journal-that-lets-go?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 174,
+      "votesCount": 181,
       "commentsCount": 34,
       "createdAt": "2026-04-10T07:01:00Z",
       "thumbnail": {
@@ -120,7 +120,7 @@
       "name": "SoulLink",
       "tagline": "Mobile 3D Vibe Coding Partner ",
       "url": "https://www.producthunt.com/products/soullinkai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 163,
+      "votesCount": 164,
       "commentsCount": 13,
       "createdAt": "2026-04-10T07:01:00Z",
       "thumbnail": {
@@ -156,7 +156,7 @@
       "name": "Manus Skills",
       "tagline": "Package Manus workflows into reusable agent Skills",
       "url": "https://www.producthunt.com/products/manus-skills?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 123,
+      "votesCount": 124,
       "commentsCount": 4,
       "createdAt": "2026-04-10T07:01:00Z",
       "thumbnail": {
@@ -213,7 +213,7 @@
       "name": "Perplexity Finance",
       "tagline": "See your full financial life, bank to brokerage in one place",
       "url": "https://www.producthunt.com/products/perplexity-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 117,
+      "votesCount": 119,
       "commentsCount": 2,
       "createdAt": "2026-04-10T07:01:00Z",
       "thumbnail": {
@@ -234,6 +234,37 @@
           {
             "node": {
               "name": "Finance"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1120258",
+      "name": "MiniMax CLI",
+      "tagline": "Give your AI agents native multimodal capabilities",
+      "url": "https://www.producthunt.com/products/minimax?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 115,
+      "commentsCount": 1,
+      "createdAt": "2026-04-10T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/76092344-17e5-4472-b285-fb0a60f63fc7.jpeg?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Music"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "Photo & Video"
             }
           }
         ]
@@ -265,37 +296,6 @@
           {
             "node": {
               "name": "Developer Tools"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1120258",
-      "name": "MiniMax CLI",
-      "tagline": "Give your AI agents native multimodal capabilities",
-      "url": "https://www.producthunt.com/products/minimax?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 113,
-      "commentsCount": 1,
-      "createdAt": "2026-04-10T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/76092344-17e5-4472-b285-fb0a60f63fc7.jpeg?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Music"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          },
-          {
-            "node": {
-              "name": "Photo & Video"
             }
           }
         ]
@@ -395,6 +395,37 @@
       }
     },
     {
+      "id": "1120280",
+      "name": "Crowdcast 3.0",
+      "tagline": "Run every type of event without switching tools",
+      "url": "https://www.producthunt.com/products/crowdcast?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 94,
+      "commentsCount": 2,
+      "createdAt": "2026-04-10T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/6e98ee06-4585-459a-a753-f8d6a6552d39.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Live Events"
+            }
+          },
+          {
+            "node": {
+              "name": "Marketing automation"
+            }
+          },
+          {
+            "node": {
+              "name": "Community"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1119805",
       "name": "Orbit Money",
       "tagline": "Track every API and tool you pay for in one place",
@@ -420,37 +451,6 @@
           {
             "node": {
               "name": "Developer Tools"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1120280",
-      "name": "Crowdcast 3.0",
-      "tagline": "Run every type of event without switching tools",
-      "url": "https://www.producthunt.com/products/crowdcast?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 92,
-      "commentsCount": 2,
-      "createdAt": "2026-04-10T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/6e98ee06-4585-459a-a753-f8d6a6552d39.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Live Events"
-            }
-          },
-          {
-            "node": {
-              "name": "Marketing automation"
-            }
-          },
-          {
-            "node": {
-              "name": "Community"
             }
           }
         ]
@@ -487,7 +487,7 @@
       "name": "Avatar V by HeyGen",
       "tagline": "The most advanced AI avatar model in the world",
       "url": "https://www.producthunt.com/products/heygen?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 90,
+      "votesCount": 91,
       "commentsCount": 1,
       "createdAt": "2026-04-10T07:01:00Z",
       "thumbnail": {
