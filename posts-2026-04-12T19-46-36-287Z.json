@@ -1,12 +1,12 @@
 {
-  "fetchedAt": "2026-04-12T18:58:48.940Z",
+  "fetchedAt": "2026-04-12T19:46:36.287Z",
   "posts": [
     {
       "id": "1121368",
       "name": "Interactive Simulations in Gemini",
       "tagline": "Gemini now lets you play with the concepts you ask about",
       "url": "https://www.producthunt.com/products/gemini-6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 266,
+      "votesCount": 272,
       "commentsCount": 2,
       "createdAt": "2026-04-12T07:01:00Z",
       "thumbnail": {
@@ -37,8 +37,8 @@
       "name": "Music Marketplace by Eleven Labs",
       "tagline": "Create a track. Publish it. Earn when it is used.",
       "url": "https://www.producthunt.com/products/music-marketplace-by-eleven-labs?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 195,
-      "commentsCount": 3,
+      "votesCount": 197,
+      "commentsCount": 4,
       "createdAt": "2026-04-12T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/0eb249ea-a4ea-492c-babf-5aa6817db9b2.jpeg?auto=format"
@@ -68,7 +68,7 @@
       "name": "Ray",
       "tagline": "Your personal CFO in the terminal",
       "url": "https://www.producthunt.com/products/ray-7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 174,
+      "votesCount": 177,
       "commentsCount": 15,
       "createdAt": "2026-04-12T07:01:00Z",
       "thumbnail": {
@@ -104,7 +104,7 @@
       "name": "R0Y",
       "tagline": "Natural language to Investing dashboards in seconds.",
       "url": "https://www.producthunt.com/products/r0y-ai-financial-studio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 162,
+      "votesCount": 164,
       "commentsCount": 9,
       "createdAt": "2026-04-12T07:01:00Z",
       "thumbnail": {
@@ -135,7 +135,7 @@
       "name": "Layered",
       "tagline": "Turn your selfies into a personal AI stylist",
       "url": "https://www.producthunt.com/products/layered-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 125,
+      "votesCount": 126,
       "commentsCount": 7,
       "createdAt": "2026-04-12T07:01:00Z",
       "thumbnail": {
@@ -156,6 +156,32 @@
           {
             "node": {
               "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1119626",
+      "name": "Edgee Codex Compressor",
+      "tagline": "Use Codex at 35.6% lower costs",
+      "url": "https://www.producthunt.com/products/edgee?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 125,
+      "commentsCount": 10,
+      "createdAt": "2026-04-12T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/cea13bd0-7efd-4a1c-b99a-d4cb7b1e4276.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Software Engineering"
+            }
+          },
+          {
+            "node": {
+              "name": "Developer Tools"
             }
           }
         ]
@@ -193,37 +219,11 @@
       }
     },
     {
-      "id": "1119626",
-      "name": "Edgee Codex Compressor",
-      "tagline": "Use Codex at 35.6% lower costs",
-      "url": "https://www.producthunt.com/products/edgee?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 119,
-      "commentsCount": 9,
-      "createdAt": "2026-04-12T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/cea13bd0-7efd-4a1c-b99a-d4cb7b1e4276.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Software Engineering"
-            }
-          },
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1120554",
       "name": "Nicelydone MCP",
       "tagline": "Design context for AI agents",
       "url": "https://www.producthunt.com/products/nicely-done?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 113,
+      "votesCount": 115,
       "commentsCount": 3,
       "createdAt": "2026-04-12T07:01:00Z",
       "thumbnail": {
@@ -311,7 +311,7 @@
       "name": "True Moments",
       "tagline": "Watch your photos come alive with AI in seconds",
       "url": "https://www.producthunt.com/products/true-moments?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 8,
+      "votesCount": 9,
       "commentsCount": 1,
       "createdAt": "2026-04-12T07:01:00Z",
       "thumbnail": {
@@ -363,6 +363,37 @@
           {
             "node": {
               "name": "Drawing"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1120530",
+      "name": "Verso",
+      "tagline": "The AI that actually nails PowerPoint.",
+      "url": "https://www.producthunt.com/products/verso-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 7,
+      "commentsCount": 2,
+      "createdAt": "2026-04-12T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/b34204ff-d64a-400f-aafd-259c63bfead8.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Design Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
             }
           }
         ]
@@ -580,37 +611,6 @@
           {
             "node": {
               "name": "Tech"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1121594",
-      "name": "Events Scout",
-      "tagline": "AI agent that finds the right events — and learns your taste",
-      "url": "https://www.producthunt.com/products/events-scout?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 2,
-      "commentsCount": 2,
-      "createdAt": "2026-04-12T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/9b94f967-c235-4c6b-817f-08b61f8e2bcf.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Open Source"
-            }
-          },
-          {
-            "node": {
-              "name": "Marketing"
-            }
-          },
-          {
-            "node": {
-              "name": "Event marketing"
             }
           }
         ]
