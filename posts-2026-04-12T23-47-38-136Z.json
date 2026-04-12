@@ -1,12 +1,12 @@
 {
-  "fetchedAt": "2026-04-12T22:59:20.464Z",
+  "fetchedAt": "2026-04-12T23:47:38.136Z",
   "posts": [
     {
       "id": "1121368",
       "name": "Interactive Simulations in Gemini",
       "tagline": "Gemini now lets you play with the concepts you ask about",
       "url": "https://www.producthunt.com/products/gemini-6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 290,
+      "votesCount": 292,
       "commentsCount": 3,
       "createdAt": "2026-04-12T07:01:00Z",
       "thumbnail": {
@@ -37,7 +37,7 @@
       "name": "Music Marketplace by Eleven Labs",
       "tagline": "Create a track. Publish it. Earn when it is used.",
       "url": "https://www.producthunt.com/products/music-marketplace-by-eleven-labs?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 204,
+      "votesCount": 205,
       "commentsCount": 4,
       "createdAt": "2026-04-12T07:01:00Z",
       "thumbnail": {
@@ -68,7 +68,7 @@
       "name": "Ray",
       "tagline": "Your personal CFO in the terminal",
       "url": "https://www.producthunt.com/products/ray-7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 193,
+      "votesCount": 196,
       "commentsCount": 19,
       "createdAt": "2026-04-12T07:01:00Z",
       "thumbnail": {
@@ -157,6 +157,37 @@
       }
     },
     {
+      "id": "1121546",
+      "name": "Layered",
+      "tagline": "Turn your selfies into a personal AI stylist",
+      "url": "https://www.producthunt.com/products/layered-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 130,
+      "commentsCount": 7,
+      "createdAt": "2026-04-12T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/dbae254e-c1f5-4923-b4b6-a8774c2db0cc.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "iOS"
+            }
+          },
+          {
+            "node": {
+              "name": "Fashion"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1097207",
       "name": "ClarifierAI for IOS",
       "tagline": "Use AI for writing & translating your messages 10x faster",
@@ -182,37 +213,6 @@
           {
             "node": {
               "name": "Messaging"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1121546",
-      "name": "Layered",
-      "tagline": "Turn your selfies into a personal AI stylist",
-      "url": "https://www.producthunt.com/products/layered-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 128,
-      "commentsCount": 7,
-      "createdAt": "2026-04-12T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/dbae254e-c1f5-4923-b4b6-a8774c2db0cc.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "iOS"
-            }
-          },
-          {
-            "node": {
-              "name": "Fashion"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
             }
           }
         ]
@@ -586,31 +586,31 @@
       }
     },
     {
-      "id": "1121070",
-      "name": "PyChallenge",
-      "tagline": "Learn Python by Doing",
-      "url": "https://www.producthunt.com/products/pychallenge?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "id": "1121520",
+      "name": "Don't Steal My Artwork",
+      "tagline": "Protect your original digital artworks",
+      "url": "https://www.producthunt.com/products/don-t-steal-my-artwork?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 3,
-      "commentsCount": 0,
+      "commentsCount": 1,
       "createdAt": "2026-04-12T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/70b7f17f-00ce-4a82-892b-29f1c2ddec3f.png?auto=format"
+        "url": "https://ph-files.imgix.net/89783b90-c9ec-487b-abfb-1f9e6645c021.jpeg?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "Education"
-            }
-          },
-          {
-            "node": {
-              "name": "Software Engineering"
+              "name": "Art"
             }
           },
           {
             "node": {
               "name": "Tech"
+            }
+          },
+          {
+            "node": {
+              "name": "Security"
             }
           }
         ]
