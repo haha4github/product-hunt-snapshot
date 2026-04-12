@@ -1,12 +1,12 @@
 {
-  "fetchedAt": "2026-04-12T14:27:36.761Z",
+  "fetchedAt": "2026-04-12T15:07:49.173Z",
   "posts": [
     {
       "id": "1121368",
       "name": "Interactive Simulations in Gemini",
       "tagline": "Gemini now lets you play with the concepts you ask about",
       "url": "https://www.producthunt.com/products/gemini-6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 207,
+      "votesCount": 219,
       "commentsCount": 2,
       "createdAt": "2026-04-12T07:01:00Z",
       "thumbnail": {
@@ -37,7 +37,7 @@
       "name": "Music Marketplace by Eleven Labs",
       "tagline": "Create a track. Publish it. Earn when it is used.",
       "url": "https://www.producthunt.com/products/music-marketplace-by-eleven-labs?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 170,
+      "votesCount": 172,
       "commentsCount": 3,
       "createdAt": "2026-04-12T07:01:00Z",
       "thumbnail": {
@@ -68,7 +68,7 @@
       "name": "R0Y",
       "tagline": "Natural language to Investing dashboards in seconds.",
       "url": "https://www.producthunt.com/products/r0y-ai-financial-studio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 145,
+      "votesCount": 148,
       "commentsCount": 9,
       "createdAt": "2026-04-12T07:01:00Z",
       "thumbnail": {
@@ -99,8 +99,8 @@
       "name": "Ray",
       "tagline": "Your personal CFO in the terminal",
       "url": "https://www.producthunt.com/products/ray-7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 139,
-      "commentsCount": 5,
+      "votesCount": 143,
+      "commentsCount": 9,
       "createdAt": "2026-04-12T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/b3b7fe2a-3b92-42ae-aa08-b955e4f17519.png?auto=format"
@@ -135,7 +135,7 @@
       "name": "Layered",
       "tagline": "Turn your selfies into a personal AI stylist",
       "url": "https://www.producthunt.com/products/layered-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 115,
+      "votesCount": 116,
       "commentsCount": 7,
       "createdAt": "2026-04-12T07:01:00Z",
       "thumbnail": {
@@ -166,8 +166,8 @@
       "name": "ClarifierAI for IOS",
       "tagline": "Use AI for writing & translating your messages 10x faster",
       "url": "https://www.producthunt.com/products/clarifierai-rewrite-text-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 113,
-      "commentsCount": 44,
+      "votesCount": 114,
+      "commentsCount": 45,
       "createdAt": "2026-04-12T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/f106d438-892a-452b-8907-96e4391b2639.png?auto=format"
@@ -276,6 +276,37 @@
       }
     },
     {
+      "id": "1121114",
+      "name": "ARCH",
+      "tagline": "Design production‑grade cloud architecture in your browser",
+      "url": "https://www.producthunt.com/products/arch-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 9,
+      "commentsCount": 1,
+      "createdAt": "2026-04-12T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/5b334c9a-3f24-4b42-971b-cd2835af2121.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Web App"
+            }
+          },
+          {
+            "node": {
+              "name": "Design Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Software Engineering"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1120818",
       "name": "True Moments",
       "tagline": "Watch your photos come alive with AI in seconds",
@@ -301,37 +332,6 @@
           {
             "node": {
               "name": "Video"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1121114",
-      "name": "ARCH",
-      "tagline": "Design production‑grade cloud architecture in your browser",
-      "url": "https://www.producthunt.com/products/arch-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 8,
-      "commentsCount": 1,
-      "createdAt": "2026-04-12T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/5b334c9a-3f24-4b42-971b-cd2835af2121.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Web App"
-            }
-          },
-          {
-            "node": {
-              "name": "Design Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Software Engineering"
             }
           }
         ]
