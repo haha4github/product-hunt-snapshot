@@ -1,44 +1,13 @@
 {
-  "fetchedAt": "2026-04-13T11:47:27.152Z",
+  "fetchedAt": "2026-04-13T12:51:54.327Z",
   "posts": [
-    {
-      "id": "1105337",
-      "name": "Luma Agents",
-      "tagline": "Agents that plan, iterate, + refine w/ full creative context",
-      "url": "https://www.producthunt.com/products/luma-agents?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 122,
-      "commentsCount": 5,
-      "createdAt": "2026-04-13T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/01bf4636-ef5f-4d04-b23a-261a2fefe86d.jpeg?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Design Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Social Media"
-            }
-          },
-          {
-            "node": {
-              "name": "Marketing"
-            }
-          }
-        ]
-      }
-    },
     {
       "id": "1113299",
       "name": "Krisp Accent Converter for YouTube",
       "tagline": "YouTube, but you clearly understand everyone",
       "url": "https://www.producthunt.com/products/krisp?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 118,
-      "commentsCount": 11,
+      "votesCount": 152,
+      "commentsCount": 20,
       "createdAt": "2026-04-13T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/f46d4d6b-82ea-44a6-9751-96f72211403e.gif?auto=format"
@@ -64,12 +33,69 @@
       }
     },
     {
+      "id": "1105337",
+      "name": "Luma Agents",
+      "tagline": "Agents that plan, iterate, + refine w/ full creative context",
+      "url": "https://www.producthunt.com/products/luma-agents?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 140,
+      "commentsCount": 6,
+      "createdAt": "2026-04-13T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/01bf4636-ef5f-4d04-b23a-261a2fefe86d.jpeg?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Design Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Social Media"
+            }
+          },
+          {
+            "node": {
+              "name": "Marketing"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1122140",
+      "name": "Cleo Labs",
+      "tagline": "Automate global compliance  for selling physical products",
+      "url": "https://www.producthunt.com/products/cleo-labs?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 129,
+      "commentsCount": 12,
+      "createdAt": "2026-04-13T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/b39c48d6-2833-41aa-a398-41aac724c483.jpeg?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Legal"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1122226",
       "name": "ContextPool",
       "tagline": "Persistent memory for AI coding agents",
       "url": "https://www.producthunt.com/products/contextpool?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 95,
-      "commentsCount": 5,
+      "votesCount": 109,
+      "commentsCount": 13,
       "createdAt": "2026-04-13T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/d946f9eb-48a5-4a4c-9c02-6cdddf6e7dd5.png?auto=format"
@@ -100,38 +126,12 @@
       }
     },
     {
-      "id": "1122140",
-      "name": "Cleo Labs",
-      "tagline": "Automate global compliance  for selling physical products",
-      "url": "https://www.producthunt.com/products/cleo-labs?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 91,
-      "commentsCount": 9,
-      "createdAt": "2026-04-13T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/b39c48d6-2833-41aa-a398-41aac724c483.jpeg?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Legal"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1122373",
       "name": "VoxCPM2",
       "tagline": "Open-source 48kHz TTS with voice design and cloning",
       "url": "https://www.producthunt.com/products/minicpm-4-0?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 88,
-      "commentsCount": 1,
+      "votesCount": 97,
+      "commentsCount": 2,
       "createdAt": "2026-04-13T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/0d0bd158-3937-4dfb-8c17-384732ce954e.avif?auto=format"
@@ -157,79 +157,12 @@
       }
     },
     {
-      "id": "1122264",
-      "name": "Clarm",
-      "tagline": "AI inbound layer to capture, qualify, and route leads",
-      "url": "https://www.producthunt.com/products/clarm-ai-technical-support?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 85,
-      "commentsCount": 5,
-      "createdAt": "2026-04-13T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/c0c4d85d-95f3-400f-bf35-4e83aa603552.gif?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "SaaS"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1113313",
-      "name": "Skills Janitor",
-      "tagline": "Find which Claude Code skills you actually use",
-      "url": "https://www.producthunt.com/products/skills-janitor?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 84,
-      "commentsCount": 1,
-      "createdAt": "2026-04-13T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/2ecc2a30-03eb-4d5c-bc44-dac830474a24.gif?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Open Source"
-            }
-          },
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          },
-          {
-            "node": {
-              "name": "GitHub"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1122175",
       "name": "showmd",
       "tagline": "Markdown was never meant to be previewed plain text",
       "url": "https://www.producthunt.com/products/showmd-ai-markdown-quicklook-preview?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 82,
-      "commentsCount": 5,
+      "votesCount": 92,
+      "commentsCount": 12,
       "createdAt": "2026-04-13T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/783f7ddd-69bd-4a53-8a78-51598d905880.png?auto=format"
@@ -260,11 +193,78 @@
       }
     },
     {
+      "id": "1122264",
+      "name": "Clarm",
+      "tagline": "AI inbound layer to capture, qualify, and route leads",
+      "url": "https://www.producthunt.com/products/clarm-ai-technical-support?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 92,
+      "commentsCount": 6,
+      "createdAt": "2026-04-13T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/c0c4d85d-95f3-400f-bf35-4e83aa603552.gif?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "SaaS"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1113313",
+      "name": "Skills Janitor",
+      "tagline": "Find which Claude Code skills you actually use",
+      "url": "https://www.producthunt.com/products/skills-janitor?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 91,
+      "commentsCount": 2,
+      "createdAt": "2026-04-13T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/2ecc2a30-03eb-4d5c-bc44-dac830474a24.gif?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Open Source"
+            }
+          },
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "GitHub"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1122414",
       "name": "Deconflict",
       "tagline": "Plan your WiFi and see through walls",
       "url": "https://www.producthunt.com/products/deconflict?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 78,
+      "votesCount": 83,
       "commentsCount": 4,
       "createdAt": "2026-04-13T07:01:00Z",
       "thumbnail": {
@@ -300,7 +300,7 @@
       "name": "SigmaMind MCP",
       "tagline": "Build and control voice AI agents via MCP",
       "url": "https://www.producthunt.com/products/sigma-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 77,
+      "votesCount": 81,
       "commentsCount": 2,
       "createdAt": "2026-04-13T07:01:00Z",
       "thumbnail": {
@@ -327,33 +327,12 @@
       }
     },
     {
-      "id": "1121836",
-      "name": "deckpipe.dev",
-      "tagline": "agent-first slide renderer",
-      "url": "https://www.producthunt.com/products/deckpipe-dev?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 77,
-      "commentsCount": 1,
-      "createdAt": "2026-04-13T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/8b2b79e0-5726-4266-824d-da375e4f4ccf.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1122274",
       "name": "Open Comet",
       "tagline": "The autonomous AI browser agent for deep research & tasks",
       "url": "https://www.producthunt.com/products/open-comet?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 76,
-      "commentsCount": 3,
+      "votesCount": 80,
+      "commentsCount": 5,
       "createdAt": "2026-04-13T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/2d06bf4d-6386-4252-bdb6-334357b3b989.png?auto=format"
@@ -384,90 +363,12 @@
       }
     },
     {
-      "id": "1122152",
-      "name": "Vekta",
-      "tagline": "AI training and coaching platform for endurance sports",
-      "url": "https://www.producthunt.com/products/vekta?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 75,
-      "commentsCount": 1,
-      "createdAt": "2026-04-13T07:01:28Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/04b9fc28-cbc1-4e5f-bc4d-57162f1f545e.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Health & Fitness"
-            }
-          },
-          {
-            "node": {
-              "name": "Sports"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1122095",
-      "name": "GhostDesk",
-      "tagline": "Your invisible AI co-pilot for interviews & meetings",
-      "url": "https://www.producthunt.com/products/ghostdesk-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 74,
-      "commentsCount": 3,
-      "createdAt": "2026-04-13T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/d2249408-32ac-4325-9d8b-69519ebe45d5.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "SaaS"
-            }
-          },
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1122147",
-      "name": "Legitify",
-      "tagline": "Digital notarization across 50+ jurisdictions",
-      "url": "https://www.producthunt.com/products/legitify?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 72,
-      "commentsCount": 0,
-      "createdAt": "2026-04-13T07:01:05Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/4970dc93-8ecd-4ab4-acfb-117f6aad7738.jpeg?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Legal"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1122314",
       "name": "SuperHQ",
       "tagline": "Run AI coding agents in real microVM sandboxes",
       "url": "https://www.producthunt.com/products/superhq?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 71,
-      "commentsCount": 4,
+      "votesCount": 80,
+      "commentsCount": 5,
       "createdAt": "2026-04-13T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/b61cf798-f8ab-4862-ba3f-87c0f24c8dda.svg?auto=format"
@@ -492,6 +393,105 @@
           {
             "node": {
               "name": "GitHub"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1121836",
+      "name": "deckpipe.dev",
+      "tagline": "agent-first slide renderer",
+      "url": "https://www.producthunt.com/products/deckpipe-dev?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 79,
+      "commentsCount": 1,
+      "createdAt": "2026-04-13T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/8b2b79e0-5726-4266-824d-da375e4f4ccf.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1122152",
+      "name": "Vekta",
+      "tagline": "AI training and coaching platform for endurance sports",
+      "url": "https://www.producthunt.com/products/vekta?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 78,
+      "commentsCount": 1,
+      "createdAt": "2026-04-13T07:01:28Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/04b9fc28-cbc1-4e5f-bc4d-57162f1f545e.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Health & Fitness"
+            }
+          },
+          {
+            "node": {
+              "name": "Sports"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1122147",
+      "name": "Legitify",
+      "tagline": "Digital notarization across 50+ jurisdictions",
+      "url": "https://www.producthunt.com/products/legitify?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 76,
+      "commentsCount": 1,
+      "createdAt": "2026-04-13T07:01:05Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/4970dc93-8ecd-4ab4-acfb-117f6aad7738.jpeg?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Legal"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1122095",
+      "name": "GhostDesk",
+      "tagline": "Your invisible AI co-pilot for interviews & meetings",
+      "url": "https://www.producthunt.com/products/ghostdesk-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 76,
+      "commentsCount": 3,
+      "createdAt": "2026-04-13T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/d2249408-32ac-4325-9d8b-69519ebe45d5.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "SaaS"
+            }
+          },
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
             }
           }
         ]
@@ -564,7 +564,7 @@
       "name": "REasy",
       "tagline": "The operating system for African importers",
       "url": "https://www.producthunt.com/products/reasy-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 66,
+      "votesCount": 68,
       "commentsCount": 0,
       "createdAt": "2026-04-13T07:58:15Z",
       "thumbnail": {
@@ -585,8 +585,8 @@
       "name": "Ably Chat",
       "tagline": "The Chat API built for serious scale",
       "url": "https://www.producthunt.com/products/ably-realtime?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 60,
-      "commentsCount": 2,
+      "votesCount": 62,
+      "commentsCount": 3,
       "createdAt": "2026-04-13T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/37163ea5-c081-481d-bb35-6313273c5019.png?auto=format"
