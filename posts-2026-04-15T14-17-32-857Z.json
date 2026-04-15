@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-04-15T12:42:28.916Z",
+  "fetchedAt": "2026-04-15T14:17:32.857Z",
   "posts": [
     {
       "id": "1123691",
       "name": "Claude Code Routines",
       "tagline": "Put Claude Code tasks on autopilot with smart routines",
       "url": "https://www.producthunt.com/products/claude?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 186,
-      "commentsCount": 1,
+      "votesCount": 258,
+      "commentsCount": 2,
       "createdAt": "2026-04-15T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/a30335cf-101f-4d48-ab16-ba198026df3e.png?auto=format"
@@ -33,21 +33,26 @@
       }
     },
     {
-      "id": "1123674",
-      "name": "Gemini Robotics ER 1.6",
-      "tagline": "Google's SOTA robotics model for visual & spatial reasoning!",
-      "url": "https://www.producthunt.com/products/google?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 149,
-      "commentsCount": 2,
+      "id": "1122688",
+      "name": "Intent",
+      "tagline": "Describe a feature and AI agents build, verify, and ship it",
+      "url": "https://www.producthunt.com/products/augment-code?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 191,
+      "commentsCount": 8,
       "createdAt": "2026-04-15T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/f27f20c5-816f-4210-bbfa-8bdf797ffa3b.jpeg?auto=format"
+        "url": "https://ph-files.imgix.net/2ca40459-692b-4a5d-9822-80ecfd0fcefb.png?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "Robots"
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Developer Tools"
             }
           },
           {
@@ -63,7 +68,7 @@
       "name": "Lovable Desktop App",
       "tagline": "Organize projects with tabs & power workflows via local MCPs",
       "url": "https://www.producthunt.com/products/lovable?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 144,
+      "votesCount": 172,
       "commentsCount": 2,
       "createdAt": "2026-04-15T07:01:00Z",
       "thumbnail": {
@@ -90,15 +95,41 @@
       }
     },
     {
-      "id": "1122688",
-      "name": "Intent",
-      "tagline": "Describe a feature. AI agents build, verify, and ship it.",
-      "url": "https://www.producthunt.com/products/augment-code?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 137,
-      "commentsCount": 6,
+      "id": "1123674",
+      "name": "Gemini Robotics ER 1.6",
+      "tagline": "Google's SOTA robotics model for visual & spatial reasoning!",
+      "url": "https://www.producthunt.com/products/google?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 160,
+      "commentsCount": 2,
       "createdAt": "2026-04-15T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/2ca40459-692b-4a5d-9822-80ecfd0fcefb.png?auto=format"
+        "url": "https://ph-files.imgix.net/f27f20c5-816f-4210-bbfa-8bdf797ffa3b.jpeg?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Robots"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1123888",
+      "name": "Fathom 3.0",
+      "tagline": "AI meeting notes: now bot-free, in ChatGPT & Claude + more",
+      "url": "https://www.producthunt.com/products/fathom?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 137,
+      "commentsCount": 24,
+      "createdAt": "2026-04-15T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/fac29de4-dc17-44af-8996-a93a8180305d.png?auto=format"
       },
       "topics": {
         "edges": [
@@ -109,7 +140,7 @@
           },
           {
             "node": {
-              "name": "Developer Tools"
+              "name": "Meetings"
             }
           },
           {
@@ -125,8 +156,8 @@
       "name": "CC-BEEPER",
       "tagline": "A floating macOS pager for Claude Code",
       "url": "https://www.producthunt.com/products/cc-beeper?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 116,
-      "commentsCount": 10,
+      "votesCount": 128,
+      "commentsCount": 14,
       "createdAt": "2026-04-15T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/08aa641b-343c-4db7-8e95-8197956a7619.png?auto=format"
@@ -157,42 +188,11 @@
       }
     },
     {
-      "id": "1123888",
-      "name": "Fathom 3.0",
-      "tagline": "AI meeting notes: now bot-free, in ChatGPT & Claude + more",
-      "url": "https://www.producthunt.com/products/fathom?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 114,
-      "commentsCount": 17,
-      "createdAt": "2026-04-15T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/fac29de4-dc17-44af-8996-a93a8180305d.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Meetings"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1112535",
       "name": "Mush",
       "tagline": "Combine Wi-Fi, Ethernet, and 5G for max download speed",
       "url": "https://www.producthunt.com/products/mush-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 95,
+      "votesCount": 103,
       "commentsCount": 6,
       "createdAt": "2026-04-15T07:01:00Z",
       "thumbnail": {
@@ -223,7 +223,7 @@
       "name": "Google app for desktop",
       "tagline": "Ask anything with the Google app for desktop",
       "url": "https://www.producthunt.com/products/the-google-app-for-desktop?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 92,
+      "votesCount": 101,
       "commentsCount": 2,
       "createdAt": "2026-04-15T07:01:00Z",
       "thumbnail": {
@@ -244,8 +244,8 @@
       "name": "Carousels Generator",
       "tagline": "From prompt to branded LinkedIn carousel powered by AI",
       "url": "https://www.producthunt.com/products/carousels-generator?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 91,
-      "commentsCount": 13,
+      "votesCount": 99,
+      "commentsCount": 15,
       "createdAt": "2026-04-15T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/93b03810-dee5-43b8-9f4c-5a17552ec8c0.png?auto=format"
@@ -271,11 +271,73 @@
       }
     },
     {
+      "id": "1117955",
+      "name": "Defter Notes 2.0.",
+      "tagline": "Spatial thinking with handwriting",
+      "url": "https://www.producthunt.com/products/defter-notes-2-0?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 99,
+      "commentsCount": 1,
+      "createdAt": "2026-04-15T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/ae398ba0-f61d-4961-8c4f-17ea1485dd2f.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "iPad"
+            }
+          },
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Apple"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1117147",
+      "name": "Roll",
+      "tagline": "The disposable camera for your phone",
+      "url": "https://www.producthunt.com/products/roll-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 94,
+      "commentsCount": 9,
+      "createdAt": "2026-04-15T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/a78aea33-c92b-4a0c-bc60-79fa98bd700e.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Web App"
+            }
+          },
+          {
+            "node": {
+              "name": "Photography"
+            }
+          },
+          {
+            "node": {
+              "name": "Health"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1123808",
       "name": "Astra",
       "tagline": "Make AI agents that never see your data",
       "url": "https://www.producthunt.com/products/astra-5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 86,
+      "votesCount": 93,
       "commentsCount": 1,
       "createdAt": "2026-04-15T07:01:00Z",
       "thumbnail": {
@@ -302,43 +364,12 @@
       }
     },
     {
-      "id": "1117147",
-      "name": "Roll",
-      "tagline": "The disposable camera for your phone",
-      "url": "https://www.producthunt.com/products/roll-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 85,
-      "commentsCount": 4,
-      "createdAt": "2026-04-15T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/a78aea33-c92b-4a0c-bc60-79fa98bd700e.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Web App"
-            }
-          },
-          {
-            "node": {
-              "name": "Photography"
-            }
-          },
-          {
-            "node": {
-              "name": "Health"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1101800",
       "name": "Lexie",
       "tagline": "Snap your notes and get tested before the exam",
       "url": "https://www.producthunt.com/products/lexielearn?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 84,
-      "commentsCount": 6,
+      "votesCount": 88,
+      "commentsCount": 7,
       "createdAt": "2026-04-15T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/e547a26b-3f56-4704-bd72-84549d5dec93.png?auto=format"
@@ -364,38 +395,12 @@
       }
     },
     {
-      "id": "1123000",
-      "name": "Playbook Intelligence",
-      "tagline": "Talk directly to your files to bulk edit, organize, & share",
-      "url": "https://www.producthunt.com/products/playbook-6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 82,
-      "commentsCount": 1,
-      "createdAt": "2026-04-15T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/fcfb32d2-9bf4-4e46-a3c1-cb8898c3862e.jpeg?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Design Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1123178",
       "name": "ClawTrace",
       "tagline": "Make your OpenClaw better, cheaper, and faster",
       "url": "https://www.producthunt.com/products/epsilla?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 81,
-      "commentsCount": 7,
+      "votesCount": 85,
+      "commentsCount": 8,
       "createdAt": "2026-04-15T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/7fd95b68-ab8f-4162-aa8e-a27f24c04ba9.png?auto=format"
@@ -426,11 +431,37 @@
       }
     },
     {
+      "id": "1123000",
+      "name": "Playbook Intelligence",
+      "tagline": "Talk directly to your files to bulk edit, organize, & share",
+      "url": "https://www.producthunt.com/products/playbook-6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 85,
+      "commentsCount": 1,
+      "createdAt": "2026-04-15T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/fcfb32d2-9bf4-4e46-a3c1-cb8898c3862e.jpeg?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Design Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1122472",
       "name": "Pane Studio (Beta)",
       "tagline": "Produce polished product demos",
       "url": "https://www.producthunt.com/products/pane-studio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 81,
+      "votesCount": 85,
       "commentsCount": 3,
       "createdAt": "2026-04-15T07:01:00Z",
       "thumbnail": {
@@ -457,11 +488,42 @@
       }
     },
     {
+      "id": "1122632",
+      "name": "Doz",
+      "tagline": "Medication reminders and tracker based on prescriptions ",
+      "url": "https://www.producthunt.com/products/doz-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 82,
+      "commentsCount": 2,
+      "createdAt": "2026-04-15T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/73d8e321-7275-4bd9-ae8d-69ecc110fcfc.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "iOS"
+            }
+          },
+          {
+            "node": {
+              "name": "Health & Fitness"
+            }
+          },
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1122125",
       "name": "Wafer Pass",
       "tagline": "Flat rate to the best LLMs for OpenClaw, Hermes Agent, etc.",
       "url": "https://www.producthunt.com/products/wafer?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 78,
+      "votesCount": 81,
       "commentsCount": 1,
       "createdAt": "2026-04-15T07:01:00Z",
       "thumbnail": {
@@ -488,42 +550,11 @@
       }
     },
     {
-      "id": "1123333",
-      "name": "Clide ",
-      "tagline": "Grid-layout terminal with an AI that drives your shells.",
-      "url": "https://www.producthunt.com/products/clide-the-ai-native-mac-terminal?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 77,
-      "commentsCount": 1,
-      "createdAt": "2026-04-15T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/1545d732-ca7f-4f6e-9785-a4868969ac70.svg?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1119860",
       "name": "Collabute",
       "tagline": "Your team's context, turned into action",
       "url": "https://www.producthunt.com/products/collabute?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 77,
+      "votesCount": 79,
       "commentsCount": 4,
       "createdAt": "2026-04-15T07:01:00Z",
       "thumbnail": {
@@ -550,62 +581,31 @@
       }
     },
     {
-      "id": "1102181",
-      "name": "OneInbox",
-      "tagline": "Build your own voice AI SDR",
-      "url": "https://www.producthunt.com/products/oneinbox-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 77,
-      "commentsCount": 2,
+      "id": "1123333",
+      "name": "Clide ",
+      "tagline": "Grid-layout terminal with an AI that drives your shells.",
+      "url": "https://www.producthunt.com/products/clide-the-ai-native-mac-terminal?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 78,
+      "commentsCount": 1,
       "createdAt": "2026-04-15T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/388a49bb-6d07-4167-a1d2-5e6b14b16487.png?auto=format"
+        "url": "https://ph-files.imgix.net/1545d732-ca7f-4f6e-9785-a4868969ac70.svg?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "Sales"
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Developer Tools"
             }
           },
           {
             "node": {
               "name": "Artificial Intelligence"
-            }
-          },
-          {
-            "node": {
-              "name": "Audio"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1117740",
-      "name": "My!hū",
-      "tagline": "See global climate disaster data into one real-time platform",
-      "url": "https://www.producthunt.com/products/myhu?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 77,
-      "commentsCount": 3,
-      "createdAt": "2026-04-15T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/511e4ee5-34de-47ca-8e53-8dd61857f056.vnd.microsoft.icon?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Analytics"
-            }
-          },
-          {
-            "node": {
-              "name": "Maps"
-            }
-          },
-          {
-            "node": {
-              "name": "Climate Tech"
             }
           }
         ]
