@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-04-26T17:01:01.961Z",
+  "fetchedAt": "2026-04-26T17:54:11.132Z",
   "posts": [
     {
       "id": "1131906",
       "name": "GPT-5.5 by OpenAI",
       "tagline": "OpenAI's smartest and most intuitive to use model yet",
       "url": "https://www.producthunt.com/products/openai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 286,
-      "commentsCount": 1,
+      "votesCount": 299,
+      "commentsCount": 2,
       "createdAt": "2026-04-26T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/f904aec8-e324-4aed-ae3b-ff68795ce44f.png?auto=format"
@@ -37,8 +37,8 @@
       "name": "Claude Connectors",
       "tagline": "New connectors in Claude for everyday life",
       "url": "https://www.producthunt.com/products/claude-connectors?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 246,
-      "commentsCount": 5,
+      "votesCount": 256,
+      "commentsCount": 6,
       "createdAt": "2026-04-26T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/375ff92d-28ec-4506-b260-a429c4e64de1.png?auto=format"
@@ -68,8 +68,8 @@
       "name": "QuickCompare by Trismik",
       "tagline": "Compare LLMs on your data, measure, and pick the best.",
       "url": "https://www.producthunt.com/products/quickcompare-by-trismik?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 145,
-      "commentsCount": 12,
+      "votesCount": 150,
+      "commentsCount": 13,
       "createdAt": "2026-04-26T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/3abe31c9-6062-4c90-8c99-fb8384b2aa4c.png?auto=format"
@@ -99,7 +99,7 @@
       "name": "Happenstance",
       "tagline": "Search your network with AI",
       "url": "https://www.producthunt.com/products/happenstance-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 135,
+      "votesCount": 138,
       "commentsCount": 1,
       "createdAt": "2026-04-26T07:01:00Z",
       "thumbnail": {
@@ -130,8 +130,8 @@
       "name": "Pica",
       "tagline": "Fully native app for managing your fonts on MacOS",
       "url": "https://www.producthunt.com/products/pica?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 135,
-      "commentsCount": 3,
+      "votesCount": 136,
+      "commentsCount": 4,
       "createdAt": "2026-04-26T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/c5954fba-c6f9-4181-aecd-ec852ffac8d6.png?auto=format"
@@ -197,8 +197,8 @@
       "name": "Free chart generator by Embedful",
       "tagline": "Turn CSV & Excel files into charts in seconds",
       "url": "https://www.producthunt.com/products/embedful?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 89,
-      "commentsCount": 3,
+      "votesCount": 90,
+      "commentsCount": 4,
       "createdAt": "2026-04-26T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/3a05ec75-430f-4b03-a233-d2c989dceebf.png?auto=format"
@@ -415,6 +415,37 @@
       }
     },
     {
+      "id": "1132327",
+      "name": "ZeroClaw",
+      "tagline": "Rust autonomous agent runtime. ~5MB core, runs on anything.",
+      "url": "https://www.producthunt.com/products/zeroclaw-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 5,
+      "commentsCount": 0,
+      "createdAt": "2026-04-26T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/92544c73-0448-417d-88ff-20d6541dc4f7.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Messaging"
+            }
+          },
+          {
+            "node": {
+              "name": "Robots"
+            }
+          },
+          {
+            "node": {
+              "name": "GitHub"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1132199",
       "name": "Repli",
       "tagline": "Get cited by every AI & Rank on Google on autopilot.",
@@ -477,37 +508,6 @@
       }
     },
     {
-      "id": "1132327",
-      "name": "ZeroClaw",
-      "tagline": "Rust autonomous agent runtime. ~5MB core, runs on anything.",
-      "url": "https://www.producthunt.com/products/zeroclaw-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 3,
-      "commentsCount": 0,
-      "createdAt": "2026-04-26T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/92544c73-0448-417d-88ff-20d6541dc4f7.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Messaging"
-            }
-          },
-          {
-            "node": {
-              "name": "Robots"
-            }
-          },
-          {
-            "node": {
-              "name": "GitHub"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1123213",
       "name": "Ethan Tales",
       "tagline": "Turn your kid's favorite toy into a bedtime storybook",
@@ -539,31 +539,31 @@
       }
     },
     {
-      "id": "1094001",
-      "name": "Capital Sound",
-      "tagline": "AI-powered daily market podcasts for investors",
-      "url": "https://www.producthunt.com/products/capital-sound?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "id": "1132414",
+      "name": "Sharply.me",
+      "tagline": "The world's sharpest freelance directory.",
+      "url": "https://www.producthunt.com/products/sharply-me?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 3,
-      "commentsCount": 2,
+      "commentsCount": 1,
       "createdAt": "2026-04-26T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/987fa9ac-c33a-4ede-a56c-85901082493a.png?auto=format"
+        "url": "https://ph-files.imgix.net/3903e20e-c01c-4329-83e1-f7032a02e1e5.svg?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "Fintech"
+              "name": "Productivity"
             }
           },
           {
             "node": {
-              "name": "Investing"
+              "name": "Freelance"
             }
           },
           {
             "node": {
-              "name": "Artificial Intelligence"
+              "name": "Marketing"
             }
           }
         ]
@@ -601,36 +601,31 @@
       }
     },
     {
-      "id": "1132316",
-      "name": "Fretless",
-      "tagline": "Touch, slide, loop- a fretless string instrument for Android",
-      "url": "https://www.producthunt.com/products/fretless?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 2,
+      "id": "1094001",
+      "name": "Capital Sound",
+      "tagline": "AI-powered daily market podcasts for investors",
+      "url": "https://www.producthunt.com/products/capital-sound?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 3,
       "commentsCount": 2,
       "createdAt": "2026-04-26T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/fafe1aac-c155-4fae-843b-b912e3d1d11f.png?auto=format"
+        "url": "https://ph-files.imgix.net/987fa9ac-c33a-4ede-a56c-85901082493a.png?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "Android"
+              "name": "Fintech"
             }
           },
           {
             "node": {
-              "name": "Music"
+              "name": "Investing"
             }
           },
           {
             "node": {
-              "name": "Maker Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Electronic Music"
+              "name": "Artificial Intelligence"
             }
           }
         ]
