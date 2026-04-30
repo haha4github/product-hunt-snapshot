@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-04-30T11:02:51.720Z",
+  "fetchedAt": "2026-04-30T12:21:24.562Z",
   "posts": [
     {
       "id": "1100364",
       "name": "VideoOS by Jupitrr AI",
       "tagline": "Your all-in-one video workflow",
       "url": "https://www.producthunt.com/products/jupitrr?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 120,
-      "commentsCount": 11,
+      "votesCount": 149,
+      "commentsCount": 13,
       "createdAt": "2026-04-30T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/b41a7a47-2cd5-4fbb-953d-42614e481738.png?auto=format"
@@ -37,8 +37,8 @@
       "name": "Mintlify Editor",
       "tagline": "AI-native collaborative editor",
       "url": "https://www.producthunt.com/products/mintlify?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 114,
-      "commentsCount": 2,
+      "votesCount": 145,
+      "commentsCount": 3,
       "createdAt": "2026-04-30T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/5daa9b0c-dec8-45be-856c-36a7e4957c32.png?auto=format"
@@ -64,37 +64,11 @@
       }
     },
     {
-      "id": "1133288",
-      "name": "Hera Launch",
-      "tagline": "Create studio-quality launch videos with AI",
-      "url": "https://www.producthunt.com/products/hera-6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 100,
-      "commentsCount": 6,
-      "createdAt": "2026-04-30T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/3755c965-4852-47ba-8523-671f0b3c5057.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Design Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1134873",
       "name": "Wonder",
       "tagline": "The AI design agent that works on your canvas",
       "url": "https://www.producthunt.com/products/wonder-public-alpha?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 98,
+      "votesCount": 134,
       "commentsCount": 2,
       "createdAt": "2026-04-30T07:01:00Z",
       "thumbnail": {
@@ -121,11 +95,37 @@
       }
     },
     {
+      "id": "1133288",
+      "name": "Hera Launch",
+      "tagline": "Create studio-quality launch videos with AI",
+      "url": "https://www.producthunt.com/products/hera-6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 113,
+      "commentsCount": 7,
+      "createdAt": "2026-04-30T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/3755c965-4852-47ba-8523-671f0b3c5057.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Design Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1129120",
       "name": "Gemini Deep Research Agent",
       "tagline": "Web and MCP research agents, now in Gemini API",
       "url": "https://www.producthunt.com/products/gemini-deep-research?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 96,
+      "votesCount": 111,
       "commentsCount": 3,
       "createdAt": "2026-04-30T07:01:00Z",
       "thumbnail": {
@@ -156,7 +156,7 @@
       "name": "File Generation in Gemini",
       "tagline": "Generate production-ready files directly in your chat",
       "url": "https://www.producthunt.com/products/gemini-6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 88,
+      "votesCount": 95,
       "commentsCount": 1,
       "createdAt": "2026-04-30T07:01:00Z",
       "thumbnail": {
@@ -178,11 +178,47 @@
       }
     },
     {
+      "id": "1130470",
+      "name": "Quarkdown",
+      "tagline": "Markdown wit LaTeX in a modern typesetting system",
+      "url": "https://www.producthunt.com/products/quarkdown?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 90,
+      "commentsCount": 3,
+      "createdAt": "2026-04-30T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/063ff643-3829-48bd-9b0e-d7fc3f08e062.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Open Source"
+            }
+          },
+          {
+            "node": {
+              "name": "Writing"
+            }
+          },
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "GitHub"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1083510",
       "name": "Rova AI",
       "tagline": "Autonomous, goal-driven testing for web & mobile apps",
       "url": "https://www.producthunt.com/products/rova-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 85,
+      "votesCount": 88,
       "commentsCount": 4,
       "createdAt": "2026-04-30T07:01:00Z",
       "thumbnail": {
@@ -204,42 +240,11 @@
       }
     },
     {
-      "id": "1135073",
-      "name": "Invite Only",
-      "tagline": "The event invite that actually gets people to show up",
-      "url": "https://www.producthunt.com/products/invite-only?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 84,
-      "commentsCount": 2,
-      "createdAt": "2026-04-30T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/7d0daab7-24bd-47e2-9f0b-9d6caa06d42b.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Social Media"
-            }
-          },
-          {
-            "node": {
-              "name": "Live Events"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1135305",
       "name": "Mistral Medium 3.5",
       "tagline": "A 128B model for coding, reasoning, and long tasks",
       "url": "https://www.producthunt.com/products/mistral-medium-3-5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 83,
+      "votesCount": 88,
       "commentsCount": 1,
       "createdAt": "2026-04-30T07:01:00Z",
       "thumbnail": {
@@ -266,12 +271,43 @@
       }
     },
     {
+      "id": "1135073",
+      "name": "Invite Only",
+      "tagline": "The event invite that actually gets people to show up",
+      "url": "https://www.producthunt.com/products/invite-only?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 86,
+      "commentsCount": 3,
+      "createdAt": "2026-04-30T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/7d0daab7-24bd-47e2-9f0b-9d6caa06d42b.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Social Media"
+            }
+          },
+          {
+            "node": {
+              "name": "Live Events"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1135645",
       "name": "SuperMind",
       "tagline": "Business that Runs Itself ",
       "url": "https://www.producthunt.com/products/supermind-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 82,
-      "commentsCount": 7,
+      "votesCount": 86,
+      "commentsCount": 8,
       "createdAt": "2026-04-30T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/94afa5e3-6024-456d-bfc9-76321d410782.png?auto=format"
@@ -297,43 +333,12 @@
       }
     },
     {
-      "id": "1134986",
-      "name": "Adoptly",
-      "tagline": "Turn product releases into feature adoption",
-      "url": "https://www.producthunt.com/products/adoptly?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 80,
-      "commentsCount": 6,
-      "createdAt": "2026-04-30T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/ae4880d3-bd3d-45d2-807a-17f983c43246.svg?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Customer Communication"
-            }
-          },
-          {
-            "node": {
-              "name": "Marketing"
-            }
-          },
-          {
-            "node": {
-              "name": "SaaS"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1135611",
       "name": "AstroGrid - Universe Engine",
       "tagline": "Explore the entire universe in your browser, in real 3D",
       "url": "https://www.producthunt.com/products/astrogrid?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 78,
-      "commentsCount": 1,
+      "votesCount": 83,
+      "commentsCount": 3,
       "createdAt": "2026-04-30T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/1ab46a1b-22f0-450a-b77c-8ce4dad1dfb6.png?auto=format"
@@ -359,15 +364,46 @@
       }
     },
     {
-      "id": "1130470",
-      "name": "Quarkdown",
-      "tagline": "Markdown wit LaTeX in a modern typesetting system",
-      "url": "https://www.producthunt.com/products/quarkdown?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 77,
+      "id": "1134986",
+      "name": "Adoptly",
+      "tagline": "Turn product releases into feature adoption",
+      "url": "https://www.producthunt.com/products/adoptly?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 82,
+      "commentsCount": 7,
+      "createdAt": "2026-04-30T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/e0b7687b-3ea1-43fa-b77a-a5556b3a0453.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Customer Communication"
+            }
+          },
+          {
+            "node": {
+              "name": "Marketing"
+            }
+          },
+          {
+            "node": {
+              "name": "SaaS"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1135434",
+      "name": "KushoAI for Playwright",
+      "tagline": "Open-source Terminal UI, just record & get exhaustive tests",
+      "url": "https://www.producthunt.com/products/kushoai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 80,
       "commentsCount": 1,
       "createdAt": "2026-04-30T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/063ff643-3829-48bd-9b0e-d7fc3f08e062.png?auto=format"
+        "url": "https://ph-files.imgix.net/dcc49a48-bd4e-422f-a98d-0a8092c1fb64.png?auto=format"
       },
       "topics": {
         "edges": [
@@ -378,17 +414,43 @@
           },
           {
             "node": {
-              "name": "Writing"
-            }
-          },
-          {
-            "node": {
               "name": "Developer Tools"
             }
           },
           {
             "node": {
               "name": "GitHub"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1135647",
+      "name": "Motorola Razr Fold",
+      "tagline": "A foldable phone built for pen-first productivity",
+      "url": "https://www.producthunt.com/products/motorola-g7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 77,
+      "commentsCount": 1,
+      "createdAt": "2026-04-30T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/fda7bff6-0990-4004-9dc3-55ab55651281.jpeg?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Hardware"
+            }
+          },
+          {
+            "node": {
+              "name": "Cell Phone"
             }
           }
         ]
@@ -426,31 +488,26 @@
       }
     },
     {
-      "id": "1135647",
-      "name": "Motorola Razr Fold",
-      "tagline": "A foldable phone built for pen-first productivity",
-      "url": "https://www.producthunt.com/products/motorola-g7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 75,
-      "commentsCount": 1,
+      "id": "1133647",
+      "name": "Symphony",
+      "tagline": "An open-source spec for Codex orchestration",
+      "url": "https://www.producthunt.com/products/openai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 74,
+      "commentsCount": 2,
       "createdAt": "2026-04-30T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/fda7bff6-0990-4004-9dc3-55ab55651281.jpeg?auto=format"
+        "url": "https://ph-files.imgix.net/f904aec8-e324-4aed-ae3b-ff68795ce44f.png?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "Productivity"
+              "name": "Open Source"
             }
           },
           {
             "node": {
-              "name": "Hardware"
-            }
-          },
-          {
-            "node": {
-              "name": "Cell Phone"
+              "name": "Artificial Intelligence"
             }
           }
         ]
@@ -461,7 +518,7 @@
       "name": "ElevenMusic",
       "tagline": "AI-assisted music creation with built-in discovery, royalty",
       "url": "https://www.producthunt.com/products/elevenmusic?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 72,
+      "votesCount": 73,
       "commentsCount": 1,
       "createdAt": "2026-04-30T07:01:00Z",
       "thumbnail": {
@@ -488,31 +545,26 @@
       }
     },
     {
-      "id": "1135434",
-      "name": "KushoAI for Playwright",
-      "tagline": "Open-source Terminal UI, just record & get exhaustive tests",
-      "url": "https://www.producthunt.com/products/kushoai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 76,
-      "commentsCount": 1,
+      "id": "1135620",
+      "name": "Docky",
+      "tagline": "Pin, group, and remove apps easily from your dock",
+      "url": "https://www.producthunt.com/products/docky-the-dock-rebuit-for-focus?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 72,
+      "commentsCount": 2,
       "createdAt": "2026-04-30T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/dcc49a48-bd4e-422f-a98d-0a8092c1fb64.png?auto=format"
+        "url": "https://ph-files.imgix.net/87124152-4cf6-4f81-9d3c-27b5ad47f347.png?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "Open Source"
+              "name": "Mac"
             }
           },
           {
             "node": {
-              "name": "Developer Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "GitHub"
+              "name": "Productivity"
             }
           }
         ]
@@ -523,7 +575,7 @@
       "name": "Tabstack",
       "tagline": "Extract web data and automate browsers, no scraper required.",
       "url": "https://www.producthunt.com/products/tabstack?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 70,
+      "votesCount": 72,
       "commentsCount": 3,
       "createdAt": "2026-04-30T07:01:00Z",
       "thumbnail": {
@@ -544,63 +596,6 @@
           {
             "node": {
               "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1133647",
-      "name": "Symphony",
-      "tagline": "An open-source spec for Codex orchestration",
-      "url": "https://www.producthunt.com/products/openai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 70,
-      "commentsCount": 2,
-      "createdAt": "2026-04-30T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/f904aec8-e324-4aed-ae3b-ff68795ce44f.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Open Source"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1135586",
-      "name": "Miaw AI secretary",
-      "tagline": "Non-invasive AI secretary to help without context switching",
-      "url": "https://www.producthunt.com/products/miaw-ai-secretary?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 70,
-      "commentsCount": 1,
-      "createdAt": "2026-04-30T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/7ada58cb-26de-458e-a780-0ef91c1369af.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Open Source"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          },
-          {
-            "node": {
-              "name": "GitHub"
             }
           }
         ]
