@@ -1,12 +1,12 @@
 {
-  "fetchedAt": "2026-05-01T21:02:26.558Z",
+  "fetchedAt": "2026-05-01T22:01:15.806Z",
   "posts": [
     {
       "id": "1132754",
       "name": "Postiz",
       "tagline": "Agentic social media scheduler for agents like OpenClaw",
       "url": "https://www.producthunt.com/products/postiz?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 333,
+      "votesCount": 351,
       "commentsCount": 41,
       "createdAt": "2026-05-01T07:01:00Z",
       "thumbnail": {
@@ -37,7 +37,7 @@
       "name": "Zed 1.0",
       "tagline": "High-performance, open source, multiplayer code editor",
       "url": "https://www.producthunt.com/products/zed?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 232,
+      "votesCount": 240,
       "commentsCount": 6,
       "createdAt": "2026-05-01T07:01:00Z",
       "thumbnail": {
@@ -73,7 +73,7 @@
       "name": "Marx Finance",
       "tagline": "AI agents debate the markets",
       "url": "https://www.producthunt.com/products/marx-finance?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 182,
+      "votesCount": 185,
       "commentsCount": 17,
       "createdAt": "2026-05-01T07:01:00Z",
       "thumbnail": {
@@ -104,8 +104,8 @@
       "name": "Buda",
       "tagline": "Recruit agents to run your company as a synchronous team",
       "url": "https://www.producthunt.com/products/buda-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 153,
-      "commentsCount": 15,
+      "votesCount": 159,
+      "commentsCount": 16,
       "createdAt": "2026-05-01T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/4c087d0d-1fd3-4b64-b8e7-198c30969b84.webp?auto=format"
@@ -135,7 +135,7 @@
       "name": "Bitgrain",
       "tagline": "Design studio lighter than Figma & more flexible than Canva",
       "url": "https://www.producthunt.com/products/bitgrain?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 131,
+      "votesCount": 133,
       "commentsCount": 13,
       "createdAt": "2026-05-01T07:01:00Z",
       "thumbnail": {
@@ -156,6 +156,42 @@
           {
             "node": {
               "name": "Graphic Design"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1136086",
+      "name": "Montage",
+      "tagline": "The runtime framework for agentic user interfaces!",
+      "url": "https://www.producthunt.com/products/montage-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 102,
+      "commentsCount": 7,
+      "createdAt": "2026-05-01T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/254bfb97-b897-4201-8fbb-31290296cac2.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "User Experience"
+            }
+          },
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "GitHub"
             }
           }
         ]
@@ -193,21 +229,52 @@
       }
     },
     {
-      "id": "1136086",
-      "name": "Montage",
-      "tagline": "The runtime framework for agentic user interfaces!",
-      "url": "https://www.producthunt.com/products/montage-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 96,
-      "commentsCount": 6,
+      "id": "1103214",
+      "name": "TrafficClaw",
+      "tagline": "Have a conversation with your SEO & analytics data ",
+      "url": "https://www.producthunt.com/products/trafficclaw?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 93,
+      "commentsCount": 4,
       "createdAt": "2026-05-01T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/254bfb97-b897-4201-8fbb-31290296cac2.png?auto=format"
+        "url": "https://ph-files.imgix.net/1a638de0-37b2-447c-b80a-071fb66b2f5c.png?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "User Experience"
+              "name": "Analytics"
+            }
+          },
+          {
+            "node": {
+              "name": "SEO"
+            }
+          },
+          {
+            "node": {
+              "name": "SaaS"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1136089",
+      "name": "Ghosted: Smart Presence",
+      "tagline": "Pause media or lock your screen when you step away",
+      "url": "https://www.producthunt.com/products/ghosted-smart-presence?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 89,
+      "commentsCount": 7,
+      "createdAt": "2026-05-01T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/16323ada-2285-48c8-bcb1-9c93c9d1f425.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Productivity"
             }
           },
           {
@@ -217,12 +284,7 @@
           },
           {
             "node": {
-              "name": "Artificial Intelligence"
-            }
-          },
-          {
-            "node": {
-              "name": "GitHub"
+              "name": "Menu Bar Apps"
             }
           }
         ]
@@ -260,73 +322,11 @@
       }
     },
     {
-      "id": "1103214",
-      "name": "TrafficClaw",
-      "tagline": "Have a conversation with your SEO & analytics data ",
-      "url": "https://www.producthunt.com/products/trafficclaw?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 87,
-      "commentsCount": 3,
-      "createdAt": "2026-05-01T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/1a638de0-37b2-447c-b80a-071fb66b2f5c.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Analytics"
-            }
-          },
-          {
-            "node": {
-              "name": "SEO"
-            }
-          },
-          {
-            "node": {
-              "name": "SaaS"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1136089",
-      "name": "Ghosted: Smart Presence",
-      "tagline": "Pause media or lock your screen when you step away",
-      "url": "https://www.producthunt.com/products/ghosted-smart-presence?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 82,
-      "commentsCount": 6,
-      "createdAt": "2026-05-01T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/16323ada-2285-48c8-bcb1-9c93c9d1f425.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Menu Bar Apps"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1135846",
       "name": "nudge",
       "tagline": "Drop your tasks. AI auto-schedules your whole week.",
       "url": "https://www.producthunt.com/products/nudge-26?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 81,
+      "votesCount": 82,
       "commentsCount": 13,
       "createdAt": "2026-05-01T07:01:00Z",
       "thumbnail": {
@@ -358,7 +358,7 @@
       "tagline": "Hide what shouldn’t be seen on your computer",
       "url": "https://www.producthunt.com/products/screenveil?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 80,
-      "commentsCount": 1,
+      "commentsCount": 2,
       "createdAt": "2026-05-01T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/a7b43032-2644-406e-a65e-4d9382ceb2ed.png?auto=format"
@@ -467,6 +467,37 @@
       }
     },
     {
+      "id": "1131587",
+      "name": "Zush",
+      "tagline": "Updated: docs support, BYOK, Local AI (Ollama), Windows App",
+      "url": "https://www.producthunt.com/products/zush?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 73,
+      "commentsCount": 1,
+      "createdAt": "2026-05-01T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/b3493e76-45b8-4294-85d6-82f324d5f0ec.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Windows"
+            }
+          },
+          {
+            "node": {
+              "name": "Mac"
+            }
+          },
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1135006",
       "name": "AnyDrop",
       "tagline": "AirDrop for the browser: share files, chat and sync notes",
@@ -492,37 +523,6 @@
           {
             "node": {
               "name": "Privacy"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1131587",
-      "name": "Zush",
-      "tagline": "Updated: docs support, BYOK, Local AI (Ollama), Windows App",
-      "url": "https://www.producthunt.com/products/zush?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 72,
-      "commentsCount": 1,
-      "createdAt": "2026-05-01T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/b3493e76-45b8-4294-85d6-82f324d5f0ec.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Windows"
-            }
-          },
-          {
-            "node": {
-              "name": "Mac"
-            }
-          },
-          {
-            "node": {
-              "name": "Productivity"
             }
           }
         ]
