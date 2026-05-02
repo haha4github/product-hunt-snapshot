@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-05-02T20:58:46.779Z",
+  "fetchedAt": "2026-05-02T21:53:55.858Z",
   "posts": [
     {
       "id": "1129347",
       "name": "Scholé",
       "tagline": "Turn everyday work into personalized AI learning",
       "url": "https://www.producthunt.com/products/schole-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 223,
-      "commentsCount": 25,
+      "votesCount": 229,
+      "commentsCount": 28,
       "createdAt": "2026-05-02T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/e69331ce-e853-48ca-9671-9ce028bfeb01.png?auto=format"
@@ -32,8 +32,8 @@
       "name": "Cloud Computer by Manus",
       "tagline": "A dedicated cloud machine for bots and software",
       "url": "https://www.producthunt.com/products/manus?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 202,
-      "commentsCount": 5,
+      "votesCount": 208,
+      "commentsCount": 6,
       "createdAt": "2026-05-02T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/a842fb62-c77e-4466-8206-86bf8780e048.png?auto=format"
@@ -63,7 +63,7 @@
       "name": "Feather",
       "tagline": "Photo editor with local AI",
       "url": "https://www.producthunt.com/products/feather-18?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 170,
+      "votesCount": 176,
       "commentsCount": 1,
       "createdAt": "2026-05-02T07:01:00Z",
       "thumbnail": {
@@ -94,7 +94,7 @@
       "name": "Microsoft Copilot Health",
       "tagline": "Dedicated space to bring your personal health data together",
       "url": "https://www.producthunt.com/products/copilot-health?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 125,
+      "votesCount": 127,
       "commentsCount": 2,
       "createdAt": "2026-05-02T07:01:00Z",
       "thumbnail": {
@@ -125,7 +125,7 @@
       "name": "YouTube TV Custom Multiview",
       "tagline": "Mix and match up to 4 live streams at once",
       "url": "https://www.producthunt.com/products/google?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 115,
+      "votesCount": 117,
       "commentsCount": 1,
       "createdAt": "2026-05-02T07:01:00Z",
       "thumbnail": {
@@ -192,7 +192,7 @@
       "name": "Ara",
       "tagline": "Build an entire business by texting",
       "url": "https://www.producthunt.com/products/dereference-the-100x-ide?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 106,
+      "votesCount": 107,
       "commentsCount": 8,
       "createdAt": "2026-05-02T07:01:00Z",
       "thumbnail": {
@@ -223,7 +223,7 @@
       "name": "Filect ",
       "tagline": "Organize Your Files With AI",
       "url": "https://www.producthunt.com/products/filect?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 103,
+      "votesCount": 105,
       "commentsCount": 7,
       "createdAt": "2026-05-02T07:01:00Z",
       "thumbnail": {
@@ -280,7 +280,7 @@
       "name": "BookstoRead.ai",
       "tagline": "Life’s too short for boring books. Let AI find your match",
       "url": "https://www.producthunt.com/products/bookstoread-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 51,
+      "votesCount": 52,
       "commentsCount": 28,
       "createdAt": "2026-05-02T07:01:00Z",
       "thumbnail": {
@@ -420,6 +420,37 @@
           {
             "node": {
               "name": "E-Commerce"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1136230",
+      "name": "Il Frullatore Carlà (Buffett-style App)",
+      "tagline": "A revolutionary app: a Buffett-style analysis in two minutes",
+      "url": "https://www.producthunt.com/products/reciptify-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 10,
+      "commentsCount": 3,
+      "createdAt": "2026-05-02T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/af81717a-bfe5-4851-9c60-ea238097bef6.avif?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Analytics"
+            }
+          },
+          {
+            "node": {
+              "name": "Education"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
             }
           }
         ]
@@ -570,37 +601,6 @@
           {
             "node": {
               "name": "GitHub"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1136034",
-      "name": "SeeCost",
-      "tagline": "All your LLM costs:OpenAI, Anthropic, Gemini — on one screen",
-      "url": "https://www.producthunt.com/products/seecost?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 9,
-      "commentsCount": 3,
-      "createdAt": "2026-05-02T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/154a100b-0208-4431-807e-9e6412d24805.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "API"
-            }
-          },
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Tech"
             }
           }
         ]
