@@ -1,39 +1,13 @@
 {
-  "fetchedAt": "2026-05-04T11:18:17.550Z",
+  "fetchedAt": "2026-05-04T13:00:24.675Z",
   "posts": [
-    {
-      "id": "1138368",
-      "name": "Codex Pets",
-      "tagline": "Animated companions for your Codex workflow",
-      "url": "https://www.producthunt.com/products/openai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 115,
-      "commentsCount": 2,
-      "createdAt": "2026-05-04T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/17065cb8-7468-46e1-aec4-27c924cefa74.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Pets"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
     {
       "id": "1130040",
       "name": "Mindra",
       "tagline": "Agent Teams You Can Actually Delegate To",
       "url": "https://www.producthunt.com/products/mindra?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 111,
-      "commentsCount": 14,
+      "votesCount": 149,
+      "commentsCount": 21,
       "createdAt": "2026-05-04T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/5ff5a193-a462-404e-8032-abce5121eeaf.png?auto=format"
@@ -59,12 +33,69 @@
       }
     },
     {
+      "id": "1138368",
+      "name": "Codex Pets",
+      "tagline": "Animated companions for your Codex workflow",
+      "url": "https://www.producthunt.com/products/openai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 139,
+      "commentsCount": 2,
+      "createdAt": "2026-05-04T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/17065cb8-7468-46e1-aec4-27c924cefa74.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Pets"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1138321",
+      "name": "Aaavatar",
+      "tagline": "Branded team headshots in one drop",
+      "url": "https://www.producthunt.com/products/aaavatar?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 135,
+      "commentsCount": 7,
+      "createdAt": "2026-05-04T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/30c3bb70-f99a-43c8-9e96-b024aab81e32.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Design Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1137712",
       "name": "Flowly",
       "tagline": "Your personal AI assistant, native to your desktop",
       "url": "https://www.producthunt.com/products/flowly-6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 107,
-      "commentsCount": 2,
+      "votesCount": 118,
+      "commentsCount": 3,
       "createdAt": "2026-05-04T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/099957c1-6c19-4093-a14a-2064ec0a3736.png?auto=format"
@@ -95,42 +126,11 @@
       }
     },
     {
-      "id": "1138321",
-      "name": "Aaavatar",
-      "tagline": "Branded team headshots in one drop",
-      "url": "https://www.producthunt.com/products/aaavatar?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 106,
-      "commentsCount": 6,
-      "createdAt": "2026-05-04T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/30c3bb70-f99a-43c8-9e96-b024aab81e32.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Design Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1135782",
       "name": "Claude Code & Codex Usage Trading Cards by Rudel",
       "tagline": "Get your trading card based on your CC & codex usage",
       "url": "https://www.producthunt.com/products/rudel?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 103,
+      "votesCount": 112,
       "commentsCount": 1,
       "createdAt": "2026-05-04T07:01:00Z",
       "thumbnail": {
@@ -166,7 +166,7 @@
       "name": "Dropy",
       "tagline": "Track prices on stores like Amazon, eBay, & AliExpress",
       "url": "https://www.producthunt.com/products/dropy-price-tracker-price-history?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 99,
+      "votesCount": 111,
       "commentsCount": 4,
       "createdAt": "2026-05-04T07:01:00Z",
       "thumbnail": {
@@ -189,11 +189,11 @@
     },
     {
       "id": "1124668",
-      "name": "Visitor Profiles and Timeline by Croct",
+      "name": "Visitor profiles and timeline by Croct",
       "tagline": "Uncover the story behind every click to optimize your site",
       "url": "https://www.producthunt.com/products/croct?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 93,
-      "commentsCount": 2,
+      "votesCount": 101,
+      "commentsCount": 3,
       "createdAt": "2026-05-04T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/aa72ba29-4c42-4722-9748-d1c78000885c.jpeg?auto=format"
@@ -219,42 +219,11 @@
       }
     },
     {
-      "id": "1137964",
-      "name": "Sleek Analytics for iOS",
-      "tagline": "Your website analytics in your pocket",
-      "url": "https://www.producthunt.com/products/sleek-analytics?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 90,
-      "commentsCount": 7,
-      "createdAt": "2026-05-04T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/ec34e720-d618-47f2-bff6-b0887b695d81.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Analytics"
-            }
-          },
-          {
-            "node": {
-              "name": "Marketing"
-            }
-          },
-          {
-            "node": {
-              "name": "Privacy"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1127739",
       "name": "Replyke V7",
       "tagline": "Pre-Modeled Infra & Client SDKs for User-Powered Products.",
       "url": "https://www.producthunt.com/products/replyke?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 88,
+      "votesCount": 94,
       "commentsCount": 9,
       "createdAt": "2026-05-04T07:01:00Z",
       "thumbnail": {
@@ -281,11 +250,42 @@
       }
     },
     {
+      "id": "1137964",
+      "name": "Sleek Analytics for iOS",
+      "tagline": "Your website analytics in your pocket",
+      "url": "https://www.producthunt.com/products/sleek-analytics?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 93,
+      "commentsCount": 7,
+      "createdAt": "2026-05-04T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/ec34e720-d618-47f2-bff6-b0887b695d81.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Analytics"
+            }
+          },
+          {
+            "node": {
+              "name": "Marketing"
+            }
+          },
+          {
+            "node": {
+              "name": "Privacy"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1137365",
       "name": "Manex",
       "tagline": "Preserve useful answers, corrections, and context as memory",
       "url": "https://www.producthunt.com/products/manex?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 88,
+      "votesCount": 91,
       "commentsCount": 1,
       "createdAt": "2026-05-04T07:01:00Z",
       "thumbnail": {
@@ -316,8 +316,8 @@
       "name": "Regulus by Cumbuca",
       "tagline": "AI chatbot trained on Brazil's Central Bank regulations",
       "url": "https://www.producthunt.com/products/cumbuca?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 87,
-      "commentsCount": 3,
+      "votesCount": 91,
+      "commentsCount": 5,
       "createdAt": "2026-05-04T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/26a95920-f979-4e66-9e37-56089d5e9c87.png?auto=format"
@@ -347,7 +347,7 @@
       "name": "Panels Store",
       "tagline": "Buy DRM-free comics and read them instantly in Panels",
       "url": "https://www.producthunt.com/products/panels-store?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 86,
+      "votesCount": 88,
       "commentsCount": 1,
       "createdAt": "2026-05-04T07:01:00Z",
       "thumbnail": {
@@ -373,8 +373,8 @@
       "name": "Mobilewright",
       "tagline": "Playwright for iOS and Android. Free and open source",
       "url": "https://www.producthunt.com/products/mobilewright?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 23,
-      "commentsCount": 4,
+      "votesCount": 27,
+      "commentsCount": 5,
       "createdAt": "2026-05-04T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/7610f61a-ac91-46bd-9362-27192a8696d9.png?auto=format"
@@ -400,12 +400,141 @@
       }
     },
     {
+      "id": "1138305",
+      "name": "DANCING CATS App",
+      "tagline": "Hover Here to See PH Kitty Dance 🙀 (Cat Pic to Dance Video)",
+      "url": "https://www.producthunt.com/products/dancing-cats-app?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 16,
+      "commentsCount": 5,
+      "createdAt": "2026-05-04T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/12310d83-409e-437b-9064-5ce91067957e.gif?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Pets"
+            }
+          },
+          {
+            "node": {
+              "name": "Photography"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1138406",
+      "name": "Highlyt",
+      "tagline": "You highlight. You forget. Highlyt connects the dots.",
+      "url": "https://www.producthunt.com/products/highlyt?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 16,
+      "commentsCount": 1,
+      "createdAt": "2026-05-04T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/8a8e842b-d984-4ea9-8fe0-e79b77d88308.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Writing"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1137481",
+      "name": "Doomscroll Calculator (by Habit Doom)",
+      "tagline": "How many years will your phone steal from you?",
+      "url": "https://www.producthunt.com/products/doomscroll-calculator?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 14,
+      "commentsCount": 2,
+      "createdAt": "2026-05-04T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/bcc604c2-a45f-420b-a4f0-b2bf2dcb1694.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Time Tracking"
+            }
+          },
+          {
+            "node": {
+              "name": "Health"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1138125",
+      "name": "DecisionBox for Amazon Redshift",
+      "tagline": "Autonomous AI discovery on Amazon Redshift.",
+      "url": "https://www.producthunt.com/products/decisionbox?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 13,
+      "commentsCount": 2,
+      "createdAt": "2026-05-04T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/91f081f2-a315-481c-99b7-0feec3c62511.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Open Source"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "GitHub"
+            }
+          },
+          {
+            "node": {
+              "name": "Data & Analytics"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1138449",
       "name": "Postmerge",
       "tagline": "Personalized mail merge that lives inside Gmail",
       "url": "https://www.producthunt.com/products/postmerge?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 11,
-      "commentsCount": 2,
+      "commentsCount": 3,
       "createdAt": "2026-05-04T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/7ec8fb1c-85bc-40d0-b719-a2dc547e07e4.png?auto=format"
@@ -462,114 +591,21 @@
       }
     },
     {
-      "id": "1138406",
-      "name": "Highlyt",
-      "tagline": "You highlight. You forget. Highlyt connects the dots.",
-      "url": "https://www.producthunt.com/products/highlyt?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "id": "1138442",
+      "name": "Claude Code Teaches",
+      "tagline": "50 AI-Native Coding Curricula for Claude Code & Cursor",
+      "url": "https://www.producthunt.com/products/claude-code-teaches?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 10,
       "commentsCount": 1,
       "createdAt": "2026-05-04T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/8a8e842b-d984-4ea9-8fe0-e79b77d88308.png?auto=format"
+        "url": "https://ph-files.imgix.net/9786c7f1-61c2-4147-aa20-5db5aeb2accd.png?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Writing"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1137481",
-      "name": "Doomscroll Calculator (by Habit Doom)",
-      "tagline": "How many years will your phone steal from you?",
-      "url": "https://www.producthunt.com/products/doomscroll-calculator?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 10,
-      "commentsCount": 1,
-      "createdAt": "2026-05-04T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/bcc604c2-a45f-420b-a4f0-b2bf2dcb1694.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Time Tracking"
-            }
-          },
-          {
-            "node": {
-              "name": "Health"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1138305",
-      "name": "DANCING CATS App",
-      "tagline": "Hover Here to See PH Kitty Dance 🙀 (Cat Pic to Dance Video)",
-      "url": "https://www.producthunt.com/products/dancing-cats-app?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 10,
-      "commentsCount": 1,
-      "createdAt": "2026-05-04T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/12310d83-409e-437b-9064-5ce91067957e.gif?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Pets"
-            }
-          },
-          {
-            "node": {
-              "name": "Photography"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1138125",
-      "name": "DecisionBox for Amazon Redshift",
-      "tagline": "Autonomous AI discovery on Amazon Redshift.",
-      "url": "https://www.producthunt.com/products/decisionbox?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 8,
-      "commentsCount": 2,
-      "createdAt": "2026-05-04T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/91f081f2-a315-481c-99b7-0feec3c62511.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Open Source"
+              "name": "Education"
             }
           },
           {
@@ -579,43 +615,7 @@
           },
           {
             "node": {
-              "name": "GitHub"
-            }
-          },
-          {
-            "node": {
-              "name": "Data & Analytics"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1121788",
-      "name": "ChicChic: The Social Beauty Marketplace",
-      "tagline": "See it. Want it? Book it. The easiest way to find a pro.",
-      "url": "https://www.producthunt.com/products/chicchic-the-social-beauty-marketplace?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 7,
-      "commentsCount": 1,
-      "createdAt": "2026-05-04T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/572a1a20-4d8b-47e9-bb41-69524368b70e.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Social Network"
-            }
-          },
-          {
-            "node": {
-              "name": "Beauty"
-            }
-          },
-          {
-            "node": {
-              "name": "SaaS"
+              "name": "Computers"
             }
           }
         ]
