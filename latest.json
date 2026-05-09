@@ -1,12 +1,12 @@
 {
-  "fetchedAt": "2026-05-09T11:36:37.844Z",
+  "fetchedAt": "2026-05-09T12:41:06.597Z",
   "posts": [
     {
       "id": "1141635",
       "name": "Ghost",
       "tagline": "Open-source, self-hosted game servers",
       "url": "https://www.producthunt.com/products/ghost-8?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 106,
+      "votesCount": 133,
       "commentsCount": 3,
       "createdAt": "2026-05-09T07:01:00Z",
       "thumbnail": {
@@ -37,8 +37,8 @@
       "name": "How AI-pilled are you?",
       "tagline": "Curious how AI-fluent your organization is?",
       "url": "https://www.producthunt.com/products/how-ai-pilled-are-you?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 104,
-      "commentsCount": 5,
+      "votesCount": 123,
+      "commentsCount": 6,
       "createdAt": "2026-05-09T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/aabbacbc-1ad1-4f5f-ac42-58a53a116cd5.png?auto=format"
@@ -58,8 +58,8 @@
       "name": "Zappy by ZapDigits",
       "tagline": "Your AI reporting analyst",
       "url": "https://www.producthunt.com/products/zapdigits?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 102,
-      "commentsCount": 8,
+      "votesCount": 116,
+      "commentsCount": 12,
       "createdAt": "2026-05-09T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/ec9ec45f-885c-49e9-a8a8-00f992e7cc37.gif?auto=format"
@@ -89,7 +89,7 @@
       "name": "Prism",
       "tagline": "Hire the best candidates, not just the available",
       "url": "https://www.producthunt.com/products/prism-26?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 97,
+      "votesCount": 103,
       "commentsCount": 9,
       "createdAt": "2026-05-09T07:01:00Z",
       "thumbnail": {
@@ -106,11 +106,37 @@
       }
     },
     {
+      "id": "1134018",
+      "name": "Pop",
+      "tagline": "Everyday messaging, voice first",
+      "url": "https://www.producthunt.com/products/pop-13?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 92,
+      "commentsCount": 3,
+      "createdAt": "2026-05-09T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/9c14c696-adb2-4ea2-8b48-c4a3c02b1779.svg?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Messaging"
+            }
+          },
+          {
+            "node": {
+              "name": "Audio"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1141615",
       "name": "BugDrop",
       "tagline": "In-app feedback that creates GitHub Issues with screenshots",
       "url": "https://www.producthunt.com/products/bugdrop-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 81,
+      "votesCount": 86,
       "commentsCount": 3,
       "createdAt": "2026-05-09T07:01:00Z",
       "thumbnail": {
@@ -142,26 +168,26 @@
       }
     },
     {
-      "id": "1134018",
-      "name": "Pop",
-      "tagline": "Everyday messaging, voice first",
-      "url": "https://www.producthunt.com/products/pop-13?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 80,
+      "id": "1142384",
+      "name": "Codex in Chrome",
+      "tagline": "Let Codex navigate and automate tasks in your browser",
+      "url": "https://www.producthunt.com/products/openai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 82,
       "commentsCount": 1,
       "createdAt": "2026-05-09T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/9c14c696-adb2-4ea2-8b48-c4a3c02b1779.svg?auto=format"
+        "url": "https://ph-files.imgix.net/d7384cac-f8ac-462f-86c2-049aaf94eb2a.png?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "Messaging"
+              "name": "Chrome Extensions"
             }
           },
           {
             "node": {
-              "name": "Audio"
+              "name": "Artificial Intelligence"
             }
           }
         ]
@@ -172,7 +198,7 @@
       "name": "nocal 4",
       "tagline": "The calendar that thinks like a workspace",
       "url": "https://www.producthunt.com/products/nocal?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 78,
+      "votesCount": 79,
       "commentsCount": 3,
       "createdAt": "2026-05-09T07:01:00Z",
       "thumbnail": {
@@ -204,26 +230,57 @@
       }
     },
     {
-      "id": "1142384",
-      "name": "Codex in Chrome",
-      "tagline": "Let Codex navigate and automate tasks in your browser",
-      "url": "https://www.producthunt.com/products/openai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 78,
-      "commentsCount": 1,
+      "id": "1139760",
+      "name": "MolmoAct 2",
+      "tagline": "Open robotics model that reasons in 3D before acting",
+      "url": "https://www.producthunt.com/products/allen-institute-of-artificial-intelligence?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 76,
+      "commentsCount": 3,
       "createdAt": "2026-05-09T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/d7384cac-f8ac-462f-86c2-049aaf94eb2a.png?auto=format"
+        "url": "https://ph-files.imgix.net/5ee42dc2-50ea-4cbf-ad6c-841aa288d346.jpeg?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "Chrome Extensions"
+              "name": "Robots"
             }
           },
           {
             "node": {
               "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1140437",
+      "name": "Glowix",
+      "tagline": "Keep your Mac display awake exactly when you need it",
+      "url": "https://www.producthunt.com/products/glowix?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 74,
+      "commentsCount": 1,
+      "createdAt": "2026-05-09T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/ee7db75f-05bd-4382-86e1-d5994c2d9a44.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Mac"
+            }
+          },
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Menu Bar Apps"
             }
           }
         ]
@@ -261,42 +318,11 @@
       }
     },
     {
-      "id": "1140437",
-      "name": "Glowix",
-      "tagline": "Keep your Mac display awake exactly when you need it",
-      "url": "https://www.producthunt.com/products/glowix?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 73,
-      "commentsCount": 1,
-      "createdAt": "2026-05-09T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/ee7db75f-05bd-4382-86e1-d5994c2d9a44.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Mac"
-            }
-          },
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Menu Bar Apps"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1140343",
       "name": "ClawTick",
       "tagline": "Cron jobs for AI agents w/ one command, zero infrastructure",
       "url": "https://www.producthunt.com/products/clawtick?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 72,
+      "votesCount": 74,
       "commentsCount": 3,
       "createdAt": "2026-05-09T07:01:00Z",
       "thumbnail": {
@@ -327,7 +353,7 @@
       "name": "Manuscripts.app",
       "tagline": "For academics who have outgrown the spreadsheet tracker",
       "url": "https://www.producthunt.com/products/manuscripts-app?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 70,
+      "votesCount": 71,
       "commentsCount": 1,
       "createdAt": "2026-05-09T07:01:00Z",
       "thumbnail": {
@@ -348,32 +374,6 @@
           {
             "node": {
               "name": "Education"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1139760",
-      "name": "MolmoAct 2",
-      "tagline": "Open robotics model that reasons in 3D before acting",
-      "url": "https://www.producthunt.com/products/allen-institute-of-artificial-intelligence?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 70,
-      "commentsCount": 3,
-      "createdAt": "2026-05-09T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/5ee42dc2-50ea-4cbf-ad6c-841aa288d346.jpeg?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Robots"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
             }
           }
         ]
@@ -420,8 +420,8 @@
       "name": "Staff.rip",
       "tagline": "Describe a code change in plain language and ship it",
       "url": "https://www.producthunt.com/products/staff-rip?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 66,
-      "commentsCount": 3,
+      "votesCount": 68,
+      "commentsCount": 5,
       "createdAt": "2026-05-09T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/ca01e7b9-a27c-4358-908b-61e23cbb5d8a.png?auto=format"
@@ -451,7 +451,7 @@
       "name": "GoldenRetriever.ai Public Beta",
       "tagline": "Search for stuff that's not in the transcripts",
       "url": "https://www.producthunt.com/products/goldenretriever?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 29,
+      "votesCount": 38,
       "commentsCount": 3,
       "createdAt": "2026-05-09T07:01:00Z",
       "thumbnail": {
@@ -482,8 +482,8 @@
       "name": "Article Banner Generator",
       "tagline": "Free OG Image & Blog Cover Generator",
       "url": "https://www.producthunt.com/products/article-banner-generator?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 25,
-      "commentsCount": 7,
+      "votesCount": 32,
+      "commentsCount": 8,
       "createdAt": "2026-05-09T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/9ea7054d-ebe5-44b3-b42c-b3d4020f1dd4.svg?auto=format"
@@ -513,8 +513,8 @@
       "name": "Clean",
       "tagline": "The first self-improving IDE that learns how your team codes",
       "url": "https://www.producthunt.com/products/clean-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 22,
-      "commentsCount": 4,
+      "votesCount": 25,
+      "commentsCount": 5,
       "createdAt": "2026-05-09T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/4ea8da97-9f28-4418-a9b8-0bf9395149ed.png?auto=format"
