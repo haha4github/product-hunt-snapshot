@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-05-26T14:23:04.095Z",
+  "fetchedAt": "2026-05-26T17:41:49.039Z",
   "posts": [
     {
       "id": "1149886",
       "name": "Brew ",
       "tagline": "Like Claude design for email marketing",
       "url": "https://www.producthunt.com/products/brew-5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 303,
-      "commentsCount": 55,
+      "votesCount": 403,
+      "commentsCount": 79,
       "createdAt": "2026-05-26T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/a805620c-ee33-47e2-973d-5d6ea3f646a3.gif?auto=format"
@@ -37,8 +37,8 @@
       "name": "Bond",
       "tagline": "Outbound campaigns powered by real buying signals",
       "url": "https://www.producthunt.com/products/outbond?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 230,
-      "commentsCount": 16,
+      "votesCount": 272,
+      "commentsCount": 22,
       "createdAt": "2026-05-26T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/75957930-4ba3-4608-a965-b22ec56b3c59.png?auto=format"
@@ -68,8 +68,8 @@
       "name": "Rezonant",
       "tagline": "Talk, spec, ship: get your product ideas into production",
       "url": "https://www.producthunt.com/products/portia-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 170,
-      "commentsCount": 47,
+      "votesCount": 197,
+      "commentsCount": 54,
       "createdAt": "2026-05-26T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/6de8c4b0-881b-4933-a3aa-3dfaf8beca07.png?auto=format"
@@ -95,43 +95,12 @@
       }
     },
     {
-      "id": "1155711",
-      "name": "Parrot Speech-to-text API",
-      "tagline": "Fast, accurate STT for production-grade voice agents",
-      "url": "https://www.producthunt.com/products/parrot-speech-to-text-api?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 135,
-      "commentsCount": 17,
-      "createdAt": "2026-05-26T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/8a251e51-a9c9-48f2-93dd-42474cc29f1a.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "API"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          },
-          {
-            "node": {
-              "name": "Audio"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1155470",
       "name": "QuakPit",
       "tagline": "Meeting reminders that actually make you smile.",
       "url": "https://www.producthunt.com/products/quakpit?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 124,
-      "commentsCount": 17,
+      "votesCount": 160,
+      "commentsCount": 21,
       "createdAt": "2026-05-26T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/a97f75ec-c57b-4553-aba9-eaea7b68ede5.png?auto=format"
@@ -162,12 +131,74 @@
       }
     },
     {
+      "id": "1155711",
+      "name": "Parrot Speech-to-text API",
+      "tagline": "Fast, accurate STT for production-grade voice agents",
+      "url": "https://www.producthunt.com/products/parrot-speech-to-text-api?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 144,
+      "commentsCount": 18,
+      "createdAt": "2026-05-26T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/8a251e51-a9c9-48f2-93dd-42474cc29f1a.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "API"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "Audio"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1150786",
+      "name": "AVTR-1 Real-Time Open Weights Model",
+      "tagline": "Generating uncanny AI avatars is now open source ",
+      "url": "https://www.producthunt.com/products/avaturn-live-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 137,
+      "commentsCount": 14,
+      "createdAt": "2026-05-26T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/069fde3c-b5f1-40fc-86e7-064ac424d573.jpeg?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Video Streaming"
+            }
+          },
+          {
+            "node": {
+              "name": "Open Source"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1155865",
       "name": "SelectPrism",
       "tagline": "Agents that screen and interview so you can hire faster",
       "url": "https://www.producthunt.com/products/selectprism?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 111,
-      "commentsCount": 33,
+      "votesCount": 120,
+      "commentsCount": 17,
       "createdAt": "2026-05-26T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/da3ea777-ca84-4b4c-9c7f-a73e893ea640.png?auto=format"
@@ -197,8 +228,8 @@
       "name": "Willow Scribe",
       "tagline": "Tell Scribe what to say. It writes the rest.",
       "url": "https://www.producthunt.com/products/willow-voice?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 108,
-      "commentsCount": 4,
+      "votesCount": 120,
+      "commentsCount": 8,
       "createdAt": "2026-05-26T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/75bede2c-ac00-4f6e-b17d-6cc6187a54ac.png?auto=format"
@@ -224,43 +255,12 @@
       }
     },
     {
-      "id": "1150786",
-      "name": "AVTR-1 Real-Time Open Weights Model",
-      "tagline": "Generating uncanny AI avatars is now open source ",
-      "url": "https://www.producthunt.com/products/avaturn-live-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 107,
-      "commentsCount": 11,
-      "createdAt": "2026-05-26T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/069fde3c-b5f1-40fc-86e7-064ac424d573.jpeg?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Video Streaming"
-            }
-          },
-          {
-            "node": {
-              "name": "Open Source"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1155776",
       "name": "DodoForm",
       "tagline": "Turn talking, pics, or scribbles into clean, structured data",
       "url": "https://www.producthunt.com/products/dodoform?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 102,
-      "commentsCount": 6,
+      "votesCount": 109,
+      "commentsCount": 9,
       "createdAt": "2026-05-26T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/51281865-7201-4da7-978e-a3c278b4f3b9.png?auto=format"
@@ -290,8 +290,8 @@
       "name": "LangPanda",
       "tagline": "Learn languages from watching your favorite shows",
       "url": "https://www.producthunt.com/products/langpanda?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 99,
-      "commentsCount": 12,
+      "votesCount": 106,
+      "commentsCount": 17,
       "createdAt": "2026-05-26T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/d388a60e-154a-424c-b2fb-cd5d8cd641aa.png?auto=format"
@@ -322,11 +322,42 @@
       }
     },
     {
+      "id": "1153666",
+      "name": "Parsewise API",
+      "tagline": "API for agentic multi-document processing",
+      "url": "https://www.producthunt.com/products/parsewise?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 104,
+      "commentsCount": 9,
+      "createdAt": "2026-05-26T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/f0ba3a73-acd5-4d16-b840-53c3a2041339.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "API"
+            }
+          },
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1155907",
       "name": "Ferrari Luce",
       "tagline": "The first electric Ferrari designed by LoveFrom",
       "url": "https://www.producthunt.com/products/ferrari-luce-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 97,
+      "votesCount": 102,
       "commentsCount": 5,
       "createdAt": "2026-05-26T07:01:00Z",
       "thumbnail": {
@@ -353,100 +384,12 @@
       }
     },
     {
-      "id": "1153666",
-      "name": "Parsewise API",
-      "tagline": "API for agentic multi-document processing",
-      "url": "https://www.producthunt.com/products/parsewise?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 94,
-      "commentsCount": 12,
-      "createdAt": "2026-05-26T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/f0ba3a73-acd5-4d16-b840-53c3a2041339.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "API"
-            }
-          },
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1150115",
-      "name": "crunr ",
-      "tagline": "Launch and run any compute job on AWS with 1 command",
-      "url": "https://www.producthunt.com/products/crunr-run-it-ghost-it?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 94,
-      "commentsCount": 8,
-      "createdAt": "2026-05-26T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/82c7d6bc-d2b3-49b0-a374-210f7bc5b976.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Tech"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1154818",
-      "name": "marpy.io",
-      "tagline": "AI coding platform built specifically for the Python stack",
-      "url": "https://www.producthunt.com/products/marpy-io-python-first-ai-dev-platform?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 93,
-      "commentsCount": 7,
-      "createdAt": "2026-05-26T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/7d0ea4a7-a519-4f2e-a039-95e66eaa3da1.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          },
-          {
-            "node": {
-              "name": "Development"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1150599",
       "name": "Kept",
       "tagline": "Your AI chats, saved as Markdown locally with no cloud",
       "url": "https://www.producthunt.com/products/kept-ai-on-your-local-conversations?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 90,
-      "commentsCount": 9,
+      "votesCount": 98,
+      "commentsCount": 17,
       "createdAt": "2026-05-26T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/7552ab28-8b2c-4caa-ae85-815a6f748a41.png?auto=format"
@@ -472,31 +415,57 @@
       }
     },
     {
-      "id": "1151877",
-      "name": "blokdots 3.0",
-      "tagline": "Prototype hardware visually, export real C++ for engineering",
-      "url": "https://www.producthunt.com/products/blokdots?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 85,
-      "commentsCount": 6,
+      "id": "1150115",
+      "name": "crunr ",
+      "tagline": "Launch and run any compute job on AWS with 1 command",
+      "url": "https://www.producthunt.com/products/crunr-run-it-ghost-it?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 97,
+      "commentsCount": 8,
       "createdAt": "2026-05-26T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/0d255f84-8954-426b-bd36-219a821393ad.png?auto=format"
+        "url": "https://ph-files.imgix.net/82c7d6bc-d2b3-49b0-a374-210f7bc5b976.png?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "Design Tools"
+              "name": "Developer Tools"
             }
           },
           {
             "node": {
-              "name": "Prototyping"
+              "name": "Tech"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1154818",
+      "name": "marpy.io",
+      "tagline": "AI coding platform built specifically for the Python stack",
+      "url": "https://www.producthunt.com/products/marpy-io-python-first-ai-dev-platform?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 95,
+      "commentsCount": 6,
+      "createdAt": "2026-05-26T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/7d0ea4a7-a519-4f2e-a039-95e66eaa3da1.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Developer Tools"
             }
           },
           {
             "node": {
-              "name": "Hardware"
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "Development"
             }
           }
         ]
@@ -507,7 +476,7 @@
       "name": "MiniCPM5-1B",
       "tagline": "A new SOTA for compact open models on the edge",
       "url": "https://www.producthunt.com/products/minicpm-4-0?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 85,
+      "votesCount": 88,
       "commentsCount": 2,
       "createdAt": "2026-05-26T07:01:00Z",
       "thumbnail": {
@@ -539,11 +508,73 @@
       }
     },
     {
+      "id": "1155162",
+      "name": "Ormedo",
+      "tagline": "Let AI agents handle your entire outbound pipeline",
+      "url": "https://www.producthunt.com/products/ormedo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 87,
+      "commentsCount": 8,
+      "createdAt": "2026-05-26T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/9ca76404-a782-4102-8c73-4c2df90716fc.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Email"
+            }
+          },
+          {
+            "node": {
+              "name": "Sales"
+            }
+          },
+          {
+            "node": {
+              "name": "SaaS"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1151877",
+      "name": "blokdots 3.0",
+      "tagline": "Prototype hardware visually, export real C++ for engineering",
+      "url": "https://www.producthunt.com/products/blokdots?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 86,
+      "commentsCount": 6,
+      "createdAt": "2026-05-26T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/0d255f84-8954-426b-bd36-219a821393ad.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Design Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Prototyping"
+            }
+          },
+          {
+            "node": {
+              "name": "Hardware"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1150203",
       "name": "DNSimple CLI",
       "tagline": "Manage Your DNS from the Command Line with DNSimple CLI",
       "url": "https://www.producthunt.com/products/dnsimple?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 83,
+      "votesCount": 85,
       "commentsCount": 1,
       "createdAt": "2026-05-26T07:01:00Z",
       "thumbnail": {
@@ -575,62 +606,31 @@
       }
     },
     {
-      "id": "1155162",
-      "name": "Ormedo",
-      "tagline": "Let AI agents handle your entire outbound pipeline",
-      "url": "https://www.producthunt.com/products/ormedo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "id": "1147002",
+      "name": "Tesserac",
+      "tagline": "A spatial alternative to Cmd+Tab for macOS",
+      "url": "https://www.producthunt.com/products/tesserac?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 81,
-      "commentsCount": 8,
+      "commentsCount": 5,
       "createdAt": "2026-05-26T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/9ca76404-a782-4102-8c73-4c2df90716fc.png?auto=format"
+        "url": "https://ph-files.imgix.net/f352bedb-b020-4b2c-b7bc-5f447aca8c40.png?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "Email"
+              "name": "Mac"
             }
           },
           {
             "node": {
-              "name": "Sales"
-            }
-          },
-          {
-            "node": {
-              "name": "SaaS"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1155329",
-      "name": "Trace",
-      "tagline": "No-frills offline meeting transcripts with context",
-      "url": "https://www.producthunt.com/products/trace-27?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 78,
-      "commentsCount": 9,
-      "createdAt": "2026-05-26T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/9c92c713-266d-4966-8905-6a098de6669d.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Notes"
+              "name": "Productivity"
             }
           },
           {
             "node": {
               "name": "Menu Bar Apps"
-            }
-          },
-          {
-            "node": {
-              "name": "Audio"
             }
           }
         ]
