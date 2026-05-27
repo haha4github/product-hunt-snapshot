@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-05-27T11:48:42.743Z",
+  "fetchedAt": "2026-05-27T14:45:50.710Z",
   "posts": [
     {
       "id": "1154630",
       "name": "Bluedot 2.1",
       "tagline": "Record on Apple Watch. Sync with Claude",
       "url": "https://www.producthunt.com/products/bluedot-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 153,
-      "commentsCount": 5,
+      "votesCount": 236,
+      "commentsCount": 14,
       "createdAt": "2026-05-27T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/4eecd806-001b-456a-b591-51fe6051d442.png?auto=format"
@@ -37,8 +37,8 @@
       "name": "Powabase",
       "tagline": "Build AI apps with Postgres, RAG, and agents",
       "url": "https://www.producthunt.com/products/powabase?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 132,
-      "commentsCount": 8,
+      "votesCount": 211,
+      "commentsCount": 24,
       "createdAt": "2026-05-27T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/bc1bdf28-9b59-4509-9db7-3b604380fb3b.png?auto=format"
@@ -68,8 +68,8 @@
       "name": "Oasis Browser for Mac",
       "tagline": "A privacy-first AI browser you can train anonymously",
       "url": "https://www.producthunt.com/products/kahana?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 115,
-      "commentsCount": 34,
+      "votesCount": 163,
+      "commentsCount": 43,
       "createdAt": "2026-05-27T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/b83aefb0-b6c2-408e-b4b8-9e4a0360e1d6.png?auto=format"
@@ -97,10 +97,10 @@
     {
       "id": "1156593",
       "name": "zero.xyz",
-      "tagline": "Give your AI agent access to over 4k tools, APIs, + services",
+      "tagline": "Give your AI agent access to ~8k tools, APIs and services",
       "url": "https://www.producthunt.com/products/zero-xyz?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 107,
-      "commentsCount": 13,
+      "votesCount": 152,
+      "commentsCount": 44,
       "createdAt": "2026-05-27T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/3d0ef16a-bc8c-4349-a667-dce80db88456.png?auto=format"
@@ -126,12 +126,69 @@
       }
     },
     {
+      "id": "1147138",
+      "name": "Coworker AI",
+      "tagline": "More AI for less spend with context-aware model routing",
+      "url": "https://www.producthunt.com/products/coworker-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 124,
+      "commentsCount": 34,
+      "createdAt": "2026-05-27T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/9dad5d31-51c7-4423-b0c3-9acfc580effe.svg?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "SaaS"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1156046",
+      "name": "Octolane",
+      "tagline": "Self-driving AI CRM that you can talk to",
+      "url": "https://www.producthunt.com/products/octolane?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 114,
+      "commentsCount": 15,
+      "createdAt": "2026-05-27T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/d6874104-c741-4d34-af3c-940170219ee8.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Sales"
+            }
+          },
+          {
+            "node": {
+              "name": "CRM"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1155611",
       "name": "Mojito",
       "tagline": "Type to search for any emoji or symbol in seconds",
       "url": "https://www.producthunt.com/products/mojito-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 93,
-      "commentsCount": 4,
+      "votesCount": 108,
+      "commentsCount": 6,
       "createdAt": "2026-05-27T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/030492a0-a1ed-4495-a4ba-b368e5ade524.png?auto=format"
@@ -162,57 +219,31 @@
       }
     },
     {
-      "id": "1156046",
-      "name": "Octolane",
-      "tagline": "Self-driving AI CRM that you can talk to",
-      "url": "https://www.producthunt.com/products/octolane?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 88,
-      "commentsCount": 2,
+      "id": "1154329",
+      "name": "Layers",
+      "tagline": "Create beautiful animated code snippet videos for free",
+      "url": "https://www.producthunt.com/products/layers-8?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 91,
+      "commentsCount": 10,
       "createdAt": "2026-05-27T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/d6874104-c741-4d34-af3c-940170219ee8.png?auto=format"
+        "url": "https://ph-files.imgix.net/7d7ff010-238b-42d5-8bb2-99ad3b2f0bcd.png?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "Sales"
+              "name": "Developer Tools"
             }
           },
           {
             "node": {
-              "name": "CRM"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1147138",
-      "name": "Coworker AI",
-      "tagline": "More AI for less spend with context-aware model routing",
-      "url": "https://www.producthunt.com/products/coworker-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 88,
-      "commentsCount": 17,
-      "createdAt": "2026-05-27T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/9dad5d31-51c7-4423-b0c3-9acfc580effe.svg?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Productivity"
+              "name": "Animation"
             }
           },
           {
             "node": {
-              "name": "SaaS"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
+              "name": "Video"
             }
           }
         ]
@@ -223,8 +254,8 @@
       "name": "Calling Skills for AI Agents",
       "tagline": "Add voice and video calling via your coding agent",
       "url": "https://www.producthunt.com/products/cometchat-skills?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 78,
-      "commentsCount": 3,
+      "votesCount": 90,
+      "commentsCount": 7,
       "createdAt": "2026-05-27T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/463b82b8-ed8e-45c5-b1cf-31792cedd0aa.png?auto=format"
@@ -259,8 +290,8 @@
       "name": "Pawse.ai",
       "tagline": "An acoustic regulation system for dogs",
       "url": "https://www.producthunt.com/products/pawse-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 76,
-      "commentsCount": 8,
+      "votesCount": 87,
+      "commentsCount": 12,
       "createdAt": "2026-05-27T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/5203cb36-1d22-438e-a129-ebf3a974c7ae.png?auto=format"
@@ -286,12 +317,43 @@
       }
     },
     {
+      "id": "1143746",
+      "name": "Krater",
+      "tagline": "All the AI tools you use, one subscription",
+      "url": "https://www.producthunt.com/products/krater-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 83,
+      "commentsCount": 8,
+      "createdAt": "2026-05-27T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/66083338-9dba-4ba3-a03b-c0c3b89ea903.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "API"
+            }
+          },
+          {
+            "node": {
+              "name": "Marketing"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1153409",
       "name": "BaseBuddy",
       "tagline": "Turn your Supabase database into a WordPress-like editor",
       "url": "https://www.producthunt.com/products/basebuddy?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 75,
-      "commentsCount": 3,
+      "votesCount": 81,
+      "commentsCount": 7,
       "createdAt": "2026-05-27T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/8cd32721-5582-4508-ac4f-faaa1e551512.svg?auto=format"
@@ -322,43 +384,12 @@
       }
     },
     {
-      "id": "1154329",
-      "name": "Layers",
-      "tagline": "Create beautiful animated code snippet videos for free",
-      "url": "https://www.producthunt.com/products/layers-8?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 75,
-      "commentsCount": 2,
-      "createdAt": "2026-05-27T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/7d7ff010-238b-42d5-8bb2-99ad3b2f0bcd.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Animation"
-            }
-          },
-          {
-            "node": {
-              "name": "Video"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1156750",
       "name": "CircadiaOS",
       "tagline": "Sleep optimization, minus the $3,000 mattress pod",
       "url": "https://www.producthunt.com/products/circadiaos?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 73,
-      "commentsCount": 2,
+      "votesCount": 81,
+      "commentsCount": 3,
       "createdAt": "2026-05-27T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/1073c265-1951-4b29-8d45-b0fd837e71bb.png?auto=format"
@@ -384,42 +415,11 @@
       }
     },
     {
-      "id": "1143746",
-      "name": "Krater",
-      "tagline": "All the AI tools you use, one subscription",
-      "url": "https://www.producthunt.com/products/krater-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 72,
-      "commentsCount": 6,
-      "createdAt": "2026-05-27T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/66083338-9dba-4ba3-a03b-c0c3b89ea903.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "API"
-            }
-          },
-          {
-            "node": {
-              "name": "Marketing"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1153406",
       "name": "baz.studio",
       "tagline": "Skills library & video editor for AI Agents",
       "url": "https://www.producthunt.com/products/bazaar-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 72,
+      "votesCount": 77,
       "commentsCount": 3,
       "createdAt": "2026-05-27T07:01:00Z",
       "thumbnail": {
@@ -450,8 +450,8 @@
       "name": "Archi-Flow",
       "tagline": "Visualize cloud architecture with live traffic simulations",
       "url": "https://www.producthunt.com/products/archi-flow?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 71,
-      "commentsCount": 1,
+      "votesCount": 76,
+      "commentsCount": 3,
       "createdAt": "2026-05-27T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/fd821c81-480a-4d18-ad3b-7bd786e34723.jpeg?auto=format"
@@ -477,42 +477,11 @@
       }
     },
     {
-      "id": "1156418",
-      "name": "Netfox",
-      "tagline": "A native local macOS network monitor",
-      "url": "https://www.producthunt.com/products/netfox?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 71,
-      "commentsCount": 5,
-      "createdAt": "2026-05-27T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/d6b6a2dc-9124-4fd2-ba58-de87656e4385.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Mac"
-            }
-          },
-          {
-            "node": {
-              "name": "Privacy"
-            }
-          },
-          {
-            "node": {
-              "name": "Security"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1156323",
       "name": "Local Panel",
       "tagline": "Local SSH server manager with no subscriptions or installs",
       "url": "https://www.producthunt.com/products/local-panel?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 71,
+      "votesCount": 74,
       "commentsCount": 1,
       "createdAt": "2026-05-27T07:01:00Z",
       "thumbnail": {
@@ -539,12 +508,95 @@
       }
     },
     {
+      "id": "1156418",
+      "name": "Netfox",
+      "tagline": "A native local macOS network monitor",
+      "url": "https://www.producthunt.com/products/netfox?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 74,
+      "commentsCount": 5,
+      "createdAt": "2026-05-27T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/d6b6a2dc-9124-4fd2-ba58-de87656e4385.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Mac"
+            }
+          },
+          {
+            "node": {
+              "name": "Privacy"
+            }
+          },
+          {
+            "node": {
+              "name": "Security"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1156458",
+      "name": "Extend",
+      "tagline": "Parse any PDF layout with SOTA accuracy for AI pipelines",
+      "url": "https://www.producthunt.com/products/extend-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 74,
+      "commentsCount": 6,
+      "createdAt": "2026-05-27T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/f2b41d8e-5b20-468b-97e2-8acfd05e6bfc.jpeg?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "API"
+            }
+          },
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1154542",
+      "name": "QuickSheet v1.2 ",
+      "tagline": "Instantly create and edit spreadsheets from your menu bar",
+      "url": "https://www.producthunt.com/products/quicksheet-light-spreadsheet?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 73,
+      "commentsCount": 1,
+      "createdAt": "2026-05-27T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/42d691b4-cc7a-41db-9f15-6c1a76427223.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Menu Bar Apps"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1156099",
       "name": "Phasr",
       "tagline": "Run 100+ workflows simultaneously without losing context",
       "url": "https://www.producthunt.com/products/phasr-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 68,
-      "commentsCount": 1,
+      "votesCount": 73,
+      "commentsCount": 2,
       "createdAt": "2026-05-27T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/4f072b3a-318a-4b4b-b491-b904b29d6a26.png?auto=format"
@@ -569,63 +621,6 @@
           {
             "node": {
               "name": "GitHub"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1156458",
-      "name": "Extend",
-      "tagline": "Parse any PDF layout with SOTA accuracy for AI pipelines",
-      "url": "https://www.producthunt.com/products/extend-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 68,
-      "commentsCount": 6,
-      "createdAt": "2026-05-27T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/f2b41d8e-5b20-468b-97e2-8acfd05e6bfc.jpeg?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "API"
-            }
-          },
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1155920",
-      "name": "BobCA",
-      "tagline": "A sovereign agent that learns to code with your preferences",
-      "url": "https://www.producthunt.com/products/bob-s-workshop?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 67,
-      "commentsCount": 4,
-      "createdAt": "2026-05-27T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/1c92a690-843a-41d8-bd0d-5639fbbb9b88.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Growth Hacking"
-            }
-          },
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
             }
           }
         ]
