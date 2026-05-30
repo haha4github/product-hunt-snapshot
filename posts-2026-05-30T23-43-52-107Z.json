@@ -1,12 +1,12 @@
 {
-  "fetchedAt": "2026-05-30T22:40:59.483Z",
+  "fetchedAt": "2026-05-30T23:43:52.107Z",
   "posts": [
     {
       "id": "1046734",
       "name": "Wandesk",
       "tagline": "Build Your Own AI Desktop ",
       "url": "https://www.producthunt.com/products/wandesk-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 347,
+      "votesCount": 352,
       "commentsCount": 33,
       "createdAt": "2026-05-30T07:01:00Z",
       "thumbnail": {
@@ -37,7 +37,7 @@
       "name": "Wingbits AI",
       "tagline": "AI agents for real-time aircraft monitoring and alerts",
       "url": "https://www.producthunt.com/products/wingbits-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 198,
+      "votesCount": 200,
       "commentsCount": 38,
       "createdAt": "2026-05-30T07:01:00Z",
       "thumbnail": {
@@ -68,7 +68,7 @@
       "name": "Exstats",
       "tagline": "Track your browser extensions and competitors in one place",
       "url": "https://www.producthunt.com/products/exstats?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 182,
+      "votesCount": 183,
       "commentsCount": 15,
       "createdAt": "2026-05-30T07:01:00Z",
       "thumbnail": {
@@ -317,6 +317,37 @@
       }
     },
     {
+      "id": "1159120",
+      "name": "Niyam AI",
+      "tagline": "Build Discipline - Get Direction - Attain Consistency.",
+      "url": "https://www.producthunt.com/products/niyam-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 11,
+      "commentsCount": 4,
+      "createdAt": "2026-05-30T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/20bccded-c896-4aa5-926a-c03960ccb060.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "SaaS"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1159034",
       "name": "Outbound Rewriter that gets replies",
       "tagline": "Paste your pitch, get 5 scored variants + follow-up cadence",
@@ -379,31 +410,36 @@
       }
     },
     {
-      "id": "1159120",
-      "name": "Niyam AI",
-      "tagline": "Build Discipline - Get Direction - Attain Consistency.",
-      "url": "https://www.producthunt.com/products/niyam-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "id": "1158831",
+      "name": "SnapHire",
+      "tagline": "Show what a CV can't. ⭐",
+      "url": "https://www.producthunt.com/products/snaphire-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 9,
       "commentsCount": 2,
       "createdAt": "2026-05-30T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/20bccded-c896-4aa5-926a-c03960ccb060.png?auto=format"
+        "url": "https://ph-files.imgix.net/2355dad5-9e16-4612-a2a2-9ea6f71e4d4b.vnd.microsoft.icon?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "Productivity"
+              "name": "Hiring"
             }
           },
           {
             "node": {
-              "name": "SaaS"
+              "name": "Crowdfunding"
             }
           },
           {
             "node": {
-              "name": "Artificial Intelligence"
+              "name": "Social Networking"
+            }
+          },
+          {
+            "node": {
+              "name": "Community"
             }
           }
         ]
@@ -430,42 +466,6 @@
           {
             "node": {
               "name": "Travel"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1158831",
-      "name": "SnapHire",
-      "tagline": "Show what a CV can't. ⭐",
-      "url": "https://www.producthunt.com/products/snaphire-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 8,
-      "commentsCount": 1,
-      "createdAt": "2026-05-30T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/2355dad5-9e16-4612-a2a2-9ea6f71e4d4b.vnd.microsoft.icon?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Hiring"
-            }
-          },
-          {
-            "node": {
-              "name": "Crowdfunding"
-            }
-          },
-          {
-            "node": {
-              "name": "Social Networking"
-            }
-          },
-          {
-            "node": {
-              "name": "Community"
             }
           }
         ]
