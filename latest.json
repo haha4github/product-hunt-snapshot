@@ -1,13 +1,39 @@
 {
-  "fetchedAt": "2026-06-04T00:26:27.095Z",
+  "fetchedAt": "2026-06-04T05:24:00.997Z",
   "posts": [
+    {
+      "id": "1149728",
+      "name": "Elentaria",
+      "tagline": "Your GTM: from diagnosis to execution",
+      "url": "https://www.producthunt.com/products/elentaria?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 480,
+      "commentsCount": 89,
+      "createdAt": "2026-06-03T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/48d14be3-c76f-470b-a30d-be79b45c0f5f.jpeg?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Sales"
+            }
+          },
+          {
+            "node": {
+              "name": "Marketing"
+            }
+          }
+        ]
+      }
+    },
     {
       "id": "1159756",
       "name": "InsForge Backend Branching",
       "tagline": "Git style branching for your backend",
       "url": "https://www.producthunt.com/products/insforge-alpha?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 399,
-      "commentsCount": 156,
+      "votesCount": 474,
+      "commentsCount": 183,
       "createdAt": "2026-06-03T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/00c129e1-f3ee-4be7-a3cb-ff09fcc4313e.vnd.microsoft.icon?auto=format"
@@ -37,8 +63,8 @@
       "name": "superlog",
       "tagline": "Make your product bug-free",
       "url": "https://www.producthunt.com/products/superlog?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 352,
-      "commentsCount": 70,
+      "votesCount": 385,
+      "commentsCount": 71,
       "createdAt": "2026-06-03T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/f5e16691-e739-48ba-9494-535f6a7ac36c.png?auto=format"
@@ -69,38 +95,12 @@
       }
     },
     {
-      "id": "1149728",
-      "name": "Elentaria",
-      "tagline": "Your GTM: from diagnosis to execution",
-      "url": "https://www.producthunt.com/products/elentaria?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 339,
-      "commentsCount": 85,
-      "createdAt": "2026-06-03T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/48d14be3-c76f-470b-a30d-be79b45c0f5f.jpeg?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Sales"
-            }
-          },
-          {
-            "node": {
-              "name": "Marketing"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1160971",
       "name": "Franz 6",
       "tagline": "All your messaging apps in one window — with private AI",
       "url": "https://www.producthunt.com/products/franz-messenger?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 196,
-      "commentsCount": 12,
+      "votesCount": 219,
+      "commentsCount": 14,
       "createdAt": "2026-06-03T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/dd7991cd-c5a0-41f3-a31b-c2bb8d5eeba5.png?auto=format"
@@ -130,7 +130,7 @@
       "name": "Replicas",
       "tagline": "Run Claude Code and Codex in the cloud",
       "url": "https://www.producthunt.com/products/replicas?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 180,
+      "votesCount": 200,
       "commentsCount": 24,
       "createdAt": "2026-06-03T07:01:00Z",
       "thumbnail": {
@@ -161,7 +161,7 @@
       "name": "Hermes Desktop",
       "tagline": "The agent that grows with you",
       "url": "https://www.producthunt.com/products/hermes-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 157,
+      "votesCount": 184,
       "commentsCount": 12,
       "createdAt": "2026-06-03T07:01:00Z",
       "thumbnail": {
@@ -197,8 +197,8 @@
       "name": "Spectron",
       "tagline": "Agent memory you can trust",
       "url": "https://www.producthunt.com/products/surrealdb?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 156,
-      "commentsCount": 39,
+      "votesCount": 168,
+      "commentsCount": 42,
       "createdAt": "2026-06-03T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/8ccf7501-dcce-41aa-ae5b-216168e190aa.png?auto=format"
@@ -228,7 +228,7 @@
       "name": "Walkable",
       "tagline": "Safety-first walking navigation to walk the safest routes",
       "url": "https://www.producthunt.com/products/walkable-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 133,
+      "votesCount": 139,
       "commentsCount": 21,
       "createdAt": "2026-06-03T07:01:00Z",
       "thumbnail": {
@@ -259,8 +259,8 @@
       "name": "Uselink",
       "tagline": "host your html, share the link, and get comments",
       "url": "https://www.producthunt.com/products/uselink?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 125,
-      "commentsCount": 29,
+      "votesCount": 132,
+      "commentsCount": 30,
       "createdAt": "2026-06-03T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/b75fc7e8-96dc-48e8-a7d6-5f7e14be5f63.svg?auto=format"
@@ -290,8 +290,8 @@
       "name": "Town",
       "tagline": "The assistant that learns how you work, then gets to work. ",
       "url": "https://www.producthunt.com/products/town?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 115,
-      "commentsCount": 23,
+      "votesCount": 127,
+      "commentsCount": 24,
       "createdAt": "2026-06-03T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/71db686e-cd7f-4a75-9eb0-c3ce695be6b6.png?auto=format"
@@ -321,7 +321,7 @@
       "name": "Composer",
       "tagline": "Multiplayer markdown for you, your team, and your agents.",
       "url": "https://www.producthunt.com/products/composer-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 110,
+      "votesCount": 114,
       "commentsCount": 27,
       "createdAt": "2026-06-03T07:01:00Z",
       "thumbnail": {
@@ -348,11 +348,42 @@
       }
     },
     {
+      "id": "1161388",
+      "name": "Brand Context API",
+      "tagline": "Ship AI that stays on-brand",
+      "url": "https://www.producthunt.com/products/brandfetch?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 103,
+      "commentsCount": 7,
+      "createdAt": "2026-06-03T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/c31fb732-d467-4a6b-b4b5-500543d10aaa.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "API"
+            }
+          },
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1161872",
       "name": "Devin Desktop",
       "tagline": "Manage fleets of local and cloud agents from one surface",
       "url": "https://www.producthunt.com/products/devin-by-cognition?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 101,
+      "votesCount": 103,
       "commentsCount": 3,
       "createdAt": "2026-06-03T07:01:00Z",
       "thumbnail": {
@@ -379,42 +410,11 @@
       }
     },
     {
-      "id": "1161388",
-      "name": "Brand Context API",
-      "tagline": "Ship AI that stays on-brand",
-      "url": "https://www.producthunt.com/products/brandfetch?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 99,
-      "commentsCount": 5,
-      "createdAt": "2026-06-03T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/c31fb732-d467-4a6b-b4b5-500543d10aaa.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "API"
-            }
-          },
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1161524",
       "name": "Forward",
       "tagline": "Installs your API into a customer's codebase in one command",
       "url": "https://www.producthunt.com/products/forward-10?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 99,
+      "votesCount": 101,
       "commentsCount": 8,
       "createdAt": "2026-06-03T07:01:00Z",
       "thumbnail": {
@@ -445,7 +445,7 @@
       "name": "FolderPlus",
       "tagline": "Peek inside any folder without opening it",
       "url": "https://www.producthunt.com/products/folderplus?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 97,
+      "votesCount": 99,
       "commentsCount": 1,
       "createdAt": "2026-06-03T07:01:00Z",
       "thumbnail": {
@@ -471,7 +471,7 @@
       "name": "Carbone Skill for AI",
       "tagline": "Teach your AI to build document templates",
       "url": "https://www.producthunt.com/products/carbone?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 93,
+      "votesCount": 95,
       "commentsCount": 17,
       "createdAt": "2026-06-03T07:01:00Z",
       "thumbnail": {
@@ -502,7 +502,7 @@
       "name": "RadianceKit",
       "tagline": "Turn photos into 3D Gaussian Splats on your Mac",
       "url": "https://www.producthunt.com/products/radiancekit?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 90,
+      "votesCount": 93,
       "commentsCount": 3,
       "createdAt": "2026-06-03T07:01:00Z",
       "thumbnail": {
@@ -533,7 +533,7 @@
       "name": "Dropstone 1.5",
       "tagline": "2× Claude Code Pro's usage at $15/mo",
       "url": "https://www.producthunt.com/products/dropstone-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 89,
+      "votesCount": 91,
       "commentsCount": 9,
       "createdAt": "2026-06-03T07:01:00Z",
       "thumbnail": {
@@ -564,7 +564,7 @@
       "name": "Handler",
       "tagline": "Review AI edits like stacked PRs at generation time.",
       "url": "https://www.producthunt.com/products/handler?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 89,
+      "votesCount": 90,
       "commentsCount": 1,
       "createdAt": "2026-06-03T07:01:00Z",
       "thumbnail": {
@@ -586,26 +586,31 @@
       }
     },
     {
-      "id": "1161669",
-      "name": "TaskGPT ",
-      "tagline": "Voice agent for MacOS",
-      "url": "https://www.producthunt.com/products/taskgpt-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 87,
-      "commentsCount": 6,
+      "id": "1157228",
+      "name": "StampCam",
+      "tagline": "Turn any photo into a postage stamp or sticker",
+      "url": "https://www.producthunt.com/products/stampcam?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 89,
+      "commentsCount": 3,
       "createdAt": "2026-06-03T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/6005e87f-3371-4fad-8970-129aaa599f93.x-icon?auto=format"
+        "url": "https://ph-files.imgix.net/5f4800b0-f13f-4d7f-ba75-f47959d5f16b.png?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "Artificial Intelligence"
+              "name": "iOS"
             }
           },
           {
             "node": {
-              "name": "Audio"
+              "name": "Photography"
+            }
+          },
+          {
+            "node": {
+              "name": "Maker Tools"
             }
           }
         ]
