@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-06-16T12:30:40.500Z",
+  "fetchedAt": "2026-06-16T17:35:04.880Z",
   "posts": [
     {
       "id": "1153772",
       "name": "Goldfish",
       "tagline": "Press Option. It knows your work and replies like you",
       "url": "https://www.producthunt.com/products/goldfish-early-access?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 188,
-      "commentsCount": 85,
+      "votesCount": 352,
+      "commentsCount": 135,
       "createdAt": "2026-06-16T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/c42a4d06-2035-4c13-b95d-02f34f14ba7c.png?auto=format"
@@ -42,8 +42,8 @@
       "name": "Invoko",
       "tagline": "A little hand on your Mac",
       "url": "https://www.producthunt.com/products/invoko?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 169,
-      "commentsCount": 47,
+      "votesCount": 282,
+      "commentsCount": 85,
       "createdAt": "2026-06-16T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/40e88728-ef87-4f3e-930f-c3d1c184ef89.svg?auto=format"
@@ -78,8 +78,8 @@
       "name": "MakersClaw",
       "tagline": "Hire AI employees that live in your Slack, Teams, Telegram",
       "url": "https://www.producthunt.com/products/makersclaw?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 155,
-      "commentsCount": 7,
+      "votesCount": 245,
+      "commentsCount": 24,
       "createdAt": "2026-06-16T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/9e1bef12-7d7a-4f2b-8931-71f4ac94bbc5.png?auto=format"
@@ -114,8 +114,8 @@
       "name": "PeakRoutine",
       "tagline": "Personalized health coaching powered by your biomarkers",
       "url": "https://www.producthunt.com/products/peak-routine?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 121,
-      "commentsCount": 21,
+      "votesCount": 153,
+      "commentsCount": 39,
       "createdAt": "2026-06-16T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/bc53f421-6bad-42d5-98b7-4dfb30aaf29b.png?auto=format"
@@ -146,43 +146,12 @@
       }
     },
     {
-      "id": "1163192",
-      "name": "Zoona AI",
-      "tagline": "Automated support that learns from docs + past conversations",
-      "url": "https://www.producthunt.com/products/sparrowdesk?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 98,
-      "commentsCount": 9,
-      "createdAt": "2026-06-16T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/89a663c2-f210-4fd5-97f7-cfb6c416fdfe.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Customer Success"
-            }
-          },
-          {
-            "node": {
-              "name": "Customer Communication"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1172494",
       "name": "Edgee Turbo Models",
       "tagline": "Use Claude Code with Kimi K2.7 Code, MiniMax M2.7, and more",
       "url": "https://www.producthunt.com/products/edgee?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 98,
-      "commentsCount": 7,
+      "votesCount": 139,
+      "commentsCount": 21,
       "createdAt": "2026-06-16T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/cea13bd0-7efd-4a1c-b99a-d4cb7b1e4276.png?auto=format"
@@ -213,12 +182,48 @@
       }
     },
     {
+      "id": "1163192",
+      "name": "Zoona AI",
+      "tagline": "Automated support that learns from docs + past conversations",
+      "url": "https://www.producthunt.com/products/sparrowdesk?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 130,
+      "commentsCount": 28,
+      "createdAt": "2026-06-16T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/89a663c2-f210-4fd5-97f7-cfb6c416fdfe.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Customer Success"
+            }
+          },
+          {
+            "node": {
+              "name": "Customer Communication"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "Vercel Day"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1167590",
       "name": "GitHits beta 0.9",
       "tagline": "Give your AI coding agent access to open-source code",
       "url": "https://www.producthunt.com/products/githits?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 93,
-      "commentsCount": 10,
+      "votesCount": 120,
+      "commentsCount": 21,
       "createdAt": "2026-06-16T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/b94df1da-1798-4699-86ed-1351e990ae48.png?auto=format"
@@ -253,8 +258,8 @@
       "name": "Stride",
       "tagline": "The AI workspace that plans, designs and ships with you.",
       "url": "https://www.producthunt.com/products/stride-10?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 83,
-      "commentsCount": 3,
+      "votesCount": 110,
+      "commentsCount": 11,
       "createdAt": "2026-06-16T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/709dc614-8480-40c6-812b-070edd1c4880.png?auto=format"
@@ -289,8 +294,8 @@
       "name": "Dirac",
       "tagline": "The AI inbox that briefs founders every morning",
       "url": "https://www.producthunt.com/products/dirac-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 82,
-      "commentsCount": 10,
+      "votesCount": 101,
+      "commentsCount": 21,
       "createdAt": "2026-06-16T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/3ab455fb-d289-4b5e-b806-f00bde50935f.png?auto=format"
@@ -325,8 +330,8 @@
       "name": "MindReader v1",
       "tagline": "Read minds (simulated fMRI data, channeled to neuro-metrics)",
       "url": "https://www.producthunt.com/products/mindreader-v1?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 81,
-      "commentsCount": 5,
+      "votesCount": 100,
+      "commentsCount": 15,
       "createdAt": "2026-06-16T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/83240df8-536f-48cc-9024-f5f3a47bdbaf.svg?auto=format"
@@ -362,12 +367,74 @@
       }
     },
     {
+      "id": "1172904",
+      "name": "Voice Calls in Chatwoot",
+      "tagline": "Calls, chats, and emails all in one support inbox",
+      "url": "https://www.producthunt.com/products/chatwoot?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 88,
+      "commentsCount": 2,
+      "createdAt": "2026-06-16T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/c4774810-e5d1-45ac-951e-e77488110d7d.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Messaging"
+            }
+          },
+          {
+            "node": {
+              "name": "Open Source"
+            }
+          },
+          {
+            "node": {
+              "name": "Customer Communication"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1172555",
+      "name": "Kraina",
+      "tagline": "Turn your outdoor activities into a territory game.",
+      "url": "https://www.producthunt.com/products/kraina?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 86,
+      "commentsCount": 4,
+      "createdAt": "2026-06-16T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/812f52d0-88eb-4011-98a9-8eae896be157.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Health & Fitness"
+            }
+          },
+          {
+            "node": {
+              "name": "Maps"
+            }
+          },
+          {
+            "node": {
+              "name": "Outdoors"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1170066",
       "name": "Tadka",
       "tagline": "Ship 10x more ad creative, without hiring a design team.",
       "url": "https://www.producthunt.com/products/tadka?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 77,
-      "commentsCount": 4,
+      "votesCount": 85,
+      "commentsCount": 9,
       "createdAt": "2026-06-16T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/f74653fc-5281-43cc-b6f9-bfb29fa64ce1.png?auto=format"
@@ -398,31 +465,36 @@
       }
     },
     {
-      "id": "1172904",
-      "name": "Voice Calls in Chatwoot",
-      "tagline": "Calls, chats, and emails all in one support inbox",
-      "url": "https://www.producthunt.com/products/chatwoot?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 74,
-      "commentsCount": 1,
+      "id": "1166945",
+      "name": "Revyl",
+      "tagline": "The mobile source of truth",
+      "url": "https://www.producthunt.com/products/revyl?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 81,
+      "commentsCount": 7,
       "createdAt": "2026-06-16T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/c4774810-e5d1-45ac-951e-e77488110d7d.png?auto=format"
+        "url": "https://ph-files.imgix.net/f0e22785-0ef8-43ff-87ba-ac9136051043.png?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "Messaging"
+              "name": "Software Engineering"
             }
           },
           {
             "node": {
-              "name": "Open Source"
+              "name": "Developer Tools"
             }
           },
           {
             "node": {
-              "name": "Customer Communication"
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "Vercel Day"
             }
           }
         ]
@@ -433,8 +505,8 @@
       "name": "ClientJam",
       "tagline": "AI-powered lead generation for designers and agencies",
       "url": "https://www.producthunt.com/products/clientjam?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 74,
-      "commentsCount": 2,
+      "votesCount": 80,
+      "commentsCount": 4,
       "createdAt": "2026-06-16T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/e91a0f50-7ed4-442d-9471-816490077a42.png?auto=format"
@@ -460,67 +532,98 @@
       }
     },
     {
-      "id": "1172555",
-      "name": "Kraina",
-      "tagline": "Turn your outdoor activities into a territory game.",
-      "url": "https://www.producthunt.com/products/kraina?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 75,
-      "commentsCount": 1,
+      "id": "1170244",
+      "name": "Vidrunner",
+      "tagline": "Publish YouTube videos faster with AI",
+      "url": "https://www.producthunt.com/products/lasso-5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 79,
+      "commentsCount": 5,
       "createdAt": "2026-06-16T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/812f52d0-88eb-4011-98a9-8eae896be157.png?auto=format"
+        "url": "https://ph-files.imgix.net/081a59e1-1359-4c6e-8ec0-c429c5404553.png?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "Health & Fitness"
+              "name": "Productivity"
             }
           },
           {
             "node": {
-              "name": "Maps"
+              "name": "Artificial Intelligence"
             }
           },
           {
             "node": {
-              "name": "Outdoors"
+              "name": "YouTube"
+            }
+          },
+          {
+            "node": {
+              "name": "Vercel Day"
             }
           }
         ]
       }
     },
     {
-      "id": "1171830",
-      "name": "Dinamo Notebook",
-      "tagline": "Professional football/soccer analysis, right in your browser",
-      "url": "https://www.producthunt.com/products/dinamo-notebook?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 71,
-      "commentsCount": 1,
+      "id": "1169578",
+      "name": "DevCleaner",
+      "tagline": "Free the gigabytes your dev tools and AI apps hoard",
+      "url": "https://www.producthunt.com/products/devcleaner-reclaim-gbs-from-dev-tools?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 78,
+      "commentsCount": 12,
       "createdAt": "2026-06-16T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/22805c16-9858-485d-ad2e-ecc28d32a98e.png?auto=format"
+        "url": "https://ph-files.imgix.net/ca980737-6c6b-4d73-bddd-101f708d525f.png?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "Sports"
+              "name": "Productivity"
             }
           },
           {
             "node": {
-              "name": "Football"
+              "name": "Developer Tools"
             }
           },
           {
             "node": {
-              "name": "Soccer"
+              "name": "Menu Bar Apps"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1171684",
+      "name": "Glint",
+      "tagline": "Claude Code activity, right where you want it.",
+      "url": "https://www.producthunt.com/products/glint-9?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 78,
+      "commentsCount": 9,
+      "createdAt": "2026-06-16T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/44f8e1ca-8c1e-4269-b969-09aa32b49fd5.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Developer Tools"
             }
           },
           {
             "node": {
-              "name": "GitHub"
+              "name": "Menu Bar Apps"
+            }
+          },
+          {
+            "node": {
+              "name": "Vibe coding"
             }
           },
           {
@@ -536,8 +639,8 @@
       "name": "whoburnedmore",
       "tagline": "Spotify Wrapped for Claude, Codex & a Public leaderboard.",
       "url": "https://www.producthunt.com/products/whoburnedmore?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 71,
-      "commentsCount": 4,
+      "votesCount": 76,
+      "commentsCount": 6,
       "createdAt": "2026-06-16T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/7e22831c-feba-4c38-8f8d-667eb5a1010e.png?auto=format"
@@ -572,8 +675,8 @@
       "name": "Avocado",
       "tagline": "AI-native content operations for any Next.js website",
       "url": "https://www.producthunt.com/products/avocado-studio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 71,
-      "commentsCount": 2,
+      "votesCount": 75,
+      "commentsCount": 4,
       "createdAt": "2026-06-16T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/415067f4-08d2-4fd4-950d-6aac8d59d699.svg?auto=format"
@@ -588,114 +691,6 @@
           {
             "node": {
               "name": "Marketing automation"
-            }
-          },
-          {
-            "node": {
-              "name": "Vercel Day"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1170818",
-      "name": "Fantasma",
-      "tagline": "Landing page builder for Ghost CMS",
-      "url": "https://www.producthunt.com/products/fantasma?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 70,
-      "commentsCount": 3,
-      "createdAt": "2026-06-16T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/c0015e9a-f654-4871-beaf-f6654b3f12aa.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Design Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Website Builder"
-            }
-          },
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Vercel Day"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1171684",
-      "name": "Glint",
-      "tagline": "Claude Code activity, right where you want it.",
-      "url": "https://www.producthunt.com/products/glint-9?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 70,
-      "commentsCount": 4,
-      "createdAt": "2026-06-16T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/44f8e1ca-8c1e-4269-b969-09aa32b49fd5.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Menu Bar Apps"
-            }
-          },
-          {
-            "node": {
-              "name": "Vibe coding"
-            }
-          },
-          {
-            "node": {
-              "name": "Vercel Day"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1171859",
-      "name": "Mood",
-      "tagline": "A quiet record of how you feel",
-      "url": "https://www.producthunt.com/products/mood-5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 70,
-      "commentsCount": 0,
-      "createdAt": "2026-06-16T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/77124d50-be34-43d6-b75b-4a15fff50aa6.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Health & Fitness"
-            }
-          },
-          {
-            "node": {
-              "name": "Quantified Self"
-            }
-          },
-          {
-            "node": {
-              "name": "Health"
             }
           },
           {
