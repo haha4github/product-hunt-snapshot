@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-07-02T21:37:46.400Z",
+  "fetchedAt": "2026-07-02T22:46:06.119Z",
   "posts": [
     {
       "id": "1172870",
       "name": "Fypro",
       "tagline": "Convert your TikTok followers into paying customers",
       "url": "https://www.producthunt.com/products/fypro?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 498,
-      "commentsCount": 142,
+      "votesCount": 508,
+      "commentsCount": 151,
       "createdAt": "2026-07-02T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/cf32ce10-fb31-4842-9925-1d8bab906626.png?auto=format"
@@ -37,8 +37,8 @@
       "name": "Context.dev",
       "tagline": "One API to scrape, enrich, and extract the internet",
       "url": "https://www.producthunt.com/products/context-dev?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 487,
-      "commentsCount": 100,
+      "votesCount": 503,
+      "commentsCount": 103,
       "createdAt": "2026-07-02T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/e4e57b87-7bf9-4662-93d2-30c9f778eb68.png?auto=format"
@@ -68,7 +68,7 @@
       "name": "Needle",
       "tagline": "The proactive GTM agent in Slack and Teams",
       "url": "https://www.producthunt.com/products/needle-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 239,
+      "votesCount": 240,
       "commentsCount": 59,
       "createdAt": "2026-07-02T07:01:00Z",
       "thumbnail": {
@@ -99,8 +99,8 @@
       "name": "PixFit",
       "tagline": "Turn 1 creative into every ad format, instantly",
       "url": "https://www.producthunt.com/products/pixfit?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 185,
-      "commentsCount": 34,
+      "votesCount": 190,
+      "commentsCount": 35,
       "createdAt": "2026-07-02T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/f93c9565-c467-455c-812d-6359ba18638d.png?auto=format"
@@ -130,8 +130,8 @@
       "name": "Macro",
       "tagline": "Unifies your work into one app with shared memory",
       "url": "https://www.producthunt.com/products/macro-workspace?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 165,
-      "commentsCount": 31,
+      "votesCount": 167,
+      "commentsCount": 33,
       "createdAt": "2026-07-02T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/eb43a213-8fdd-4284-92b4-453076fbe041.png?auto=format"
@@ -224,7 +224,7 @@
       "tagline": "Connect your AI agent to postal mail",
       "url": "https://www.producthunt.com/products/pieter-post?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 126,
-      "commentsCount": 33,
+      "commentsCount": 34,
       "createdAt": "2026-07-02T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/112cd16c-b194-452d-ae55-30c1c80ab5ac.png?auto=format"
@@ -234,6 +234,37 @@
           {
             "node": {
               "name": "API"
+            }
+          },
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1185930",
+      "name": "scritty",
+      "tagline": "Shared, searchable memory for every AI coding agent",
+      "url": "https://www.producthunt.com/products/scritty?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 114,
+      "commentsCount": 42,
+      "createdAt": "2026-07-02T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/898f3e69-ea4f-4f26-882f-d29d263dd670.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Productivity"
             }
           },
           {
@@ -275,37 +306,6 @@
           {
             "node": {
               "name": "Career"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1185930",
-      "name": "scritty",
-      "tagline": "Shared, searchable memory for every AI coding agent",
-      "url": "https://www.producthunt.com/products/scritty?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 111,
-      "commentsCount": 37,
-      "createdAt": "2026-07-02T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/898f3e69-ea4f-4f26-882f-d29d263dd670.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
             }
           }
         ]
@@ -379,7 +379,7 @@
       "tagline": "A full form backend you can test before paying",
       "url": "https://www.producthunt.com/products/html-contact?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 105,
-      "commentsCount": 23,
+      "commentsCount": 24,
       "createdAt": "2026-07-02T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/e26fdda8-3418-44ab-9bb5-979d9cab56f4.vnd.microsoft.icon?auto=format"
@@ -409,7 +409,7 @@
       "name": "Flowly",
       "tagline": "A personal AI agent that runs on your desktop and iPhone",
       "url": "https://www.producthunt.com/products/flowly-6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 102,
+      "votesCount": 103,
       "commentsCount": 15,
       "createdAt": "2026-07-02T07:01:00Z",
       "thumbnail": {
@@ -450,8 +450,8 @@
       "name": "Gaming Chat SDK by CometChat",
       "tagline": "Chat drops into Unreal like it was always there",
       "url": "https://www.producthunt.com/products/cometchat?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 94,
-      "commentsCount": 8,
+      "votesCount": 95,
+      "commentsCount": 9,
       "createdAt": "2026-07-02T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/7ce5ecfa-997a-4775-af49-ebfda6c816ac.png?auto=format"
@@ -481,8 +481,8 @@
       "name": "Retrace",
       "tagline": "Debug AI agents by replaying and forking runs",
       "url": "https://www.producthunt.com/products/retrace-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 88,
-      "commentsCount": 22,
+      "votesCount": 90,
+      "commentsCount": 23,
       "createdAt": "2026-07-02T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/91812ec5-bfa4-4473-ab48-b57fb556a8a8.png?auto=format"
