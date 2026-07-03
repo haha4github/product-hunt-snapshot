@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-07-03T15:59:54.859Z",
+  "fetchedAt": "2026-07-03T17:41:59.448Z",
   "posts": [
     {
       "id": "1186480",
       "name": "Glaze by Raycast",
       "tagline": "Create your own Mac apps by chatting with AI",
       "url": "https://www.producthunt.com/products/glaze-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 359,
-      "commentsCount": 58,
+      "votesCount": 399,
+      "commentsCount": 67,
       "createdAt": "2026-07-03T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/85150caf-3a40-490f-ad86-32e3e5a88afa.png?auto=format"
@@ -37,8 +37,8 @@
       "name": "Goals from Loops",
       "tagline": "Measure whether a campaign drove the desired outcome",
       "url": "https://www.producthunt.com/products/loops?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 241,
-      "commentsCount": 33,
+      "votesCount": 250,
+      "commentsCount": 34,
       "createdAt": "2026-07-03T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/7b71ea48-9987-463a-8e1d-8995069b3e27.png?auto=format"
@@ -68,8 +68,8 @@
       "name": "Tamamon",
       "tagline": "A desktop pet that grows as you code with Claude Code",
       "url": "https://www.producthunt.com/products/tamamon-a-tiny-desktop-pet-that-grows?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 211,
-      "commentsCount": 55,
+      "votesCount": 221,
+      "commentsCount": 57,
       "createdAt": "2026-07-03T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/d6869c44-a80c-4343-8bbd-230ef20a3307.png?auto=format"
@@ -99,8 +99,8 @@
       "name": "Osloq",
       "tagline": "An AI agent that reproduces GitHub issues for you",
       "url": "https://www.producthunt.com/products/osloq?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 174,
-      "commentsCount": 45,
+      "votesCount": 178,
+      "commentsCount": 49,
       "createdAt": "2026-07-03T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/a92edd05-32c9-4e8d-9d30-78b152e49f59.png?auto=format"
@@ -130,7 +130,7 @@
       "name": "Archify ",
       "tagline": "understand software",
       "url": "https://www.producthunt.com/products/archify?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 155,
+      "votesCount": 163,
       "commentsCount": 41,
       "createdAt": "2026-07-03T07:01:00Z",
       "thumbnail": {
@@ -161,8 +161,8 @@
       "name": "nxt",
       "tagline": "Talk to your to do list and get what's next",
       "url": "https://www.producthunt.com/products/nxt-talk-to-your-to-do-list?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 136,
-      "commentsCount": 37,
+      "votesCount": 139,
+      "commentsCount": 39,
       "createdAt": "2026-07-03T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/ea049e59-cb42-415c-b977-9e9e32733552.png?auto=format"
@@ -228,7 +228,7 @@
       "name": "Notta Desktop - Privacy Mode",
       "tagline": "Offline AI meeting notes with unlimited transcription",
       "url": "https://www.producthunt.com/products/notta-desktop-private-transcription?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 52,
+      "votesCount": 53,
       "commentsCount": 20,
       "createdAt": "2026-07-03T07:01:00Z",
       "thumbnail": {
@@ -286,6 +286,37 @@
       }
     },
     {
+      "id": "1186597",
+      "name": "JoJo Days",
+      "tagline": "The baby book you'll actually keep",
+      "url": "https://www.producthunt.com/products/jojo-days?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 29,
+      "commentsCount": 12,
+      "createdAt": "2026-07-03T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/ae024b51-41c8-4471-8eb1-bed63922a37c.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Parenting"
+            }
+          },
+          {
+            "node": {
+              "name": "Notes"
+            }
+          },
+          {
+            "node": {
+              "name": "Photo & Video"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1185935",
       "name": "Aura Matter",
       "tagline": "Create jewelry with AI, explore it in 3D, then make it real",
@@ -311,37 +342,6 @@
           {
             "node": {
               "name": "3D Modeling"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1186597",
-      "name": "JoJo Days",
-      "tagline": "The baby book you'll actually keep",
-      "url": "https://www.producthunt.com/products/jojo-days?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 27,
-      "commentsCount": 11,
-      "createdAt": "2026-07-03T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/ae024b51-41c8-4471-8eb1-bed63922a37c.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Parenting"
-            }
-          },
-          {
-            "node": {
-              "name": "Notes"
-            }
-          },
-          {
-            "node": {
-              "name": "Photo & Video"
             }
           }
         ]
@@ -431,37 +431,6 @@
       }
     },
     {
-      "id": "1186310",
-      "name": "Cited",
-      "tagline": "Investor answers for NIFTY 50, every claim cited",
-      "url": "https://www.producthunt.com/products/cited-6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 18,
-      "commentsCount": 11,
-      "createdAt": "2026-07-03T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/4d07e12f-0fc0-445c-8017-34f47144b3a3.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Fintech"
-            }
-          },
-          {
-            "node": {
-              "name": "Investing"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1186415",
       "name": "SyncBooster",
       "tagline": "Create and publish social media posts via AI chat",
@@ -493,11 +462,42 @@
       }
     },
     {
+      "id": "1186310",
+      "name": "Cited",
+      "tagline": "Investor answers for NIFTY 50, every claim cited",
+      "url": "https://www.producthunt.com/products/cited-6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 18,
+      "commentsCount": 11,
+      "createdAt": "2026-07-03T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/4d07e12f-0fc0-445c-8017-34f47144b3a3.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Fintech"
+            }
+          },
+          {
+            "node": {
+              "name": "Investing"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1186676",
       "name": "GenMB",
       "tagline": "AI app builder with a real backend and automations",
       "url": "https://www.producthunt.com/products/genmb?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 17,
+      "votesCount": 18,
       "commentsCount": 10,
       "createdAt": "2026-07-03T07:01:00Z",
       "thumbnail": {
@@ -513,6 +513,37 @@
           {
             "node": {
               "name": "Vibe coding"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1186213",
+      "name": "Subhive",
+      "tagline": "Every subscription. One hive.",
+      "url": "https://www.producthunt.com/products/subhive?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 17,
+      "commentsCount": 9,
+      "createdAt": "2026-07-03T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/346b3776-d328-46e3-86c2-17254e6aced5.svg?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Payments"
+            }
+          },
+          {
+            "node": {
+              "name": "SaaS"
+            }
+          },
+          {
+            "node": {
+              "name": "Budgeting"
             }
           }
         ]
@@ -575,37 +606,6 @@
           {
             "node": {
               "name": "Lifestyle"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1186295",
-      "name": "Comparoo",
-      "tagline": "Ride apps are counting on you not to compare.",
-      "url": "https://www.producthunt.com/products/comparoo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 16,
-      "commentsCount": 10,
-      "createdAt": "2026-07-03T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/d1beb1a2-278f-4242-8a57-163eaf725808.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Android"
-            }
-          },
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Travel"
             }
           }
         ]
