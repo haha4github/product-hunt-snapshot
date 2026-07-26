@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-07-26T11:57:56.431Z",
+  "fetchedAt": "2026-07-26T13:47:06.056Z",
   "posts": [
     {
       "id": "1205823",
       "name": "TouchGrass",
       "tagline": "Context-aware break reminders without invasive permissions",
       "url": "https://www.producthunt.com/products/touchgrass-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 138,
-      "commentsCount": 10,
+      "votesCount": 161,
+      "commentsCount": 18,
       "createdAt": "2026-07-26T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/2a4f342e-caaa-47f5-afb2-6c37767922b0.png?auto=format"
@@ -37,8 +37,8 @@
       "name": "Athena by Shoplazza",
       "tagline": "An orchestrator agent for your entire commerce stack",
       "url": "https://www.producthunt.com/products/athena-by-shoplazza?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 123,
-      "commentsCount": 28,
+      "votesCount": 144,
+      "commentsCount": 35,
       "createdAt": "2026-07-26T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/070fb73f-cbfd-450d-a087-e0e6b1ecf62b.png?auto=format"
@@ -68,8 +68,8 @@
       "name": "SF Apartment Finder",
       "tagline": "Tinder for live SF rentals from across the web",
       "url": "https://www.producthunt.com/products/sf-apartment-finder?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 107,
-      "commentsCount": 3,
+      "votesCount": 119,
+      "commentsCount": 5,
       "createdAt": "2026-07-26T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/b8239e89-ef66-4ee2-a6db-50db666d92e2.png?auto=format"
@@ -104,8 +104,8 @@
       "name": "PureBox.ai",
       "tagline": "Review-first AI cleanup for your real Gmail inbox.",
       "url": "https://www.producthunt.com/products/purebox-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 90,
-      "commentsCount": 4,
+      "votesCount": 102,
+      "commentsCount": 8,
       "createdAt": "2026-07-26T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/13d2e711-0ab6-4e1f-a6dc-1abca88a2e94.png?auto=format"
@@ -131,43 +131,12 @@
       }
     },
     {
-      "id": "1206457",
-      "name": "Pulse Island",
-      "tagline": "A living island for your Mac's notch",
-      "url": "https://www.producthunt.com/products/pulse-island?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 88,
-      "commentsCount": 11,
-      "createdAt": "2026-07-26T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/ac434894-b8ee-4e4f-9245-5d8a2761c5e1.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Mac"
-            }
-          },
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Apple"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1200703",
       "name": "Openbase",
       "tagline": "Manage your team of AI agents by voice, from anywhere",
       "url": "https://www.producthunt.com/products/openbase-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 88,
-      "commentsCount": 9,
+      "votesCount": 98,
+      "commentsCount": 13,
       "createdAt": "2026-07-26T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/9b059430-9dce-4ca1-bd9b-80ac9702807d.png?auto=format"
@@ -202,7 +171,7 @@
       "name": "Aymo AI",
       "tagline": "All-in-one AI Platform for Teams",
       "url": "https://www.producthunt.com/products/aymo-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 87,
+      "votesCount": 91,
       "commentsCount": 11,
       "createdAt": "2026-07-26T07:01:00Z",
       "thumbnail": {
@@ -229,12 +198,79 @@
       }
     },
     {
+      "id": "1206457",
+      "name": "Pulse Island",
+      "tagline": "A living island for your Mac's notch",
+      "url": "https://www.producthunt.com/products/pulse-island?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 90,
+      "commentsCount": 15,
+      "createdAt": "2026-07-26T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/ac434894-b8ee-4e4f-9245-5d8a2761c5e1.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Mac"
+            }
+          },
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Apple"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1206148",
+      "name": "Yoggi",
+      "tagline": "Safe AI chat for kids",
+      "url": "https://www.producthunt.com/products/yoggi?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 88,
+      "commentsCount": 13,
+      "createdAt": "2026-07-26T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/5d305389-108f-413b-a49f-6da58d6a302e.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Android"
+            }
+          },
+          {
+            "node": {
+              "name": "Parenting"
+            }
+          },
+          {
+            "node": {
+              "name": "Kids"
+            }
+          },
+          {
+            "node": {
+              "name": "Education"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1205894",
       "name": "BrainFeed",
       "tagline": "A personalized learning feed that redirects your scroll",
       "url": "https://www.producthunt.com/products/brainfeed-scroll-better?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 84,
-      "commentsCount": 4,
+      "votesCount": 87,
+      "commentsCount": 10,
       "createdAt": "2026-07-26T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/b7a1d339-1e95-481c-b418-6ece18e8d22c.png?auto=format"
@@ -260,36 +296,36 @@
       }
     },
     {
-      "id": "1206148",
-      "name": "Yoggi",
-      "tagline": "Safe AI chat for kids",
-      "url": "https://www.producthunt.com/products/yoggi?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 82,
-      "commentsCount": 8,
+      "id": "1205642",
+      "name": "CodexBar Lite",
+      "tagline": "Privacy-first Codex tracker for your macOS menu bar",
+      "url": "https://www.producthunt.com/products/codexbar-lite?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 79,
+      "commentsCount": 6,
       "createdAt": "2026-07-26T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/5d305389-108f-413b-a49f-6da58d6a302e.png?auto=format"
+        "url": "https://ph-files.imgix.net/7c301bdd-a4a2-43f7-a309-826bf664a904.png?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "Android"
+              "name": "Privacy"
             }
           },
           {
             "node": {
-              "name": "Parenting"
+              "name": "Developer Tools"
             }
           },
           {
             "node": {
-              "name": "Kids"
+              "name": "GitHub"
             }
           },
           {
             "node": {
-              "name": "Education"
+              "name": "Menu Bar Apps"
             }
           }
         ]
@@ -332,48 +368,12 @@
       }
     },
     {
-      "id": "1205642",
-      "name": "CodexBar Lite",
-      "tagline": "Privacy-first Codex tracker for your macOS menu bar",
-      "url": "https://www.producthunt.com/products/codexbar-lite?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 75,
-      "commentsCount": 5,
-      "createdAt": "2026-07-26T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/7c301bdd-a4a2-43f7-a309-826bf664a904.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Privacy"
-            }
-          },
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "GitHub"
-            }
-          },
-          {
-            "node": {
-              "name": "Menu Bar Apps"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1206472",
       "name": "KeyOpera 2.0",
       "tagline": "Make every Mac keystroke sound uniquely yours",
       "url": "https://www.producthunt.com/products/keyopera?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 75,
-      "commentsCount": 1,
+      "votesCount": 78,
+      "commentsCount": 4,
       "createdAt": "2026-07-26T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/c6f3c8a7-daac-4852-9264-7fa5d1df6c2b.png?auto=format"
@@ -408,8 +408,8 @@
       "name": "Forgeon",
       "tagline": "Create, publish, and experience interactive stories",
       "url": "https://www.producthunt.com/products/forgeon-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 74,
-      "commentsCount": 6,
+      "votesCount": 78,
+      "commentsCount": 8,
       "createdAt": "2026-07-26T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/760fa6a4-1c63-4e9d-b7f4-736cc3c6f218.png?auto=format"
@@ -444,8 +444,8 @@
       "name": "AppUFO ",
       "tagline": "Ship localised Apps faster",
       "url": "https://www.producthunt.com/products/appufo-localise-apps-with-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 63,
-      "commentsCount": 1,
+      "votesCount": 66,
+      "commentsCount": 4,
       "createdAt": "2026-07-26T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/5316b062-da46-4b6d-b51f-14ec68da01b6.png?auto=format"
@@ -475,8 +475,8 @@
       "name": "yatta!",
       "tagline": "A cute little to-do list that celebrates with you",
       "url": "https://www.producthunt.com/products/yatta?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 62,
-      "commentsCount": 1,
+      "votesCount": 63,
+      "commentsCount": 2,
       "createdAt": "2026-07-26T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/511d2c24-c344-4e41-b6b9-99e6bf3e50be.png?auto=format"
@@ -506,8 +506,8 @@
       "name": "Pawesome",
       "tagline": "Your AI Native Inbound Marketing Engine",
       "url": "https://www.producthunt.com/products/pawesome?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 27,
-      "commentsCount": 6,
+      "votesCount": 31,
+      "commentsCount": 8,
       "createdAt": "2026-07-26T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/72bd3c4b-a0fd-4d54-bc93-724979b107f0.png?auto=format"
@@ -522,6 +522,68 @@
           {
             "node": {
               "name": "SaaS"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1120859",
+      "name": "Via 1.0",
+      "tagline": "Find the optimal path through your work",
+      "url": "https://www.producthunt.com/products/via-v1?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 16,
+      "commentsCount": 8,
+      "createdAt": "2026-07-26T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/15bd97dd-8ba3-4918-bbcc-af75cc3fc2f6.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "Tech"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1204958",
+      "name": "Scaloom",
+      "tagline": "Safe Reddit account warmup tool for founders & marketers",
+      "url": "https://www.producthunt.com/products/scaloom-10?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 11,
+      "commentsCount": 13,
+      "createdAt": "2026-07-26T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/96c3f04b-1679-4093-a70a-9e413c16dd42.x-icon?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Social Media"
+            }
+          },
+          {
+            "node": {
+              "name": "Marketing"
             }
           },
           {
@@ -564,88 +626,21 @@
       }
     },
     {
-      "id": "1204958",
-      "name": "Scaloom",
-      "tagline": "Safe Reddit account warmup tool for founders & marketers",
-      "url": "https://www.producthunt.com/products/scaloom-10?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "id": "1195652",
+      "name": "AlsonAI Studio for Animated Shorts",
+      "tagline": "From bedtime story to animated short film.",
+      "url": "https://www.producthunt.com/products/alsonai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 10,
-      "commentsCount": 13,
-      "createdAt": "2026-07-26T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/96c3f04b-1679-4093-a70a-9e413c16dd42.x-icon?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Social Media"
-            }
-          },
-          {
-            "node": {
-              "name": "Marketing"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1120859",
-      "name": "Via 1.0",
-      "tagline": "Find the optimal path through your work",
-      "url": "https://www.producthunt.com/products/via-v1?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 10,
-      "commentsCount": 4,
-      "createdAt": "2026-07-26T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/15bd97dd-8ba3-4918-bbcc-af75cc3fc2f6.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          },
-          {
-            "node": {
-              "name": "Tech"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1204146",
-      "name": "Braidkeep",
-      "tagline": "Catch merge conflicts before your AI agents break main",
-      "url": "https://www.producthunt.com/products/braidkeep?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 9,
       "commentsCount": 2,
       "createdAt": "2026-07-26T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/9ada60f3-ef68-4860-b13d-17c53de49429.png?auto=format"
+        "url": "https://ph-files.imgix.net/95090047-dce7-4dbf-9f52-9b6413f37b35.png?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "Open Source"
-            }
-          },
-          {
-            "node": {
-              "name": "Developer Tools"
+              "name": "Kids"
             }
           },
           {
@@ -655,7 +650,7 @@
           },
           {
             "node": {
-              "name": "GitHub"
+              "name": "Animation"
             }
           }
         ]
