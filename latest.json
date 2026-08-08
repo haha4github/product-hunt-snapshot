@@ -1,12 +1,12 @@
 {
-  "fetchedAt": "2026-08-08T17:01:15.648Z",
+  "fetchedAt": "2026-08-08T17:41:38.284Z",
   "posts": [
     {
       "id": "1207906",
       "name": "The GTM Co-Founder",
       "tagline": "Open-source GTM skills for technical founders",
       "url": "https://www.producthunt.com/products/the-gtm-co-founder?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 261,
+      "votesCount": 267,
       "commentsCount": 8,
       "createdAt": "2026-08-08T07:01:00Z",
       "thumbnail": {
@@ -37,7 +37,7 @@
       "name": "AstraPixels",
       "tagline": "​​A pixel-art solar system at its real current positions.​",
       "url": "https://www.producthunt.com/products/astrapixels?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 203,
+      "votesCount": 206,
       "commentsCount": 11,
       "createdAt": "2026-08-08T07:01:00Z",
       "thumbnail": {
@@ -68,7 +68,7 @@
       "name": "Hexis",
       "tagline": "Git-backed skills, tools & context for AI agents",
       "url": "https://www.producthunt.com/products/bevel-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 144,
+      "votesCount": 146,
       "commentsCount": 7,
       "createdAt": "2026-08-08T07:01:00Z",
       "thumbnail": {
@@ -94,7 +94,7 @@
       "name": "Basedash Subscriptions",
       "tagline": "Subscribe to any dashboard. Delivered on schedule.",
       "url": "https://www.producthunt.com/products/basedash?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 130,
+      "votesCount": 131,
       "commentsCount": 3,
       "createdAt": "2026-08-08T07:01:00Z",
       "thumbnail": {
@@ -161,7 +161,7 @@
       "name": "Pocket Fit",
       "tagline": "AI Workout & Food",
       "url": "https://www.producthunt.com/products/pocket-fit?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 18,
+      "votesCount": 20,
       "commentsCount": 1,
       "createdAt": "2026-08-08T07:01:00Z",
       "thumbnail": {
@@ -192,8 +192,8 @@
       "name": "Otiumz",
       "tagline": "AI-powered social app for every side of you",
       "url": "https://www.producthunt.com/products/otiumz?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 9,
-      "commentsCount": 1,
+      "votesCount": 12,
+      "commentsCount": 2,
       "createdAt": "2026-08-08T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/6ac7e7c0-b370-4755-9ec5-5f0bcd4b4896.png?auto=format"
@@ -250,42 +250,11 @@
       }
     },
     {
-      "id": "1216845",
-      "name": "Pesterly",
-      "tagline": "Automated client document collection that follows up for you",
-      "url": "https://www.producthunt.com/products/pesterly?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 7,
-      "commentsCount": 1,
-      "createdAt": "2026-08-08T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/21c769fd-8c49-4c05-9a4f-115652147655.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Email"
-            }
-          },
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Operations"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1217593",
       "name": "Rendemo",
       "tagline": "Turn any web app into a clickable demo in minutes",
       "url": "https://www.producthunt.com/products/rendemo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 6,
+      "votesCount": 7,
       "commentsCount": 1,
       "createdAt": "2026-08-08T07:01:00Z",
       "thumbnail": {
@@ -311,6 +280,37 @@
           {
             "node": {
               "name": "Developer Tools"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1216845",
+      "name": "Pesterly",
+      "tagline": "Automated client document collection that follows up for you",
+      "url": "https://www.producthunt.com/products/pesterly?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 7,
+      "commentsCount": 1,
+      "createdAt": "2026-08-08T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/21c769fd-8c49-4c05-9a4f-115652147655.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Email"
+            }
+          },
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Operations"
             }
           }
         ]
@@ -405,6 +405,37 @@
       }
     },
     {
+      "id": "1217611",
+      "name": "SEOBeast",
+      "tagline": "Fully automated AI blogging that grows your SEO",
+      "url": "https://www.producthunt.com/products/seobeast?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 4,
+      "commentsCount": 1,
+      "createdAt": "2026-08-08T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/1ee0983d-88ee-47e8-a677-857544f86a37.svg?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Marketing"
+            }
+          },
+          {
+            "node": {
+              "name": "Growth Hacking"
+            }
+          },
+          {
+            "node": {
+              "name": "SEO"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1215469",
       "name": "TrainZilla",
       "tagline": "Your fitness coaching business, run by an AI agent.",
@@ -493,37 +524,6 @@
       }
     },
     {
-      "id": "1214422",
-      "name": "RoleSage",
-      "tagline": "See the person in an avalanche of AI-polished applications",
-      "url": "https://www.producthunt.com/products/rolesage?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 3,
-      "commentsCount": 1,
-      "createdAt": "2026-08-08T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/ee8314f9-3a0c-4db2-9483-e3cb214798ee.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Hiring"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          },
-          {
-            "node": {
-              "name": "Human Resources"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1217426",
       "name": "Notewarp",
       "tagline": "Turn messy thoughts into clear, reusable notes with AI",
@@ -555,21 +555,31 @@
       }
     },
     {
-      "id": "1217773",
-      "name": "Pinpoint Answer Today",
-      "tagline": "Practice five-clue Pinpoint puzzles without spoilers",
-      "url": "https://www.producthunt.com/products/pinpoint-answer-today-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "id": "1214422",
+      "name": "RoleSage",
+      "tagline": "See the person in an avalanche of AI-polished applications",
+      "url": "https://www.producthunt.com/products/rolesage?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 3,
       "commentsCount": 1,
       "createdAt": "2026-08-08T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/c63be9e5-abc3-4695-8c7e-4059cf1977c1.png?auto=format"
+        "url": "https://ph-files.imgix.net/ee8314f9-3a0c-4db2-9483-e3cb214798ee.png?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "Puzzle Games"
+              "name": "Hiring"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "Human Resources"
             }
           }
         ]
