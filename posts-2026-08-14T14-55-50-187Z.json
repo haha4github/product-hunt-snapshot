@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-08-14T13:55:09.285Z",
+  "fetchedAt": "2026-08-14T14:55:50.187Z",
   "posts": [
     {
       "id": "430331",
       "name": "Outcome ",
       "tagline": "Turn your content into a personal outcome for every lead",
       "url": "https://www.producthunt.com/products/contentblocks?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 176,
-      "commentsCount": 10,
+      "votesCount": 186,
+      "commentsCount": 12,
       "createdAt": "2026-08-14T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/20e41803-90e3-49f6-94c6-87a17cd7e2d8.png?auto=format"
@@ -37,7 +37,7 @@
       "name": "BrowserAct Cloud",
       "tagline": "Scrape any data from any website with one prompt",
       "url": "https://www.producthunt.com/products/browseract?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 166,
+      "votesCount": 174,
       "commentsCount": 20,
       "createdAt": "2026-08-14T07:01:00Z",
       "thumbnail": {
@@ -68,8 +68,8 @@
       "name": "Freebuff",
       "tagline": "Free coding agents to kill Claude, Cursor, Replit, and Devin",
       "url": "https://www.producthunt.com/products/freebuff-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 155,
-      "commentsCount": 19,
+      "votesCount": 163,
+      "commentsCount": 22,
       "createdAt": "2026-08-14T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/ec662680-3bec-4877-b6a8-b726cc801291.png?auto=format"
@@ -99,7 +99,7 @@
       "name": "Gemini 3.7 Flash",
       "tagline": "Google's smartest workhorse yet for coding & agents",
       "url": "https://www.producthunt.com/products/gemini-3-7-flash?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 136,
+      "votesCount": 150,
       "commentsCount": 1,
       "createdAt": "2026-08-14T07:01:00Z",
       "thumbnail": {
@@ -125,8 +125,8 @@
       "name": "Munder Difflin",
       "tagline": "Make clones with Claude Code and Codex to do your work",
       "url": "https://www.producthunt.com/products/munder-difflin?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 112,
-      "commentsCount": 6,
+      "votesCount": 116,
+      "commentsCount": 12,
       "createdAt": "2026-08-14T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/5f51ef36-0305-4b49-a6e0-d74d00a9f649.gif?auto=format"
@@ -152,38 +152,12 @@
       }
     },
     {
-      "id": "1200173",
-      "name": "Hoplite",
-      "tagline": "Effortlessly deploy cloud software factories.",
-      "url": "https://www.producthunt.com/products/hoplite?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 104,
-      "commentsCount": 7,
-      "createdAt": "2026-08-14T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/510f698c-88f9-47ac-82bf-ddfea0c6def7.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "SaaS"
-            }
-          },
-          {
-            "node": {
-              "name": "Development"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1222158",
       "name": "DeepSeek Harness",
       "tagline": "Composable agent harness where everything is a plugin",
       "url": "https://www.producthunt.com/products/deepseek?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 102,
-      "commentsCount": 1,
+      "votesCount": 114,
+      "commentsCount": 2,
       "createdAt": "2026-08-14T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/9d823c04-85e6-4010-a80e-52c793e0e20b.png?auto=format"
@@ -209,11 +183,37 @@
       }
     },
     {
+      "id": "1200173",
+      "name": "Hoplite",
+      "tagline": "Effortlessly deploy cloud software factories.",
+      "url": "https://www.producthunt.com/products/hoplite?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 105,
+      "commentsCount": 7,
+      "createdAt": "2026-08-14T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/510f698c-88f9-47ac-82bf-ddfea0c6def7.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "SaaS"
+            }
+          },
+          {
+            "node": {
+              "name": "Development"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1222240",
       "name": "NS1",
       "tagline": "Personalized Nervous System Training",
       "url": "https://www.producthunt.com/products/ns1?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 99,
+      "votesCount": 101,
       "commentsCount": 4,
       "createdAt": "2026-08-14T07:01:00Z",
       "thumbnail": {
@@ -240,7 +240,7 @@
       "tagline": "Turn screen recordings into engaging product videos",
       "url": "https://www.producthunt.com/products/isolate-video?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 91,
-      "commentsCount": 4,
+      "commentsCount": 5,
       "createdAt": "2026-08-14T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/acbad767-3f2b-453e-9c58-24d0b888df4f.png?auto=format"
@@ -332,8 +332,8 @@
       "name": "Muse",
       "tagline": "Al Visual Bookmark Manager for Mac",
       "url": "https://www.producthunt.com/products/muse-19?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 81,
-      "commentsCount": 9,
+      "votesCount": 86,
+      "commentsCount": 10,
       "createdAt": "2026-08-14T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/243c009c-b681-40a3-9b5d-775e236916d3.png?auto=format"
@@ -363,7 +363,7 @@
       "name": "Suno Studio 2.0",
       "tagline": "Browser-based generative DAW",
       "url": "https://www.producthunt.com/products/suno?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 80,
+      "votesCount": 82,
       "commentsCount": 1,
       "createdAt": "2026-08-14T07:01:00Z",
       "thumbnail": {
@@ -384,6 +384,27 @@
           {
             "node": {
               "name": "Audio"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1222175",
+      "name": "Port22",
+      "tagline": "Claude Code, Codex & more on your phone",
+      "url": "https://www.producthunt.com/products/port22?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 79,
+      "commentsCount": 9,
+      "createdAt": "2026-08-14T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/db044d18-ce80-43d6-89c7-ac039f7e196d.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Developer Tools"
             }
           }
         ]
@@ -415,27 +436,6 @@
           {
             "node": {
               "name": "SaaS"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1222175",
-      "name": "Port22",
-      "tagline": "Claude Code, Codex & more on your phone",
-      "url": "https://www.producthunt.com/products/port22?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 73,
-      "commentsCount": 5,
-      "createdAt": "2026-08-14T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/db044d18-ce80-43d6-89c7-ac039f7e196d.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Developer Tools"
             }
           }
         ]
