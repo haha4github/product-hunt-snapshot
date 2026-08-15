@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-08-15T11:43:40.068Z",
+  "fetchedAt": "2026-08-15T11:59:35.968Z",
   "posts": [
     {
       "id": "1220779",
       "name": "Inferock Bench",
       "tagline": "An independent receipt for every LLM API call",
       "url": "https://www.producthunt.com/products/inferock-bench?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 142,
-      "commentsCount": 26,
+      "votesCount": 147,
+      "commentsCount": 27,
       "createdAt": "2026-08-15T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/9b4bae09-8142-48d4-a802-18c3ba58a33b.jpeg?auto=format"
@@ -42,7 +42,7 @@
       "name": "Zetik",
       "tagline": "A chief of staff in your pocket",
       "url": "https://www.producthunt.com/products/zetik?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 102,
+      "votesCount": 103,
       "commentsCount": 4,
       "createdAt": "2026-08-15T07:01:00Z",
       "thumbnail": {
@@ -73,8 +73,8 @@
       "name": "Big Mike",
       "tagline": "Your favorite uncle who knows sports & bets, on iMessage",
       "url": "https://www.producthunt.com/products/big-mike?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 99,
-      "commentsCount": 5,
+      "votesCount": 96,
+      "commentsCount": 8,
       "createdAt": "2026-08-15T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/99a8b009-9438-4902-92fb-2e1d458838b5.png?auto=format"
@@ -131,6 +131,63 @@
       }
     },
     {
+      "id": "1222612",
+      "name": "GLM-5.3",
+      "tagline": "Coding leap from scaled post-training on the same base",
+      "url": "https://www.producthunt.com/products/z-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 92,
+      "commentsCount": 2,
+      "createdAt": "2026-08-15T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/a66f6162-7d8a-429f-be63-5928828439a3.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Open Source"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "Development"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1221450",
+      "name": "nenspace",
+      "tagline": "the lo-fi of LLMs: your mind, made larger",
+      "url": "https://www.producthunt.com/products/nenspace?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 93,
+      "commentsCount": 5,
+      "createdAt": "2026-08-15T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/151a3bfd-de9a-4f69-96ed-6fa04d292711.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1216762",
       "name": "SalesCloser.ai",
       "tagline": "Proactive sales agent that books, shows up, and runs demos",
@@ -156,63 +213,6 @@
           {
             "node": {
               "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1221450",
-      "name": "nenspace",
-      "tagline": "the lo-fi of LLMs: your mind, made larger",
-      "url": "https://www.producthunt.com/products/nenspace?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 91,
-      "commentsCount": 5,
-      "createdAt": "2026-08-15T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/151a3bfd-de9a-4f69-96ed-6fa04d292711.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1222612",
-      "name": "GLM-5.3",
-      "tagline": "Coding leap from scaled post-training on the same base",
-      "url": "https://www.producthunt.com/products/z-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 91,
-      "commentsCount": 2,
-      "createdAt": "2026-08-15T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/a66f6162-7d8a-429f-be63-5928828439a3.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Open Source"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          },
-          {
-            "node": {
-              "name": "Development"
             }
           }
         ]
@@ -430,7 +430,7 @@
       "name": "Nick Launches",
       "tagline": "Launch your product to thousands of builders.",
       "url": "https://www.producthunt.com/products/nick-launches-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 17,
+      "votesCount": 18,
       "commentsCount": 3,
       "createdAt": "2026-08-15T07:01:00Z",
       "thumbnail": {
