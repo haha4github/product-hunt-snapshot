@@ -1,12 +1,12 @@
 {
-  "fetchedAt": "2026-08-16T19:39:40.175Z",
+  "fetchedAt": "2026-08-16T19:56:13.595Z",
   "posts": [
     {
       "id": "1200353",
       "name": "Blume",
       "tagline": "AI-ready, Markdown-first documentation framework",
       "url": "https://www.producthunt.com/products/blume-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 219,
+      "votesCount": 222,
       "commentsCount": 9,
       "createdAt": "2026-08-16T07:01:00Z",
       "thumbnail": {
@@ -27,7 +27,7 @@
       "name": "Expeditione",
       "tagline": "The Interactive 3D Encyclopedia",
       "url": "https://www.producthunt.com/products/expeditione?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 211,
+      "votesCount": 212,
       "commentsCount": 26,
       "createdAt": "2026-08-16T07:01:00Z",
       "thumbnail": {
@@ -58,7 +58,7 @@
       "name": "HarnessRouter Community Edition",
       "tagline": "Open-source unified interface for agent harnesses",
       "url": "https://www.producthunt.com/products/epsilla?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 208,
+      "votesCount": 209,
       "commentsCount": 24,
       "createdAt": "2026-08-16T07:01:00Z",
       "thumbnail": {
@@ -130,7 +130,7 @@
       "name": "Chert",
       "tagline": "Vapi for FaceTime: AI video agents in a few lines",
       "url": "https://www.producthunt.com/products/chert?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 162,
+      "votesCount": 163,
       "commentsCount": 19,
       "createdAt": "2026-08-16T07:01:00Z",
       "thumbnail": {
@@ -223,8 +223,8 @@
       "name": "Vaaya",
       "tagline": "Turn your Github profile into Credit Card for your agents",
       "url": "https://www.producthunt.com/products/vaaya?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 42,
-      "commentsCount": 3,
+      "votesCount": 41,
+      "commentsCount": 4,
       "createdAt": "2026-08-16T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/c0e3279a-4469-4978-9ce3-27c67b252953.png?auto=format"
@@ -312,6 +312,37 @@
       }
     },
     {
+      "id": "1214151",
+      "name": "Nthly - 2FA Authenticator",
+      "tagline": "Nthly is a private and secure authenticator.",
+      "url": "https://www.producthunt.com/products/nthly?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 8,
+      "commentsCount": 3,
+      "createdAt": "2026-08-16T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/acd82984-663f-4bdf-9cba-a3e3c0d91875.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Security"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1218228",
       "name": "Scaloom",
       "tagline": "AI-powered Reddit marketing for Google & AI search",
@@ -368,37 +399,6 @@
           {
             "node": {
               "name": "Task Management"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1214151",
-      "name": "Nthly - 2FA Authenticator",
-      "tagline": "Nthly is a private and secure authenticator.",
-      "url": "https://www.producthunt.com/products/nthly?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 7,
-      "commentsCount": 3,
-      "createdAt": "2026-08-16T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/acd82984-663f-4bdf-9cba-a3e3c0d91875.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Security"
             }
           }
         ]
