@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-08-17T11:57:45.503Z",
+  "fetchedAt": "2026-08-17T12:59:10.822Z",
   "posts": [
     {
       "id": "1223058",
       "name": "Omni by xpander",
       "tagline": "Stop babysitting your AI agents",
       "url": "https://www.producthunt.com/products/omni-by-xpander?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 181,
-      "commentsCount": 9,
+      "votesCount": 195,
+      "commentsCount": 13,
       "createdAt": "2026-08-17T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/0d422e09-47e9-49a6-ad27-f11ca44532f8.png?auto=format"
@@ -37,8 +37,8 @@
       "name": "Meridian",
       "tagline": "Don't let your work go unnoticed. Get promoted!",
       "url": "https://www.producthunt.com/products/meridian-16?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 153,
-      "commentsCount": 14,
+      "votesCount": 171,
+      "commentsCount": 15,
       "createdAt": "2026-08-17T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/bcb773ff-2def-41ac-aae2-a83145d6b201.png?auto=format"
@@ -66,10 +66,10 @@
     {
       "id": "1214248",
       "name": "Clears",
-      "tagline": "Move beyond AI coding to agentic software delivery",
+      "tagline": "Move beyond AI coding to Agentic Software Delivery",
       "url": "https://www.producthunt.com/products/clears?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 148,
-      "commentsCount": 5,
+      "votesCount": 170,
+      "commentsCount": 10,
       "createdAt": "2026-08-17T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/df6e5476-8605-43ab-8c6d-55e7592821a7.png?auto=format"
@@ -94,7 +94,7 @@
       "name": "Vendo ",
       "tagline": "Let your users build their own features inside your product",
       "url": "https://www.producthunt.com/products/vendo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 124,
+      "votesCount": 144,
       "commentsCount": 16,
       "createdAt": "2026-08-17T07:01:00Z",
       "thumbnail": {
@@ -130,7 +130,7 @@
       "name": "Scholé Scenarios",
       "tagline": "Learn by doing",
       "url": "https://www.producthunt.com/products/schole-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 108,
+      "votesCount": 117,
       "commentsCount": 5,
       "createdAt": "2026-08-17T07:01:00Z",
       "thumbnail": {
@@ -152,12 +152,43 @@
       }
     },
     {
+      "id": "1220844",
+      "name": "Startup Program by Recall.ai",
+      "tagline": "Startup program for meeting recording infrastructure",
+      "url": "https://www.producthunt.com/products/recall-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 108,
+      "commentsCount": 4,
+      "createdAt": "2026-08-17T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/d142d14d-ab98-4286-8057-0dd867f04b76.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "API"
+            }
+          },
+          {
+            "node": {
+              "name": "Meetings"
+            }
+          },
+          {
+            "node": {
+              "name": "SDK"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1223212",
       "name": "OpenTrade",
       "tagline": "Open-source trading harness for Claude Code / Codex.",
       "url": "https://www.producthunt.com/products/opentrade?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 100,
-      "commentsCount": 9,
+      "votesCount": 106,
+      "commentsCount": 10,
       "createdAt": "2026-08-17T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/41ac297a-5b94-49cf-9785-f9b7c5f559d6.png?auto=format"
@@ -188,42 +219,11 @@
       }
     },
     {
-      "id": "1220844",
-      "name": "Startup Program by Recall.ai",
-      "tagline": "Startup program for meeting recording infrastructure",
-      "url": "https://www.producthunt.com/products/recall-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 106,
-      "commentsCount": 4,
-      "createdAt": "2026-08-17T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/d142d14d-ab98-4286-8057-0dd867f04b76.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "API"
-            }
-          },
-          {
-            "node": {
-              "name": "Meetings"
-            }
-          },
-          {
-            "node": {
-              "name": "SDK"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1220459",
       "name": "Replay QA for Teams",
       "tagline": "Autonomous QA for teams who ship faster than they can verify",
       "url": "https://www.producthunt.com/products/replayio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 98,
+      "votesCount": 105,
       "commentsCount": 3,
       "createdAt": "2026-08-17T07:01:00Z",
       "thumbnail": {
@@ -240,43 +240,12 @@
       }
     },
     {
-      "id": "1224203",
-      "name": "Skriptr",
-      "tagline": "AI workspace for students",
-      "url": "https://www.producthunt.com/products/skriptr?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 97,
-      "commentsCount": 10,
-      "createdAt": "2026-08-17T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/8d23f9ae-bf05-4faa-9361-417854a5e1b0.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Writing"
-            }
-          },
-          {
-            "node": {
-              "name": "Education"
-            }
-          },
-          {
-            "node": {
-              "name": "Online Learning"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1220962",
       "name": "Treg",
       "tagline": "OpenRouter for tools with 2,600 APIs, 0% markup",
       "url": "https://www.producthunt.com/products/treg-openrouter-for-tools?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 95,
-      "commentsCount": 2,
+      "votesCount": 101,
+      "commentsCount": 4,
       "createdAt": "2026-08-17T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/687f1eb5-d7a3-4692-86a0-9b2a308cb593.png?auto=format"
@@ -301,6 +270,37 @@
           {
             "node": {
               "name": "GitHub"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1224203",
+      "name": "Skriptr",
+      "tagline": "AI workspace for students",
+      "url": "https://www.producthunt.com/products/skriptr?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 100,
+      "commentsCount": 10,
+      "createdAt": "2026-08-17T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/8d23f9ae-bf05-4faa-9361-417854a5e1b0.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Writing"
+            }
+          },
+          {
+            "node": {
+              "name": "Education"
+            }
+          },
+          {
+            "node": {
+              "name": "Online Learning"
             }
           }
         ]
@@ -342,8 +342,8 @@
       "name": "Hansel by Seedling",
       "tagline": "Your email, your server, your keys so you're not locked out",
       "url": "https://www.producthunt.com/products/hansel-by-seedling?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 78,
-      "commentsCount": 1,
+      "votesCount": 81,
+      "commentsCount": 2,
       "createdAt": "2026-08-17T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/ac915820-1d95-4d73-bbd5-6285ff8a8740.png?auto=format"
@@ -409,7 +409,7 @@
       "name": "Blender Agent Bridge",
       "tagline": "Open-source MCP bridge for Blender AI workflows",
       "url": "https://www.producthunt.com/products/blender-agent-bridge?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 64,
+      "votesCount": 65,
       "commentsCount": 1,
       "createdAt": "2026-08-17T07:01:00Z",
       "thumbnail": {
@@ -445,7 +445,7 @@
       "name": "TinyFish",
       "tagline": "The web operating layer for AI agents",
       "url": "https://www.producthunt.com/products/tinyfish-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 63,
+      "votesCount": 64,
       "commentsCount": 0,
       "createdAt": "2026-08-17T07:01:00Z",
       "thumbnail": {
@@ -502,8 +502,8 @@
       "name": "Astute",
       "tagline": "New media for B2B brands, starting with creator partnerships",
       "url": "https://www.producthunt.com/products/astute-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 50,
-      "commentsCount": 12,
+      "votesCount": 53,
+      "commentsCount": 14,
       "createdAt": "2026-08-17T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/d472f0a2-bcd4-42b5-bbc6-d8d86e68b7d7.jpeg?auto=format"
@@ -533,7 +533,7 @@
       "name": "Culpa",
       "tagline": "Find the exact conversation behind every AI dollar",
       "url": "https://www.producthunt.com/products/culpa?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 43,
+      "votesCount": 48,
       "commentsCount": 9,
       "createdAt": "2026-08-17T07:01:00Z",
       "thumbnail": {
