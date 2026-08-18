@@ -1,13 +1,39 @@
 {
-  "fetchedAt": "2026-08-18T15:43:08.336Z",
+  "fetchedAt": "2026-08-18T16:11:52.901Z",
   "posts": [
+    {
+      "id": "1220249",
+      "name": "Clara AI SDR",
+      "tagline": "Turn website visitors into qualified pipeline",
+      "url": "https://www.producthunt.com/products/clara-ai-sdr?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 244,
+      "commentsCount": 34,
+      "createdAt": "2026-08-18T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/b9165beb-a873-4975-bb5f-6fcd2fa4c76f.svg?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
     {
       "id": "1224258",
       "name": "Taku AI",
       "tagline": "Borrow the best AI setups and make them yours.",
       "url": "https://www.producthunt.com/products/taku-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 228,
-      "commentsCount": 27,
+      "votesCount": 235,
+      "commentsCount": 30,
       "createdAt": "2026-08-18T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/b9270f28-26bd-404d-be41-06c76c26438f.vnd.microsoft.icon?auto=format"
@@ -33,38 +59,12 @@
       }
     },
     {
-      "id": "1220249",
-      "name": "Clara AI SDR",
-      "tagline": "Turn website visitors into qualified pipeline",
-      "url": "https://www.producthunt.com/products/clara-ai-sdr?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 222,
-      "commentsCount": 32,
-      "createdAt": "2026-08-18T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/b9165beb-a873-4975-bb5f-6fcd2fa4c76f.svg?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1224615",
       "name": "Superflow AI",
       "tagline": "AI agents that QA your website before launch",
       "url": "https://www.producthunt.com/products/superflow-webflow-plugin-for-revisions?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 163,
-      "commentsCount": 11,
+      "votesCount": 170,
+      "commentsCount": 14,
       "createdAt": "2026-08-18T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/68bfe349-c924-4643-ba44-0eb99bf110d7.gif?auto=format"
@@ -95,7 +95,7 @@
       "tagline": "Create and manage ElevenLabs voice agents in your chat",
       "url": "https://www.producthunt.com/products/elevenlabs-mcp-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 133,
-      "commentsCount": 3,
+      "commentsCount": 5,
       "createdAt": "2026-08-18T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/afaf59ee-08ad-4673-b8bd-6f87b335b1a7.png?auto=format"
@@ -120,8 +120,8 @@
       "name": "Hubble",
       "tagline": "Retrieve medical records other APIs can't",
       "url": "https://www.producthunt.com/products/hubble-11?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 120,
-      "commentsCount": 17,
+      "votesCount": 123,
+      "commentsCount": 23,
       "createdAt": "2026-08-18T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/40654f9e-5023-4d3b-b85b-ac82deb42154.png?auto=format"
@@ -151,7 +151,7 @@
       "name": "Shepherd Terminal",
       "tagline": "A persistent terminal for Codex and Claude side by side",
       "url": "https://www.producthunt.com/products/shepherd-terminal-designed-for-agent?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 105,
+      "votesCount": 107,
       "commentsCount": 14,
       "createdAt": "2026-08-18T07:01:00Z",
       "thumbnail": {
@@ -182,7 +182,7 @@
       "name": "AirBuddy 3",
       "tagline": "Easily manage devices and switch them between Macs",
       "url": "https://www.producthunt.com/products/airbuddy-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 101,
+      "votesCount": 102,
       "commentsCount": 5,
       "createdAt": "2026-08-18T07:01:00Z",
       "thumbnail": {
@@ -244,7 +244,7 @@
       "name": "Tiny Funnel",
       "tagline": "Funnel analytics you'll actually understand",
       "url": "https://www.producthunt.com/products/tiny-funnel?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 95,
+      "votesCount": 96,
       "commentsCount": 2,
       "createdAt": "2026-08-18T07:01:00Z",
       "thumbnail": {
@@ -301,8 +301,8 @@
       "name": "CrewTower",
       "tagline": "Control your agents from the notch",
       "url": "https://www.producthunt.com/products/crew-tower?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 91,
-      "commentsCount": 2,
+      "votesCount": 92,
+      "commentsCount": 3,
       "createdAt": "2026-08-18T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/5d37e222-0ea7-44c6-8d47-e2894792dfb4.svg?auto=format"
@@ -332,7 +332,7 @@
       "name": "Finch",
       "tagline": "A single place for your health data and tests",
       "url": "https://www.producthunt.com/products/finch-6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 89,
+      "votesCount": 91,
       "commentsCount": 4,
       "createdAt": "2026-08-18T07:01:00Z",
       "thumbnail": {
@@ -364,7 +364,7 @@
       "tagline": "Search your bookmarks by what's inside them, not the title",
       "url": "https://www.producthunt.com/products/deepmark?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 89,
-      "commentsCount": 3,
+      "commentsCount": 5,
       "createdAt": "2026-08-18T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/61dcb46d-08f9-460b-8c25-5f56b4f39ec8.svg?auto=format"
@@ -394,8 +394,8 @@
       "name": "Clipwing Autopilot",
       "tagline": "Get your clips without AI slop or hiring hassle",
       "url": "https://www.producthunt.com/products/clipwing?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 86,
-      "commentsCount": 13,
+      "votesCount": 88,
+      "commentsCount": 14,
       "createdAt": "2026-08-18T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/90b2b03b-9259-4552-ac71-5c678790b95f.png?auto=format"
@@ -415,6 +415,73 @@
           {
             "node": {
               "name": "Video"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1218197",
+      "name": "Open Index",
+      "tagline": "Build Smarter Agents using Structured Context",
+      "url": "https://www.producthunt.com/products/open-brain?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 87,
+      "commentsCount": 3,
+      "createdAt": "2026-08-18T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/a92e48ae-3032-4002-a291-fedc853dfe54.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Open Source"
+            }
+          },
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "GitHub"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1225484",
+      "name": "Dates by Agenda Hero",
+      "tagline": "Create a plan for anything. Share it with anyone. ",
+      "url": "https://www.producthunt.com/products/dates-by-agenda-hero?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 87,
+      "commentsCount": 3,
+      "createdAt": "2026-08-18T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/6988b547-37ee-462e-a308-122f19d7c3a1.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Calendar"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "Kids & Parenting"
             }
           }
         ]
@@ -477,73 +544,6 @@
           {
             "node": {
               "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1218197",
-      "name": "Open Index",
-      "tagline": "Build Smarter Agents using Structured Context",
-      "url": "https://www.producthunt.com/products/open-brain?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 85,
-      "commentsCount": 3,
-      "createdAt": "2026-08-18T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/a92e48ae-3032-4002-a291-fedc853dfe54.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Open Source"
-            }
-          },
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          },
-          {
-            "node": {
-              "name": "GitHub"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1225484",
-      "name": "Dates by Agenda Hero",
-      "tagline": "Create a plan for anything. Share it with anyone. ",
-      "url": "https://www.producthunt.com/products/dates-by-agenda-hero?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 85,
-      "commentsCount": 3,
-      "createdAt": "2026-08-18T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/6988b547-37ee-462e-a308-122f19d7c3a1.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Calendar"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          },
-          {
-            "node": {
-              "name": "Kids & Parenting"
             }
           }
         ]
