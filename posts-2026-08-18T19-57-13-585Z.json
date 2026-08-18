@@ -1,12 +1,12 @@
 {
-  "fetchedAt": "2026-08-18T19:38:06.100Z",
+  "fetchedAt": "2026-08-18T19:57:13.585Z",
   "posts": [
     {
       "id": "1220249",
       "name": "Clara AI SDR",
       "tagline": "Turn website visitors into qualified pipeline",
       "url": "https://www.producthunt.com/products/clara-ai-sdr?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 314,
+      "votesCount": 317,
       "commentsCount": 44,
       "createdAt": "2026-08-18T07:01:00Z",
       "thumbnail": {
@@ -32,7 +32,7 @@
       "name": "Taku AI",
       "tagline": "Borrow the best AI setups and make them yours.",
       "url": "https://www.producthunt.com/products/taku-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 275,
+      "votesCount": 277,
       "commentsCount": 40,
       "createdAt": "2026-08-18T07:01:00Z",
       "thumbnail": {
@@ -63,8 +63,8 @@
       "name": "Superflow AI",
       "tagline": "AI agents that QA your website before launch",
       "url": "https://www.producthunt.com/products/superflow-webflow-plugin-for-revisions?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 203,
-      "commentsCount": 22,
+      "votesCount": 206,
+      "commentsCount": 23,
       "createdAt": "2026-08-18T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/68bfe349-c924-4643-ba44-0eb99bf110d7.gif?auto=format"
@@ -94,8 +94,8 @@
       "name": "Hubble",
       "tagline": "Retrieve medical records other APIs can't",
       "url": "https://www.producthunt.com/products/hubble-11?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 152,
-      "commentsCount": 41,
+      "votesCount": 156,
+      "commentsCount": 43,
       "createdAt": "2026-08-18T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/40654f9e-5023-4d3b-b85b-ac82deb42154.png?auto=format"
@@ -213,7 +213,7 @@
       "name": "Reckon",
       "tagline": "The decision journal that helps you calibrate",
       "url": "https://www.producthunt.com/products/reckon?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 103,
+      "votesCount": 104,
       "commentsCount": 7,
       "createdAt": "2026-08-18T07:01:00Z",
       "thumbnail": {
@@ -234,6 +234,32 @@
           {
             "node": {
               "name": "Quantified Self"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1219657",
+      "name": "Atlas by WorkOS",
+      "tagline": "Your AI coworker in Slack",
+      "url": "https://www.producthunt.com/products/workos?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 102,
+      "commentsCount": 3,
+      "createdAt": "2026-08-18T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/914a6ac9-f864-48c9-ac79-155bc6b1f025.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Slack"
+            }
+          },
+          {
+            "node": {
+              "name": "Productivity"
             }
           }
         ]
@@ -271,38 +297,12 @@
       }
     },
     {
-      "id": "1219657",
-      "name": "Atlas by WorkOS",
-      "tagline": "Your AI coworker in Slack",
-      "url": "https://www.producthunt.com/products/workos?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 101,
-      "commentsCount": 3,
-      "createdAt": "2026-08-18T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/914a6ac9-f864-48c9-ac79-155bc6b1f025.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Slack"
-            }
-          },
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1213987",
       "name": "Clipwing Autopilot",
       "tagline": "Get your clips without AI slop or hiring hassle",
       "url": "https://www.producthunt.com/products/clipwing?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 97,
-      "commentsCount": 15,
+      "votesCount": 99,
+      "commentsCount": 18,
       "createdAt": "2026-08-18T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/90b2b03b-9259-4552-ac71-5c678790b95f.png?auto=format"
@@ -332,7 +332,7 @@
       "name": "Finch",
       "tagline": "A single place for your health data and tests",
       "url": "https://www.producthunt.com/products/finch-6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 96,
+      "votesCount": 97,
       "commentsCount": 6,
       "createdAt": "2026-08-18T07:01:00Z",
       "thumbnail": {
@@ -390,6 +390,37 @@
       }
     },
     {
+      "id": "1225408",
+      "name": "Gauge",
+      "tagline": "Agent Led Growth: Get written into every customer's codebase",
+      "url": "https://www.producthunt.com/products/gauge?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 93,
+      "commentsCount": 5,
+      "createdAt": "2026-08-18T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/a97b8787-9715-4371-a31a-5c2ff21bc66b.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Marketing"
+            }
+          },
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1225484",
       "name": "Dates by Agenda Hero",
       "tagline": "Create a plan for anything. Share it with anyone. ",
@@ -415,37 +446,6 @@
           {
             "node": {
               "name": "Kids & Parenting"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1225408",
-      "name": "Gauge",
-      "tagline": "Agent Led Growth: Get written into every customer's codebase",
-      "url": "https://www.producthunt.com/products/gauge?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 91,
-      "commentsCount": 5,
-      "createdAt": "2026-08-18T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/a97b8787-9715-4371-a31a-5c2ff21bc66b.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Marketing"
-            }
-          },
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
             }
           }
         ]
