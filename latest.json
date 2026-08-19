@@ -1,12 +1,12 @@
 {
-  "fetchedAt": "2026-08-19T06:02:25.501Z",
+  "fetchedAt": "2026-08-19T07:00:55.375Z",
   "posts": [
     {
       "id": "1220249",
       "name": "Clara AI SDR",
       "tagline": "Turn website visitors into qualified pipeline",
       "url": "https://www.producthunt.com/products/clara-ai-sdr?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 383,
+      "votesCount": 400,
       "commentsCount": 47,
       "createdAt": "2026-08-18T07:01:00Z",
       "thumbnail": {
@@ -32,7 +32,7 @@
       "name": "Taku AI",
       "tagline": "Borrow the best AI setups and make them yours.",
       "url": "https://www.producthunt.com/products/taku-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 354,
+      "votesCount": 373,
       "commentsCount": 57,
       "createdAt": "2026-08-18T07:01:00Z",
       "thumbnail": {
@@ -63,7 +63,7 @@
       "name": "Superflow AI",
       "tagline": "AI agents that QA your website before launch",
       "url": "https://www.producthunt.com/products/superflow-webflow-plugin-for-revisions?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 246,
+      "votesCount": 252,
       "commentsCount": 27,
       "createdAt": "2026-08-18T07:01:00Z",
       "thumbnail": {
@@ -94,8 +94,8 @@
       "name": "Hubble",
       "tagline": "Retrieve medical records other APIs can't",
       "url": "https://www.producthunt.com/products/hubble-11?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 186,
-      "commentsCount": 54,
+      "votesCount": 189,
+      "commentsCount": 55,
       "createdAt": "2026-08-18T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/40654f9e-5023-4d3b-b85b-ac82deb42154.png?auto=format"
@@ -125,7 +125,7 @@
       "name": "ElevenLabs MCP in Claude",
       "tagline": "Create and manage ElevenLabs voice agents in your chat",
       "url": "https://www.producthunt.com/products/elevenlabs-mcp-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 153,
+      "votesCount": 156,
       "commentsCount": 7,
       "createdAt": "2026-08-18T07:01:00Z",
       "thumbnail": {
@@ -182,7 +182,7 @@
       "name": "Shepherd Terminal",
       "tagline": "A persistent terminal for Codex and Claude side by side",
       "url": "https://www.producthunt.com/products/shepherd-terminal-designed-for-agent?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 118,
+      "votesCount": 119,
       "commentsCount": 17,
       "createdAt": "2026-08-18T07:01:00Z",
       "thumbnail": {
@@ -213,7 +213,7 @@
       "name": "Reckon",
       "tagline": "The decision journal that helps you calibrate",
       "url": "https://www.producthunt.com/products/reckon?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 113,
+      "votesCount": 114,
       "commentsCount": 11,
       "createdAt": "2026-08-18T07:01:00Z",
       "thumbnail": {
@@ -234,6 +234,32 @@
           {
             "node": {
               "name": "Quantified Self"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1219657",
+      "name": "Atlas by WorkOS",
+      "tagline": "Your AI coworker in Slack",
+      "url": "https://www.producthunt.com/products/workos?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 109,
+      "commentsCount": 3,
+      "createdAt": "2026-08-18T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/914a6ac9-f864-48c9-ac79-155bc6b1f025.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Slack"
+            }
+          },
+          {
+            "node": {
+              "name": "Productivity"
             }
           }
         ]
@@ -271,32 +297,6 @@
       }
     },
     {
-      "id": "1219657",
-      "name": "Atlas by WorkOS",
-      "tagline": "Your AI coworker in Slack",
-      "url": "https://www.producthunt.com/products/workos?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 109,
-      "commentsCount": 3,
-      "createdAt": "2026-08-18T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/914a6ac9-f864-48c9-ac79-155bc6b1f025.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Slack"
-            }
-          },
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1225316",
       "name": "Finch",
       "tagline": "A single place for your health data and tests",
@@ -328,6 +328,37 @@
       }
     },
     {
+      "id": "1225484",
+      "name": "Dates by Agenda Hero",
+      "tagline": "Create a plan for anything. Share it with anyone. ",
+      "url": "https://www.producthunt.com/products/dates-by-agenda-hero?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 103,
+      "commentsCount": 3,
+      "createdAt": "2026-08-18T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/6988b547-37ee-462e-a308-122f19d7c3a1.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Calendar"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "Kids & Parenting"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1223864",
       "name": "Tiny Funnel",
       "tagline": "Funnel analytics you'll actually understand",
@@ -353,37 +384,6 @@
           {
             "node": {
               "name": "SaaS"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1225484",
-      "name": "Dates by Agenda Hero",
-      "tagline": "Create a plan for anything. Share it with anyone. ",
-      "url": "https://www.producthunt.com/products/dates-by-agenda-hero?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 101,
-      "commentsCount": 3,
-      "createdAt": "2026-08-18T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/6988b547-37ee-462e-a308-122f19d7c3a1.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Calendar"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          },
-          {
-            "node": {
-              "name": "Kids & Parenting"
             }
           }
         ]
@@ -487,7 +487,7 @@
       "name": "Open Index",
       "tagline": "Build Smarter Agents using Structured Context",
       "url": "https://www.producthunt.com/products/open-brain?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 92,
+      "votesCount": 94,
       "commentsCount": 3,
       "createdAt": "2026-08-18T07:01:00Z",
       "thumbnail": {
@@ -523,7 +523,7 @@
       "name": "monolog",
       "tagline": "Chat to yourself and find anything by what you remember",
       "url": "https://www.producthunt.com/products/monolog-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 88,
+      "votesCount": 89,
       "commentsCount": 3,
       "createdAt": "2026-08-18T07:01:00Z",
       "thumbnail": {
@@ -585,7 +585,7 @@
       "name": "Meterless.ai",
       "tagline": "Run AI locally and own the whole workflow",
       "url": "https://www.producthunt.com/products/meterless-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 80,
+      "votesCount": 82,
       "commentsCount": 3,
       "createdAt": "2026-08-18T07:01:00Z",
       "thumbnail": {
