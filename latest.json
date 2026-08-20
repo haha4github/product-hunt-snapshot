@@ -1,24 +1,19 @@
 {
-  "fetchedAt": "2026-08-20T13:41:19.483Z",
+  "fetchedAt": "2026-08-20T14:20:54.517Z",
   "posts": [
     {
       "id": "1215949",
       "name": "HyNote for Mac",
       "tagline": "Free local transcription that is 100% Private",
       "url": "https://www.producthunt.com/products/hynote-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 210,
-      "commentsCount": 34,
+      "votesCount": 222,
+      "commentsCount": 35,
       "createdAt": "2026-08-20T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/0fef001a-fad0-43a5-a2e6-84a74d012ad4.png?auto=format"
       },
       "topics": {
         "edges": [
-          {
-            "node": {
-              "name": "Android"
-            }
-          },
           {
             "node": {
               "name": "Meetings"
@@ -42,8 +37,8 @@
       "name": "Checksum AI",
       "tagline": "Your coding agent’s testing buddy",
       "url": "https://www.producthunt.com/products/checksum-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 168,
-      "commentsCount": 9,
+      "votesCount": 170,
+      "commentsCount": 13,
       "createdAt": "2026-08-20T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/f22facd7-cd87-497c-a3d6-13f0290fee8c.png?auto=format"
@@ -73,7 +68,7 @@
       "name": "Grok 4.6",
       "tagline": "Frontier Intelligence for Long-Running Agents",
       "url": "https://www.producthunt.com/products/grok-4-6-7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 159,
+      "votesCount": 169,
       "commentsCount": 2,
       "createdAt": "2026-08-20T07:01:00Z",
       "thumbnail": {
@@ -109,7 +104,7 @@
       "name": "The New Calendly",
       "tagline": "Handle all of the work before, during, and after meetings",
       "url": "https://www.producthunt.com/products/calendly?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 127,
+      "votesCount": 130,
       "commentsCount": 2,
       "createdAt": "2026-08-20T07:01:00Z",
       "thumbnail": {
@@ -150,7 +145,7 @@
       "name": "MeetStream AI",
       "tagline": "Unified API & Infra for AI Meeting Agents",
       "url": "https://www.producthunt.com/products/meetstream-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 111,
+      "votesCount": 113,
       "commentsCount": 7,
       "createdAt": "2026-08-20T07:01:00Z",
       "thumbnail": {
@@ -208,11 +203,42 @@
       }
     },
     {
+      "id": "1227258",
+      "name": "Lifelong",
+      "tagline": "Your whole family’s health in one place.",
+      "url": "https://www.producthunt.com/products/lifelong-the-family-health-company?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 107,
+      "commentsCount": 8,
+      "createdAt": "2026-08-20T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/afd28f29-3396-4230-905f-1220fe5dd9ec.jpeg?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Health & Fitness"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "Family"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1227288",
       "name": "MiniMax Design",
       "tagline": "Your own agent team for open-ended creation",
       "url": "https://www.producthunt.com/products/minimax?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 104,
+      "votesCount": 106,
       "commentsCount": 1,
       "createdAt": "2026-08-20T07:01:00Z",
       "thumbnail": {
@@ -233,37 +259,6 @@
           {
             "node": {
               "name": "Photo & Video"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1227258",
-      "name": "Lifelong",
-      "tagline": "Your whole family’s health in one place.",
-      "url": "https://www.producthunt.com/products/lifelong-the-family-health-company?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 105,
-      "commentsCount": 7,
-      "createdAt": "2026-08-20T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/afd28f29-3396-4230-905f-1220fe5dd9ec.jpeg?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Health & Fitness"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          },
-          {
-            "node": {
-              "name": "Family"
             }
           }
         ]
@@ -311,7 +306,7 @@
       "tagline": "Highlight and summarize any page, PDF, or video in Firefox",
       "url": "https://www.producthunt.com/products/glasp-for-firefox?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 97,
-      "commentsCount": 5,
+      "commentsCount": 6,
       "createdAt": "2026-08-20T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/e3249f33-d850-47db-a06f-7549464ea91e.png?auto=format"
@@ -341,8 +336,8 @@
       "name": "Aloud",
       "tagline": "Turn spoken feedback into tasks your coding agent can run",
       "url": "https://www.producthunt.com/products/aloud-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 93,
-      "commentsCount": 4,
+      "votesCount": 94,
+      "commentsCount": 6,
       "createdAt": "2026-08-20T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/a356af9b-152d-43c5-b043-5503d0900fcf.png?auto=format"
@@ -352,6 +347,42 @@
           {
             "node": {
               "name": "Mac"
+            }
+          },
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1226610",
+      "name": "NobodyWho",
+      "tagline": "Run AI models on any device",
+      "url": "https://www.producthunt.com/products/nobodywho?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 89,
+      "commentsCount": 14,
+      "createdAt": "2026-08-20T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/fce36bdf-7c3d-489e-ad9f-5c497c669730.jpeg?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Android"
+            }
+          },
+          {
+            "node": {
+              "name": "Open Source"
             }
           },
           {
@@ -399,42 +430,6 @@
       }
     },
     {
-      "id": "1226610",
-      "name": "NobodyWho",
-      "tagline": "Run AI models on any device",
-      "url": "https://www.producthunt.com/products/nobodywho?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 87,
-      "commentsCount": 12,
-      "createdAt": "2026-08-20T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/fce36bdf-7c3d-489e-ad9f-5c497c669730.jpeg?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Android"
-            }
-          },
-          {
-            "node": {
-              "name": "Open Source"
-            }
-          },
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1226285",
       "name": "Berd",
       "tagline": "Weird, playful desktop app for building with AI agents",
@@ -465,6 +460,37 @@
           {
             "node": {
               "name": "Bots"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1225203",
+      "name": "bitdrift.ai",
+      "tagline": "The world’s first agentic mobile observability platform",
+      "url": "https://www.producthunt.com/products/bitdrift?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 82,
+      "commentsCount": 3,
+      "createdAt": "2026-08-20T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/7aff148b-4536-4181-921c-2bebd98eb364.jpeg?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Software Engineering"
+            }
+          },
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
             }
           }
         ]
@@ -506,7 +532,7 @@
       "name": "Peach Co-Pilot",
       "tagline": "WhatsApp Sidekick for busy professionals",
       "url": "https://www.producthunt.com/products/peach-co-pilot?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 80,
+      "votesCount": 81,
       "commentsCount": 10,
       "createdAt": "2026-08-20T07:01:00Z",
       "thumbnail": {
@@ -533,54 +559,18 @@
       }
     },
     {
-      "id": "1225203",
-      "name": "bitdrift.ai",
-      "tagline": "The world’s first agentic mobile observability platform",
-      "url": "https://www.producthunt.com/products/bitdrift?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 82,
-      "commentsCount": 3,
-      "createdAt": "2026-08-20T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/7aff148b-4536-4181-921c-2bebd98eb364.jpeg?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Software Engineering"
-            }
-          },
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1226404",
       "name": "Revy",
       "tagline": "The ownership layer for fashion, shopping, and your wardrobe",
       "url": "https://www.producthunt.com/products/revy-the-fashion-app?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 76,
-      "commentsCount": 6,
+      "votesCount": 80,
+      "commentsCount": 8,
       "createdAt": "2026-08-20T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/d6917ca1-9ebd-4d06-8116-ed1cf0cc9030.png?auto=format"
       },
       "topics": {
         "edges": [
-          {
-            "node": {
-              "name": "Android"
-            }
-          },
           {
             "node": {
               "name": "Fashion"
@@ -604,7 +594,7 @@
       "name": "Hermai Brand API",
       "tagline": "White label your B2B SaaS with every customer's brand",
       "url": "https://www.producthunt.com/products/hermai-brand-api?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 75,
+      "votesCount": 76,
       "commentsCount": 2,
       "createdAt": "2026-08-20T07:01:00Z",
       "thumbnail": {
@@ -635,8 +625,8 @@
       "name": "ProtoNote",
       "tagline": "Share AI-built prototypes, get feedback pinned to the page",
       "url": "https://www.producthunt.com/products/protonote?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 73,
-      "commentsCount": 3,
+      "votesCount": 75,
+      "commentsCount": 5,
       "createdAt": "2026-08-20T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/419b7837-4c37-4d08-a5fc-96d18660e0fe.png?auto=format"
