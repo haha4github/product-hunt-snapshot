@@ -1,12 +1,12 @@
 {
-  "fetchedAt": "2026-08-21T19:35:18.810Z",
+  "fetchedAt": "2026-08-21T19:55:12.656Z",
   "posts": [
     {
       "id": "1227792",
       "name": "Wizstar",
       "tagline": "Digital avatars that move and act like professional actors",
       "url": "https://www.producthunt.com/products/wizstar?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 262,
+      "votesCount": 263,
       "commentsCount": 28,
       "createdAt": "2026-08-21T07:01:00Z",
       "thumbnail": {
@@ -37,8 +37,8 @@
       "name": "Supernova",
       "tagline": "All your data in Claude and Codex",
       "url": "https://www.producthunt.com/products/supernova-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 253,
-      "commentsCount": 37,
+      "votesCount": 255,
+      "commentsCount": 35,
       "createdAt": "2026-08-21T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/9c109b9d-c5a1-4786-93d0-c75d7ba5ad89.png?auto=format"
@@ -156,7 +156,7 @@
       "name": "Antigravity IDE Extensions",
       "tagline": "Antigravity agents now live inside your existing editor",
       "url": "https://www.producthunt.com/products/google-antigravity?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 141,
+      "votesCount": 142,
       "commentsCount": 3,
       "createdAt": "2026-08-21T07:01:00Z",
       "thumbnail": {
@@ -187,8 +187,8 @@
       "name": "Plow Latch",
       "tagline": "Run AI agents on your Mac with scoped access",
       "url": "https://www.producthunt.com/products/plow-latch?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 132,
-      "commentsCount": 93,
+      "votesCount": 133,
+      "commentsCount": 95,
       "createdAt": "2026-08-21T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/c82e3885-fbb3-45cd-86c9-66f4f091b21f.png?auto=format"
@@ -343,6 +343,42 @@
       }
     },
     {
+      "id": "1226539",
+      "name": "OneCLI",
+      "tagline": "Give every employee a secured, sandboxed pro assistant agent",
+      "url": "https://www.producthunt.com/products/onecli?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 100,
+      "commentsCount": 4,
+      "createdAt": "2026-08-21T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/b8f4d9c3-5241-4cbc-b019-524791019b83.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Open Source"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "GitHub"
+            }
+          },
+          {
+            "node": {
+              "name": "Virtual Assistants"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1227944",
       "name": "Flunkey",
       "tagline": "Voice-first AI layer for Windows (beta)",
@@ -404,42 +440,6 @@
           {
             "node": {
               "name": "SDK"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1226539",
-      "name": "OneCLI",
-      "tagline": "Give every employee a secured, sandboxed pro assistant agent",
-      "url": "https://www.producthunt.com/products/onecli?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 97,
-      "commentsCount": 4,
-      "createdAt": "2026-08-21T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/b8f4d9c3-5241-4cbc-b019-524791019b83.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Open Source"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          },
-          {
-            "node": {
-              "name": "GitHub"
-            }
-          },
-          {
-            "node": {
-              "name": "Virtual Assistants"
             }
           }
         ]
