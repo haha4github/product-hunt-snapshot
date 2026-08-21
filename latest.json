@@ -1,12 +1,12 @@
 {
-  "fetchedAt": "2026-08-21T18:22:53.783Z",
+  "fetchedAt": "2026-08-21T19:05:58.919Z",
   "posts": [
     {
       "id": "1227792",
       "name": "Wizstar",
       "tagline": "Digital avatars that move and act like professional actors",
       "url": "https://www.producthunt.com/products/wizstar?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 253,
+      "votesCount": 258,
       "commentsCount": 28,
       "createdAt": "2026-08-21T07:01:00Z",
       "thumbnail": {
@@ -37,8 +37,8 @@
       "name": "Supernova",
       "tagline": "All your data in Claude and Codex",
       "url": "https://www.producthunt.com/products/supernova-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 246,
-      "commentsCount": 34,
+      "votesCount": 251,
+      "commentsCount": 37,
       "createdAt": "2026-08-21T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/9c109b9d-c5a1-4786-93d0-c75d7ba5ad89.png?auto=format"
@@ -68,7 +68,7 @@
       "name": "Mindcase",
       "tagline": "Extract data from anywhere on the web within minutes",
       "url": "https://www.producthunt.com/products/mindcase?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 181,
+      "votesCount": 183,
       "commentsCount": 35,
       "createdAt": "2026-08-21T07:01:00Z",
       "thumbnail": {
@@ -130,8 +130,8 @@
       "name": "Epho",
       "tagline": "Run Claude Code, Codex or Opencode in cloud with your repo",
       "url": "https://www.producthunt.com/products/epho-claude-code-in-the-cloud?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 144,
-      "commentsCount": 8,
+      "votesCount": 146,
+      "commentsCount": 9,
       "createdAt": "2026-08-21T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/41018888-f2da-4ba8-8d08-eca402a2c79d.gif?auto=format"
@@ -187,8 +187,8 @@
       "name": "Plow Latch",
       "tagline": "Run AI agents on your Mac with scoped access",
       "url": "https://www.producthunt.com/products/plow-latch?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 123,
-      "commentsCount": 64,
+      "votesCount": 131,
+      "commentsCount": 87,
       "createdAt": "2026-08-21T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/c82e3885-fbb3-45cd-86c9-66f4f091b21f.png?auto=format"
@@ -254,7 +254,7 @@
       "name": "Surfdeck",
       "tagline": "Your tabs, within reach.",
       "url": "https://www.producthunt.com/products/surfdeck?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 117,
+      "votesCount": 118,
       "commentsCount": 10,
       "createdAt": "2026-08-21T07:01:00Z",
       "thumbnail": {
@@ -275,6 +275,37 @@
           {
             "node": {
               "name": "Apple"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1227732",
+      "name": "Router by Ramp",
+      "tagline": "Tokens are money. Save both.",
+      "url": "https://www.producthunt.com/products/ramp-router?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 106,
+      "commentsCount": 4,
+      "createdAt": "2026-08-21T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/fba478b9-6ed7-4e36-9ff3-931bc966d5b9.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "API"
+            }
+          },
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
             }
           }
         ]
@@ -312,42 +343,11 @@
       }
     },
     {
-      "id": "1227732",
-      "name": "Router by Ramp",
-      "tagline": "Tokens are money. Save both.",
-      "url": "https://www.producthunt.com/products/ramp-router?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 104,
-      "commentsCount": 4,
-      "createdAt": "2026-08-21T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/fba478b9-6ed7-4e36-9ff3-931bc966d5b9.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "API"
-            }
-          },
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1227944",
       "name": "Flunkey",
       "tagline": "Voice-first AI layer for Windows (beta)",
       "url": "https://www.producthunt.com/products/flunkey?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 98,
+      "votesCount": 99,
       "commentsCount": 3,
       "createdAt": "2026-08-21T07:01:00Z",
       "thumbnail": {
@@ -446,37 +446,6 @@
       }
     },
     {
-      "id": "1228155",
-      "name": "Project SKY",
-      "tagline": "Your ambient AI companion for Windows.",
-      "url": "https://www.producthunt.com/products/project-sky?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 91,
-      "commentsCount": 1,
-      "createdAt": "2026-08-21T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/57417648-d53e-4156-a299-8a11604eb9e1.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          },
-          {
-            "node": {
-              "name": "Tech"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1228269",
       "name": "ShogunAI",
       "tagline": "Your personal AGI on your PC. Built to finish real work.",
@@ -508,11 +477,42 @@
       }
     },
     {
+      "id": "1228155",
+      "name": "Project SKY",
+      "tagline": "Your ambient AI companion for Windows.",
+      "url": "https://www.producthunt.com/products/project-sky?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 91,
+      "commentsCount": 1,
+      "createdAt": "2026-08-21T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/57417648-d53e-4156-a299-8a11604eb9e1.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "Tech"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1182682",
       "name": "Outlook Google Calendar Sync for Mac",
       "tagline": "Sync Outlook calendars to Google on your Mac",
       "url": "https://www.producthunt.com/products/outlook-google-calendar-sync-for-mac?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 78,
+      "votesCount": 79,
       "commentsCount": 4,
       "createdAt": "2026-08-21T07:01:00Z",
       "thumbnail": {
