@@ -1,12 +1,12 @@
 {
-  "fetchedAt": "2026-08-23T16:28:20.546Z",
+  "fetchedAt": "2026-08-23T16:54:49.824Z",
   "posts": [
     {
       "id": "1186033",
       "name": "Construct Computer",
       "tagline": "Your AI coworker gets a computer. You get your day back.",
       "url": "https://www.producthunt.com/products/construct-computer?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 201,
+      "votesCount": 214,
       "commentsCount": 24,
       "createdAt": "2026-08-23T07:01:00Z",
       "thumbnail": {
@@ -37,7 +37,7 @@
       "name": "FetchSandbox MCP",
       "tagline": "The MCP that proves your AI's integration fixes work",
       "url": "https://www.producthunt.com/products/fetchsandbox?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 156,
+      "votesCount": 165,
       "commentsCount": 25,
       "createdAt": "2026-08-23T07:01:00Z",
       "thumbnail": {
@@ -68,7 +68,7 @@
       "name": "Aximote",
       "tagline": "Your car data, finally in your pocket",
       "url": "https://www.producthunt.com/products/aximote?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 140,
+      "votesCount": 141,
       "commentsCount": 13,
       "createdAt": "2026-08-23T07:01:00Z",
       "thumbnail": {
@@ -99,8 +99,8 @@
       "name": "OpenLogi",
       "tagline": "A local-first alternative to Logitech Options+",
       "url": "https://www.producthunt.com/products/openlogi?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 128,
-      "commentsCount": 3,
+      "votesCount": 136,
+      "commentsCount": 4,
       "createdAt": "2026-08-23T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/d16ffc04-a6a2-4157-8fea-4fe6d2ae0bcb.png?auto=format"
@@ -130,7 +130,7 @@
       "name": "Claude Academy",
       "tagline": "The Official Learning Hub by Anthropic",
       "url": "https://www.producthunt.com/products/claude-academy?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 117,
+      "votesCount": 119,
       "commentsCount": 2,
       "createdAt": "2026-08-23T07:01:00Z",
       "thumbnail": {
@@ -409,7 +409,7 @@
       "name": "Hyperfocus",
       "tagline": "Free, goals-first planner for Mac",
       "url": "https://www.producthunt.com/products/hyperfocus-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 28,
+      "votesCount": 29,
       "commentsCount": 23,
       "createdAt": "2026-08-23T07:01:00Z",
       "thumbnail": {
@@ -498,6 +498,37 @@
       }
     },
     {
+      "id": "1229598",
+      "name": "OverMCP",
+      "tagline": "The market for builders.",
+      "url": "https://www.producthunt.com/products/overmcp?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 7,
+      "commentsCount": 5,
+      "createdAt": "2026-08-23T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/02585838-b145-4167-a3d5-8de1f7b2f067.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "SaaS"
+            }
+          },
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1229643",
       "name": "DailyOutbid.lol",
       "tagline": "Another outbid.lol copycat, but leaderboard resets EVERY 24h",
@@ -523,37 +554,6 @@
           {
             "node": {
               "name": "SaaS"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1229598",
-      "name": "OverMCP",
-      "tagline": "The market for builders.",
-      "url": "https://www.producthunt.com/products/overmcp?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 5,
-      "commentsCount": 4,
-      "createdAt": "2026-08-23T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/02585838-b145-4167-a3d5-8de1f7b2f067.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "SaaS"
-            }
-          },
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
             }
           }
         ]
