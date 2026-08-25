@@ -1,12 +1,12 @@
 {
-  "fetchedAt": "2026-08-25T16:25:37.189Z",
+  "fetchedAt": "2026-08-25T17:06:08.509Z",
   "posts": [
     {
       "id": "1216588",
       "name": "akta.pro",
       "tagline": "Private company data and signals API for the agent economy",
       "url": "https://www.producthunt.com/products/akta-pro?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 290,
+      "votesCount": 304,
       "commentsCount": 47,
       "createdAt": "2026-08-25T07:01:00Z",
       "thumbnail": {
@@ -37,7 +37,7 @@
       "name": "Diet Claude",
       "tagline": "Never get blindsided by Claude's usage limits again",
       "url": "https://www.producthunt.com/products/diet-claude?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 263,
+      "votesCount": 279,
       "commentsCount": 30,
       "createdAt": "2026-08-25T07:01:00Z",
       "thumbnail": {
@@ -64,11 +64,42 @@
       }
     },
     {
+      "id": "1229731",
+      "name": "Agnost AI",
+      "tagline": "Catch agent failures your evals miss",
+      "url": "https://www.producthunt.com/products/agnost-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 187,
+      "commentsCount": 6,
+      "createdAt": "2026-08-25T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/f511fa69-1ce2-4fc3-97b0-83ade5ce489c.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Analytics"
+            }
+          },
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1220359",
       "name": "Jotform AI Data Assistant",
       "tagline": "Turn form data into insights and action with AI",
       "url": "https://www.producthunt.com/products/jotform?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 181,
+      "votesCount": 182,
       "commentsCount": 12,
       "createdAt": "2026-08-25T07:01:00Z",
       "thumbnail": {
@@ -95,42 +126,11 @@
       }
     },
     {
-      "id": "1229731",
-      "name": "Agnost AI",
-      "tagline": "Catch agent failures your evals miss",
-      "url": "https://www.producthunt.com/products/agnost-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 178,
-      "commentsCount": 5,
-      "createdAt": "2026-08-25T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/f511fa69-1ce2-4fc3-97b0-83ade5ce489c.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Analytics"
-            }
-          },
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1166590",
       "name": "Nimbia",
       "tagline": "AI screen-sharing calls for user onboarding",
       "url": "https://www.producthunt.com/products/nimbia?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 129,
+      "votesCount": 130,
       "commentsCount": 40,
       "createdAt": "2026-08-25T07:01:00Z",
       "thumbnail": {
@@ -192,7 +192,7 @@
       "name": "coolplugz",
       "tagline": "A Claude orchestrator that saves developers loads of time",
       "url": "https://www.producthunt.com/products/coolplugz?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 118,
+      "votesCount": 120,
       "commentsCount": 3,
       "createdAt": "2026-08-25T07:01:00Z",
       "thumbnail": {
@@ -219,7 +219,7 @@
       "tagline": "AI sales agents on any channel that runs from Claude Code",
       "url": "https://www.producthunt.com/products/ninjo-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 108,
-      "commentsCount": 7,
+      "commentsCount": 8,
       "createdAt": "2026-08-25T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/fc02f063-50b8-420c-8ec0-22ba147b97c1.jpeg?auto=format"
@@ -249,7 +249,7 @@
       "name": "Flare",
       "tagline": "The graph-first IDE and interactive map for agentic coding",
       "url": "https://www.producthunt.com/products/flare-11?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 106,
+      "votesCount": 107,
       "commentsCount": 1,
       "createdAt": "2026-08-25T07:01:00Z",
       "thumbnail": {
@@ -270,6 +270,32 @@
           {
             "node": {
               "name": "Vibe coding"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1230818",
+      "name": "Altar II",
+      "tagline": "The mechanical keyboard Apple never made",
+      "url": "https://www.producthunt.com/products/electronic-materials-office-altar-i?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 105,
+      "commentsCount": 6,
+      "createdAt": "2026-08-25T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/0a4c08dd-1097-41ed-97a9-218cf79d05cf.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Custom Keyboards"
+            }
+          },
+          {
+            "node": {
+              "name": "Hardware"
             }
           }
         ]
@@ -301,32 +327,6 @@
           {
             "node": {
               "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1230818",
-      "name": "Altar II",
-      "tagline": "The mechanical keyboard Apple never made",
-      "url": "https://www.producthunt.com/products/electronic-materials-office-altar-i?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 103,
-      "commentsCount": 5,
-      "createdAt": "2026-08-25T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/0a4c08dd-1097-41ed-97a9-218cf79d05cf.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Custom Keyboards"
-            }
-          },
-          {
-            "node": {
-              "name": "Hardware"
             }
           }
         ]
@@ -374,7 +374,7 @@
       "tagline": "Transform Static Images Into Dynamic Particle Experiences",
       "url": "https://www.producthunt.com/products/particle-studio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 82,
-      "commentsCount": 3,
+      "commentsCount": 4,
       "createdAt": "2026-08-25T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/ce7b2573-223b-46b4-93fb-f44c712efc9a.png?auto=format"
@@ -404,7 +404,7 @@
       "name": "Keymap",
       "tagline": "Every shortcut, one ⌘⌘ away.",
       "url": "https://www.producthunt.com/products/keymap?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 81,
+      "votesCount": 82,
       "commentsCount": 1,
       "createdAt": "2026-08-25T07:01:00Z",
       "thumbnail": {
@@ -595,7 +595,7 @@
       "name": "ChatGPT Ad Library",
       "tagline": "See every ad running inside ChatGPT",
       "url": "https://www.producthunt.com/products/chatgpt-ad-library?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 72,
+      "votesCount": 74,
       "commentsCount": 1,
       "createdAt": "2026-08-25T07:01:00Z",
       "thumbnail": {
