@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-08-26T12:00:47.068Z",
+  "fetchedAt": "2026-08-26T13:10:56.038Z",
   "posts": [
     {
       "id": "1231551",
       "name": "x1",
       "tagline": "Lovable for iPhone apps. From idea to App Store",
       "url": "https://www.producthunt.com/products/x1-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 208,
-      "commentsCount": 42,
+      "votesCount": 240,
+      "commentsCount": 43,
       "createdAt": "2026-08-26T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/24e5fd64-645c-4346-825a-ee9fa5905236.png?auto=format"
@@ -37,8 +37,8 @@
       "name": "Expertise AI",
       "tagline": "Turn your GTM skills into recurring revenue",
       "url": "https://www.producthunt.com/products/expertise-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 176,
-      "commentsCount": 34,
+      "votesCount": 201,
+      "commentsCount": 47,
       "createdAt": "2026-08-26T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/34940c6c-5603-400e-940d-d864efa61a8a.png?auto=format"
@@ -68,7 +68,7 @@
       "name": "ChatCut Desktop",
       "tagline": "Video editor built for humans & AI. Edit with GPT & Claude.",
       "url": "https://www.producthunt.com/products/chatcut-ai-video-editor?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 154,
+      "votesCount": 176,
       "commentsCount": 11,
       "createdAt": "2026-08-26T07:01:00Z",
       "thumbnail": {
@@ -99,7 +99,7 @@
       "name": "PostHog Desktop",
       "tagline": "The product editor for product builders",
       "url": "https://www.producthunt.com/products/posthog?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 137,
+      "votesCount": 153,
       "commentsCount": 1,
       "createdAt": "2026-08-26T07:01:00Z",
       "thumbnail": {
@@ -135,7 +135,7 @@
       "name": "MCP-Builder.ai",
       "tagline": "The fastest way to connect your data with your AI Tools. ",
       "url": "https://www.producthunt.com/products/mcp-builder-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 106,
+      "votesCount": 115,
       "commentsCount": 5,
       "createdAt": "2026-08-26T07:01:00Z",
       "thumbnail": {
@@ -162,12 +162,38 @@
       }
     },
     {
+      "id": "1232603",
+      "name": "OpenComputer",
+      "tagline": "Firebase for Agents",
+      "url": "https://www.producthunt.com/products/opencomputer?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 103,
+      "commentsCount": 1,
+      "createdAt": "2026-08-26T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/3905d168-389a-4521-a28f-a21bed8f1349.vnd.microsoft.icon?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Software Engineering"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1231306",
       "name": "Tellie Prompter 1.5",
       "tagline": "The teleprompter that knows what you haven't said",
       "url": "https://www.producthunt.com/products/tellie-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 97,
-      "commentsCount": 6,
+      "votesCount": 101,
+      "commentsCount": 9,
       "createdAt": "2026-08-26T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/0b8ad642-0257-4f36-b8ff-3bba30e5f8b6.png?auto=format"
@@ -193,38 +219,12 @@
       }
     },
     {
-      "id": "1232603",
-      "name": "OpenComputer",
-      "tagline": "Firebase for Agents",
-      "url": "https://www.producthunt.com/products/opencomputer?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 95,
-      "commentsCount": 1,
-      "createdAt": "2026-08-26T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/3905d168-389a-4521-a28f-a21bed8f1349.vnd.microsoft.icon?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Software Engineering"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1221455",
       "name": "ify",
       "tagline": "Resolution AI that works on top of your existing helpdesk",
       "url": "https://www.producthunt.com/products/ify-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 92,
-      "commentsCount": 22,
+      "votesCount": 94,
+      "commentsCount": 23,
       "createdAt": "2026-08-26T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/9d4742b0-bcd4-4d5a-b288-9447e92dec15.png?auto=format"
@@ -254,7 +254,7 @@
       "name": "Termy",
       "tagline": "Learn languages from games, videos, and websites",
       "url": "https://www.producthunt.com/products/termy-language-learning?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 83,
+      "votesCount": 86,
       "commentsCount": 1,
       "createdAt": "2026-08-26T07:01:00Z",
       "thumbnail": {
@@ -281,42 +281,11 @@
       }
     },
     {
-      "id": "1231917",
-      "name": "LoupeKit",
-      "tagline": "See what any page is built with and how much of it is AI",
-      "url": "https://www.producthunt.com/products/loupekit?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 80,
-      "commentsCount": 4,
-      "createdAt": "2026-08-26T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/484e06f1-1bb3-405f-b101-10d5edb3d31a.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Browser Extensions"
-            }
-          },
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Vibe coding"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1227188",
       "name": "Evidence Core",
       "tagline": "Build live analytics with coding agents ",
       "url": "https://www.producthunt.com/products/evidence?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 80,
+      "votesCount": 84,
       "commentsCount": 2,
       "createdAt": "2026-08-26T07:01:00Z",
       "thumbnail": {
@@ -352,7 +321,7 @@
       "name": "Mac mini",
       "tagline": "Now with M6 and M5 Pro chips",
       "url": "https://www.producthunt.com/products/apple?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 79,
+      "votesCount": 83,
       "commentsCount": 2,
       "createdAt": "2026-08-26T07:01:00Z",
       "thumbnail": {
@@ -379,12 +348,43 @@
       }
     },
     {
+      "id": "1231917",
+      "name": "LoupeKit",
+      "tagline": "See what any page is built with and how much of it is AI",
+      "url": "https://www.producthunt.com/products/loupekit?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 83,
+      "commentsCount": 4,
+      "createdAt": "2026-08-26T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/484e06f1-1bb3-405f-b101-10d5edb3d31a.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Browser Extensions"
+            }
+          },
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Vibe coding"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1202067",
       "name": "Screenify Studio",
       "tagline": "Polished product demos on Mac recorded by an AI agent",
       "url": "https://www.producthunt.com/products/screenify-studio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 78,
-      "commentsCount": 3,
+      "votesCount": 81,
+      "commentsCount": 5,
       "createdAt": "2026-08-26T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/0aeb1c8a-988e-4751-890f-833c42840805.png?auto=format"
@@ -414,7 +414,7 @@
       "name": "Warren",
       "tagline": "Infrastructure for coding-agent workloads",
       "url": "https://www.producthunt.com/products/warren-5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 76,
+      "votesCount": 78,
       "commentsCount": 2,
       "createdAt": "2026-08-26T07:01:00Z",
       "thumbnail": {
@@ -450,7 +450,7 @@
       "name": "Playcall",
       "tagline": "The open-source AI alternative to Gong",
       "url": "https://www.producthunt.com/products/playcall?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 75,
+      "votesCount": 78,
       "commentsCount": 1,
       "createdAt": "2026-08-26T07:01:00Z",
       "thumbnail": {
@@ -482,11 +482,42 @@
       }
     },
     {
+      "id": "1226279",
+      "name": "Arena AI Agent",
+      "tagline": "Get real work done, moving from idea to shipping in minutes",
+      "url": "https://www.producthunt.com/products/arena-5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 77,
+      "commentsCount": 3,
+      "createdAt": "2026-08-26T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/21871a9a-84c9-4f14-baf9-ef1802a9bb10.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "GitHub"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1229461",
       "name": "EasySwitch",
       "tagline": "One mouse, keyboard and second screen for all your computers",
       "url": "https://www.producthunt.com/products/easyswitch?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 75,
+      "votesCount": 77,
       "commentsCount": 1,
       "createdAt": "2026-08-26T07:01:00Z",
       "thumbnail": {
@@ -517,7 +548,7 @@
       "name": "BaudBuddy",
       "tagline": "A native macOS serial terminal with a file server built in",
       "url": "https://www.producthunt.com/products/baudbuddy-serial-terminal?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 74,
+      "votesCount": 76,
       "commentsCount": 1,
       "createdAt": "2026-08-26T07:01:00Z",
       "thumbnail": {
@@ -544,42 +575,11 @@
       }
     },
     {
-      "id": "1232269",
-      "name": "DeployHermes",
-      "tagline": "Hire persistent Hermes agents with roles, memory + skills",
-      "url": "https://www.producthunt.com/products/deployhermes?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 74,
-      "commentsCount": 1,
-      "createdAt": "2026-08-26T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/e17f7685-3376-4794-9eda-db330e907cbe.gif?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "SaaS"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1225293",
       "name": "Lore Machine",
       "tagline": "Substack For World Builders",
       "url": "https://www.producthunt.com/products/lore-machine?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 74,
+      "votesCount": 75,
       "commentsCount": 1,
       "createdAt": "2026-08-26T07:01:00Z",
       "thumbnail": {
@@ -606,31 +606,31 @@
       }
     },
     {
-      "id": "1227198",
-      "name": "Knack MCP Server",
-      "tagline": "The HIPAA-compliant backend for AI builders",
-      "url": "https://www.producthunt.com/products/knack?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 71,
-      "commentsCount": 2,
+      "id": "1232269",
+      "name": "DeployHermes",
+      "tagline": "Hire persistent Hermes agents with roles, memory + skills",
+      "url": "https://www.producthunt.com/products/deployhermes?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 75,
+      "commentsCount": 1,
       "createdAt": "2026-08-26T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/cf4557e1-ab1e-4ef8-9552-b0210a1b28fe.png?auto=format"
+        "url": "https://ph-files.imgix.net/e17f7685-3376-4794-9eda-db330e907cbe.gif?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "SaaS"
+            }
+          },
+          {
+            "node": {
               "name": "Artificial Intelligence"
-            }
-          },
-          {
-            "node": {
-              "name": "Medical"
-            }
-          },
-          {
-            "node": {
-              "name": "Vibe coding"
             }
           }
         ]
