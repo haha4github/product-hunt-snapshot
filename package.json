@@ -1,15 +1,20 @@
 {
   "name": "product-hunt-snapshot",
   "version": "1.0.0",
-  "description": "",
+  "description": "Product Hunt趋势跟踪与可视化",
   "main": "index.js",
   "scripts": {
+    "fetch": "node scripts/fetch_producthunt.js",
+    "build": "node scripts/build_site.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": ["product-hunt", "trending", "data-visualization"],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "node-fetch": "^2.7.0"
+    "node-fetch": "^2.7.0",
+    "chart.js": "^4.4.1",
+    "dayjs": "^1.11.10",
+    "ejs": "^3.1.9"
   }
 }
