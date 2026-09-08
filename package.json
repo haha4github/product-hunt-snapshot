@@ -11,10 +11,10 @@
   "keywords": ["product-hunt", "trending", "data-visualization"],
   "author": "",
   "license": "ISC",
+  "engines": {
+    "node": ">=18"
+  },
   "dependencies": {
-    "node-fetch": "^2.7.0",
-    "chart.js": "^4.4.1",
-    "dayjs": "^1.11.10",
     "ejs": "^3.1.9"
   }
 }

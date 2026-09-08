@@ -10,55 +10,49 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
-        with:
-          fetch-depth: 0  # Full history
+        uses: actions/checkout@v4
 
       - name: Setup Node.js
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v4
         with:
-          node-version: '16'
+          node-version: '22'
           cache: 'npm'
 
       - name: Install dependencies
-        run: npm install
+        run: npm ci
+
+      # summary.json accumulates history across runs; the data-archive branch is
+      # its persistent store (each run restores it, appends one point, re-archives).
+      - name: Restore summary history from data-archive
+        run: |
+          mkdir -p output
+          if git fetch origin data-archive --depth=1 2>/dev/null; then
+            git show origin/data-archive:summary.json > output/summary.json \
+              && echo "Restored $(grep -c '"timestamp"' output/summary.json) data points" \
+              || { rm -f output/summary.json; echo "No summary.json on data-archive; starting fresh"; }
+          else
+            echo "No data-archive branch yet; starting fresh"
+          fi
 
       - name: Fetch Product Hunt posts
         env:
           PH_TOKEN: ${{ secrets.PRODUCT_HUNT_TOKEN }}
         run: node scripts/fetch_producthunt.js
-      
-      - name: Cleanup old timestamp format files
-        run: |
-          # Remove any files that might have been created with logs instead of JSON
-          find output -name "posts-*.json" -type f | grep -v "T" | xargs rm -f || true
-
-      - name: Display directory contents for debugging
-        run: |
-          echo "Output directory contents:"
-          ls -la output/
-          echo "Checking latest.json:"
-          if [ -f output/latest.json ]; then
-            head -n 10 output/latest.json
-          else
-            echo "latest.json not found"
-          fi
 
       - name: Build website
         run: npm run build
 
       - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
+        uses: peaceiris/actions-gh-pages@v4
         with:
           publish_branch: gh-pages
           publish_dir: ./docs
           github_token: ${{ secrets.GITHUB_TOKEN }}
           user_name: 'github-actions[bot]'
           user_email: 'github-actions[bot]@users.noreply.github.com'
-          keep_files: true
 
       - name: Archive raw data
-        uses: peaceiris/actions-gh-pages@v3
+        uses: peaceiris/actions-gh-pages@v4
         with:
           publish_branch: data-archive
           publish_dir: ./output

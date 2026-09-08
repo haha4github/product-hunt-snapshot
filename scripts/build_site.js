@@ -177,7 +177,7 @@ async function buildSite() {
   fs.writeFileSync(path.join(docsDir, 'sitemap.xml'), sitemapContent);
   
   // 创建robots.txt
-  const robotsContent = `User-agent: *\nAllow: /\nSitemap: https://yourdomain.github.io/product-hunt-snapshot/sitemap.xml`;
+  const robotsContent = `User-agent: *\nAllow: /\nSitemap: https://haha4github.github.io/product-hunt-snapshot/sitemap.xml`;
   fs.writeFileSync(path.join(docsDir, 'robots.txt'), robotsContent);
   
   console.log('Website build complete!');
@@ -185,7 +185,7 @@ async function buildSite() {
 
 // 生成sitemap
 function generateSitemap() {
-  const domain = 'https://yourdomain.github.io/product-hunt-snapshot';
+  const domain = 'https://haha4github.github.io/product-hunt-snapshot';
   const now = new Date().toISOString();
   
   return `<?xml version="1.0" encoding="UTF-8"?>

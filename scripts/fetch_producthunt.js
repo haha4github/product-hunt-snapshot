@@ -1,13 +1,15 @@
 // scripts/fetch_producthunt.js
-const fetch = require('node-fetch');
 const fs = require('fs');
 const path = require('path');
 
 const TOKEN = process.env.PH_TOKEN;
 if (!TOKEN) {
-  console.error('Missing PRODUCT_HUNT_TOKEN');
+  console.error('Missing PH_TOKEN environment variable');
   process.exit(1);
 }
+
+// summary.json 只保留最近 ~90 天的小时级数据点
+const MAX_SUMMARY_POINTS = 2200;
 
 async function fetchPosts() {
   const res = await fetch('https://api.producthunt.com/v2/api/graphql', {
@@ -48,29 +50,21 @@ async function fetchPosts() {
 
   if (!res.ok) throw new Error(`HTTP ${res.status}: ${await res.text()}`);
   const json = await res.json();
-  
-  // Log response for debugging but don't include in saved data
-  console.error('API Response:', JSON.stringify(json, null, 2));
-  
-  if (!json.data) {
-    throw new Error(`API returned invalid data: ${JSON.stringify(json)}`);
+
+  if (!json.data || !json.data.posts) {
+    throw new Error(`API returned invalid data: ${JSON.stringify(json).slice(0, 500)}`);
   }
-  
-  if (!json.data.posts) {
-    throw new Error(`API returned invalid posts data: ${JSON.stringify(json.data)}`);
-  }
-  
+
   return json.data.posts.edges.map(e => e.node);
 }
 
-// Ensure directory exists
 function ensureDirectoryExists(dirPath) {
   if (!fs.existsSync(dirPath)) {
     fs.mkdirSync(dirPath, { recursive: true });
   }
 }
 
-// Save data to file
+// 保存当次快照:posts-<timestamp>.json + latest.json
 function saveData(data) {
   const now = new Date();
   const timestamp = now.toISOString().replace(/[:.]/g, '-');
@@ -78,99 +72,71 @@ function saveData(data) {
     fetchedAt: now.toISOString(),
     posts: data
   };
-  
-  // Ensure output directory exists
+
   const outputDir = path.join(__dirname, '../output');
   ensureDirectoryExists(outputDir);
-  
-  // Save current data to timestamped file
+
   const filePath = path.join(outputDir, `posts-${timestamp}.json`);
   fs.writeFileSync(filePath, JSON.stringify(dataWithMetadata, null, 2));
-  
-  // Also update latest data file
+
   const latestPath = path.join(outputDir, 'latest.json');
   fs.writeFileSync(latestPath, JSON.stringify(dataWithMetadata, null, 2));
-  
-  return filePath;
+
+  return { filePath, dataWithMetadata };
 }
 
-// Update summary data file
-function updateSummary() {
+// 累积式更新 summary.json:读取已有历史,追加本次数据点,按时间排序并封顶。
+// CI 中已有历史由 workflow 从 data-archive 分支恢复到 output/summary.json。
+function updateSummary(snapshot) {
   const outputDir = path.join(__dirname, '../output');
   ensureDirectoryExists(outputDir);
-  
-  // Read all JSON files
-  const files = fs.readdirSync(outputDir)
-    .filter(f => f.endsWith('.json') && f !== 'latest.json' && f !== 'summary.json')
-    .sort()
-    .reverse();
-  
-  // If not enough data, return
-  if (files.length === 0) {
-    return;
-  }
-  
-  // Read each file and extract data
-  const allData = [];
-  for (const file of files) {
+  const summaryPath = path.join(outputDir, 'summary.json');
+
+  let dataPoints = [];
+  if (fs.existsSync(summaryPath)) {
     try {
-      const filePath = path.join(outputDir, file);
-      const content = fs.readFileSync(filePath, 'utf-8');
-      
-      // Check if the file contains valid JSON before parsing
-      if (!content.trim().startsWith('{')) {
-        console.error(`File ${file} does not contain valid JSON. Content starts with: ${content.substring(0, 20)}`);
-        continue;
+      const existing = JSON.parse(fs.readFileSync(summaryPath, 'utf-8'));
+      if (Array.isArray(existing.dataPoints)) {
+        dataPoints = existing.dataPoints;
       }
-      
-      const data = JSON.parse(content);
-      
-      // Validate the data structure
-      if (!data.posts || !Array.isArray(data.posts)) {
-        console.error(`File ${file} has invalid data structure`);
-        continue;
-      }
-      
-      allData.push({
-        timestamp: data.fetchedAt,
-        postCount: data.posts.length,
-        totalVotes: data.posts.reduce((sum, post) => sum + (post.votesCount || 0), 0),
-        topPosts: data.posts.slice(0, 5).map(p => ({
-          name: p.name || 'Unknown',
-          votes: p.votesCount || 0,
-          url: p.url || '#'
-        }))
-      });
     } catch (err) {
-      console.error(`Error processing file ${file}:`, err);
-      // Try to read the file content for debugging
-      try {
-        const rawContent = fs.readFileSync(path.join(outputDir, file), 'utf-8');
-        console.error(`First 100 chars of file ${file}:`, rawContent.substring(0, 100));
-      } catch (readErr) {
-        console.error(`Cannot read file ${file} for debugging:`, readErr);
-      }
+      console.error('Could not parse existing summary.json, starting fresh:', err.message);
     }
   }
-  
-  // Save summary data
-  const summaryPath = path.join(outputDir, 'summary.json');
+
+  const point = {
+    timestamp: snapshot.fetchedAt,
+    postCount: snapshot.posts.length,
+    totalVotes: snapshot.posts.reduce((sum, post) => sum + (post.votesCount || 0), 0),
+    topPosts: snapshot.posts.slice(0, 5).map(p => ({
+      name: p.name || 'Unknown',
+      votes: p.votesCount || 0,
+      url: p.url || '#'
+    }))
+  };
+
+  dataPoints = dataPoints
+    .filter(p => p.timestamp !== point.timestamp)
+    .concat(point)
+    .sort((a, b) => new Date(a.timestamp) - new Date(b.timestamp))
+    .slice(-MAX_SUMMARY_POINTS);
+
   fs.writeFileSync(summaryPath, JSON.stringify({
     lastUpdated: new Date().toISOString(),
-    dataPoints: allData
+    dataPoints
   }, null, 2));
+
+  return dataPoints.length;
 }
 
-// Main function
 ;(async () => {
   try {
     const posts = await fetchPosts();
-    const savedPath = saveData(posts);
-    console.log(`Data saved to: ${savedPath}`);
-    
-    // Update summary data
-    updateSummary();
-    console.log('Summary data updated');
+    const { filePath, dataWithMetadata } = saveData(posts);
+    console.log(`Fetched ${posts.length} posts, saved to: ${filePath}`);
+
+    const pointCount = updateSummary(dataWithMetadata);
+    console.log(`Summary updated: ${pointCount} data points`);
   } catch (err) {
     console.error('Error details:', err);
     process.exit(1);
