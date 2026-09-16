@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-09-16T13:19:08.382Z",
+  "fetchedAt": "2026-09-16T18:03:16.846Z",
   "posts": [
     {
       "id": "1247729",
       "name": "Weave Router 2.0",
-      "tagline": "Subscription Aware Coding Agent Router (GPT-6 Intelligence)",
+      "tagline": "Subscription aware coding agent router",
       "url": "https://www.producthunt.com/products/weave?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 153,
-      "commentsCount": 13,
+      "votesCount": 258,
+      "commentsCount": 35,
       "createdAt": "2026-09-16T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/9a99c269-e78a-474c-942d-0581c20fbbbf.png?auto=format"
@@ -37,8 +37,8 @@
       "name": "Appwrite 2.0",
       "tagline": "The open-source cloud for agents and developers",
       "url": "https://www.producthunt.com/products/appwrite?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 136,
-      "commentsCount": 13,
+      "votesCount": 194,
+      "commentsCount": 19,
       "createdAt": "2026-09-16T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/cb6b1427-7788-4784-a221-7eadc645da7a.png?auto=format"
@@ -69,12 +69,38 @@
       }
     },
     {
+      "id": "1251643",
+      "name": "Gemini 3.8 & 3.8 Live Extended Thinking",
+      "tagline": "Our most advanced Gemini Audio models yet",
+      "url": "https://www.producthunt.com/products/gemini-3-8-3-8-live-extended-thinking?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 159,
+      "commentsCount": 4,
+      "createdAt": "2026-09-16T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/ac9c11d5-31a1-4247-b32e-a7460522312d.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Bots"
+            }
+          },
+          {
+            "node": {
+              "name": "Audio"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1244321",
       "name": "Toki Coordination",
       "tagline": "Your personal assistant to schedule + follow up on meetings",
       "url": "https://www.producthunt.com/products/toki-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 120,
-      "commentsCount": 13,
+      "votesCount": 152,
+      "commentsCount": 17,
       "createdAt": "2026-09-16T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/f2d4c357-6580-4bcb-869e-4c9a5e5ffb48.jpeg?auto=format"
@@ -100,100 +126,12 @@
       }
     },
     {
-      "id": "1251643",
-      "name": "Gemini 3.8 & 3.8 Live Extended Thinking",
-      "tagline": "Our most advanced Gemini Audio models yet",
-      "url": "https://www.producthunt.com/products/gemini-3-8-3-8-live-extended-thinking?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 117,
-      "commentsCount": 2,
-      "createdAt": "2026-09-16T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/ac9c11d5-31a1-4247-b32e-a7460522312d.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Bots"
-            }
-          },
-          {
-            "node": {
-              "name": "Audio"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1251550",
-      "name": "Expand Board for macOS",
-      "tagline": "Expand ideas, concepts, and plans across limitless boards",
-      "url": "https://www.producthunt.com/products/expand-board-for-macos?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 100,
-      "commentsCount": 6,
-      "createdAt": "2026-09-16T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/98046bf1-5ddb-4f1f-bd1c-d4b8132024e9.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Mac"
-            }
-          },
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1251722",
-      "name": "Fide Island",
-      "tagline": "Media, Notes, on-device translation + more in your Notch",
-      "url": "https://www.producthunt.com/products/fide-island?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 98,
-      "commentsCount": 5,
-      "createdAt": "2026-09-16T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/7823222f-b94a-4d38-ac23-a4f943316dd6.svg?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Mac"
-            }
-          },
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Menu Bar Apps"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1250703",
       "name": "CAT ME app",
-      "tagline": "See Yourself or Your Friends as Cats",
+      "tagline": "See yourself or your friends as cats",
       "url": "https://www.producthunt.com/products/cat-me-app?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 96,
-      "commentsCount": 4,
+      "votesCount": 132,
+      "commentsCount": 7,
       "createdAt": "2026-09-16T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/b4e515a3-7337-41b2-8588-b4bfb500f2f8.gif?auto=format"
@@ -219,12 +157,43 @@
       }
     },
     {
+      "id": "1251550",
+      "name": "Expand Board for macOS",
+      "tagline": "Expand ideas, concepts, and plans across limitless boards",
+      "url": "https://www.producthunt.com/products/expand-board-for-macos?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 116,
+      "commentsCount": 10,
+      "createdAt": "2026-09-16T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/98046bf1-5ddb-4f1f-bd1c-d4b8132024e9.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Mac"
+            }
+          },
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1251215",
       "name": "Thread",
       "tagline": "AI journal that connects your thoughts into something bigger",
       "url": "https://www.producthunt.com/products/thread-ai-journal-memory?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 94,
-      "commentsCount": 3,
+      "votesCount": 105,
+      "commentsCount": 5,
       "createdAt": "2026-09-16T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/d3ddf868-f1a8-4887-a663-92001858a2e4.png?auto=format"
@@ -255,18 +224,23 @@
       }
     },
     {
-      "id": "1250047",
-      "name": "Jottoo",
-      "tagline": "AI meeting notes that turn into tracked tasks",
-      "url": "https://www.producthunt.com/products/jottoo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 91,
-      "commentsCount": 10,
+      "id": "1251722",
+      "name": "Fide Island",
+      "tagline": "Media, Notes, on-device translation + more in your Notch",
+      "url": "https://www.producthunt.com/products/fide-island?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 105,
+      "commentsCount": 9,
       "createdAt": "2026-09-16T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/8808dac9-6745-49a5-b0f2-4f3c3cf1e0e6.png?auto=format"
+        "url": "https://ph-files.imgix.net/7823222f-b94a-4d38-ac23-a4f943316dd6.svg?auto=format"
       },
       "topics": {
         "edges": [
+          {
+            "node": {
+              "name": "Mac"
+            }
+          },
           {
             "node": {
               "name": "Productivity"
@@ -274,12 +248,7 @@
           },
           {
             "node": {
-              "name": "SaaS"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
+              "name": "Menu Bar Apps"
             }
           }
         ]
@@ -290,7 +259,7 @@
       "name": "Twigg",
       "tagline": "The context layer you never have to build",
       "url": "https://www.producthunt.com/products/twigg?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 90,
+      "votesCount": 104,
       "commentsCount": 3,
       "createdAt": "2026-09-16T07:01:00Z",
       "thumbnail": {
@@ -317,49 +286,18 @@
       }
     },
     {
-      "id": "1250753",
-      "name": "Convo",
-      "tagline": "The AI copilot for people who sell",
-      "url": "https://www.producthunt.com/products/convo-7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 88,
-      "commentsCount": 3,
+      "id": "1250047",
+      "name": "Jottoo",
+      "tagline": "AI meeting notes that turn into tracked tasks",
+      "url": "https://www.producthunt.com/products/jottoo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 96,
+      "commentsCount": 12,
       "createdAt": "2026-09-16T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/ee67ab42-6043-43f6-90db-c28abe5be943.png?auto=format"
+        "url": "https://ph-files.imgix.net/8808dac9-6745-49a5-b0f2-4f3c3cf1e0e6.png?auto=format"
       },
       "topics": {
         "edges": [
-          {
-            "node": {
-              "name": "Sales"
-            }
-          },
-          {
-            "node": {
-              "name": "Meetings"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1249776",
-      "name": "PeakHour 6",
-      "tagline": "Real-time network monitor for Mac w/ detailed WiFi insights",
-      "url": "https://www.producthunt.com/products/peak-hour?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 83,
-      "commentsCount": 1,
-      "createdAt": "2026-09-16T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/30f92870-ed33-4487-8c83-b970aa3a4728.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Mac"
-            }
-          },
           {
             "node": {
               "name": "Productivity"
@@ -367,7 +305,12 @@
           },
           {
             "node": {
-              "name": "Menu Bar Apps"
+              "name": "SaaS"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
             }
           }
         ]
@@ -378,7 +321,7 @@
       "name": "Project Feed",
       "tagline": "Project management with built-in file review",
       "url": "https://www.producthunt.com/products/project-feed?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 82,
+      "votesCount": 96,
       "commentsCount": 2,
       "createdAt": "2026-09-16T07:01:00Z",
       "thumbnail": {
@@ -405,11 +348,37 @@
       }
     },
     {
+      "id": "1250753",
+      "name": "Convo",
+      "tagline": "The AI copilot for people who sell",
+      "url": "https://www.producthunt.com/products/convo-7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 92,
+      "commentsCount": 4,
+      "createdAt": "2026-09-16T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/ee67ab42-6043-43f6-90db-c28abe5be943.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Sales"
+            }
+          },
+          {
+            "node": {
+              "name": "Meetings"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1251734",
       "name": "flat.social",
       "tagline": "Absurdly delightful 3D spaces where remote teams hang out",
       "url": "https://www.producthunt.com/products/flat-social?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 81,
+      "votesCount": 91,
       "commentsCount": 1,
       "createdAt": "2026-09-16T07:01:00Z",
       "thumbnail": {
@@ -436,12 +405,43 @@
       }
     },
     {
+      "id": "1249776",
+      "name": "PeakHour 6",
+      "tagline": "Real-time network monitor for Mac w/ detailed WiFi insights",
+      "url": "https://www.producthunt.com/products/peak-hour?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 86,
+      "commentsCount": 1,
+      "createdAt": "2026-09-16T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/30f92870-ed33-4487-8c83-b970aa3a4728.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Mac"
+            }
+          },
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Menu Bar Apps"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1244281",
       "name": "CreatorHat",
       "tagline": "YouTube SEO tools for Safari featuring Apple Intelligence",
       "url": "https://www.producthunt.com/products/creatorhat?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 79,
-      "commentsCount": 3,
+      "votesCount": 83,
+      "commentsCount": 5,
       "createdAt": "2026-09-16T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/f9d9aa6d-d399-43d0-9813-afdd729d949d.png?auto=format"
@@ -468,10 +468,10 @@
     },
     {
       "id": "1251397",
-      "name": "PhraseVault",
-      "tagline": "20% off PhraseVault 3.0 + PIN-locked snippets",
+      "name": "PhraseVault 3.0",
+      "tagline": "Now lock one sensitive phrase at a time with a PIN",
       "url": "https://www.producthunt.com/products/phrasevault?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 69,
+      "votesCount": 71,
       "commentsCount": 1,
       "createdAt": "2026-09-16T07:01:00Z",
       "thumbnail": {
@@ -498,11 +498,42 @@
       }
     },
     {
+      "id": "1251841",
+      "name": "ZeroClick",
+      "tagline": "Sell your product to AI agents",
+      "url": "https://www.producthunt.com/products/zeroclick?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 32,
+      "commentsCount": 8,
+      "createdAt": "2026-09-16T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/8e1873a0-c390-4398-86f6-59fcd7dec6ef.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Payments"
+            }
+          },
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1251145",
       "name": "Pollen Create",
       "tagline": "Your AI Assistant for Interactive Training",
       "url": "https://www.producthunt.com/products/pollen-create?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 19,
+      "votesCount": 21,
       "commentsCount": 3,
       "createdAt": "2026-09-16T07:01:00Z",
       "thumbnail": {
@@ -590,37 +621,6 @@
           {
             "node": {
               "name": "Outdoors"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1251457",
-      "name": "Lyra",
-      "tagline": "Understand what any song is really about, instantly",
-      "url": "https://www.producthunt.com/products/lyra-glow?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 10,
-      "commentsCount": 2,
-      "createdAt": "2026-09-16T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/c7d2c10a-63fb-43ec-b917-b776d4546217.jpeg?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Android"
-            }
-          },
-          {
-            "node": {
-              "name": "Music"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
             }
           }
         ]
