@@ -1,12 +1,12 @@
 {
-  "fetchedAt": "2026-09-19T22:48:46.705Z",
+  "fetchedAt": "2026-09-20T00:52:45.853Z",
   "posts": [
     {
       "id": "1252832",
       "name": "Bolt Forge",
       "tagline": "Bolt's new agent with open-source models and 50X usage",
       "url": "https://www.producthunt.com/products/bolt-new?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 186,
+      "votesCount": 194,
       "commentsCount": 4,
       "createdAt": "2026-09-19T07:01:00Z",
       "thumbnail": {
@@ -37,7 +37,7 @@
       "name": "Mantra Timer",
       "tagline": "A minimalist mantra meditation timer for iOS.",
       "url": "https://www.producthunt.com/products/transcendence?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 158,
+      "votesCount": 162,
       "commentsCount": 10,
       "createdAt": "2026-09-19T07:01:00Z",
       "thumbnail": {
@@ -63,7 +63,7 @@
       "name": "Steam Frame",
       "tagline": "Your Steam library, now on a wearable PC",
       "url": "https://www.producthunt.com/products/steam-machine?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 133,
+      "votesCount": 137,
       "commentsCount": 4,
       "createdAt": "2026-09-19T07:01:00Z",
       "thumbnail": {
@@ -94,7 +94,7 @@
       "name": "Lumiko",
       "tagline": "Screen recordings that edit themselves with Auto Zoom-Pan ",
       "url": "https://www.producthunt.com/products/lumiko?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 131,
+      "votesCount": 133,
       "commentsCount": 5,
       "createdAt": "2026-09-19T07:01:00Z",
       "thumbnail": {
@@ -125,7 +125,7 @@
       "name": "Lull",
       "tagline": "Tell it what is on your mind. It writes the meditation.",
       "url": "https://www.producthunt.com/products/lull-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 105,
+      "votesCount": 113,
       "commentsCount": 3,
       "createdAt": "2026-09-19T07:01:00Z",
       "thumbnail": {
@@ -183,6 +183,37 @@
       }
     },
     {
+      "id": "1251902",
+      "name": "Squirrel",
+      "tagline": "An app blocker that pays you back",
+      "url": "https://www.producthunt.com/products/squirrel-screen-time-savings?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 100,
+      "commentsCount": 10,
+      "createdAt": "2026-09-19T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/6804dcb5-b072-4946-86a0-2d9ea75d5c31.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "iOS"
+            }
+          },
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Personal Finance"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1253025",
       "name": "VoiceCap",
       "tagline": "The AI notetaker for meetings in your language",
@@ -213,37 +244,6 @@
           {
             "node": {
               "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1251902",
-      "name": "Squirrel",
-      "tagline": "An app blocker that pays you back",
-      "url": "https://www.producthunt.com/products/squirrel-screen-time-savings?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 94,
-      "commentsCount": 9,
-      "createdAt": "2026-09-19T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/6804dcb5-b072-4946-86a0-2d9ea75d5c31.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "iOS"
-            }
-          },
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Personal Finance"
             }
           }
         ]
@@ -286,6 +286,27 @@
       }
     },
     {
+      "id": "1254873",
+      "name": "Basedash Models",
+      "tagline": "Define it once. Query it like a table.",
+      "url": "https://www.producthunt.com/products/basedash?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 88,
+      "commentsCount": 2,
+      "createdAt": "2026-09-19T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/ad69657e-ce7f-4798-a63e-9dd437b9ca23.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Data & Analytics"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1255234",
       "name": "Mise",
       "tagline": "The meal planner that gets all your dishes ready at once",
@@ -317,32 +338,11 @@
       }
     },
     {
-      "id": "1254873",
-      "name": "Basedash Models",
-      "tagline": "Define it once. Query it like a table.",
-      "url": "https://www.producthunt.com/products/basedash?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 87,
-      "commentsCount": 2,
-      "createdAt": "2026-09-19T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/ad69657e-ce7f-4798-a63e-9dd437b9ca23.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Data & Analytics"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1254739",
       "name": "Punch",
       "tagline": "Save your group chat's important stuff",
       "url": "https://www.producthunt.com/products/punch-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 87,
+      "votesCount": 88,
       "commentsCount": 3,
       "createdAt": "2026-09-19T07:01:00Z",
       "thumbnail": {
@@ -378,8 +378,8 @@
       "name": "BiBimba",
       "tagline": "Clipboard history that can read your screenshots",
       "url": "https://www.producthunt.com/products/bibimba?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 80,
-      "commentsCount": 8,
+      "votesCount": 83,
+      "commentsCount": 9,
       "createdAt": "2026-09-19T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/3c52650d-2025-4272-8d3a-73b9e774d183.png?auto=format"
