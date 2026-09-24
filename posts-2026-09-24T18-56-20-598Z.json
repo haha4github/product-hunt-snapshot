@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-09-24T14:47:34.026Z",
+  "fetchedAt": "2026-09-24T18:56:20.598Z",
   "posts": [
     {
       "id": "1249022",
       "name": "Scholé Learn by Building",
       "tagline": "Learning should be more than \"click next\"",
       "url": "https://www.producthunt.com/products/schole-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 221,
-      "commentsCount": 19,
+      "votesCount": 278,
+      "commentsCount": 41,
       "createdAt": "2026-09-24T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/b742df3f-7260-46e4-8a25-057ab0673158.jpeg?auto=format"
@@ -33,74 +33,12 @@
       }
     },
     {
-      "id": "1255098",
-      "name": "NOAN",
-      "tagline": "The fact layer for your AI agents",
-      "url": "https://www.producthunt.com/products/noan-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 195,
-      "commentsCount": 29,
-      "createdAt": "2026-09-24T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/7cde5a50-8ded-4645-ba89-b32d6d1dc73a.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "API"
-            }
-          },
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1258060",
-      "name": "CtrlOps 1.0",
-      "tagline": "Your server. Audited, managed, and deployed with AI.",
-      "url": "https://www.producthunt.com/products/ctrlops?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 177,
-      "commentsCount": 23,
-      "createdAt": "2026-09-24T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/5f6dfcb1-cc3e-4c3b-93ef-cba65cb248df.jpeg?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Linux"
-            }
-          },
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Security"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1259609",
       "name": "Floot MCP",
       "tagline": "Build and ship web and mobile apps inside Claude or ChatGPT",
       "url": "https://www.producthunt.com/products/floot?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 176,
-      "commentsCount": 8,
+      "votesCount": 250,
+      "commentsCount": 44,
       "createdAt": "2026-09-24T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/11e2e51b-0936-47c1-a2b8-2281d2927129.png?auto=format"
@@ -126,12 +64,74 @@
       }
     },
     {
+      "id": "1258060",
+      "name": "CtrlOps 1.0",
+      "tagline": "Your server. Audited, managed, and deployed with AI.",
+      "url": "https://www.producthunt.com/products/ctrlops?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 221,
+      "commentsCount": 70,
+      "createdAt": "2026-09-24T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/5f6dfcb1-cc3e-4c3b-93ef-cba65cb248df.jpeg?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Linux"
+            }
+          },
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Security"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1255098",
+      "name": "NOAN",
+      "tagline": "The fact layer for your AI agents",
+      "url": "https://www.producthunt.com/products/noan-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 219,
+      "commentsCount": 32,
+      "createdAt": "2026-09-24T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/7cde5a50-8ded-4645-ba89-b32d6d1dc73a.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "API"
+            }
+          },
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1255017",
       "name": "minimi 2.0",
       "tagline": "AI cat that closes your open loops",
       "url": "https://www.producthunt.com/products/shram?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 153,
-      "commentsCount": 15,
+      "votesCount": 206,
+      "commentsCount": 30,
       "createdAt": "2026-09-24T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/4347ee5e-4d2a-4ebc-b82c-b13824b529a7.png?auto=format"
@@ -157,23 +157,18 @@
       }
     },
     {
-      "id": "1258336",
-      "name": "Opaline",
-      "tagline": "PostHog for team Claude Code and Codex sessions.",
-      "url": "https://www.producthunt.com/products/rudel?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 129,
-      "commentsCount": 28,
+      "id": "1259552",
+      "name": "Bitrise Build Hub",
+      "tagline": "GitHub Actions runners that build 2x faster for your agents",
+      "url": "https://www.producthunt.com/products/bitrise?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 161,
+      "commentsCount": 91,
       "createdAt": "2026-09-24T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/429f73c4-95fe-47e6-beae-535320a8026d.png?auto=format"
+        "url": "https://ph-files.imgix.net/7e839865-3d5a-428d-bbbb-7fbe9a22d1f6.png?auto=format"
       },
       "topics": {
         "edges": [
-          {
-            "node": {
-              "name": "Analytics"
-            }
-          },
           {
             "node": {
               "name": "Developer Tools"
@@ -182,6 +177,11 @@
           {
             "node": {
               "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "GitHub"
             }
           }
         ]
@@ -192,8 +192,8 @@
       "name": "Hookest",
       "tagline": "Your swipe file for viral video hooks",
       "url": "https://www.producthunt.com/products/hookest?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 125,
-      "commentsCount": 8,
+      "votesCount": 155,
+      "commentsCount": 13,
       "createdAt": "2026-09-24T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/0ac8ddbf-639d-45a5-b147-faff390dcb4f.png?auto=format"
@@ -219,11 +219,42 @@
       }
     },
     {
+      "id": "1258336",
+      "name": "Opaline",
+      "tagline": "PostHog for team Claude Code and Codex sessions.",
+      "url": "https://www.producthunt.com/products/rudel?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 137,
+      "commentsCount": 32,
+      "createdAt": "2026-09-24T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/429f73c4-95fe-47e6-beae-535320a8026d.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Analytics"
+            }
+          },
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1245392",
       "name": "Maximem Synap",
       "tagline": "The fastest, most accurate memory layer for AI agents",
       "url": "https://www.producthunt.com/products/maximem-synap?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 116,
+      "votesCount": 129,
       "commentsCount": 28,
       "createdAt": "2026-09-24T07:01:00Z",
       "thumbnail": {
@@ -259,7 +290,7 @@
       "name": "Autonomous Product Delivery",
       "tagline": "Discover, plan, build, ship, repeat. Product teams run it",
       "url": "https://www.producthunt.com/products/autonomyai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 109,
+      "votesCount": 124,
       "commentsCount": 6,
       "createdAt": "2026-09-24T07:01:00Z",
       "thumbnail": {
@@ -290,8 +321,8 @@
       "name": "jev-seo",
       "tagline": "Free Rust CLI SEO/GEO auditor, no subscription needed",
       "url": "https://www.producthunt.com/products/jev-seo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 98,
-      "commentsCount": 5,
+      "votesCount": 107,
+      "commentsCount": 6,
       "createdAt": "2026-09-24T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/5c835b07-bb4f-4732-8b42-54a07c8ba7ce.png?auto=format"
@@ -321,8 +352,8 @@
       "name": "Opencontroller by lyzr",
       "tagline": "Govern All your agents with a unified control plane",
       "url": "https://www.producthunt.com/products/opencontroller-by-lyzr?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 95,
-      "commentsCount": 3,
+      "votesCount": 102,
+      "commentsCount": 4,
       "createdAt": "2026-09-24T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/58796ddb-faf7-45c5-bb4b-e69388270764.png?auto=format"
@@ -347,7 +378,7 @@
       "name": "NotchPop",
       "tagline": "The Dynamic Island your MacBook notch was missing",
       "url": "https://www.producthunt.com/products/notchpop?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 87,
+      "votesCount": 94,
       "commentsCount": 2,
       "createdAt": "2026-09-24T07:01:00Z",
       "thumbnail": {
@@ -383,7 +414,7 @@
       "name": "Gemini 3.8 text-to-speech models",
       "tagline": "Gemini 3.8 Flash TTS and Gemini 3.8 Flash-Lite TTS",
       "url": "https://www.producthunt.com/products/gemini-3-8-text-to-speech-models?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 86,
+      "votesCount": 88,
       "commentsCount": 3,
       "createdAt": "2026-09-24T07:01:00Z",
       "thumbnail": {
@@ -409,8 +440,8 @@
       "name": "Storytailor®",
       "tagline": "A personal world built around your child’s imagination",
       "url": "https://www.producthunt.com/products/storytailor?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 78,
-      "commentsCount": 4,
+      "votesCount": 86,
+      "commentsCount": 8,
       "createdAt": "2026-09-24T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/4c740190-1d17-4f80-a626-ac89339aff11.png?auto=format"
@@ -435,7 +466,7 @@
       "name": "IntellAgents.io",
       "tagline": "One AI agent for every call, chat, and DM",
       "url": "https://www.producthunt.com/products/intellagents-io?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 76,
+      "votesCount": 81,
       "commentsCount": 3,
       "createdAt": "2026-09-24T07:01:00Z",
       "thumbnail": {
@@ -466,7 +497,7 @@
       "name": "Harness Manager",
       "tagline": "Your AI coding stack manager, all in one place",
       "url": "https://www.producthunt.com/products/harness-manager?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 74,
+      "votesCount": 76,
       "commentsCount": 4,
       "createdAt": "2026-09-24T07:01:00Z",
       "thumbnail": {
@@ -497,8 +528,8 @@
       "name": "Parall",
       "tagline": "Run multiple instances of the same app on your Mac",
       "url": "https://www.producthunt.com/products/parall?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 74,
-      "commentsCount": 4,
+      "votesCount": 75,
+      "commentsCount": 6,
       "createdAt": "2026-09-24T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/590f0375-70a2-40b6-ade2-95895df4e15e.png?auto=format"
@@ -528,7 +559,7 @@
       "name": "LockLines",
       "tagline": "Design Mac lock screen messages that fit",
       "url": "https://www.producthunt.com/products/locklines?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 67,
+      "votesCount": 71,
       "commentsCount": 4,
       "createdAt": "2026-09-24T07:01:00Z",
       "thumbnail": {
@@ -559,7 +590,7 @@
       "name": "Subscrr",
       "tagline": "Build a financial plan and ask what to cancel",
       "url": "https://www.producthunt.com/products/subscrrr?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 67,
+      "votesCount": 69,
       "commentsCount": 7,
       "createdAt": "2026-09-24T07:01:00Z",
       "thumbnail": {
@@ -580,37 +611,6 @@
           {
             "node": {
               "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1256846",
-      "name": "ChoreDivider",
-      "tagline": "Split chores by what each of you actually minds doing",
-      "url": "https://www.producthunt.com/products/choredivider?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 66,
-      "commentsCount": 2,
-      "createdAt": "2026-09-24T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/5222a587-103d-4b05-85b2-c9d6f3ce18ce.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "iOS"
-            }
-          },
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Couples"
             }
           }
         ]
