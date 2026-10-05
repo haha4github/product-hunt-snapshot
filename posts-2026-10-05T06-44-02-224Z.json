@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-10-05T00:37:14.333Z",
+  "fetchedAt": "2026-10-05T06:44:02.224Z",
   "posts": [
     {
       "id": "1259946",
       "name": "CoreSpeed",
       "tagline": "One MCP for everything your agents need: apps, memory, tools",
       "url": "https://www.producthunt.com/products/corespeed?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 278,
-      "commentsCount": 57,
+      "votesCount": 316,
+      "commentsCount": 60,
       "createdAt": "2026-10-04T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/7edf1ae6-26f4-46ae-9652-9da8e4fb0cb0.png?auto=format"
@@ -37,7 +37,7 @@
       "name": "Gemini 4 Argon",
       "tagline": "Google's frontier model for careful reasoning & complex work",
       "url": "https://www.producthunt.com/products/gemini-4-argon?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 232,
+      "votesCount": 257,
       "commentsCount": 8,
       "createdAt": "2026-10-04T07:01:00Z",
       "thumbnail": {
@@ -68,7 +68,7 @@
       "name": "Smooth Recorder",
       "tagline": "  Mac screen recordings that look edited when you hit stop",
       "url": "https://www.producthunt.com/products/smooth-recorder?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 204,
+      "votesCount": 221,
       "commentsCount": 18,
       "createdAt": "2026-10-04T07:01:00Z",
       "thumbnail": {
@@ -99,8 +99,8 @@
       "name": "Blume 2.0",
       "tagline": "The open-source docs framework for humans and agents",
       "url": "https://www.producthunt.com/products/blume-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 162,
-      "commentsCount": 5,
+      "votesCount": 192,
+      "commentsCount": 6,
       "createdAt": "2026-10-04T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/b829e813-837c-4207-8c20-2d58cc2a9348.jpeg?auto=format"
@@ -126,12 +126,43 @@
       }
     },
     {
+      "id": "1264719",
+      "name": "DocsAlot MCP Connector",
+      "tagline": "Maintain your help-center by asking Claude, Cursor or Codex",
+      "url": "https://www.producthunt.com/products/docsalot-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 159,
+      "commentsCount": 34,
+      "createdAt": "2026-10-04T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/54d33972-3eb4-4aba-bb60-3ccac620d569.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "API"
+            }
+          },
+          {
+            "node": {
+              "name": "Writing"
+            }
+          },
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1264913",
       "name": "ChatGPT Space",
       "tagline": "Create, collaborate, and build together with AI in Space",
       "url": "https://www.producthunt.com/products/chatgpt-space?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 142,
-      "commentsCount": 3,
+      "votesCount": 153,
+      "commentsCount": 4,
       "createdAt": "2026-10-04T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/a7874e77-62b3-4948-9901-1972cae18bb8.jpeg?auto=format"
@@ -161,8 +192,8 @@
       "name": "opensend.cc",
       "tagline": "The open source email platform that runs on your server",
       "url": "https://www.producthunt.com/products/opensend-cc?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 141,
-      "commentsCount": 9,
+      "votesCount": 149,
+      "commentsCount": 12,
       "createdAt": "2026-10-04T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/5c279be1-a198-4b57-a4e3-26e94b9fe2ec.png?auto=format"
@@ -193,43 +224,12 @@
       }
     },
     {
-      "id": "1264719",
-      "name": "DocsAlot MCP Connector",
-      "tagline": "Maintain your help-center by asking Claude, Cursor or Codex",
-      "url": "https://www.producthunt.com/products/docsalot-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 141,
-      "commentsCount": 31,
-      "createdAt": "2026-10-04T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/54d33972-3eb4-4aba-bb60-3ccac620d569.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "API"
-            }
-          },
-          {
-            "node": {
-              "name": "Writing"
-            }
-          },
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1257247",
       "name": "Octri.dev",
       "tagline": "Generate customizable Docs, SDKs, MCP server, and monitoring",
       "url": "https://www.producthunt.com/products/octri?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 110,
-      "commentsCount": 27,
+      "votesCount": 122,
+      "commentsCount": 28,
       "createdAt": "2026-10-04T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/76cebe25-55af-48f7-889b-bbb8ebde53c1.gif?auto=format"
@@ -259,7 +259,7 @@
       "name": "Pass Designer",
       "tagline": "Design Apple Wallet passes and see the real card",
       "url": "https://www.producthunt.com/products/apple?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 104,
+      "votesCount": 109,
       "commentsCount": 4,
       "createdAt": "2026-10-04T07:01:00Z",
       "thumbnail": {
@@ -290,8 +290,8 @@
       "name": "WikiFix for Confluence",
       "tagline": "Find and fix issues in your knowledge base",
       "url": "https://www.producthunt.com/products/wikifix?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 86,
-      "commentsCount": 10,
+      "votesCount": 93,
+      "commentsCount": 12,
       "createdAt": "2026-10-04T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/518e1662-4fd3-4da3-bd59-0bb517ad34db.png?auto=format"
@@ -321,8 +321,8 @@
       "name": "Thinking Orbs",
       "tagline": "Animated AI Status Indicator Component Library for React",
       "url": "https://www.producthunt.com/products/thinking-orbs?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 83,
-      "commentsCount": 4,
+      "votesCount": 89,
+      "commentsCount": 5,
       "createdAt": "2026-10-04T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/256c270e-76ef-42e5-8717-df27a1812ad3.png?auto=format"
@@ -352,8 +352,8 @@
       "name": "Sellio",
       "tagline": "AI customer support in one shared inbox powered by AI agents",
       "url": "https://www.producthunt.com/products/sellio-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 83,
-      "commentsCount": 9,
+      "votesCount": 85,
+      "commentsCount": 10,
       "createdAt": "2026-10-04T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/eeb44fba-a459-4600-ac45-1bacd0218202.png?auto=format"
@@ -383,8 +383,8 @@
       "name": "Capybara Court",
       "tagline": "Tiny disputes, gently settled by a capybara judge",
       "url": "https://www.producthunt.com/products/capybara-court?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 79,
-      "commentsCount": 6,
+      "votesCount": 85,
+      "commentsCount": 9,
       "createdAt": "2026-10-04T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/65e3c321-b6d7-449e-9256-4b063a88c839.png?auto=format"
@@ -414,7 +414,7 @@
       "name": "Sente",
       "tagline": "Talk to your coding agent",
       "url": "https://www.producthunt.com/products/sente-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 76,
+      "votesCount": 81,
       "commentsCount": 3,
       "createdAt": "2026-10-04T07:01:00Z",
       "thumbnail": {
@@ -441,42 +441,11 @@
       }
     },
     {
-      "id": "1268042",
-      "name": "TinyFolder",
-      "tagline": "App folders for your Mac Dock, designed your way",
-      "url": "https://www.producthunt.com/products/tinyfolder?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 70,
-      "commentsCount": 2,
-      "createdAt": "2026-10-04T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/ff8184e9-b923-401e-b732-eebc6d8aab1c.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Mac"
-            }
-          },
-          {
-            "node": {
-              "name": "Design Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1268906",
       "name": "LaunchReel",
       "tagline": "claude design but for editing professional videos faster.",
       "url": "https://www.producthunt.com/products/launchreel-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 70,
+      "votesCount": 76,
       "commentsCount": 10,
       "createdAt": "2026-10-04T07:01:00Z",
       "thumbnail": {
@@ -503,11 +472,42 @@
       }
     },
     {
+      "id": "1268042",
+      "name": "TinyFolder",
+      "tagline": "App folders for your Mac Dock, designed your way",
+      "url": "https://www.producthunt.com/products/tinyfolder?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 71,
+      "commentsCount": 2,
+      "createdAt": "2026-10-04T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/ff8184e9-b923-401e-b732-eebc6d8aab1c.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Mac"
+            }
+          },
+          {
+            "node": {
+              "name": "Design Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1262134",
       "name": "Rival Workshop",
       "tagline": "A bookshelf app to manage every skill your agents read",
       "url": "https://www.producthunt.com/products/rival-workshop?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 69,
+      "votesCount": 71,
       "commentsCount": 3,
       "createdAt": "2026-10-04T07:01:00Z",
       "thumbnail": {
@@ -534,42 +534,11 @@
       }
     },
     {
-      "id": "1264054",
-      "name": "Calnio",
-      "tagline": "Two-way sync between Notion and Apple Calendar",
-      "url": "https://www.producthunt.com/products/calnio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 67,
-      "commentsCount": 2,
-      "createdAt": "2026-10-04T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/9c5d187f-a966-4e95-b736-dfd86172bfe0.jpeg?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Calendar"
-            }
-          },
-          {
-            "node": {
-              "name": "Apple"
-            }
-          },
-          {
-            "node": {
-              "name": "Notion"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1267801",
       "name": "Pixel Soup",
       "tagline": "Dithered live wallpapers your Mac cooks up itself",
       "url": "https://www.producthunt.com/products/pixel-soup?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 67,
+      "votesCount": 68,
       "commentsCount": 1,
       "createdAt": "2026-10-04T07:01:00Z",
       "thumbnail": {
@@ -601,7 +570,7 @@
       "tagline": "Small Art Museum for your Mac",
       "url": "https://www.producthunt.com/products/art4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 67,
-      "commentsCount": 2,
+      "commentsCount": 3,
       "createdAt": "2026-10-04T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/b3db7b87-8569-4e8a-aa75-b78a012195d0.svg?auto=format"
@@ -621,6 +590,37 @@
           {
             "node": {
               "name": "Wallpaper"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1264054",
+      "name": "Calnio",
+      "tagline": "Two-way sync between Notion and Apple Calendar",
+      "url": "https://www.producthunt.com/products/calnio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 67,
+      "commentsCount": 2,
+      "createdAt": "2026-10-04T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/9c5d187f-a966-4e95-b736-dfd86172bfe0.jpeg?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Calendar"
+            }
+          },
+          {
+            "node": {
+              "name": "Apple"
+            }
+          },
+          {
+            "node": {
+              "name": "Notion"
             }
           }
         ]
