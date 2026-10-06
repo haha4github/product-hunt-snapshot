@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-10-05T22:26:16.709Z",
+  "fetchedAt": "2026-10-06T02:48:56.500Z",
   "posts": [
     {
       "id": "1269915",
       "name": "Spira Maxima",
       "tagline": "Video model that turns script into viral social media videos",
       "url": "https://www.producthunt.com/products/spira-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 314,
-      "commentsCount": 47,
+      "votesCount": 359,
+      "commentsCount": 50,
       "createdAt": "2026-10-05T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/94b1ec75-7c2c-4535-b9a3-3ab23f8a61ce.png?auto=format"
@@ -37,11 +37,42 @@
       "name": "FastRouter.ai",
       "tagline": "Route requests to the right LLM for cost, latency & quality",
       "url": "https://www.producthunt.com/products/fastrouter-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 303,
-      "commentsCount": 52,
+      "votesCount": 317,
+      "commentsCount": 54,
       "createdAt": "2026-10-05T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/998bdc2f-69ab-4024-9d20-630d5c9513b1.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "API"
+            }
+          },
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1259566",
+      "name": "Invofox Self Serve",
+      "tagline": "99% accurate document extraction, SLA guaranteed",
+      "url": "https://www.producthunt.com/products/invofox?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 295,
+      "commentsCount": 27,
+      "createdAt": "2026-10-05T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/f9b532e4-4dd2-479c-9077-d9cd897f7aed.png?auto=format"
       },
       "topics": {
         "edges": [
@@ -68,8 +99,8 @@
       "name": "Opengeni",
       "tagline": "Ship AI agents within minutes. Infrastructure for Agents",
       "url": "https://www.producthunt.com/products/opengeni?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 261,
-      "commentsCount": 45,
+      "votesCount": 279,
+      "commentsCount": 46,
       "createdAt": "2026-10-05T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/ae9b99f8-88c1-4613-af41-eb50db9e16c0.png?auto=format"
@@ -100,42 +131,11 @@
       }
     },
     {
-      "id": "1259566",
-      "name": "Invofox Self Serve",
-      "tagline": "99% accurate document extraction, SLA guaranteed",
-      "url": "https://www.producthunt.com/products/invofox?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 260,
-      "commentsCount": 21,
-      "createdAt": "2026-10-05T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/f9b532e4-4dd2-479c-9077-d9cd897f7aed.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "API"
-            }
-          },
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1264927",
       "name": "DailyHelm",
       "tagline": "Turn analytics into daily revenue-boosting fixes ",
       "url": "https://www.producthunt.com/products/dailyhelm?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 205,
+      "votesCount": 210,
       "commentsCount": 65,
       "createdAt": "2026-10-05T07:01:00Z",
       "thumbnail": {
@@ -166,7 +166,7 @@
       "name": "Web Search API",
       "tagline": "Give AI Agents Access to Live Internet Data",
       "url": "https://www.producthunt.com/products/cloudflare?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 156,
+      "votesCount": 160,
       "commentsCount": 2,
       "createdAt": "2026-10-05T07:01:00Z",
       "thumbnail": {
@@ -192,7 +192,7 @@
       "name": "HyperFrames Studio (Desktop)",
       "tagline": "The First Video Editor built for Agents",
       "url": "https://www.producthunt.com/products/heygen?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 144,
+      "votesCount": 152,
       "commentsCount": 10,
       "createdAt": "2026-10-05T07:01:00Z",
       "thumbnail": {
@@ -228,8 +228,8 @@
       "name": "devpit",
       "tagline": "A native control room for your Claude Code agents",
       "url": "https://www.producthunt.com/products/devpit?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 100,
-      "commentsCount": 5,
+      "votesCount": 104,
+      "commentsCount": 7,
       "createdAt": "2026-10-05T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/afe566a2-6c31-4942-a979-d3e4952907d6.png?auto=format"
@@ -260,11 +260,42 @@
       }
     },
     {
+      "id": "1267987",
+      "name": "Siteprint",
+      "tagline": "Measure any website's design, then hand it to your AI",
+      "url": "https://www.producthunt.com/products/siteprint?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 102,
+      "commentsCount": 9,
+      "createdAt": "2026-10-05T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/601b6467-2b00-4d8c-bdbf-5476ede6b07a.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Design Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1268970",
       "name": "Reactive Resume v6",
       "tagline": "A free and open-source resume builder",
       "url": "https://www.producthunt.com/products/reactive-resume?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 98,
+      "votesCount": 100,
       "commentsCount": 4,
       "createdAt": "2026-10-05T07:01:00Z",
       "thumbnail": {
@@ -327,104 +358,11 @@
       }
     },
     {
-      "id": "1267987",
-      "name": "Siteprint",
-      "tagline": "Measure any website's design, then hand it to your AI",
-      "url": "https://www.producthunt.com/products/siteprint?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 94,
-      "commentsCount": 9,
-      "createdAt": "2026-10-05T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/601b6467-2b00-4d8c-bdbf-5476ede6b07a.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Design Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1269560",
-      "name": "Dots UI",
-      "tagline": "A React library for morphable particle interfaces",
-      "url": "https://www.producthunt.com/products/dots-ui?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 89,
-      "commentsCount": 6,
-      "createdAt": "2026-10-05T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/e1b0be93-da98-429e-add8-59dee725f689.svg?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Design Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Tech"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1266518",
-      "name": "Oogwai Beacon",
-      "tagline": "Answer Engine Optimization Audit",
-      "url": "https://www.producthunt.com/products/oogwai-beacon?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 88,
-      "commentsCount": 8,
-      "createdAt": "2026-10-05T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/5d97e2d6-5520-4e74-a812-efd745868854.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Marketing"
-            }
-          },
-          {
-            "node": {
-              "name": "SEO"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1196301",
       "name": "CirclePanel",
       "tagline": "End to end User Research Platform ",
       "url": "https://www.producthunt.com/products/circle-panel?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 88,
+      "votesCount": 90,
       "commentsCount": 8,
       "createdAt": "2026-10-05T07:01:00Z",
       "thumbnail": {
@@ -451,11 +389,42 @@
       }
     },
     {
+      "id": "1269560",
+      "name": "Dots UI",
+      "tagline": "A React library for morphable particle interfaces",
+      "url": "https://www.producthunt.com/products/dots-ui?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 90,
+      "commentsCount": 6,
+      "createdAt": "2026-10-05T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/e1b0be93-da98-429e-add8-59dee725f689.svg?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Design Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Tech"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1269907",
       "name": "Marv",
       "tagline": "An AI cursor companion that shows you what to click",
       "url": "https://www.producthunt.com/products/marv-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 87,
+      "votesCount": 90,
       "commentsCount": 13,
       "createdAt": "2026-10-05T07:01:00Z",
       "thumbnail": {
@@ -482,11 +451,42 @@
       }
     },
     {
+      "id": "1266518",
+      "name": "Oogwai Beacon",
+      "tagline": "Answer Engine Optimization Audit",
+      "url": "https://www.producthunt.com/products/oogwai-beacon?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 90,
+      "commentsCount": 8,
+      "createdAt": "2026-10-05T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/5d97e2d6-5520-4e74-a812-efd745868854.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Marketing"
+            }
+          },
+          {
+            "node": {
+              "name": "SEO"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1269975",
       "name": "crosswalk",
       "tagline": "A third place for people & their agents, starting with inbox",
       "url": "https://www.producthunt.com/products/crosswalk?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 86,
+      "votesCount": 88,
       "commentsCount": 8,
       "createdAt": "2026-10-05T07:01:00Z",
       "thumbnail": {
@@ -512,7 +512,7 @@
       "name": "Pilot5 Legal",
       "tagline": "Five AI models challenge every legal answer",
       "url": "https://www.producthunt.com/products/pilot5-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 81,
+      "votesCount": 83,
       "commentsCount": 9,
       "createdAt": "2026-10-05T07:01:00Z",
       "thumbnail": {
@@ -543,7 +543,7 @@
       "name": "iLand",
       "tagline": "Turn your Mac's notch into an everyday workspace",
       "url": "https://www.producthunt.com/products/iland?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 80,
+      "votesCount": 81,
       "commentsCount": 3,
       "createdAt": "2026-10-05T07:01:00Z",
       "thumbnail": {
@@ -574,8 +574,8 @@
       "name": "Unscary AI",
       "tagline": "Short lessons help you stop feeling behind on AI.",
       "url": "https://www.producthunt.com/products/unscary-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 78,
-      "commentsCount": 8,
+      "votesCount": 80,
+      "commentsCount": 6,
       "createdAt": "2026-10-05T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/1a9abd54-06ef-4c79-b44d-1d6eb5908012.png?auto=format"
