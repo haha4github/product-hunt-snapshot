@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-10-08T16:16:31.200Z",
+  "fetchedAt": "2026-10-08T21:55:11.587Z",
   "posts": [
     {
       "id": "1271048",
       "name": "OpenSwarm",
       "tagline": "A swarm of agents, in the same place you work",
       "url": "https://www.producthunt.com/products/openswarm-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 245,
-      "commentsCount": 28,
+      "votesCount": 304,
+      "commentsCount": 46,
       "createdAt": "2026-10-08T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/ea2bfd22-7652-444c-b680-8028ef82bdc8.png?auto=format"
@@ -37,8 +37,8 @@
       "name": "Claude Haiku 5.5",
       "tagline": "Anthropic's fastest and most capable Haiku yet",
       "url": "https://www.producthunt.com/products/claude-haiku-5-5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 227,
-      "commentsCount": 3,
+      "votesCount": 270,
+      "commentsCount": 4,
       "createdAt": "2026-10-08T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/3cb73165-14e8-4392-8199-fc53c9f20100.png?auto=format"
@@ -65,11 +65,11 @@
     },
     {
       "id": "1272262",
-      "name": "OpenSEO - AI Visibility",
+      "name": "OpenSEO",
       "tagline": "The open source Semrush alternative",
       "url": "https://www.producthunt.com/products/openseo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 201,
-      "commentsCount": 19,
+      "votesCount": 267,
+      "commentsCount": 26,
       "createdAt": "2026-10-08T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/2c78fe4a-262c-48b2-a376-365b77bf6eeb.png?auto=format"
@@ -95,18 +95,28 @@
       }
     },
     {
-      "id": "1266940",
-      "name": "Griffin by Tavus",
-      "tagline": "World's First Human Interaction Model",
-      "url": "https://www.producthunt.com/products/griffin-by-tavus?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 132,
-      "commentsCount": 2,
+      "id": "1271901",
+      "name": "Cekura Bench",
+      "tagline": "Speech-to-speech model benchmarks on live phone calls",
+      "url": "https://www.producthunt.com/products/vocera?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 143,
+      "commentsCount": 17,
       "createdAt": "2026-10-08T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/3f997983-b1f4-4549-8259-3b97c17c91af.jpeg?auto=format"
+        "url": "https://ph-files.imgix.net/950853db-cd69-4dbb-bc94-71f8a62ff4f3.png?auto=format"
       },
       "topics": {
         "edges": [
+          {
+            "node": {
+              "name": "SaaS"
+            }
+          },
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          },
           {
             "node": {
               "name": "Artificial Intelligence"
@@ -120,7 +130,7 @@
       "name": "ChickyTutor",
       "tagline": "A private language tutor that knows you better every day.",
       "url": "https://www.producthunt.com/products/chickytutor?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 114,
+      "votesCount": 119,
       "commentsCount": 23,
       "createdAt": "2026-10-08T07:01:00Z",
       "thumbnail": {
@@ -147,26 +157,26 @@
       }
     },
     {
-      "id": "1271901",
-      "name": "Cekura Bench",
-      "tagline": "Speech-to-speech model benchmarks on live phone calls",
-      "url": "https://www.producthunt.com/products/vocera?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 112,
-      "commentsCount": 14,
+      "id": "1273268",
+      "name": "Claude for Google Workspace",
+      "tagline": "Bring Claude directly into Google Docs, Sheets & Slides",
+      "url": "https://www.producthunt.com/products/claude-for-google-workspace?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 106,
+      "commentsCount": 5,
       "createdAt": "2026-10-08T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/950853db-cd69-4dbb-bc94-71f8a62ff4f3.png?auto=format"
+        "url": "https://ph-files.imgix.net/e1ba40a0-81dc-4c32-8126-3a572fa5e724.png?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "SaaS"
+              "name": "Writing"
             }
           },
           {
             "node": {
-              "name": "Developer Tools"
+              "name": "Spreadsheets"
             }
           },
           {
@@ -182,8 +192,8 @@
       "name": "KloudMate 2.0",
       "tagline": "AI-powered Full-Stack Observability & Agentic SRE-Ops",
       "url": "https://www.producthunt.com/products/kloudmate?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 100,
-      "commentsCount": 10,
+      "votesCount": 106,
+      "commentsCount": 11,
       "createdAt": "2026-10-08T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/26585691-4088-4310-b31d-271c0a7b940b.gif?auto=format"
@@ -209,11 +219,42 @@
       }
     },
     {
+      "id": "1273143",
+      "name": "Polylane for Vercel",
+      "tagline": "An AI on-call engineer for your Vercel apps",
+      "url": "https://www.producthunt.com/products/polylane?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 103,
+      "commentsCount": 10,
+      "createdAt": "2026-10-08T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/d4a092d1-dfbc-44b8-bc04-688b98486d0a.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "Tech"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1272821",
       "name": "NOVA CLI v1.0",
       "tagline": "AI developer in your terminal",
       "url": "https://www.producthunt.com/products/nova-18?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 99,
+      "votesCount": 103,
       "commentsCount": 5,
       "createdAt": "2026-10-08T07:01:00Z",
       "thumbnail": {
@@ -240,31 +281,31 @@
       }
     },
     {
-      "id": "1273268",
-      "name": "Claude for Google Workspace",
-      "tagline": "Bring Claude directly into Google Docs, Sheets & Slides",
-      "url": "https://www.producthunt.com/products/claude-for-google-workspace?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 95,
+      "id": "1270311",
+      "name": "Paw-Paw",
+      "tagline": "A tiny desktop pet for your Mac that types along with you",
+      "url": "https://www.producthunt.com/products/paw-paw?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 84,
       "commentsCount": 4,
       "createdAt": "2026-10-08T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/e1ba40a0-81dc-4c32-8126-3a572fa5e724.png?auto=format"
+        "url": "https://ph-files.imgix.net/5d906926-710b-4c39-9558-16727c08edcb.gif?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "Writing"
+              "name": "Mac"
             }
           },
           {
             "node": {
-              "name": "Spreadsheets"
+              "name": "Productivity"
             }
           },
           {
             "node": {
-              "name": "Artificial Intelligence"
+              "name": "Games"
             }
           }
         ]
@@ -275,8 +316,8 @@
       "name": "Off the Record",
       "tagline": "Block AI from transcribing your meetings.",
       "url": "https://www.producthunt.com/products/off-the-record-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 80,
-      "commentsCount": 8,
+      "votesCount": 82,
+      "commentsCount": 9,
       "createdAt": "2026-10-08T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/b2913d2c-4466-4891-9613-6ed4df080237.png?auto=format"
@@ -302,23 +343,106 @@
       }
     },
     {
-      "id": "1270311",
-      "name": "Paw-Paw",
-      "tagline": "A tiny desktop pet for your Mac that types along with you",
-      "url": "https://www.producthunt.com/products/paw-paw?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "id": "1272432",
+      "name": "Liquid Inference",
+      "tagline": "LLM router where providers compete for every prompt",
+      "url": "https://www.producthunt.com/products/liquid-inference?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 80,
       "commentsCount": 3,
       "createdAt": "2026-10-08T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/5d906926-710b-4c39-9558-16727c08edcb.gif?auto=format"
+        "url": "https://ph-files.imgix.net/ea61fde6-9c4a-436e-92cc-a2fb7edfa822.png?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "Mac"
+              "name": "API"
             }
           },
+          {
+            "node": {
+              "name": "Software Engineering"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1272541",
+      "name": "tide",
+      "tagline": "A Jitsi alternative that does a few things really well",
+      "url": "https://www.producthunt.com/products/tide-simple-self-hostable-video-calls?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 80,
+      "commentsCount": 4,
+      "createdAt": "2026-10-08T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/4edfb915-3097-4015-aaeb-9a6c6db20921.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Open Source"
+            }
+          },
+          {
+            "node": {
+              "name": "Meetings"
+            }
+          },
+          {
+            "node": {
+              "name": "GitHub"
+            }
+          },
+          {
+            "node": {
+              "name": "Video"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1272452",
+      "name": "BotBus",
+      "tagline": "Manage your local coding agents from your phone",
+      "url": "https://www.producthunt.com/products/botbus?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 79,
+      "commentsCount": 2,
+      "createdAt": "2026-10-08T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/171ee2bc-68ed-4dfa-8cf1-f8a86add4945.svg?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1273004",
+      "name": "Markdoc",
+      "tagline": "A shared Markdown editor for people and their agents",
+      "url": "https://www.producthunt.com/products/markdoc-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 79,
+      "commentsCount": 1,
+      "createdAt": "2026-10-08T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/0ea3d972-1e67-45db-ac44-92cb712aa581.png?auto=format"
+      },
+      "topics": {
+        "edges": [
           {
             "node": {
               "name": "Productivity"
@@ -326,7 +450,12 @@
           },
           {
             "node": {
-              "name": "Games"
+              "name": "Writing"
+            }
+          },
+          {
+            "node": {
+              "name": "Developer Tools"
             }
           }
         ]
@@ -369,150 +498,31 @@
       }
     },
     {
-      "id": "1273143",
-      "name": "Polylane for Vercel",
-      "tagline": "An AI on-call engineer for your Vercel apps",
-      "url": "https://www.producthunt.com/products/polylane?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "id": "1270934",
+      "name": "Udon",
+      "tagline": "Control deck for your Mac home server with AI sysadmin.",
+      "url": "https://www.producthunt.com/products/udon?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 78,
-      "commentsCount": 7,
-      "createdAt": "2026-10-08T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/d4a092d1-dfbc-44b8-bc04-688b98486d0a.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          },
-          {
-            "node": {
-              "name": "Tech"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1273004",
-      "name": "Markdoc",
-      "tagline": "A shared Markdown editor for people and their agents",
-      "url": "https://www.producthunt.com/products/markdoc-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 76,
-      "commentsCount": 0,
-      "createdAt": "2026-10-08T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/0ea3d972-1e67-45db-ac44-92cb712aa581.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Writing"
-            }
-          },
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1272541",
-      "name": "tide",
-      "tagline": "A Jitsi alternative that does a few things really well",
-      "url": "https://www.producthunt.com/products/tide-simple-self-hostable-video-calls?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 76,
-      "commentsCount": 6,
-      "createdAt": "2026-10-08T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/4edfb915-3097-4015-aaeb-9a6c6db20921.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Open Source"
-            }
-          },
-          {
-            "node": {
-              "name": "Meetings"
-            }
-          },
-          {
-            "node": {
-              "name": "GitHub"
-            }
-          },
-          {
-            "node": {
-              "name": "Video"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1272452",
-      "name": "BotBus",
-      "tagline": "Manage your local coding agents from your phone",
-      "url": "https://www.producthunt.com/products/botbus?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 76,
-      "commentsCount": 1,
-      "createdAt": "2026-10-08T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/171ee2bc-68ed-4dfa-8cf1-f8a86add4945.svg?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1272432",
-      "name": "Liquid Inference",
-      "tagline": "LLM router where providers compete for every prompt",
-      "url": "https://www.producthunt.com/products/liquid-inference?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 75,
       "commentsCount": 3,
       "createdAt": "2026-10-08T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/ea61fde6-9c4a-436e-92cc-a2fb7edfa822.png?auto=format"
+        "url": "https://ph-files.imgix.net/d58add4e-3b4a-4174-a8df-a02fcde86cb2.png?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "API"
+              "name": "Mac"
             }
           },
           {
             "node": {
-              "name": "Software Engineering"
+              "name": "Menu Bar Apps"
             }
           },
           {
             "node": {
-              "name": "Artificial Intelligence"
+              "name": "Apple"
             }
           }
         ]
@@ -523,7 +533,7 @@
       "name": "Clippo",
       "tagline": "Orchestrate AI agent teams on a visual canvas",
       "url": "https://www.producthunt.com/products/clippo-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 74,
+      "votesCount": 77,
       "commentsCount": 1,
       "createdAt": "2026-10-08T07:01:00Z",
       "thumbnail": {
@@ -554,8 +564,8 @@
       "name": "offstage",
       "tagline": "Your computer-use agent gets a Mac account, not your screen",
       "url": "https://www.producthunt.com/products/offstage?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 74,
-      "commentsCount": 4,
+      "votesCount": 77,
+      "commentsCount": 5,
       "createdAt": "2026-10-08T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/d3495f49-f83b-4775-a4e6-a4a11ccf9e04.png?auto=format"
@@ -590,7 +600,7 @@
       "name": "Tractionwave",
       "tagline": "AI attention heatmaps for ads to check before you spend",
       "url": "https://www.producthunt.com/products/tractionwave?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 74,
+      "votesCount": 76,
       "commentsCount": 1,
       "createdAt": "2026-10-08T07:01:00Z",
       "thumbnail": {
