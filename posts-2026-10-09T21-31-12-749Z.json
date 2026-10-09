@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-10-09T16:00:34.723Z",
+  "fetchedAt": "2026-10-09T21:31:12.749Z",
   "posts": [
     {
       "id": "1272630",
       "name": "Zernio",
       "tagline": "Marketing infrastructure for products and agents",
       "url": "https://www.producthunt.com/products/zernio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 247,
-      "commentsCount": 44,
+      "votesCount": 279,
+      "commentsCount": 50,
       "createdAt": "2026-10-09T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/7033501b-37ca-471a-a281-b2f7013bf1de.png?auto=format"
@@ -37,8 +37,8 @@
       "name": "Busabase",
       "tagline": "The general system of record for AI agents",
       "url": "https://www.producthunt.com/products/busabase?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 191,
-      "commentsCount": 43,
+      "votesCount": 250,
+      "commentsCount": 60,
       "createdAt": "2026-10-09T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/27868ffa-a004-487a-8861-71e60914cbd6.png?auto=format"
@@ -64,11 +64,37 @@
       }
     },
     {
+      "id": "1273308",
+      "name": "Playground by Google Labs",
+      "tagline": "Create, play, and share your own games with Google AI",
+      "url": "https://www.producthunt.com/products/google-labs?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 181,
+      "commentsCount": 10,
+      "createdAt": "2026-10-09T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/fcbec6fb-5d33-4e45-a16d-cca93261381c.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "Games"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1270798",
       "name": "Together Link",
       "tagline": "Use open models in your harness",
       "url": "https://www.producthunt.com/products/together-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 144,
+      "votesCount": 155,
       "commentsCount": 2,
       "createdAt": "2026-10-09T07:01:00Z",
       "thumbnail": {
@@ -95,37 +121,11 @@
       }
     },
     {
-      "id": "1273308",
-      "name": "Playground by Google Labs",
-      "tagline": "Create, play, and share your own games with Google AI",
-      "url": "https://www.producthunt.com/products/google-labs?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 143,
-      "commentsCount": 9,
-      "createdAt": "2026-10-09T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/fcbec6fb-5d33-4e45-a16d-cca93261381c.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          },
-          {
-            "node": {
-              "name": "Games"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1274026",
       "name": "Odyssey 3",
       "tagline": "A world model that simulates physics in real time",
       "url": "https://www.producthunt.com/products/odyssey-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 128,
+      "votesCount": 141,
       "commentsCount": 4,
       "createdAt": "2026-10-09T07:01:00Z",
       "thumbnail": {
@@ -146,7 +146,7 @@
       "name": "Gemini Agent for Google Cloud",
       "tagline": "The work agent that runs on both Gemini and Claude",
       "url": "https://www.producthunt.com/products/google?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 112,
+      "votesCount": 127,
       "commentsCount": 1,
       "createdAt": "2026-10-09T07:01:00Z",
       "thumbnail": {
@@ -177,8 +177,8 @@
       "name": "Staffcoder",
       "tagline": "Build like a real engineer",
       "url": "https://www.producthunt.com/products/staffcoder?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 97,
-      "commentsCount": 13,
+      "votesCount": 99,
+      "commentsCount": 15,
       "createdAt": "2026-10-09T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/25b8f8f1-8f49-4139-ae9a-91331cc7a5c6.svg?auto=format"
@@ -208,8 +208,8 @@
       "name": "Refs",
       "tagline": "Give Claude better references for your videos",
       "url": "https://www.producthunt.com/products/refs?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 89,
-      "commentsCount": 5,
+      "votesCount": 96,
+      "commentsCount": 7,
       "createdAt": "2026-10-09T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/c125d274-ee3c-413a-b29d-9e47b47affef.png?auto=format"
@@ -235,42 +235,11 @@
       }
     },
     {
-      "id": "1274507",
-      "name": "OpenPilot",
-      "tagline": "Open-source desktop AI agent for any model you choose",
-      "url": "https://www.producthunt.com/products/openpilot?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 87,
-      "commentsCount": 1,
-      "createdAt": "2026-10-09T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/a62091ec-c168-45d2-b901-efbb54b76db7.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Open Source"
-            }
-          },
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1271403",
       "name": "AgentSDR",
       "tagline": " Open-source AI SDR",
       "url": "https://www.producthunt.com/products/agentsdr?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 87,
+      "votesCount": 92,
       "commentsCount": 4,
       "createdAt": "2026-10-09T07:01:00Z",
       "thumbnail": {
@@ -286,6 +255,37 @@
           {
             "node": {
               "name": "Open Source"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1274507",
+      "name": "OpenPilot",
+      "tagline": "Open-source desktop AI agent for any model you choose",
+      "url": "https://www.producthunt.com/products/openpilot?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 88,
+      "commentsCount": 1,
+      "createdAt": "2026-10-09T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/a62091ec-c168-45d2-b901-efbb54b76db7.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Open Source"
+            }
+          },
+          {
+            "node": {
+              "name": "Developer Tools"
             }
           },
           {
@@ -333,11 +333,78 @@
       }
     },
     {
+      "id": "1273431",
+      "name": "Pine Computer",
+      "tagline": "A cloud computer built for AI to get jobs done",
+      "url": "https://www.producthunt.com/products/pine-computer?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 86,
+      "commentsCount": 4,
+      "createdAt": "2026-10-09T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/2a32eeff-4fdc-4450-8adf-459278c67d0a.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "API"
+            }
+          },
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1274179",
+      "name": "OpenVids",
+      "tagline": "Open-source video editor you run by chatting with AI agents",
+      "url": "https://www.producthunt.com/products/openvids?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 85,
+      "commentsCount": 4,
+      "createdAt": "2026-10-09T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/c87fb967-44a2-41b5-a83f-7fd18139162e.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Design Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "GitHub"
+            }
+          },
+          {
+            "node": {
+              "name": "YouTube"
+            }
+          },
+          {
+            "node": {
+              "name": "Video"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1272865",
       "name": "OpenCharm",
       "tagline": "Open-source body for the AI agent you already run",
       "url": "https://www.producthunt.com/products/opencharm?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 84,
+      "votesCount": 85,
       "commentsCount": 7,
       "createdAt": "2026-10-09T07:01:00Z",
       "thumbnail": {
@@ -369,43 +436,12 @@
       }
     },
     {
-      "id": "1273431",
-      "name": "Pine Computer",
-      "tagline": "A cloud computer built for AI to get jobs done",
-      "url": "https://www.producthunt.com/products/pine-computer?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 84,
-      "commentsCount": 3,
-      "createdAt": "2026-10-09T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/2a32eeff-4fdc-4450-8adf-459278c67d0a.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "API"
-            }
-          },
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1273816",
       "name": "BrightBean Studio",
       "tagline": "Open-source Buffer alternative for social media teams",
       "url": "https://www.producthunt.com/products/brightbean-studio-social-media?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 81,
-      "commentsCount": 6,
+      "votesCount": 84,
+      "commentsCount": 8,
       "createdAt": "2026-10-09T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/9eba2365-8fcf-48aa-9d8c-af3ccff18283.png?auto=format"
@@ -431,47 +467,11 @@
       }
     },
     {
-      "id": "1274179",
-      "name": "OpenVids",
-      "tagline": "Open-source video editor you run by chatting with AI agents",
-      "url": "https://www.producthunt.com/products/openvids?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 79,
-      "commentsCount": 2,
-      "createdAt": "2026-10-09T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/c87fb967-44a2-41b5-a83f-7fd18139162e.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Design Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "GitHub"
-            }
-          },
-          {
-            "node": {
-              "name": "YouTube"
-            }
-          },
-          {
-            "node": {
-              "name": "Video"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1271491",
       "name": "HeyPi",
       "tagline": "Build and ship anything live, in-meetings",
       "url": "https://www.producthunt.com/products/heypi?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 78,
+      "votesCount": 81,
       "commentsCount": 3,
       "createdAt": "2026-10-09T07:01:00Z",
       "thumbnail": {
@@ -502,8 +502,8 @@
       "name": "Opposable",
       "tagline": "Computer use for phones to give your AI thumbs",
       "url": "https://www.producthunt.com/products/opposable?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 77,
-      "commentsCount": 4,
+      "votesCount": 80,
+      "commentsCount": 5,
       "createdAt": "2026-10-09T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/6b892187-6a68-4a03-9e79-5ea144a3cc82.png?auto=format"
@@ -529,43 +529,12 @@
       }
     },
     {
-      "id": "1270507",
-      "name": "Phonable",
-      "tagline": "Missed calls, handled: callers get a text, you get the gist",
-      "url": "https://www.producthunt.com/products/phonable?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 75,
-      "commentsCount": 5,
-      "createdAt": "2026-10-09T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/f0bf598b-d942-471c-b6be-7fab4ce710ee.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "iOS"
-            }
-          },
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1265321",
       "name": "Melete",
       "tagline": "An Always On Personal Agent With a Team Workspace",
       "url": "https://www.producthunt.com/products/melete?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 75,
-      "commentsCount": 6,
+      "votesCount": 76,
+      "commentsCount": 8,
       "createdAt": "2026-10-09T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/3fbc469a-1309-4511-b148-d6a300d91400.png?auto=format"
@@ -596,12 +565,43 @@
       }
     },
     {
+      "id": "1270507",
+      "name": "Phonable",
+      "tagline": "Missed calls, handled: callers get a text, you get the gist",
+      "url": "https://www.producthunt.com/products/phonable?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 76,
+      "commentsCount": 5,
+      "createdAt": "2026-10-09T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/f0bf598b-d942-471c-b6be-7fab4ce710ee.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "iOS"
+            }
+          },
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1274342",
       "name": "Rune",
       "tagline": "Write it down on one Mac, find it on the other",
       "url": "https://www.producthunt.com/products/rune?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 72,
-      "commentsCount": 2,
+      "votesCount": 73,
+      "commentsCount": 4,
       "createdAt": "2026-10-09T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/c8b84b39-cea6-4dfa-b874-296fcbeb2801.svg?auto=format"
