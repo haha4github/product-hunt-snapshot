@@ -1,44 +1,13 @@
 {
-  "fetchedAt": "2026-10-14T13:30:22.807Z",
+  "fetchedAt": "2026-10-14T18:25:25.149Z",
   "posts": [
-    {
-      "id": "1265035",
-      "name": "Inferock",
-      "tagline": "Serverless inference, with credits back for failed calls.",
-      "url": "https://www.producthunt.com/products/inferock?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 239,
-      "commentsCount": 19,
-      "createdAt": "2026-10-14T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/7a48325f-d5b7-4547-9aaf-aae3b709d967.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          },
-          {
-            "node": {
-              "name": "Google Cloud Run"
-            }
-          }
-        ]
-      }
-    },
     {
       "id": "1221402",
       "name": "Pancake",
       "tagline": "The Vercel for GTM",
       "url": "https://www.producthunt.com/products/pancake-6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 214,
-      "commentsCount": 28,
+      "votesCount": 428,
+      "commentsCount": 62,
       "createdAt": "2026-10-14T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/97c3d3e6-3484-4fe5-9a56-bf795d31eaa5.png?auto=format"
@@ -64,12 +33,43 @@
       }
     },
     {
+      "id": "1265035",
+      "name": "Inferock",
+      "tagline": "Serverless inference, with credits back for failed calls.",
+      "url": "https://www.producthunt.com/products/inferock?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 320,
+      "commentsCount": 24,
+      "createdAt": "2026-10-14T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/7a48325f-d5b7-4547-9aaf-aae3b709d967.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "Google Cloud Run"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1273690",
       "name": "Retriever AI",
       "tagline": "Free AI browser agent: find leads, reach out, apply to jobs",
       "url": "https://www.producthunt.com/products/rtrvr-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 130,
-      "commentsCount": 16,
+      "votesCount": 187,
+      "commentsCount": 26,
       "createdAt": "2026-10-14T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/9c8e2898-8610-4813-bbe9-d5a5f51f72e9.png?auto=format"
@@ -104,8 +104,8 @@
       "name": "AdAnt 2.0",
       "tagline": "Muse for Social Media Marketing",
       "url": "https://www.producthunt.com/products/adant-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 126,
-      "commentsCount": 16,
+      "votesCount": 157,
+      "commentsCount": 31,
       "createdAt": "2026-10-14T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/df5d768c-62aa-4fdc-9357-88916a232548.png?auto=format"
@@ -137,11 +137,11 @@
     },
     {
       "id": "1278154",
-      "name": "daily.dev",
+      "name": "daily.dev for agents",
       "tagline": "Where agents discover what's next",
       "url": "https://www.producthunt.com/products/daily-dev?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 104,
-      "commentsCount": 4,
+      "votesCount": 152,
+      "commentsCount": 8,
       "createdAt": "2026-10-14T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/946909a1-6f76-4b14-8c6b-56046f6e02b5.png?auto=format"
@@ -176,8 +176,8 @@
       "name": "Tiden",
       "tagline": "Intent verification for coding agents",
       "url": "https://www.producthunt.com/products/tiden?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 99,
-      "commentsCount": 16,
+      "votesCount": 127,
+      "commentsCount": 17,
       "createdAt": "2026-10-14T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/75eab5b8-2f1b-4cf3-91f5-575e00d04650.png?auto=format"
@@ -203,31 +203,67 @@
       }
     },
     {
-      "id": "1135009",
-      "name": "AirJelly",
-      "tagline": "Your Proactive, Self-Organizing Second Brain",
-      "url": "https://www.producthunt.com/products/airjelly?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 80,
-      "commentsCount": 6,
-      "createdAt": "2026-10-14T07:01:00Z",
+      "id": "1277882",
+      "name": "Confidence by Spotify ",
+      "tagline": "Build products at full speed, with both hands on the wheel",
+      "url": "https://www.producthunt.com/products/spotify?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 108,
+      "commentsCount": 3,
+      "createdAt": "2026-10-14T13:36:15Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/4958e60d-f7c3-4de3-81d0-66e62d85892c.png?auto=format"
+        "url": "https://ph-files.imgix.net/0119dba6-9fcd-48bf-8092-d651f7d76a67.x-icon?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "Productivity"
+              "name": "Analytics"
             }
           },
           {
             "node": {
-              "name": "Artificial Intelligence"
+              "name": "A/B Testing"
             }
           },
           {
             "node": {
-              "name": "Virtual Assistants"
+              "name": "SaaS"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1278817",
+      "name": "Exodus for Google Cloud Run",
+      "tagline": "Upgrade any app to Cloud Run, with your coding agent",
+      "url": "https://www.producthunt.com/products/exodus-by-elim-io?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 99,
+      "commentsCount": 7,
+      "createdAt": "2026-10-14T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/d0a2afe3-9645-4be4-b2b3-e95a7b8cde4c.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Open Source"
+            }
+          },
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "GitHub"
+            }
+          },
+          {
+            "node": {
+              "name": "Google Cloud Run"
             }
           }
         ]
@@ -238,8 +274,8 @@
       "name": "Reason",
       "tagline": "A state-of-the-art coding agent for cost efficiency",
       "url": "https://www.producthunt.com/products/dereference-the-100x-ide?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 80,
-      "commentsCount": 9,
+      "votesCount": 94,
+      "commentsCount": 11,
       "createdAt": "2026-10-14T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/f9c4e7bb-fbd3-4547-80eb-9b912d7983c4.png?auto=format"
@@ -265,26 +301,31 @@
       }
     },
     {
-      "id": "1277837",
-      "name": "Microsoft Maia 300",
-      "tagline": "Microsoft’s own AI chip, headed to multi-gigawatts",
-      "url": "https://www.producthunt.com/products/microsoft-maia-300?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 79,
-      "commentsCount": 1,
+      "id": "1135009",
+      "name": "AirJelly",
+      "tagline": "Your Proactive, Self-Organizing Second Brain",
+      "url": "https://www.producthunt.com/products/airjelly?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 91,
+      "commentsCount": 7,
       "createdAt": "2026-10-14T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/cf060f9b-bfef-4d17-8aae-d3a2587a66f3.png?auto=format"
+        "url": "https://ph-files.imgix.net/4958e60d-f7c3-4de3-81d0-66e62d85892c.png?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "Hardware"
+              "name": "Productivity"
             }
           },
           {
             "node": {
               "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "Virtual Assistants"
             }
           }
         ]
@@ -295,8 +336,8 @@
       "name": "Specreel",
       "tagline": "Product demos that update themselves",
       "url": "https://www.producthunt.com/products/specreel?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 73,
-      "commentsCount": 3,
+      "votesCount": 86,
+      "commentsCount": 5,
       "createdAt": "2026-10-14T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/266ee1c9-c18b-4713-8c47-6d35a6ad68c9.png?auto=format"
@@ -332,11 +373,37 @@
       }
     },
     {
+      "id": "1277837",
+      "name": "Microsoft Maia 300",
+      "tagline": "Microsoft’s own AI chip, headed to multi-gigawatts",
+      "url": "https://www.producthunt.com/products/microsoft-maia-300?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 85,
+      "commentsCount": 1,
+      "createdAt": "2026-10-14T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/cf060f9b-bfef-4d17-8aae-d3a2587a66f3.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Hardware"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1272957",
       "name": "Table Canon",
       "tagline": "Automated notes, searchable history, prep ideas for GMs",
       "url": "https://www.producthunt.com/products/table-canon-ttrpg-campaign-memory?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 71,
+      "votesCount": 80,
       "commentsCount": 1,
       "createdAt": "2026-10-14T07:01:00Z",
       "thumbnail": {
@@ -368,167 +435,12 @@
       }
     },
     {
-      "id": "1279079",
-      "name": "Apple HomePod mini 2",
-      "tagline": "Apple's tiny smart speaker, now built for Siri AI",
-      "url": "https://www.producthunt.com/products/apple-homepod-mini?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 70,
-      "commentsCount": 1,
-      "createdAt": "2026-10-14T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/8f6bdd4f-b3da-45fd-9eb5-3abe9c695452.jpeg?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Hardware"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          },
-          {
-            "node": {
-              "name": "Apple"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1275818",
-      "name": "Make0 Brain",
-      "tagline": "A memory store that works across all of your AI agents.",
-      "url": "https://www.producthunt.com/products/make0-brain?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 67,
-      "commentsCount": 1,
-      "createdAt": "2026-10-14T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/536789a7-7430-4ef7-96a0-ed092dc79fd8.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1274767",
-      "name": "Rambox",
-      "tagline": "Ready-to-use workspaces as you switch tasks and contexts",
-      "url": "https://www.producthunt.com/products/rambox?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 67,
-      "commentsCount": 7,
-      "createdAt": "2026-10-14T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/66bb04f2-5e07-4a41-898e-419834f240aa.gif?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Google Cloud Run"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1278817",
-      "name": "Exodus for Google Cloud Run",
-      "tagline": "Upgrade any app to Cloud Run, with your coding agent",
-      "url": "https://www.producthunt.com/products/exodus-by-elim-io?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 66,
-      "commentsCount": 2,
-      "createdAt": "2026-10-14T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/d0a2afe3-9645-4be4-b2b3-e95a7b8cde4c.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Open Source"
-            }
-          },
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "GitHub"
-            }
-          },
-          {
-            "node": {
-              "name": "Google Cloud Run"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1279730",
-      "name": "Cloud Releases",
-      "tagline": "Every AWS, Azure, GCP and Cloudflare update in one feed",
-      "url": "https://www.producthunt.com/products/cloud-releases?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 65,
-      "commentsCount": 1,
-      "createdAt": "2026-10-14T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/f653513c-77ba-4587-b875-00837b026424.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Tech"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1277094",
       "name": "Mira Tours",
       "tagline": "AI Walking Tour Guide",
       "url": "https://www.producthunt.com/products/mira-tours?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 65,
-      "commentsCount": 3,
+      "votesCount": 80,
+      "commentsCount": 6,
       "createdAt": "2026-10-14T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/857069cb-cb94-43ba-8bec-f945131fc773.png?auto=format"
@@ -559,12 +471,38 @@
       }
     },
     {
+      "id": "1274767",
+      "name": "Rambox",
+      "tagline": "Ready-to-use workspaces as you switch tasks and contexts",
+      "url": "https://www.producthunt.com/products/rambox?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 79,
+      "commentsCount": 7,
+      "createdAt": "2026-10-14T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/66bb04f2-5e07-4a41-898e-419834f240aa.gif?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Google Cloud Run"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1278289",
       "name": "Winq",
       "tagline": "Control your Mac with a look and a wink",
       "url": "https://www.producthunt.com/products/winq?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 65,
-      "commentsCount": 9,
+      "votesCount": 78,
+      "commentsCount": 11,
       "createdAt": "2026-10-14T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/9cffe7e9-8ef4-4e9e-bdaf-eabf813dccda.png?auto=format"
@@ -599,8 +537,8 @@
       "name": "Epherem",
       "tagline": "Find login and database flaws in your AI-built app",
       "url": "https://www.producthunt.com/products/epherem?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 64,
-      "commentsCount": 4,
+      "votesCount": 76,
+      "commentsCount": 7,
       "createdAt": "2026-10-14T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/66fe8ed3-45cd-4016-a0a7-dcac717e854a.png?auto=format"
@@ -631,26 +569,78 @@
       }
     },
     {
-      "id": "1278703",
-      "name": "EditUI",
-      "tagline": "Point at your UI. Tell your coding agent what to change.",
-      "url": "https://www.producthunt.com/products/editui?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 64,
-      "commentsCount": 2,
+      "id": "1279730",
+      "name": "Cloud Releases",
+      "tagline": "Every AWS, Azure, GCP and Cloudflare update in one feed",
+      "url": "https://www.producthunt.com/products/cloud-releases?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 75,
+      "commentsCount": 1,
       "createdAt": "2026-10-14T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/7c83c9fb-4d6d-42bc-899f-42635f22c28d.png?auto=format"
+        "url": "https://ph-files.imgix.net/f653513c-77ba-4587-b875-00837b026424.png?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "Chrome Extensions"
+              "name": "Productivity"
             }
           },
           {
             "node": {
-              "name": "Design Tools"
+              "name": "Developer Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Tech"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1279309",
+      "name": "Nimble",
+      "tagline": "SOTA Decision Model",
+      "url": "https://www.producthunt.com/products/nimble-5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 74,
+      "commentsCount": 2,
+      "createdAt": "2026-10-14T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/66b6a707-1e6d-4826-9adb-f31d82155874.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "Google Cloud Run"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1275818",
+      "name": "Make0 Brain",
+      "tagline": "A memory store that works across all of your AI agents.",
+      "url": "https://www.producthunt.com/products/make0-brain?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 73,
+      "commentsCount": 3,
+      "createdAt": "2026-10-14T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/536789a7-7430-4ef7-96a0-ed092dc79fd8.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Productivity"
             }
           },
           {
@@ -661,11 +651,6 @@
           {
             "node": {
               "name": "Artificial Intelligence"
-            }
-          },
-          {
-            "node": {
-              "name": "GitHub"
             }
           }
         ]
