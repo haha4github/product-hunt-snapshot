@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-10-19T20:28:48.415Z",
+  "fetchedAt": "2026-10-20T00:11:16.857Z",
   "posts": [
     {
       "id": "1284611",
       "name": "Beam.win",
       "tagline": "Run AI agents on one Mac and use its windows on another",
       "url": "https://www.producthunt.com/products/beam-win?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 268,
-      "commentsCount": 42,
+      "votesCount": 292,
+      "commentsCount": 46,
       "createdAt": "2026-10-19T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/e51a9115-1d41-403e-b7e8-4bb858e29f24.png?auto=format"
@@ -37,8 +37,8 @@
       "name": "readywhen",
       "tagline": "The senior personal assistant that works inside WhatsApp",
       "url": "https://www.producthunt.com/products/readywhen?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 159,
-      "commentsCount": 28,
+      "votesCount": 167,
+      "commentsCount": 29,
       "createdAt": "2026-10-19T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/994370f1-341c-4d6d-94fb-b3c2687359e7.png?auto=format"
@@ -68,7 +68,7 @@
       "name": "Figma Specs",
       "tagline": "A container for your context that lives on the Figma canvas",
       "url": "https://www.producthunt.com/products/figma?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 157,
+      "votesCount": 164,
       "commentsCount": 2,
       "createdAt": "2026-10-19T07:01:00Z",
       "thumbnail": {
@@ -95,12 +95,43 @@
       }
     },
     {
+      "id": "1283818",
+      "name": "walkai-talkai",
+      "tagline": "Talk to your AI coding agent over a walkie-talkie",
+      "url": "https://www.producthunt.com/products/walkai-talkai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 137,
+      "commentsCount": 6,
+      "createdAt": "2026-10-19T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/3756332a-4bf9-4192-8173-8c508c1338ff.x-icon?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Radio"
+            }
+          },
+          {
+            "node": {
+              "name": "Vibe coding"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1277569",
       "name": "Kai Resolve by Gleap",
       "tagline": "Support that does the digging for you.",
       "url": "https://www.producthunt.com/products/gleap?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 123,
-      "commentsCount": 22,
+      "votesCount": 136,
+      "commentsCount": 23,
       "createdAt": "2026-10-19T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/6b0e4b91-ccaf-45db-9079-e437add1f502.gif?auto=format"
@@ -130,7 +161,7 @@
       "name": "Beam",
       "tagline": "Highly efficient agentic 501B parameter open model",
       "url": "https://www.producthunt.com/products/beam-13?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 122,
+      "votesCount": 125,
       "commentsCount": 1,
       "createdAt": "2026-10-19T07:01:00Z",
       "thumbnail": {
@@ -152,43 +183,12 @@
       }
     },
     {
-      "id": "1283818",
-      "name": "walkai-talkai",
-      "tagline": "Talk to your AI coding agent over a walkie-talkie",
-      "url": "https://www.producthunt.com/products/walkai-talkai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 120,
-      "commentsCount": 5,
-      "createdAt": "2026-10-19T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/3756332a-4bf9-4192-8173-8c508c1338ff.x-icon?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Radio"
-            }
-          },
-          {
-            "node": {
-              "name": "Vibe coding"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1282904",
       "name": "Wally by Willow",
       "tagline": "Your Scribe agent that learns how you write",
       "url": "https://www.producthunt.com/products/willow-voice?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 108,
-      "commentsCount": 17,
+      "votesCount": 123,
+      "commentsCount": 20,
       "createdAt": "2026-10-19T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/9db3cd83-fd2a-4c37-b55b-992ff7ad7414.gif?auto=format"
@@ -218,8 +218,8 @@
       "name": "buddylist",
       "tagline": "Chat with your coding agents like it's 2005",
       "url": "https://www.producthunt.com/products/buddylist-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 102,
-      "commentsCount": 12,
+      "votesCount": 114,
+      "commentsCount": 15,
       "createdAt": "2026-10-19T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/58b07083-9ac5-4540-a1f0-71ebe2c7057f.png?auto=format"
@@ -249,8 +249,8 @@
       "name": "Framefields",
       "tagline": "Open-source code-first video for AGI era",
       "url": "https://www.producthunt.com/products/framefields?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 92,
-      "commentsCount": 5,
+      "votesCount": 95,
+      "commentsCount": 6,
       "createdAt": "2026-10-19T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/94ce2f80-ed6c-4069-bebb-01347e2aeffd.png?auto=format"
@@ -285,8 +285,8 @@
       "name": "Lazy AWS",
       "tagline": "A keyboard-driven home for your AWS resources",
       "url": "https://www.producthunt.com/products/lazy-aws-your-cloud-your-terminal?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 91,
-      "commentsCount": 7,
+      "votesCount": 93,
+      "commentsCount": 8,
       "createdAt": "2026-10-19T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/9a71cee5-6dda-4fbf-b9c8-a1643c451fa3.svg?auto=format"
@@ -321,8 +321,8 @@
       "name": "CoolDock",
       "tagline": "A smart second Dock for your Mac with 160+ live widgets.",
       "url": "https://www.producthunt.com/products/cooldock-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 84,
-      "commentsCount": 7,
+      "votesCount": 87,
+      "commentsCount": 8,
       "createdAt": "2026-10-19T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/0fe143e3-a62e-430e-a834-bffd1ce5330b.png?auto=format"
@@ -352,7 +352,7 @@
       "name": "Quello",
       "tagline": "One place to ask, across everything you already use.",
       "url": "https://www.producthunt.com/products/quello?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 84,
+      "votesCount": 86,
       "commentsCount": 7,
       "createdAt": "2026-10-19T07:01:00Z",
       "thumbnail": {
@@ -450,7 +450,7 @@
       "name": "Tori ",
       "tagline": "The smartest AI support agent for customer success",
       "url": "https://www.producthunt.com/products/tori-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 79,
+      "votesCount": 80,
       "commentsCount": 2,
       "createdAt": "2026-10-19T07:01:00Z",
       "thumbnail": {
@@ -574,7 +574,7 @@
       "name": "Umbra Mail",
       "tagline": "A calmer Gmail where emails look like chat threads",
       "url": "https://www.producthunt.com/products/umbra-mail?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 72,
+      "votesCount": 73,
       "commentsCount": 5,
       "createdAt": "2026-10-19T07:01:00Z",
       "thumbnail": {
@@ -611,18 +611,23 @@
       }
     },
     {
-      "id": "1277161",
-      "name": "CrawlForge MCP",
-      "tagline": "Give your AI agent 31 web tools in one MCP server",
-      "url": "https://www.producthunt.com/products/crawlforge-mcp?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 69,
-      "commentsCount": 1,
+      "id": "1284792",
+      "name": "Point and Yap",
+      "tagline": "Point at your screen and start yapping to your agent via MCP",
+      "url": "https://www.producthunt.com/products/point-and-yap?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 70,
+      "commentsCount": 6,
       "createdAt": "2026-10-19T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/821a6c3f-07d7-41bc-aeeb-a3081b836e42.gif?auto=format"
+        "url": "https://ph-files.imgix.net/ca43722b-cd1c-4a2b-95f9-f56fada16a93.png?auto=format"
       },
       "topics": {
         "edges": [
+          {
+            "node": {
+              "name": "Mac"
+            }
+          },
           {
             "node": {
               "name": "Open Source"
@@ -631,11 +636,6 @@
           {
             "node": {
               "name": "Developer Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
             }
           },
           {
