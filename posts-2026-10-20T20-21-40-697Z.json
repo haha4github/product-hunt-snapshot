@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-10-20T16:38:58.322Z",
+  "fetchedAt": "2026-10-20T20:21:40.697Z",
   "posts": [
     {
       "id": "1285391",
       "name": "/dev/null",
       "tagline": "a social network for devs",
       "url": "https://www.producthunt.com/products/dev-null?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 297,
-      "commentsCount": 46,
+      "votesCount": 371,
+      "commentsCount": 58,
       "createdAt": "2026-10-20T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/826fee28-b563-412a-a272-51b3a6149b34.png?auto=format"
@@ -42,8 +42,8 @@
       "name": "Composio Instant",
       "tagline": "The easiest way for AI agents to pay for their own tools",
       "url": "https://www.producthunt.com/products/composio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 194,
-      "commentsCount": 33,
+      "votesCount": 229,
+      "commentsCount": 37,
       "createdAt": "2026-10-20T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/3e8d6fc9-bcb0-43a5-8043-8304eeed2578.png?auto=format"
@@ -73,7 +73,7 @@
       "name": "Harness²",
       "tagline": "Harness the agent. Then harness its self-improvement.",
       "url": "https://www.producthunt.com/products/harness-104?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 132,
+      "votesCount": 154,
       "commentsCount": 5,
       "createdAt": "2026-10-20T07:01:00Z",
       "thumbnail": {
@@ -109,8 +109,8 @@
       "name": "Hoistbay",
       "tagline": "Open-source desktop app for Amazon S3 and CloudFront",
       "url": "https://www.producthunt.com/products/hoistbay?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 129,
-      "commentsCount": 2,
+      "votesCount": 139,
+      "commentsCount": 4,
       "createdAt": "2026-10-20T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/8cdf0770-15cf-485c-800e-6fcdf2d09e29.png?auto=format"
@@ -140,7 +140,7 @@
       "name": "Exa 3.0",
       "tagline": "Smarter search that gives AI agent richer data at lower cost",
       "url": "https://www.producthunt.com/products/exa-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 121,
+      "votesCount": 132,
       "commentsCount": 1,
       "createdAt": "2026-10-20T07:01:00Z",
       "thumbnail": {
@@ -167,43 +167,12 @@
       }
     },
     {
-      "id": "1285989",
-      "name": "RunInfra",
-      "tagline": "Open models, built for agents.",
-      "url": "https://www.producthunt.com/products/runinfra?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 102,
-      "commentsCount": 7,
-      "createdAt": "2026-10-20T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/f9d44975-4426-4156-9ebb-fd1ce4578775.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Software Engineering"
-            }
-          },
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1285769",
       "name": "Mintlify Autopilot",
       "tagline": "An always-on agent that keeps your docs up to date",
       "url": "https://www.producthunt.com/products/mintlify?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 98,
-      "commentsCount": 5,
+      "votesCount": 111,
+      "commentsCount": 7,
       "createdAt": "2026-10-20T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/5daa9b0c-dec8-45be-856c-36a7e4957c32.png?auto=format"
@@ -229,11 +198,42 @@
       }
     },
     {
+      "id": "1285989",
+      "name": "RunInfra",
+      "tagline": "Open models, built for agents.",
+      "url": "https://www.producthunt.com/products/runinfra?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 107,
+      "commentsCount": 8,
+      "createdAt": "2026-10-20T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/f9d44975-4426-4156-9ebb-fd1ce4578775.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Software Engineering"
+            }
+          },
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1285509",
       "name": "Asimov 1",
       "tagline": "The most customizable humanoid robot you can buy",
       "url": "https://www.producthunt.com/products/asimov-1?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 98,
+      "votesCount": 107,
       "commentsCount": 12,
       "createdAt": "2026-10-20T07:01:00Z",
       "thumbnail": {
@@ -264,8 +264,8 @@
       "name": "ToDo.is",
       "tagline": "Write a to-do and your AI agent gets it done",
       "url": "https://www.producthunt.com/products/todo-is?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 93,
-      "commentsCount": 16,
+      "votesCount": 101,
+      "commentsCount": 15,
       "createdAt": "2026-10-20T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/c4b8fb9e-21fa-43f7-9428-4189ea049a4d.png?auto=format"
@@ -301,12 +301,105 @@
       }
     },
     {
+      "id": "1283650",
+      "name": "bonds",
+      "tagline": "Every friends' chat gets an AI friend with superpowers",
+      "url": "https://www.producthunt.com/products/bonds-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 93,
+      "commentsCount": 14,
+      "createdAt": "2026-10-20T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/2f1c055a-a109-4d7e-b14d-6b445f5c5d5e.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Messaging"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "Social Networking"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1250829",
+      "name": "ESP-Mosaico",
+      "tagline": "A modular development board built for agents",
+      "url": "https://www.producthunt.com/products/esp-mosaico?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 92,
+      "commentsCount": 3,
+      "createdAt": "2026-10-20T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/17cb1284-7afa-40e3-9268-1e7e71437214.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Hardware"
+            }
+          },
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1282966",
+      "name": "Inflight",
+      "tagline": "The missing feedback layer for prototypes",
+      "url": "https://www.producthunt.com/products/inflight-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 91,
+      "commentsCount": 2,
+      "createdAt": "2026-10-20T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/f8146fce-4c74-4629-96c5-4841d075c8f9.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Design Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "User Experience"
+            }
+          },
+          {
+            "node": {
+              "name": "Prototyping"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1285782",
       "name": "Tiny Little Office",
       "tagline": "A tiny office suite where the link is the document",
       "url": "https://www.producthunt.com/products/tiny-little-office?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 87,
-      "commentsCount": 6,
+      "votesCount": 92,
+      "commentsCount": 9,
       "createdAt": "2026-10-20T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/41ff05cf-d076-4e60-85b8-04098fbc4652.png?auto=format"
@@ -337,73 +430,11 @@
       }
     },
     {
-      "id": "1283650",
-      "name": "bonds",
-      "tagline": "Every friends' chat gets an AI friend with superpowers",
-      "url": "https://www.producthunt.com/products/bonds-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 86,
-      "commentsCount": 10,
-      "createdAt": "2026-10-20T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/2f1c055a-a109-4d7e-b14d-6b445f5c5d5e.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Messaging"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          },
-          {
-            "node": {
-              "name": "Social Networking"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1250829",
-      "name": "ESP-Mosaico",
-      "tagline": "A modular development board built for agents",
-      "url": "https://www.producthunt.com/products/esp-mosaico?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 86,
-      "commentsCount": 3,
-      "createdAt": "2026-10-20T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/17cb1284-7afa-40e3-9268-1e7e71437214.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Hardware"
-            }
-          },
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1285729",
       "name": "Kling 4.0",
       "tagline": "Fast and affordable AI video for high-frequency creators",
       "url": "https://www.producthunt.com/products/kling-4-0-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 85,
+      "votesCount": 89,
       "commentsCount": 2,
       "createdAt": "2026-10-20T07:01:00Z",
       "thumbnail": {
@@ -424,6 +455,37 @@
           {
             "node": {
               "name": "Video"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1277773",
+      "name": "Jotform App Builder for ChatGPT & Claude",
+      "tagline": "Build and edit no-code apps inside ChatGPT & Claude",
+      "url": "https://www.producthunt.com/products/jotform?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 86,
+      "commentsCount": 2,
+      "createdAt": "2026-10-20T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/a61162c1-c1ac-49a1-aaf3-15477bb76543.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "No-Code"
             }
           }
         ]
@@ -451,42 +513,11 @@
       }
     },
     {
-      "id": "1277773",
-      "name": "Jotform App Builder for ChatGPT & Claude",
-      "tagline": "Build and edit no-code apps inside ChatGPT & Claude",
-      "url": "https://www.producthunt.com/products/jotform?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 82,
-      "commentsCount": 1,
-      "createdAt": "2026-10-20T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/a61162c1-c1ac-49a1-aaf3-15477bb76543.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          },
-          {
-            "node": {
-              "name": "No-Code"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1285678",
       "name": "reception",
       "tagline": "Native iOS support chat for less churn",
       "url": "https://www.producthunt.com/products/reception?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 81,
+      "votesCount": 84,
       "commentsCount": 6,
       "createdAt": "2026-10-20T07:01:00Z",
       "thumbnail": {
@@ -517,8 +548,8 @@
       "name": "snyvi",
       "tagline": "All your passion projects, in one calm place",
       "url": "https://www.producthunt.com/products/snyvi?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 79,
-      "commentsCount": 2,
+      "votesCount": 81,
+      "commentsCount": 3,
       "createdAt": "2026-10-20T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/072f2043-fdb2-499e-bc3e-c8325c690336.gif?auto=format"
@@ -548,8 +579,8 @@
       "name": "Portlivo",
       "tagline": "Every local dev server on your Mac, in the menu bar",
       "url": "https://www.producthunt.com/products/portlivo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 77,
-      "commentsCount": 6,
+      "votesCount": 79,
+      "commentsCount": 4,
       "createdAt": "2026-10-20T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/ea206b68-d9ae-418d-87cb-d2603dbeb6d5.png?auto=format"
@@ -575,37 +606,11 @@
       }
     },
     {
-      "id": "1286101",
-      "name": "Intel® GPU D-series",
-      "tagline": "Memory-rich AI inference without HBM",
-      "url": "https://www.producthunt.com/products/intel?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 75,
-      "commentsCount": 1,
-      "createdAt": "2026-10-20T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/1d855985-4d2b-49ca-b9da-c6b1c89dd7cc.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Hardware"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1277933",
       "name": "yggy",
       "tagline": "The AI knowledge graph that builds itself",
       "url": "https://www.producthunt.com/products/yggy?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 74,
+      "votesCount": 78,
       "commentsCount": 7,
       "createdAt": "2026-10-20T07:01:00Z",
       "thumbnail": {
