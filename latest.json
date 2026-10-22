@@ -1,16 +1,47 @@
 {
-  "fetchedAt": "2026-10-22T09:56:22.673Z",
+  "fetchedAt": "2026-10-22T15:01:27.337Z",
   "posts": [
     {
-      "id": "1287247",
-      "name": "ExcelConnection",
-      "tagline": "Automate data flows into Excel with full C# integration",
-      "url": "https://www.producthunt.com/products/excelconnection?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 0,
-      "commentsCount": 1,
+      "id": "1286749",
+      "name": "DeepCell",
+      "tagline": "Your deadline survival kit for office work",
+      "url": "https://www.producthunt.com/products/deepcell?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 218,
+      "commentsCount": 44,
       "createdAt": "2026-10-22T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/6c721323-21ff-4ad6-8a4d-eeb67dc74201.png?auto=format"
+        "url": "https://ph-files.imgix.net/67be0c24-289d-4d8b-b2e9-91901a791309.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "Business"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1274632",
+      "name": "Doneas",
+      "tagline": "A daily accountability call with other entrepreneurs.",
+      "url": "https://www.producthunt.com/products/doneas?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 186,
+      "commentsCount": 102,
+      "createdAt": "2026-10-22T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/4b5431d6-a2a1-4051-bd77-fe37f236c2ef.gif?auto=format"
       },
       "topics": {
         "edges": [
@@ -23,25 +54,258 @@
             "node": {
               "name": "Developer Tools"
             }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1288350",
+      "name": "Claude Duet",
+      "tagline": "Proactive agent that understands what needs your attention",
+      "url": "https://www.producthunt.com/products/claude?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 159,
+      "commentsCount": 1,
+      "createdAt": "2026-10-22T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/bf5b2b1a-a473-4ea8-ac3a-55f84c3a9d1a.svg?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Messaging"
+            }
           },
           {
             "node": {
-              "name": "Finance"
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "Bots"
             }
           }
         ]
       }
     },
     {
-      "id": "1258657",
-      "name": "Game.video",
-      "tagline": "Turn any video into a gamified, interactive experience",
-      "url": "https://www.producthunt.com/products/game-video?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 0,
-      "commentsCount": 1,
+      "id": "1286858",
+      "name": "Mistral Voxtral 3",
+      "tagline": "Mistral’s speech models for transcription, TTS and agents",
+      "url": "https://www.producthunt.com/products/mistral-7b?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 152,
+      "commentsCount": 2,
       "createdAt": "2026-10-22T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/635903e3-5b97-4221-a2eb-68abe743c0dd.png?auto=format"
+        "url": "https://ph-files.imgix.net/296959f2-f1f5-408c-803c-58b33e049208.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1266852",
+      "name": "heal.dev",
+      "tagline": "Find bugs and vulnerabilities code review misses",
+      "url": "https://www.producthunt.com/products/heal-dev?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 151,
+      "commentsCount": 26,
+      "createdAt": "2026-10-22T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/ea04a85d-a3ee-4523-80a3-b7aa2d83357c.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "Vibe coding"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1280966",
+      "name": "Fastlane 2.0",
+      "tagline": "Create, launch and scale winning ads with AI",
+      "url": "https://www.producthunt.com/products/fastlane-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 142,
+      "commentsCount": 32,
+      "createdAt": "2026-10-22T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/911ad5e3-5acc-4533-a7a1-baa97ac898d8.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Marketing"
+            }
+          },
+          {
+            "node": {
+              "name": "Advertising"
+            }
+          },
+          {
+            "node": {
+              "name": "Marketing automation"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1286573",
+      "name": "Dadan",
+      "tagline": "One AI video workspace for recordings, meetings and guides",
+      "url": "https://www.producthunt.com/products/dadan?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 111,
+      "commentsCount": 21,
+      "createdAt": "2026-10-22T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/3b215768-79f8-4a75-b4d1-d055d385e1fd.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Marketing"
+            }
+          },
+          {
+            "node": {
+              "name": "Meetings"
+            }
+          },
+          {
+            "node": {
+              "name": "Video"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1275489",
+      "name": "CutBay",
+      "tagline": "AI Video Agent: Turn Anything into Videos via Chat",
+      "url": "https://www.producthunt.com/products/cutbay?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 101,
+      "commentsCount": 4,
+      "createdAt": "2026-10-22T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/ae695785-2929-45ff-a3ce-8374d08688bd.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "Video"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1287788",
+      "name": "Mercury 3",
+      "tagline": "The diffusion LLM that scaled 40x without slowing down",
+      "url": "https://www.producthunt.com/products/mercury-412?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 100,
+      "commentsCount": 3,
+      "createdAt": "2026-10-22T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/8af10f25-cfe5-4a32-a567-f414e188e28f.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "API"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "Development"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1288711",
+      "name": "Resend Inboxes",
+      "tagline": "Create shared inboxes, connect your agents, build workflows",
+      "url": "https://www.producthunt.com/products/resend?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 96,
+      "commentsCount": 5,
+      "createdAt": "2026-10-22T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/77942500-1eee-4316-a4b0-aac02544c734.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Email"
+            }
+          },
+          {
+            "node": {
+              "name": "API"
+            }
+          },
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1285696",
+      "name": "Causo",
+      "tagline": "Find leads beyond database filters with AI research & MCP",
+      "url": "https://www.producthunt.com/products/causo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 91,
+      "commentsCount": 23,
+      "createdAt": "2026-10-22T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/0b235439-3096-4390-a5e4-53e59f90a9a5.png?auto=format"
       },
       "topics": {
         "edges": [
@@ -57,22 +321,182 @@
           },
           {
             "node": {
-              "name": "Video"
+              "name": "Artificial Intelligence"
             }
           }
         ]
       }
     },
     {
-      "id": "1286912",
-      "name": "Email Authentication Checker API",
-      "tagline": "SPF, DMARC, DKIM and more from DNS, as a graded report",
-      "url": "https://www.producthunt.com/products/email-authentication-checker-api?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 0,
+      "id": "1286659",
+      "name": "Voxelo 3.0",
+      "tagline": "Phone video to photoreal 3D & JSON-LD in an hour",
+      "url": "https://www.producthunt.com/products/voxelo-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 89,
+      "commentsCount": 13,
+      "createdAt": "2026-10-22T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/d21dcb3a-9cc0-4e3f-ae7c-d457e30099e9.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "Augmented Reality"
+            }
+          },
+          {
+            "node": {
+              "name": "E-Commerce"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1288078",
+      "name": "ElevenLabs Realtime Translation",
+      "tagline": "Turn live speech into translated audio as people talk",
+      "url": "https://www.producthunt.com/products/elevenlabs-realtime-translation?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 88,
       "commentsCount": 1,
       "createdAt": "2026-10-22T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/3001e666-5b09-49de-a15f-9ca0eff37ea8.png?auto=format"
+        "url": "https://ph-files.imgix.net/6b67a5a8-7384-43e8-97f8-702a37d677e2.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Languages"
+            }
+          },
+          {
+            "node": {
+              "name": "Audio"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1288419",
+      "name": "Radaric",
+      "tagline": "AI feed reader that learns your editorial taste",
+      "url": "https://www.producthunt.com/products/radaric?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 79,
+      "commentsCount": 10,
+      "createdAt": "2026-10-22T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/bfde48c6-787a-4331-8989-af7a55942844.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "News"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1288430",
+      "name": "Bits",
+      "tagline": "An open-source personal agent that gets you things done",
+      "url": "https://www.producthunt.com/products/bits-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 79,
+      "commentsCount": 8,
+      "createdAt": "2026-10-22T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/eea9f966-2f62-40c0-9db9-adf19d441ce1.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Open Source"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "GitHub"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1285467",
+      "name": "Whiteboard",
+      "tagline": "the open-source IDE for thoughtful software design ",
+      "url": "https://www.producthunt.com/products/whiteboard-5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 79,
+      "commentsCount": 4,
+      "createdAt": "2026-10-22T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/c11a9e2c-0286-465d-81a4-f2724b25a033.svg?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Open Source"
+            }
+          },
+          {
+            "node": {
+              "name": "Software Engineering"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "GitHub"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1287993",
+      "name": "Kugel Ear",
+      "tagline": "Speech-to-text that only asks when it's unsure",
+      "url": "https://www.producthunt.com/products/kugelaudio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 78,
+      "commentsCount": 4,
+      "createdAt": "2026-10-22T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/105c4508-3969-415f-bec7-c0a09fb721e9.png?auto=format"
       },
       "topics": {
         "edges": [
@@ -85,6 +509,42 @@
             "node": {
               "name": "Developer Tools"
             }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1275115",
+      "name": "Loom Record for agents",
+      "tagline": "Hit record and hand off to AI, now in the new Loom app",
+      "url": "https://www.producthunt.com/products/loom?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 77,
+      "commentsCount": 9,
+      "createdAt": "2026-10-22T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/60829cc4-9de0-453d-9251-ddb8be1c15bb.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Video"
+            }
           }
         ]
       }
@@ -94,8 +554,8 @@
       "name": "Archivist",
       "tagline": "From messy filenames to shareable collections",
       "url": "https://www.producthunt.com/products/archivist?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 0,
-      "commentsCount": 1,
+      "votesCount": 74,
+      "commentsCount": 3,
       "createdAt": "2026-10-22T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/0445553c-c62b-4617-9d42-1dae9551e007.png?auto=format"
@@ -121,476 +581,31 @@
       }
     },
     {
-      "id": "1286943",
-      "name": "Thoughts",
-      "tagline": "Sticky notes on the fridge, for your Mac",
-      "url": "https://www.producthunt.com/products/thoughts-7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 0,
-      "commentsCount": 1,
+      "id": "1277666",
+      "name": "Playad",
+      "tagline": "Hire your AI Marketing Team",
+      "url": "https://www.producthunt.com/products/playad?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 72,
+      "commentsCount": 4,
       "createdAt": "2026-10-22T07:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/f04ac071-66ad-4073-b1a1-f4ac40c28075.png?auto=format"
+        "url": "https://ph-files.imgix.net/1a27ec1c-b253-4557-abc3-0f7663b9be7c.png?auto=format"
       },
       "topics": {
         "edges": [
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Task Management"
-            }
-          },
-          {
-            "node": {
-              "name": "GitHub"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1288349",
-      "name": "Dzong Mail",
-      "tagline": "Open-source Superhuman alternative. 100% Privacy. $0 forever",
-      "url": "https://www.producthunt.com/products/dzong-mail?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 0,
-      "commentsCount": 1,
-      "createdAt": "2026-10-22T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/f8702824-3ff2-447e-9e4f-66af0d417d27.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Email"
-            }
-          },
-          {
-            "node": {
-              "name": "Open Source"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          },
-          {
-            "node": {
-              "name": "GitHub"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1288591",
-      "name": "SalvageAlert.com",
-      "tagline": "Real-time alerts for every IAA & Copart salvage auction",
-      "url": "https://www.producthunt.com/products/salvagealert-com?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 0,
-      "commentsCount": 1,
-      "createdAt": "2026-10-22T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/43e7ce77-145b-4e66-95b4-9bc71d9b2a62.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Cars"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1288651",
-      "name": "OhShit!",
-      "tagline": "Security incidents, graded by stench. Open data + MCP",
-      "url": "https://www.producthunt.com/products/ohshit?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 0,
-      "commentsCount": 1,
-      "createdAt": "2026-10-22T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/96d766af-6f90-4e6b-a397-82da8d856584.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Open Source"
-            }
-          },
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "GitHub"
-            }
-          },
-          {
-            "node": {
-              "name": "Security"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1288555",
-      "name": "ScalarQuant",
-      "tagline": "Remember why you bought a stock, and check if that's changed",
-      "url": "https://www.producthunt.com/products/scalarquant?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 0,
-      "commentsCount": 1,
-      "createdAt": "2026-10-22T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/03c276e1-2b63-4004-a945-fb89e90bf813.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Fintech"
-            }
-          },
-          {
-            "node": {
-              "name": "Investing"
-            }
-          },
-          {
-            "node": {
-              "name": "Education"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1287615",
-      "name": "PoSHE India",
-      "tagline": "POSH Compliance Services in India",
-      "url": "https://www.producthunt.com/products/poshe-india?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 0,
-      "commentsCount": 1,
-      "createdAt": "2026-10-22T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/b056a137-328a-4c98-8507-b7af8abce808.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Legal"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1288614",
-      "name": "First Time Home Buyer How to Get Better",
-      "tagline": "First-Time Home Buyer: How to Get a Better Mortgage Rate",
-      "url": "https://www.producthunt.com/products/first-time-home-buyer-how-to-get-better?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 0,
-      "commentsCount": 0,
-      "createdAt": "2026-10-22T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/d74d758b-e937-4ef7-a4ff-dc256e4e9d24.jpeg?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Home"
-            }
-          },
-          {
-            "node": {
-              "name": "Fintech"
-            }
-          },
           {
             "node": {
               "name": "Marketing"
             }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1287625",
-      "name": "WINSCOUT",
-      "tagline": "Find money and value you’re already missing",
-      "url": "https://www.producthunt.com/products/winscout?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 0,
-      "commentsCount": 1,
-      "createdAt": "2026-10-22T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/57925a37-09d5-4810-be7d-4ae1ff4e677f.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Productivity"
-            }
           },
           {
             "node": {
-              "name": "Fintech"
-            }
-          },
-          {
-            "node": {
-              "name": "Personal Finance"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1288580",
-      "name": "KoKo",
-      "tagline": "Learn the words of 30+ languages with spaced repetition",
-      "url": "https://www.producthunt.com/products/koko-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 0,
-      "commentsCount": 1,
-      "createdAt": "2026-10-22T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/365f56ac-c5a0-4ab3-96e1-8712674b556f.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "iOS"
-            }
-          },
-          {
-            "node": {
-              "name": "Education"
-            }
-          },
-          {
-            "node": {
-              "name": "Languages"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1277407",
-      "name": "Plumworth",
-      "tagline": "Know what you own. Imagine what's possible. Make it happen.",
-      "url": "https://www.producthunt.com/products/plumworth?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 0,
-      "commentsCount": 1,
-      "createdAt": "2026-10-22T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/8baa48b1-a9cb-445d-84d5-b50c99b37123.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Home"
+              "name": "Advertising"
             }
           },
           {
             "node": {
               "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1288164",
-      "name": "TCGPro",
-      "tagline": "Mac app for card sellers: stock, fees and profit",
-      "url": "https://www.producthunt.com/products/tcgpro?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 0,
-      "commentsCount": 1,
-      "createdAt": "2026-10-22T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/0bcde754-98b8-4a00-9407-c144d557d3f0.jpeg?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "E-Commerce"
-            }
-          },
-          {
-            "node": {
-              "name": "Pokemon"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1288184",
-      "name": "BaZi Calculator",
-      "tagline": "Free Four Pillars charts, calculated in your browser",
-      "url": "https://www.producthunt.com/products/bazi-calculator-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 0,
-      "commentsCount": 1,
-      "createdAt": "2026-10-22T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/0c76e013-b550-4591-b3d5-4994080b72ee.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Web App"
-            }
-          },
-          {
-            "node": {
-              "name": "Education"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1288268",
-      "name": "The Vault",
-      "tagline": "A CBT mirror that runs 100% on-device — nothing stored",
-      "url": "https://www.producthunt.com/products/the-vault-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 0,
-      "commentsCount": 1,
-      "createdAt": "2026-10-22T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/f14dcd00-eed0-436e-928c-98cdf7003ae1.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Open Source"
-            }
-          },
-          {
-            "node": {
-              "name": "Privacy"
-            }
-          },
-          {
-            "node": {
-              "name": "GitHub"
-            }
-          },
-          {
-            "node": {
-              "name": "Health"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1286269",
-      "name": "TermPilot",
-      "tagline": "Professional AI Translation & Reading Assistant",
-      "url": "https://www.producthunt.com/products/termpilot?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 0,
-      "commentsCount": 1,
-      "createdAt": "2026-10-22T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/9e99cbd5-1113-44cf-8093-3ffcec5cfcce.svg?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Chrome Extensions"
-            }
-          },
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1287091",
-      "name": "TalkFixAI",
-      "tagline": "Talk through home repairs with an AI that works offline",
-      "url": "https://www.producthunt.com/products/talkfixai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 0,
-      "commentsCount": 1,
-      "createdAt": "2026-10-22T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/9a6bce5f-4b8b-482e-bd9c-80cdeeeaa1f5.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Android"
-            }
-          },
-          {
-            "node": {
-              "name": "iOS"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1288197",
-      "name": "TG Hub",
-      "tagline": "Verified Telegram groups, channels and bots",
-      "url": "https://www.producthunt.com/products/tg-hub?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 0,
-      "commentsCount": 1,
-      "createdAt": "2026-10-22T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/383f7f22-c513-45a3-a05c-f98d558736a7.svg?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Social Networking"
             }
           }
         ]
