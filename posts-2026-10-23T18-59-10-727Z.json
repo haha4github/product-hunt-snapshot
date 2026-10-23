@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-10-23T14:49:01.286Z",
+  "fetchedAt": "2026-10-23T18:59:10.727Z",
   "posts": [
     {
       "id": "1289897",
       "name": "Product Hunt Visual Launch Editor",
       "tagline": "See your launch as you build it",
       "url": "https://www.producthunt.com/products/producthunt?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 218,
-      "commentsCount": 13,
+      "votesCount": 307,
+      "commentsCount": 21,
       "createdAt": "2026-10-23T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/d618ea86-70ae-4d12-8ec2-0ed78c723ddf.png?auto=format"
@@ -37,8 +37,8 @@
       "name": "MOVO AI",
       "tagline": "The world's first long-form video agent for mobile",
       "url": "https://www.producthunt.com/products/movo-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 195,
-      "commentsCount": 25,
+      "votesCount": 260,
+      "commentsCount": 37,
       "createdAt": "2026-10-23T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/cf9a67f0-ff2c-4881-97a5-e52537350e77.png?auto=format"
@@ -64,42 +64,11 @@
       }
     },
     {
-      "id": "1273697",
-      "name": "Ovren Live Preview",
-      "tagline": "See your product change live before it ships",
-      "url": "https://www.producthunt.com/products/ovren?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 158,
-      "commentsCount": 38,
-      "createdAt": "2026-10-23T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/f48d70b2-7862-45f1-b6e0-b74cb9e001b0.x-icon?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          },
-          {
-            "node": {
-              "name": "No-Code"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1289806",
       "name": "Agent Hunt",
       "tagline": "Live rankings of the tools AI agents use most",
       "url": "https://www.producthunt.com/products/monid?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 144,
+      "votesCount": 201,
       "commentsCount": 4,
       "createdAt": "2026-10-23T07:01:00Z",
       "thumbnail": {
@@ -126,11 +95,42 @@
       }
     },
     {
+      "id": "1273697",
+      "name": "Ovren Live Preview",
+      "tagline": "See your product change live before it ships",
+      "url": "https://www.producthunt.com/products/ovren?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 175,
+      "commentsCount": 52,
+      "createdAt": "2026-10-23T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/f48d70b2-7862-45f1-b6e0-b74cb9e001b0.x-icon?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "No-Code"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1286735",
       "name": "ElevenLabs Realtime",
       "tagline": "Realtime voice agent models with 570ms to first audio",
       "url": "https://www.producthunt.com/products/realtime-max-mini?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 129,
+      "votesCount": 146,
       "commentsCount": 3,
       "createdAt": "2026-10-23T07:01:00Z",
       "thumbnail": {
@@ -147,11 +147,42 @@
       }
     },
     {
+      "id": "1289925",
+      "name": "ShogunAI",
+      "tagline": "Your personal AGI on your pc",
+      "url": "https://www.producthunt.com/products/shogunai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 126,
+      "commentsCount": 15,
+      "createdAt": "2026-10-23T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/e184ba96-d7a3-421b-8197-2413de38f66a.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Mac"
+            }
+          },
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1285865",
       "name": "FLUX 3 Max",
       "tagline": "fal’s FLUX 3 Max: 10-second AI video in about 12 seconds",
       "url": "https://www.producthunt.com/products/fal-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 111,
+      "votesCount": 115,
       "commentsCount": 1,
       "createdAt": "2026-10-23T07:01:00Z",
       "thumbnail": {
@@ -172,7 +203,7 @@
       "name": "Cloudflare Clairic",
       "tagline": "Cloudflare's AI model for fast, cheap data extraction",
       "url": "https://www.producthunt.com/products/cloudflare?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 104,
+      "votesCount": 110,
       "commentsCount": 1,
       "createdAt": "2026-10-23T07:01:00Z",
       "thumbnail": {
@@ -203,7 +234,7 @@
       "name": "Context Engine",
       "tagline": "One memory for your AI agents and human team members.",
       "url": "https://www.producthunt.com/products/context-engine-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 92,
+      "votesCount": 96,
       "commentsCount": 3,
       "createdAt": "2026-10-23T07:01:00Z",
       "thumbnail": {
@@ -230,104 +261,11 @@
       }
     },
     {
-      "id": "1286515",
-      "name": "Dub Startup Program",
-      "tagline": "Launch your partner-led growth program",
-      "url": "https://www.producthunt.com/products/dub?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 91,
-      "commentsCount": 6,
-      "createdAt": "2026-10-23T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/efc372a6-3b1e-477d-9444-d2e1333dea0d.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Marketing"
-            }
-          },
-          {
-            "node": {
-              "name": "SaaS"
-            }
-          },
-          {
-            "node": {
-              "name": "Affiliate marketing"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1289925",
-      "name": "ShogunAI",
-      "tagline": "Your personal AGI on your pc",
-      "url": "https://www.producthunt.com/products/shogunai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 85,
-      "commentsCount": 14,
-      "createdAt": "2026-10-23T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/e184ba96-d7a3-421b-8197-2413de38f66a.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Mac"
-            }
-          },
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1289877",
-      "name": "Instant Search",
-      "tagline": "The fastest, most precise local AI Search for your files.",
-      "url": "https://www.producthunt.com/products/instant-search-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 85,
-      "commentsCount": 3,
-      "createdAt": "2026-10-23T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/3ff2f93c-a7cd-4165-bfee-157f5908c8da.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Mac"
-            }
-          },
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Search"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1288193",
       "name": "Polylane for Cloudflare",
       "tagline": "An AI on-call engineer for your Cloudflare apps",
       "url": "https://www.producthunt.com/products/polylane?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 84,
+      "votesCount": 93,
       "commentsCount": 2,
       "createdAt": "2026-10-23T07:01:00Z",
       "thumbnail": {
@@ -354,12 +292,74 @@
       }
     },
     {
+      "id": "1286515",
+      "name": "Dub Startup Program",
+      "tagline": "Launch your partner-led growth program",
+      "url": "https://www.producthunt.com/products/dub?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 93,
+      "commentsCount": 6,
+      "createdAt": "2026-10-23T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/efc372a6-3b1e-477d-9444-d2e1333dea0d.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Marketing"
+            }
+          },
+          {
+            "node": {
+              "name": "SaaS"
+            }
+          },
+          {
+            "node": {
+              "name": "Affiliate marketing"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1289877",
+      "name": "Instant Search",
+      "tagline": "The fastest, most precise local AI Search for your files.",
+      "url": "https://www.producthunt.com/products/instant-search-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 88,
+      "commentsCount": 5,
+      "createdAt": "2026-10-23T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/3ff2f93c-a7cd-4165-bfee-157f5908c8da.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Mac"
+            }
+          },
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Search"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1289239",
       "name": "Monish",
       "tagline": "Your AI agents, live on your iPhone lock screen",
       "url": "https://www.producthunt.com/products/monish?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 84,
-      "commentsCount": 4,
+      "votesCount": 86,
+      "commentsCount": 7,
       "createdAt": "2026-10-23T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/191d3c2f-b0a1-4bbe-b3b9-05f07a5f6df9.png?auto=format"
@@ -389,7 +389,7 @@
       "name": "Inyon",
       "tagline": "Answer your coding agents from your phone",
       "url": "https://www.producthunt.com/products/inyon?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 81,
+      "votesCount": 84,
       "commentsCount": 6,
       "createdAt": "2026-10-23T07:01:00Z",
       "thumbnail": {
@@ -426,7 +426,7 @@
       "tagline": "Use AI to defend against AI",
       "url": "https://www.producthunt.com/products/plango?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 81,
-      "commentsCount": 9,
+      "commentsCount": 10,
       "createdAt": "2026-10-23T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/31aebd9d-632d-44aa-a2de-81240712f2ac.png?auto=format"
@@ -452,12 +452,74 @@
       }
     },
     {
+      "id": "1278638",
+      "name": "Headroom",
+      "tagline": "Your Mac on iPhone Duo: fold it, and the keyboard appears",
+      "url": "https://www.producthunt.com/products/headroom-5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 79,
+      "commentsCount": 3,
+      "createdAt": "2026-10-23T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/496a9698-55b8-4ef5-8339-e78e06046d6c.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "iOS"
+            }
+          },
+          {
+            "node": {
+              "name": "Mac"
+            }
+          },
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1289162",
+      "name": "Dots",
+      "tagline": "A customizable workspace built into your Mac's notch",
+      "url": "https://www.producthunt.com/products/dots-7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 77,
+      "commentsCount": 2,
+      "createdAt": "2026-10-23T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/6e552950-65f5-4210-baef-98638d27ea00.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Mac"
+            }
+          },
+          {
+            "node": {
+              "name": "Menu Bar Apps"
+            }
+          },
+          {
+            "node": {
+              "name": "Apple"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1289607",
       "name": "Peras",
       "tagline": "Pause Claude Code and Codex before they burn your week",
       "url": "https://www.producthunt.com/products/peras?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 74,
-      "commentsCount": 6,
+      "votesCount": 76,
+      "commentsCount": 7,
       "createdAt": "2026-10-23T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/e8ab4d5f-4c60-45e9-9877-8014b78a843f.png?auto=format"
@@ -488,11 +550,42 @@
       }
     },
     {
+      "id": "1288837",
+      "name": "Truffle",
+      "tagline": "Fix messy tags, covers and duplicates in your Mac library",
+      "url": "https://www.producthunt.com/products/truffle-music-tag-editor?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 76,
+      "commentsCount": 1,
+      "createdAt": "2026-10-23T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/757c1c68-d172-4575-befb-a0422ef36a79.gif?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Mac"
+            }
+          },
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Music"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1289823",
       "name": "Termi Protocol",
       "tagline": "Watch AI agents code in 3D and hand off the work",
       "url": "https://www.producthunt.com/products/termi-protocol?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 72,
+      "votesCount": 74,
       "commentsCount": 1,
       "createdAt": "2026-10-23T07:01:00Z",
       "thumbnail": {
@@ -513,104 +606,6 @@
           {
             "node": {
               "name": "Vibe coding"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1289207",
-      "name": "Gerty",
-      "tagline": "Private ChatGPT alternative that sets itself up on your Mac",
-      "url": "https://www.producthunt.com/products/gerty?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 71,
-      "commentsCount": 5,
-      "createdAt": "2026-10-23T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/c18926c1-e637-431e-9d99-de28c61906e8.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1278638",
-      "name": "Headroom",
-      "tagline": "Your Mac on iPhone Duo: fold it, and the keyboard appears",
-      "url": "https://www.producthunt.com/products/headroom-5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 71,
-      "commentsCount": 3,
-      "createdAt": "2026-10-23T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/496a9698-55b8-4ef5-8339-e78e06046d6c.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "iOS"
-            }
-          },
-          {
-            "node": {
-              "name": "Mac"
-            }
-          },
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1287249",
-      "name": "Dots Phone",
-      "tagline": "A phone-calling plugin for OpenAI Dots",
-      "url": "https://www.producthunt.com/products/dots-phone?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 71,
-      "commentsCount": 1,
-      "createdAt": "2026-10-23T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/20c2c564-2958-4562-8611-feb3869a8888.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Open Source"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          },
-          {
-            "node": {
-              "name": "GitHub"
             }
           }
         ]
