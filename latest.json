@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-10-27T19:57:58.696Z",
+  "fetchedAt": "2026-10-27T23:42:21.274Z",
   "posts": [
     {
       "id": "1282708",
       "name": "TheySaid 4.0",
       "tagline": "See how users will react, right where you build.",
       "url": "https://www.producthunt.com/products/theysaid?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 296,
-      "commentsCount": 85,
+      "votesCount": 316,
+      "commentsCount": 90,
       "createdAt": "2026-10-27T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/36f833d8-2a72-4b85-b5af-1004e8189193.png?auto=format"
@@ -37,7 +37,7 @@
       "name": "Overmind",
       "tagline": "Open-source platform for continuous learning",
       "url": "https://www.producthunt.com/products/overmind-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 256,
+      "votesCount": 270,
       "commentsCount": 69,
       "createdAt": "2026-10-27T07:01:00Z",
       "thumbnail": {
@@ -68,8 +68,8 @@
       "name": "Orbit",
       "tagline": "Stop doomscrolling. Earn every app unlock.",
       "url": "https://www.producthunt.com/products/orbit-app-blocker?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 198,
-      "commentsCount": 33,
+      "votesCount": 206,
+      "commentsCount": 36,
       "createdAt": "2026-10-27T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/2ce8df6a-24f4-4ce0-830f-941410e1e889.gif?auto=format"
@@ -99,8 +99,8 @@
       "name": "Spacesheep",
       "tagline": "Documents of the future, made by AI, read by your team",
       "url": "https://www.producthunt.com/products/spacesheep?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 173,
-      "commentsCount": 18,
+      "votesCount": 181,
+      "commentsCount": 28,
       "createdAt": "2026-10-27T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/0474c731-b7eb-4b1f-9599-4ceaa433df42.svg?auto=format"
@@ -130,8 +130,8 @@
       "name": "SavorApp_AI",
       "tagline": "Capture what matters and move your intentions forward",
       "url": "https://www.producthunt.com/products/savor-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 134,
-      "commentsCount": 37,
+      "votesCount": 140,
+      "commentsCount": 48,
       "createdAt": "2026-10-27T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/e6ea0dff-dd50-4f36-8269-8aa16c29d3c3.png?auto=format"
@@ -140,17 +140,12 @@
         "edges": [
           {
             "node": {
-              "name": "Android"
-            }
-          },
-          {
-            "node": {
-              "name": "iOS"
-            }
-          },
-          {
-            "node": {
               "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Notes"
             }
           }
         ]
@@ -161,7 +156,7 @@
       "name": "Notra",
       "tagline": "Notra is a GEO tool that helps you rank in AI Search.",
       "url": "https://www.producthunt.com/products/notra-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 129,
+      "votesCount": 131,
       "commentsCount": 19,
       "createdAt": "2026-10-27T07:01:00Z",
       "thumbnail": {
@@ -192,7 +187,7 @@
       "name": "Nuvio 5.0",
       "tagline": "Hand your financial admin to your AI agent",
       "url": "https://www.producthunt.com/products/nuvio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 112,
+      "votesCount": 113,
       "commentsCount": 8,
       "createdAt": "2026-10-27T07:01:00Z",
       "thumbnail": {
@@ -219,42 +214,11 @@
       }
     },
     {
-      "id": "1293470",
-      "name": "iPad mini 8",
-      "tagline": "OLED, A20 Pro and IP67 in Apple's smallest iPad",
-      "url": "https://www.producthunt.com/products/apple?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 106,
-      "commentsCount": 2,
-      "createdAt": "2026-10-27T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/16332ec2-d8de-42fd-a078-583bebbae0c4.jpeg?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "iPad"
-            }
-          },
-          {
-            "node": {
-              "name": "Hardware"
-            }
-          },
-          {
-            "node": {
-              "name": "Apple"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1293889",
       "name": "PulseDev",
       "tagline": "Click any UI bug on localhost and your AI agent fixes it",
       "url": "https://www.producthunt.com/products/pulsedev?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 104,
+      "votesCount": 113,
       "commentsCount": 13,
       "createdAt": "2026-10-27T07:01:00Z",
       "thumbnail": {
@@ -281,11 +245,42 @@
       }
     },
     {
+      "id": "1293470",
+      "name": "iPad mini 8",
+      "tagline": "OLED, A20 Pro and IP67 in Apple's smallest iPad",
+      "url": "https://www.producthunt.com/products/apple?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 111,
+      "commentsCount": 2,
+      "createdAt": "2026-10-27T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/16332ec2-d8de-42fd-a078-583bebbae0c4.jpeg?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "iPad"
+            }
+          },
+          {
+            "node": {
+              "name": "Hardware"
+            }
+          },
+          {
+            "node": {
+              "name": "Apple"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1293408",
       "name": "Arcade Controller Pro",
       "tagline": "A fight controller with no stick and its own screen",
       "url": "https://www.producthunt.com/products/bluetooth-snes-controller?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 104,
+      "votesCount": 108,
       "commentsCount": 1,
       "createdAt": "2026-10-27T07:01:00Z",
       "thumbnail": {
@@ -311,7 +306,7 @@
       "name": "NuPlay",
       "tagline": "AI transformation, run on one self-improving platform",
       "url": "https://www.producthunt.com/products/nuplay?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 101,
+      "votesCount": 102,
       "commentsCount": 25,
       "createdAt": "2026-10-27T07:01:00Z",
       "thumbnail": {
@@ -342,7 +337,7 @@
       "name": "Off Grid AI",
       "tagline": "Private AI on your phone and computer. ",
       "url": "https://www.producthunt.com/products/off-grid-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 100,
+      "votesCount": 101,
       "commentsCount": 5,
       "createdAt": "2026-10-27T07:01:00Z",
       "thumbnail": {
@@ -388,8 +383,8 @@
       "name": "Paddock",
       "tagline": "Computers and sandboxes for your agents",
       "url": "https://www.producthunt.com/products/paddock-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 93,
-      "commentsCount": 5,
+      "votesCount": 98,
+      "commentsCount": 8,
       "createdAt": "2026-10-27T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/688fda80-17de-4c5b-bf43-d4c7d6af5882.svg?auto=format"
@@ -424,7 +419,7 @@
       "name": "Revix AI",
       "tagline": "AI code review that learns your repo's own rules",
       "url": "https://www.producthunt.com/products/revix-ai-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 93,
+      "votesCount": 95,
       "commentsCount": 5,
       "createdAt": "2026-10-27T07:01:00Z",
       "thumbnail": {
@@ -455,8 +450,8 @@
       "name": "fswitcher",
       "tagline": "fswitcher replaces Command-Tab on your Mac",
       "url": "https://www.producthunt.com/products/fswitcher?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 91,
-      "commentsCount": 9,
+      "votesCount": 94,
+      "commentsCount": 11,
       "createdAt": "2026-10-27T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/3e94c613-661a-45ff-9563-a173a0db1ebb.png?auto=format"
@@ -486,8 +481,8 @@
       "name": "OpenRadView",
       "tagline": "Free, open-source viewer for your own CT, MRI and X-rays",
       "url": "https://www.producthunt.com/products/openradview?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 90,
-      "commentsCount": 3,
+      "votesCount": 91,
+      "commentsCount": 5,
       "createdAt": "2026-10-27T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/36b276d8-3570-45e3-a987-43bed1366f2c.png?auto=format"
@@ -518,12 +513,33 @@
       }
     },
     {
+      "id": "1293926",
+      "name": "GPT-6.1 Terra",
+      "tagline": "Fast, capable computer use at half the price",
+      "url": "https://www.producthunt.com/products/openai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 81,
+      "commentsCount": 4,
+      "createdAt": "2026-10-27T07:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/5186f99a-ff75-4934-9a5e-9fcaa414025c.svg?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1286677",
       "name": "Coachare",
       "tagline": "Your potential. Unlocked.",
       "url": "https://www.producthunt.com/products/coachare?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 80,
-      "commentsCount": 1,
+      "votesCount": 81,
+      "commentsCount": 2,
       "createdAt": "2026-10-27T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/22dd5399-5e52-4f03-a9c2-4b6540e9446a.png?auto=format"
@@ -553,8 +569,8 @@
       "name": "NINX",
       "tagline": "Private On-device AI, connected tools, & creative workflows",
       "url": "https://www.producthunt.com/products/ninx-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 80,
-      "commentsCount": 3,
+      "votesCount": 81,
+      "commentsCount": 5,
       "createdAt": "2026-10-27T07:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/76005649-36b5-4f78-a689-83684d4859fe.png?auto=format"
@@ -584,7 +600,7 @@
       "name": "ContextGem 1.0",
       "tagline": "Decision models join LLMs to extract data from documents",
       "url": "https://www.producthunt.com/products/contextgem?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 78,
+      "votesCount": 79,
       "commentsCount": 3,
       "createdAt": "2026-10-27T07:01:00Z",
       "thumbnail": {
@@ -610,27 +626,6 @@
           {
             "node": {
               "name": "GitHub"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1293926",
-      "name": "GPT-6.1 Terra",
-      "tagline": "Fast, capable computer use at half the price",
-      "url": "https://www.producthunt.com/products/openai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 73,
-      "commentsCount": 3,
-      "createdAt": "2026-10-27T07:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/5186f99a-ff75-4934-9a5e-9fcaa414025c.svg?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Artificial Intelligence"
             }
           }
         ]
