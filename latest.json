@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-11-14T16:32:11.235Z",
+  "fetchedAt": "2026-11-14T21:14:26.523Z",
   "posts": [
     {
       "id": "1301510",
       "name": "HiringNow",
       "tagline": "AI job agent that finds & apply for jobs before anyone else.",
       "url": "https://www.producthunt.com/products/hiringnow?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 161,
-      "commentsCount": 16,
+      "votesCount": 213,
+      "commentsCount": 20,
       "createdAt": "2026-11-14T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/d7ed14d3-866f-467d-9320-b0a96855b181.svg?auto=format"
@@ -37,8 +37,8 @@
       "name": "Dex Semantics",
       "tagline": "Let your agent build analytics with 25% fewer errors",
       "url": "https://www.producthunt.com/products/dex-by-exmergo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 129,
-      "commentsCount": 21,
+      "votesCount": 154,
+      "commentsCount": 24,
       "createdAt": "2026-11-14T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/55ff92fa-d689-4108-9767-0590e91892b0.png?auto=format"
@@ -69,11 +69,42 @@
       }
     },
     {
+      "id": "1315068",
+      "name": "Businesses in ChatGPT",
+      "tagline": "Help customers discover your business through ChatGPT",
+      "url": "https://www.producthunt.com/products/openai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 147,
+      "commentsCount": 6,
+      "createdAt": "2026-11-14T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/0b57a8d9-319e-4e3f-83fa-b8141a299c60.svg?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Analytics"
+            }
+          },
+          {
+            "node": {
+              "name": "Marketing"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1314543",
       "name": "Gemini Robotics 2.5",
       "tagline": "Gemini Robotics 2.5: Google’s most capable robot model",
       "url": "https://www.producthunt.com/products/gemini-robotics-2-5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 122,
+      "votesCount": 134,
       "commentsCount": 2,
       "createdAt": "2026-11-14T08:01:00Z",
       "thumbnail": {
@@ -100,43 +131,12 @@
       }
     },
     {
-      "id": "1315068",
-      "name": "Businesses in ChatGPT",
-      "tagline": "Help customers discover your business through ChatGPT",
-      "url": "https://www.producthunt.com/products/openai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 112,
-      "commentsCount": 5,
-      "createdAt": "2026-11-14T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/0b57a8d9-319e-4e3f-83fa-b8141a299c60.svg?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Analytics"
-            }
-          },
-          {
-            "node": {
-              "name": "Marketing"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1314882",
       "name": "Blender 5.3",
       "tagline": "3D Gaussian splats, now native to Blender",
       "url": "https://www.producthunt.com/products/blender?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 107,
-      "commentsCount": 2,
+      "votesCount": 115,
+      "commentsCount": 4,
       "createdAt": "2026-11-14T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/1f54a614-315b-42b4-9a27-1c6bef1d2016.png?auto=format"
@@ -157,12 +157,43 @@
       }
     },
     {
+      "id": "1310337",
+      "name": "Uber Parking",
+      "tagline": "Find, compare and reserve parking inside the Uber app",
+      "url": "https://www.producthunt.com/products/uber?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 91,
+      "commentsCount": 2,
+      "createdAt": "2026-11-14T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/9569af37-10ce-4bc6-a414-94269060cfce.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Ridesharing"
+            }
+          },
+          {
+            "node": {
+              "name": "Travel"
+            }
+          },
+          {
+            "node": {
+              "name": "Maps"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1300330",
       "name": "Kokonut UI",
       "tagline": "Open-source UI components for your AI agent",
       "url": "https://www.producthunt.com/products/kokonutui?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 84,
-      "commentsCount": 1,
+      "votesCount": 88,
+      "commentsCount": 2,
       "createdAt": "2026-11-14T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/0327dacb-2b04-46e6-af7b-9949c415b8b9.svg?auto=format"
@@ -193,157 +224,12 @@
       }
     },
     {
-      "id": "1310689",
-      "name": "Drops",
-      "tagline": "Discover new music through moments your friends love",
-      "url": "https://www.producthunt.com/products/drops-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 84,
-      "commentsCount": 1,
-      "createdAt": "2026-11-14T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/b9c3d2ea-6502-493a-81de-1a4a0c46dccf.webp?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Music"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1288376",
-      "name": "MAP & GO!",
-      "tagline": "See your day on the map",
-      "url": "https://www.producthunt.com/products/expert-chase-deleted-1107920?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 82,
-      "commentsCount": 4,
-      "createdAt": "2026-11-14T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/e6757863-ed53-4c4b-a2cb-077a95d9941f.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          },
-          {
-            "node": {
-              "name": "Maps"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1310337",
-      "name": "Uber Parking",
-      "tagline": "Find, compare and reserve parking inside the Uber app",
-      "url": "https://www.producthunt.com/products/uber?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 81,
-      "commentsCount": 1,
-      "createdAt": "2026-11-14T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/9569af37-10ce-4bc6-a414-94269060cfce.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Ridesharing"
-            }
-          },
-          {
-            "node": {
-              "name": "Travel"
-            }
-          },
-          {
-            "node": {
-              "name": "Maps"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1305856",
-      "name": "Valutorio",
-      "tagline": "Your Markdown notes, native on Mac and iPhone",
-      "url": "https://www.producthunt.com/products/valutorio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 80,
-      "commentsCount": 8,
-      "createdAt": "2026-11-14T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/9b1fe6d3-8b52-49e7-abe0-3562545fa96f.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Mac"
-            }
-          },
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Notes"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1306959",
-      "name": "Replay",
-      "tagline": "Mac meeting recorder with no bot. Pay once, no subscription",
-      "url": "https://www.producthunt.com/products/replay-11?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 80,
-      "commentsCount": 5,
-      "createdAt": "2026-11-14T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/bf163e53-a6e5-4f4b-a89e-ac6ef2d77f9d.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Mac"
-            }
-          },
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Meetings"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1281561",
       "name": "CaptureFlow",
       "tagline": "Open-source screen recorder with instant share links",
       "url": "https://www.producthunt.com/products/captureflow?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 78,
-      "commentsCount": 6,
+      "votesCount": 87,
+      "commentsCount": 9,
       "createdAt": "2026-11-14T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/1e55612f-e74f-46ec-a234-f48ac7004033.png?auto=format"
@@ -374,12 +260,64 @@
       }
     },
     {
+      "id": "1310689",
+      "name": "Drops",
+      "tagline": "Discover new music through moments your friends love",
+      "url": "https://www.producthunt.com/products/drops-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 85,
+      "commentsCount": 1,
+      "createdAt": "2026-11-14T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/b9c3d2ea-6502-493a-81de-1a4a0c46dccf.webp?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Music"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1288376",
+      "name": "MAP & GO!",
+      "tagline": "See your day on the map",
+      "url": "https://www.producthunt.com/products/expert-chase-deleted-1107920?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 83,
+      "commentsCount": 4,
+      "createdAt": "2026-11-14T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/e6757863-ed53-4c4b-a2cb-077a95d9941f.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "Maps"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1310969",
       "name": "Antelog",
       "tagline": "Stops AI coding agents from leaking or destroying your data",
       "url": "https://www.producthunt.com/products/antelog?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 77,
-      "commentsCount": 14,
+      "votesCount": 83,
+      "commentsCount": 15,
       "createdAt": "2026-11-14T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/0a9b530b-41d8-4dc5-8e27-7ea4bf7e41a7.svg?auto=format"
@@ -405,11 +343,73 @@
       }
     },
     {
+      "id": "1305856",
+      "name": "Valutorio",
+      "tagline": "Your Markdown notes, native on Mac and iPhone",
+      "url": "https://www.producthunt.com/products/valutorio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 81,
+      "commentsCount": 9,
+      "createdAt": "2026-11-14T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/9b1fe6d3-8b52-49e7-abe0-3562545fa96f.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Mac"
+            }
+          },
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Notes"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1306959",
+      "name": "Replay",
+      "tagline": "Mac meeting recorder with no bot. Pay once, no subscription",
+      "url": "https://www.producthunt.com/products/replay-11?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 80,
+      "commentsCount": 6,
+      "createdAt": "2026-11-14T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/bf163e53-a6e5-4f4b-a89e-ac6ef2d77f9d.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Mac"
+            }
+          },
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Meetings"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1314364",
       "name": "inread.app",
       "tagline": "your newsletters, outside your inbox",
       "url": "https://www.producthunt.com/products/inread-app?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 75,
+      "votesCount": 78,
       "commentsCount": 4,
       "createdAt": "2026-11-14T08:01:00Z",
       "thumbnail": {
@@ -430,6 +430,37 @@
           {
             "node": {
               "name": "Newsletters"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1315230",
+      "name": "Tabletop by Google Labs",
+      "tagline": "Build interactive group experiences with AI.",
+      "url": "https://www.producthunt.com/products/google-labs?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 77,
+      "commentsCount": 2,
+      "createdAt": "2026-11-14T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/400e7e72-60e9-488b-9ddd-d45ae1334b02.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Productivity"
+            }
+          },
+          {
+            "node": {
+              "name": "Travel"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
             }
           }
         ]
@@ -467,31 +498,31 @@
       }
     },
     {
-      "id": "1315230",
-      "name": "Tabletop by Google Labs",
-      "tagline": "Build interactive group experiences with AI.",
-      "url": "https://www.producthunt.com/products/google-labs?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 73,
-      "commentsCount": 2,
+      "id": "1315082",
+      "name": "CodeMesh",
+      "tagline": "Cut AI coding costs by 90%",
+      "url": "https://www.producthunt.com/products/codemesh-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 71,
+      "commentsCount": 5,
       "createdAt": "2026-11-14T08:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/400e7e72-60e9-488b-9ddd-d45ae1334b02.png?auto=format"
+        "url": "https://ph-files.imgix.net/c8c1b900-c6d0-4f16-9f35-52cb5c12f1f2.svg?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "Productivity"
+              "name": "Software Engineering"
             }
           },
           {
             "node": {
-              "name": "Travel"
+              "name": "Developer Tools"
             }
           },
           {
             "node": {
-              "name": "Artificial Intelligence"
+              "name": "Vibe coding"
             }
           }
         ]
@@ -539,31 +570,21 @@
       }
     },
     {
-      "id": "1315082",
-      "name": "CodeMesh",
-      "tagline": "Cut AI coding costs by 90%",
-      "url": "https://www.producthunt.com/products/codemesh-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "id": "1312711",
+      "name": "Dynamic Edge",
+      "tagline": "The Dynamic Island for Windows",
+      "url": "https://www.producthunt.com/products/dynamic-edge?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
       "votesCount": 70,
-      "commentsCount": 2,
+      "commentsCount": 4,
       "createdAt": "2026-11-14T08:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/c8c1b900-c6d0-4f16-9f35-52cb5c12f1f2.svg?auto=format"
+        "url": "https://ph-files.imgix.net/aa7edfa4-a872-4bff-8054-48c634a28c8c.png?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "Software Engineering"
-            }
-          },
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Vibe coding"
+              "name": "Windows"
             }
           }
         ]
@@ -574,7 +595,7 @@
       "name": "ScreenGo",
       "tagline": "screen recorder for Mac with auto zooms and virtual webcam",
       "url": "https://www.producthunt.com/products/screengo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 69,
+      "votesCount": 70,
       "commentsCount": 1,
       "createdAt": "2026-11-14T08:01:00Z",
       "thumbnail": {
@@ -590,37 +611,6 @@
           {
             "node": {
               "name": "Video"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1306711",
-      "name": "Nexus",
-      "tagline": "One visual graph for all your projects",
-      "url": "https://www.producthunt.com/products/project-nexus-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 67,
-      "commentsCount": 2,
-      "createdAt": "2026-11-14T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/b1701137-b1de-4b72-9a86-2febbd92d8ed.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Productivity"
-            }
-          },
-          {
-            "node": {
-              "name": "Software Engineering"
-            }
-          },
-          {
-            "node": {
-              "name": "Developer Tools"
             }
           }
         ]
