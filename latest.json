@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-11-19T21:16:15.616Z",
+  "fetchedAt": "2026-11-20T02:54:40.393Z",
   "posts": [
     {
       "id": "1314645",
       "name": "TestSprite 4.0",
       "tagline": "Fix one thing, break another? This agent checks it all",
       "url": "https://www.producthunt.com/products/testsprite?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 268,
-      "commentsCount": 35,
+      "votesCount": 286,
+      "commentsCount": 40,
       "createdAt": "2026-11-19T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/9279be6d-64f3-4c05-b0a9-6c9ac0f5f814.gif?auto=format"
@@ -38,11 +38,42 @@
       }
     },
     {
+      "id": "1311952",
+      "name": "Netlify Server",
+      "tagline": "Run WebSockets, multiplayer apps, and long-running agents",
+      "url": "https://www.producthunt.com/products/netlify?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 255,
+      "commentsCount": 19,
+      "createdAt": "2026-11-19T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/bf391ec5-9490-4c9b-9ad1-452a43fd1fa8.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "SaaS"
+            }
+          },
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1320414",
       "name": "Verse Engine by Ctruh",
       "tagline": "Blender, Unity or Unreal to a live 3D link in one click",
       "url": "https://www.producthunt.com/products/verse-engine-by-ctruh?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 238,
+      "votesCount": 252,
       "commentsCount": 56,
       "createdAt": "2026-11-19T08:01:00Z",
       "thumbnail": {
@@ -69,43 +100,12 @@
       }
     },
     {
-      "id": "1311952",
-      "name": "Netlify Server",
-      "tagline": "Run WebSockets, multiplayer apps, and long-running agents",
-      "url": "https://www.producthunt.com/products/netlify?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 220,
-      "commentsCount": 17,
-      "createdAt": "2026-11-19T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/bf391ec5-9490-4c9b-9ad1-452a43fd1fa8.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "SaaS"
-            }
-          },
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1312482",
       "name": "Stripo Email Widgets",
       "tagline": "Put a game, quiz or survey in your next email. No coding",
       "url": "https://www.producthunt.com/products/stripo-email?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 211,
-      "commentsCount": 133,
+      "votesCount": 226,
+      "commentsCount": 137,
       "createdAt": "2026-11-19T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/15d70099-307f-4004-9561-a7ff6ee13a92.png?auto=format"
@@ -131,43 +131,12 @@
       }
     },
     {
-      "id": "1318828",
-      "name": "Spellar for Chrome",
-      "tagline": "Free, no-bot meeting notes with memory, now in your browser",
-      "url": "https://www.producthunt.com/products/spellar?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 179,
-      "commentsCount": 37,
-      "createdAt": "2026-11-19T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/0ae5abf1-413d-4f26-9d49-8dacb79092b7.gif?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Chrome Extensions"
-            }
-          },
-          {
-            "node": {
-              "name": "Notes"
-            }
-          },
-          {
-            "node": {
-              "name": "Meetings"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1322288",
       "name": "Adside",
       "tagline": "A team of specialized AI agents that manage paid ads for you",
       "url": "https://www.producthunt.com/products/adside?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 177,
-      "commentsCount": 44,
+      "votesCount": 203,
+      "commentsCount": 48,
       "createdAt": "2026-11-19T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/438017da-57a1-470b-acd2-cf2e178058b3.png?auto=format"
@@ -198,12 +167,69 @@
       }
     },
     {
+      "id": "1318828",
+      "name": "Spellar for Chrome",
+      "tagline": "Free, no-bot meeting notes with memory, now in your browser",
+      "url": "https://www.producthunt.com/products/spellar?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 185,
+      "commentsCount": 41,
+      "createdAt": "2026-11-19T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/0ae5abf1-413d-4f26-9d49-8dacb79092b7.gif?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Chrome Extensions"
+            }
+          },
+          {
+            "node": {
+              "name": "Notes"
+            }
+          },
+          {
+            "node": {
+              "name": "Meetings"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1310799",
+      "name": "Manufact",
+      "tagline": "Ship and test your MCP to every plugin marketplace",
+      "url": "https://www.producthunt.com/products/manufact?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 183,
+      "commentsCount": 53,
+      "createdAt": "2026-11-19T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/c38ad9e9-765c-4738-b92c-e0636ba082c4.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Developer Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1319464",
       "name": "Tabstack by Mozilla",
       "tagline": "Give your model the web without giving up your privacy",
       "url": "https://www.producthunt.com/products/tabstack?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 168,
-      "commentsCount": 15,
+      "votesCount": 179,
+      "commentsCount": 18,
       "createdAt": "2026-11-19T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/e5eab6cd-92a0-4bfa-b8b6-1ca8fddc7097.jpeg?auto=format"
@@ -229,38 +255,12 @@
       }
     },
     {
-      "id": "1310799",
-      "name": "Manufact",
-      "tagline": "Ship and test your MCP to every plugin marketplace",
-      "url": "https://www.producthunt.com/products/manufact?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 166,
-      "commentsCount": 48,
-      "createdAt": "2026-11-19T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/c38ad9e9-765c-4738-b92c-e0636ba082c4.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Developer Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1310284",
       "name": "Teaflask",
       "tagline": "Self-improving AI copilot for your app. No backend changes.",
       "url": "https://www.producthunt.com/products/teaflask?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 150,
-      "commentsCount": 10,
+      "votesCount": 156,
+      "commentsCount": 13,
       "createdAt": "2026-11-19T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/ae3ae051-6008-4554-a38f-7513def17882.png?auto=format"
@@ -295,7 +295,7 @@
       "name": "Gemini 4 Neon",
       "tagline": "Frontier reasoning with faster task completion",
       "url": "https://www.producthunt.com/products/gemini-6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 131,
+      "votesCount": 137,
       "commentsCount": 2,
       "createdAt": "2026-11-19T08:01:00Z",
       "thumbnail": {
@@ -321,7 +321,7 @@
       "name": "Wispr Flow Notetaker for iPhone",
       "tagline": "Free AI meeting notes, wherever work takes you",
       "url": "https://www.producthunt.com/products/wisprflow?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 109,
+      "votesCount": 122,
       "commentsCount": 7,
       "createdAt": "2026-11-19T08:00:00Z",
       "thumbnail": {
@@ -347,7 +347,7 @@
       "name": "Cleared",
       "tagline": "Your personal plan to give up vapes, pouches and cigarettes",
       "url": "https://www.producthunt.com/products/cleared-quit-nicotine?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 98,
+      "votesCount": 101,
       "commentsCount": 11,
       "createdAt": "2026-11-19T08:01:00Z",
       "thumbnail": {
@@ -378,8 +378,8 @@
       "name": "Enrichable by Context.dev",
       "tagline": "Open-source AI spreadsheet for data enrichment",
       "url": "https://www.producthunt.com/products/context-dev?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 94,
-      "commentsCount": 2,
+      "votesCount": 99,
+      "commentsCount": 3,
       "createdAt": "2026-11-19T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/6dbce3c0-d742-4b3c-a603-107c2bb7849c.svg?auto=format"
@@ -410,11 +410,42 @@
       }
     },
     {
+      "id": "1221588",
+      "name": "Impractical",
+      "tagline": "Make launch videos in the style of Framer, Notion, and more",
+      "url": "https://www.producthunt.com/products/impractical?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 95,
+      "commentsCount": 4,
+      "createdAt": "2026-11-19T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/8ffb7a88-f6fe-4632-a724-dfb029376ea2.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Design Tools"
+            }
+          },
+          {
+            "node": {
+              "name": "Animation"
+            }
+          },
+          {
+            "node": {
+              "name": "Video"
+            }
+          }
+        ]
+      }
+    },
+    {
       "id": "1322382",
       "name": "ToolJet",
       "tagline": "Vibe-coded business apps that pass the security review",
       "url": "https://www.producthunt.com/products/tooljet?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 91,
+      "votesCount": 92,
       "commentsCount": 2,
       "createdAt": "2026-11-19T08:01:00Z",
       "thumbnail": {
@@ -451,43 +482,12 @@
       }
     },
     {
-      "id": "1221588",
-      "name": "Impractical",
-      "tagline": "Make launch videos in the style of Framer, Notion, and more",
-      "url": "https://www.producthunt.com/products/impractical?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 91,
-      "commentsCount": 1,
-      "createdAt": "2026-11-19T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/8ffb7a88-f6fe-4632-a724-dfb029376ea2.png?auto=format"
-      },
-      "topics": {
-        "edges": [
-          {
-            "node": {
-              "name": "Design Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Animation"
-            }
-          },
-          {
-            "node": {
-              "name": "Video"
-            }
-          }
-        ]
-      }
-    },
-    {
       "id": "1322266",
       "name": "mio click",
       "tagline": "A fidget that's also a friend",
       "url": "https://www.producthunt.com/products/mio-click?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 89,
-      "commentsCount": 3,
+      "votesCount": 91,
+      "commentsCount": 4,
       "createdAt": "2026-11-19T08:00:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/launch-image-uploads/b763fd07-9e28-4b8b-ae27-58c436c13589/5ca58d886197e98c10f097c68c1400414d3fcaa18aab2e07046f23a3635ba217.gif?auto=format"
@@ -517,8 +517,8 @@
       "name": "Meilisearch Searchandising",
       "tagline": "Pin, boost, hide and personalize search results",
       "url": "https://www.producthunt.com/products/meilisearch-cloud?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 89,
-      "commentsCount": 10,
+      "votesCount": 90,
+      "commentsCount": 11,
       "createdAt": "2026-11-19T08:01:00Z",
       "thumbnail": {
         "url": "https://ph-files.imgix.net/50a2a28f-b1a1-4fbc-bd1d-82c60ed91baa.png?auto=format"
@@ -538,6 +538,32 @@
           {
             "node": {
               "name": "Search"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "1321617",
+      "name": "HeyGen Avatar 6",
+      "tagline": "AI Avatar Model That Looks Like You",
+      "url": "https://www.producthunt.com/products/heygen?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 89,
+      "commentsCount": 7,
+      "createdAt": "2026-11-19T08:01:00Z",
+      "thumbnail": {
+        "url": "https://ph-files.imgix.net/b8873993-7b32-41f6-a180-c85980eef5af.png?auto=format"
+      },
+      "topics": {
+        "edges": [
+          {
+            "node": {
+              "name": "Artificial Intelligence"
+            }
+          },
+          {
+            "node": {
+              "name": "Photo & Video"
             }
           }
         ]
@@ -575,44 +601,23 @@
       }
     },
     {
-      "id": "1321617",
-      "name": "HeyGen Avatar 6",
-      "tagline": "AI Avatar Model That Looks Like You",
-      "url": "https://www.producthunt.com/products/heygen?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 84,
-      "commentsCount": 7,
+      "id": "1319325",
+      "name": "The Calm Creator Mastermind",
+      "tagline": "For solopreneurs who are tired of being solo.",
+      "url": "https://www.producthunt.com/products/the-calm-creator-mastermind?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
+      "votesCount": 83,
+      "commentsCount": 4,
       "createdAt": "2026-11-19T08:01:00Z",
       "thumbnail": {
-        "url": "https://ph-files.imgix.net/b8873993-7b32-41f6-a180-c85980eef5af.png?auto=format"
+        "url": "https://ph-files.imgix.net/93918ad3-4092-498d-9124-74756f33e0bb.png?auto=format"
       },
       "topics": {
         "edges": [
           {
             "node": {
-              "name": "Artificial Intelligence"
+              "name": "Health & Fitness"
             }
           },
-          {
-            "node": {
-              "name": "Photo & Video"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": "1321708",
-      "name": "Fieldwork Code",
-      "tagline": "AI coding on your laptop or in the cloud, from your phone",
-      "url": "https://www.producthunt.com/products/fieldwork-code?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+snapshot+%28ID%3A+184942%29",
-      "votesCount": 81,
-      "commentsCount": 11,
-      "createdAt": "2026-11-19T08:01:00Z",
-      "thumbnail": {
-        "url": "https://ph-files.imgix.net/ec0320f4-e12f-4b51-8d32-02dce53850c6.png?auto=format"
-      },
-      "topics": {
-        "edges": [
           {
             "node": {
               "name": "Productivity"
@@ -620,12 +625,7 @@
           },
           {
             "node": {
-              "name": "Developer Tools"
-            }
-          },
-          {
-            "node": {
-              "name": "Artificial Intelligence"
+              "name": "Community"
             }
           }
         ]
